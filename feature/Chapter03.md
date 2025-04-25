@@ -113,9 +113,9 @@
 
 | User Story ID | Título                     | Descripción                                                                                                                                                    |
 |---------------|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| US31          | Monitoreo de signos vitales | Como dueño de mascotas o veterinario, quiero integrar dispositivos IoT para monitorear la salud de las mascotas en tiempo real.|
-| US32          | Acceso remoto a datos de salud | Como veterinario, quiero visualizar los datos históricos de dispositivos IoT (actividad, sueño, ingesta de agua) para diagnosticar patrones anormales en mis pacientes.|
-| US32          | Configuración de umbrales de alerta | Como médico veterinario, quiero definir umbrales personalizados (ej: fiebre >39°C) para que el sistema envíe notificaciones automáticas a dueños y veterinarios.|
+| US33          | Monitoreo de signos vitales | Como dueño de mascotas o veterinario, quiero integrar dispositivos IoT para monitorear la salud de las mascotas en tiempo real.|
+| US34          | Acceso remoto a datos de salud | Como veterinario, quiero visualizar los datos históricos de dispositivos IoT (actividad, sueño, ingesta de agua) para diagnosticar patrones anormales en mis pacientes.|
+| US35          | Configuración de umbrales de alerta | Como médico veterinario, quiero definir umbrales personalizados (ej: fiebre >39°C) para que el sistema envíe notificaciones automáticas a dueños y veterinarios.|
 
 ---
 
@@ -161,7 +161,7 @@ Como administrador, deseo gestionar los usuarios para asegurar que solo personas
 Como usuario, deseo recuperar mi contraseña en caso de olvidarla para no perder el acceso a mi cuenta.
 
 ### Criterios de Aceptación:
-- - **Escenario 1:** El usuario desea restablecer su contraseña  
+- **Escenario 1:** El usuario desea restablecer su contraseña  
   - **Dado que** el usuario ha olvidado su contraseña y accede a la sección de recuperación,  
   - **Cuando** introduce su correo electrónico registrado y solicita restablecerla,  
   - **Entonces** el sistema debe enviar un mensaje al correo con un enlace para crear una nueva contraseña.
@@ -483,7 +483,65 @@ Como administrador o doctor veterinario, deseo actualizar el historial médico d
   - **Cuando** ingreso al historial médico de una mascota que ha sido editado anteriormente,  
   - **Entonces** el sistema debe permitir visualizar un registro detallado de todas las modificaciones, incluyendo las fechas y quién realizó cada cambio.
 
+---
+
+## US33: Monitoreo de signos vitales
+**Relacionado con (Epic ID):** EP09
+
+**Descripción:** 
+Como dueño de mascotas o veterinario, quiero integrar dispositivos IoT para monitorear la salud de las mascotas en tiempo real.
+
+### Criterios de Aceptación:
+- **Escenario 1:** Visualización de datos en tiempo real  
+  - **Dado que** un dispositivo IoT está conectado al sistema,  
+  - **Cuando** el dispositivo envía datos de signos vitales (ej: frecuencia cardíaca, temperatura),  
+  - **Entonces** el sistema debe mostrarlos en un panel actualizado cada 5 segundos.  
+
+- **Escenario 2:** Conexión fallida de dispositivo  
+  - **Dado que** el dispositivo IoT pierde conexión,  
+  - **Cuando** el sistema detecta la desconexión por más de 10 segundos,  
+  - **Entonces** debe mostrar una alerta al usuario y registrar el evento en el historial.  
+
   ---
+
+  ## US34: Acceso remoto a datos de salud
+**Relacionado con (Epic ID):** EP09
+
+**Descripción:** 
+Como veterinario, quiero visualizar los datos históricos de dispositivos IoT (actividad, sueño, ingesta de agua) para diagnosticar patrones anormales en mis pacientes.
+
+### Criterios de Aceptación:
+### Escenarios:  
+- **Escenario 1:** Consulta de historial completo  
+  - **Dado que** el veterinario selecciona una mascota y un rango de fechas,  
+  - **Cuando** solicita el historial de salud (ej: últimos 7 días),  
+  - **Entonces** el sistema debe mostrar gráficos y tablas con los datos almacenados.  
+
+- **Escenario 2:** Filtrado de datos por métrica  
+  - **Dado que** el veterinario necesita analizar solo la ingesta de agua,  
+  - **Cuando** aplica un filtro para esa métrica específica,  
+  - **Entonces** el sistema debe ocultar los datos no relevantes y resaltar tendencias anormales.
+
+---
+
+## US35: Configuración de umbrales de alerta
+**Relacionado con (Epic ID):** EP09
+
+**Descripción:** 
+Como médico veterinario, quiero definir umbrales personalizados (ej: fiebre >39°C) para que el sistema envíe notificaciones automáticas a dueños y veterinarios.
+
+### Criterios de Aceptación:
+- **Escenario 1:** Creación de un umbral personalizado  
+  - **Dado que** el veterinario accede a la configuración de alertas,  
+  - **Cuando** define un nuevo umbral (ej: temperatura >39°C para perros),  
+  - **Entonces** el sistema debe guardar la regla y aplicarla a las mascotas asociadas.  
+
+- **Escenario 2:** Notificación por umbral excedido  
+  - **Dado que** se ha configurado un umbral para "actividad física <30min/día",  
+  - **Cuando** el dispositivo reporta un valor inferior,  
+  - **Entonces** el sistema debe enviar una notificación push y por correo al dueño y veterinario. 
+
+---
 
 ## 3.3. Impact Mapping.
 
@@ -732,6 +790,27 @@ Asimismo, utilizamos la herramienta “Planning Poker Online” para poder votar
       <td>US32</td>
       <td>Integración con sistemas externos</td>
       <td>Como administrador, quiero conectar la plataforma con servicios externos para ampliar su funcionalidad.</td>
+      <td>8</td>
+    </tr>
+      <tr>
+      <td>33</td>
+      <td>US33</td>
+      <td>Monitoreo de signos vitales</td>
+      <td>Como dueño de mascotas o veterinario, quiero integrar dispositivos IoT para monitorear la salud de las mascotas en tiempo real.</td>
+      <td>5</td>
+    </tr>
+      <tr>
+      <td>34</td>
+      <td>US34</td>
+      <td>Acceso remoto a datos de salud</td>
+      <td>Como veterinario, quiero visualizar los datos históricos de dispositivos IoT (actividad, sueño, ingesta de agua) para diagnosticar patrones anormales en mis pacientes.</td>
+      <td>3</td>
+    </tr>
+      <tr>
+      <td>35</td>
+      <td>US35</td>
+      <td>Configuración de umbrales de alerta</td>
+      <td>Como médico veterinario, quiero definir umbrales personalizados (ej: fiebre >39°C) para que el sistema envíe notificaciones automáticas a dueños y veterinarios.</td>
       <td>8</td>
     </tr>
   </tbody>

@@ -380,7 +380,7 @@ Dashboard del usuario
 
 Listado, registro, confirmación de registro y descarga de historial clínico
 
-![m_medical_hist_mo.png](assets/Chapter04/m_medical_hist_mo.png)
+![m_medical_hist_mo.jpeg](assets/Chapter04/m_medical_hist_mo.jpeg)
 
 Listado, búsqueda, registro, edición y eliminación de clientes
 
@@ -495,7 +495,7 @@ Registro e inicio de sesion
 
 Listado, búsqueda, registro, edición y eliminación de clientes.
 
-![CRUD_clientes_mo.png](assets/Chapter04/CRUD_clientes_mo.png)
+![CRUD_clientes_mo.jpeg](assets/Chapter04/CRUD_clientes_mo.jpeg)
 
 Listado, búsqueda, registro, edición y eliminación de historial medico.
 
@@ -507,7 +507,7 @@ notificaciones.
 
 Dashboard del usuario
 
-![dashboard_mo.png](assets/Chapter04/dashboard_mo.png)
+![dashboard_mo.jpeg](assets/Chapter04/dashboard_mo.jpeg)
 
 Listado, búsqueda, registro, edición y eliminación de mascotas.
 

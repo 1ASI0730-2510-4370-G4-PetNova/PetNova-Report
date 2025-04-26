@@ -239,24 +239,47 @@ En este proyecto, hemos decidido interactuar con posibles usuarios mediante entr
 
 - **Segmento Objetivo 1 - Médicos Veterinarios**
 
-<img src="" alt="" style="width: 600px; height: auto;" ><br>
+<img src="./assets/Chapter02/User_Persona_Vanesa.png" alt="User Persona 1" style="width: 600px; height: auto;" ><br>
 
 
 - **Segmento Objetivo 2 - Dueños de Mascotas**
 
-<img src="" alt="" style="width: 600px; height: auto;" ><br>
+<img src="./assets/Chapter02/User_Persona_Milagros.png" alt="User Persona 2" style="width: 600px; height: auto;" ><br>
 
 
 ### 2.3.2. User Task Matrix.
 
 ***Segmento 1: Médicos Veterinarios***
 
+|**Vanesa Lopez**|||
+| :-: | :- | :- |
+| Actividades | Frecuencia | Importancia |
+| Desarrollar y actualizar constantemente los historiales clínicos de pacientes. | Alta | Alta |
+| Completar información requerida en el sistema informático. | Alta | Alta |
+| Consultar y localizar expedientes médicos de las mascotas. | Alta | Alta |
+| Coordinar y gestionar las visitas veterinarias. | Media | Alta |
+| Almacenar y clasificar la documentación médica. | Media | Media |
+| Resolver inconvenientes relacionados con la claridad y pérdida de documentos. | Media | Alta |
+| Mejorar la productividad en los procesos documentales. | Media | Alta |
+| Brindar servicio al cliente de manera expedita y efectiva. | Alta | Alta |
 
+---
+---
 
 ***Segmento 2: Dueños de Mascotas***
 
-
+|**Milagros Mateo**|||
+| :-: | :- | :- |
+|**Actividades**|**Frecuencia**|**Importancia**|
+|Llevar a sus animales de compañía a consultas veterinarias.|Alta|Alta|
+|Programar y gestionar citas con el veterinario.|Alta|Alta|
+|Organizar y mantener al día los registros médicos de sus mascotas.|Alta|Alta|
+|Revisar los expedientes veterinarios de sus animales.|Media|Alta|
+|Cambiar de clínica veterinaria si es necesario.|Baja|Media|
+|Actuar con prontitud en situaciones de urgencia médica.|Media|Alta|
+|Almacenar y hacer copias de seguridad de los registros médicos en formato físico y digital.|Alta|Alta|
 ---
+
 
 
 

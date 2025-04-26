@@ -275,6 +275,27 @@ Crear una experiencia de usuario efectiva en aplicaciones web requiere planifica
 
 
 ## 4.5. Web Applications Prototyping
+
+En esta sección se realizó la navegación para mostrar los user flows de nuestra aplicación web
+
+Para el diseño de los prototipos de la interfaz de usuario para Desktop y Mobile Web Browser, se tomaron en cuenta varios principios clave:
+
+1. Claridad y Simplicidad: Se buscó que la navegación fuera fácil e intuitiva, permitiendo a los usuarios comprender rápidamente las funcionalidades, como el registro de procesos y la visualización de informes estadísticos.
+
+2. Diseño Responsivo: Se garantizó que la aplicación web fuera adaptable a diferentes tamaños de pantalla, permitiendo su acceso sin restricciones, sin importar el dispositivo utilizado.
+
+3. Prioridad a la Información Relevante: El diseño se centró en mostrar la información más importante para los usuarios del segmento objetivo, evitando saturar la interfaz con detalles innecesarios
+
+![Prototype.jpeg](assets/Chapter04/Prototype.jpeg)
+
+
+Video del prototipo):
+
+Enlace del prototipo (vista del cliente) : https://www.figma.com/design/XjI2alaHmyFV0MPlaPpxzO/Web-design?node-id=300-149&t=aGzgk6GCBuWJqZho-1
+
+Enlace del prototipo (vista del veterinario) : https://www.figma.com/design/XjI2alaHmyFV0MPlaPpxzO/Web-design?node-id=325-1279&t=FneTAGfdXkLo3c8Q-1
+
+
 ## 4.6. Domain-Driven Software Architecture
 
 Este enfoque resalta la importancia de comprender profundamente el dominio del negocio para el cual se desarrolla el software. Su objetivo es diseñar soluciones alineadas de manera precisa con las necesidades y particularidades del negocio, garantizando que el sistema aporte verdadero valor y responda eficazmente a sus requerimientos.

@@ -191,6 +191,46 @@ La **Landing Page** cumple la función de atraer la atención del usuario y diri
 En este apartado, se analizará el diseño de su interfaz, haciendo énfasis en los componentes esenciales que optimizan la experiencia del usuario y contribuyen a construir una página atractiva, funcional y fácil de usar.
 
 ### 4.3.1. Landing Page Wireframe
+El **wireframe** de la landing page de **PetNova** representa la estructura base sobre la que se construirá el diseño final, permitiendo visualizar la disposición de cada sección y la experiencia del usuario de manera ordenada. La página estará compuesta por los siguientes bloques:
+
+**Encabezado Principal:**  
+Incluye el logo de PetNova, un menú de navegación simple, y una imagen principal donde se destaca el propósito de la marca: cuidar la salud y bienestar de las mascotas. Un breve mensaje de bienvenida y un botón de llamada a la acción (CTA) invitan a conocer más.
+
+**¿Por qué elegirnos?:**  
+Una sección de fondo sólido donde se resumen las principales razones para confiar en PetNova, apoyadas en imágenes pequeñas y texto breve que destaca nuestros valores y ventajas competitivas.
+
+**Planes de Suscripción:**  
+Mostramos tres opciones principales de servicios para mascotas, cada una presentada en una tarjeta visual, con nombre, imagen, descripción breve y un botón para más información o contratación.
+
+**Nuestros Aliados:**  
+Un bloque con los logos de marcas reconocidas en el sector veterinario, demostrando el respaldo y la calidad de los productos y servicios que ofrecemos.
+
+**Testimonios de Clientes:**  
+Sección de tres columnas donde mostramos experiencias reales de nuestros clientes, acompañadas de imágenes y citas cortas, reforzando la confianza de nuevos visitantes.
+
+**Invitación para Veterinarios:**  
+Una llamada especial para que veterinarios se unan a PetNova, con imagen destacada, texto motivador y un botón de contacto.
+
+**Preguntas Frecuentes (FAQ):**  
+Despejamos las dudas más comunes mediante una sección de preguntas y respuestas rápidas, haciendo que el usuario encuentre información relevante sin dificultad.
+
+**Formulario de Contacto:**  
+Un formulario sencillo y visible para que los usuarios puedan enviar sus consultas, suscribirse o solicitar información adicional de manera rápida y cómoda.
+
+**Pie de Página:**  
+Sección final con datos de contacto, accesos a redes sociales, mapa de navegación básico y un pequeño recordatorio de nuestra misión: “Comprometidos con la vida y felicidad de las mascotas”.
+
+### Imágenes:
+
+1. ![](assets/Chapter04/WLPAGE_V1.png)
+2. ![](assets/Chapter04/WLPAGE_V2.png)
+3. ![](assets/Chapter04/WLPAGE_V3.png)
+4. ![](assets/Chapter04/WLPAGE_V4.png)
+5. ![](assets/Chapter04/WLPAGE_V5.png)
+6. ![](assets/Chapter04/WLPAGE_V6.png)
+7. ![](assets/Chapter04/WLPAGE_V7.png)
+8. ![](assets/Chapter04/WLPAGE_V8.png)
+
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
 

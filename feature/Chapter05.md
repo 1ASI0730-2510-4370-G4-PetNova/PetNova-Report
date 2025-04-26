@@ -343,8 +343,15 @@ https://1asi0730-2510-4370-g4-petnova.github.io/Landing-Page-NovaPet/
 
 #### **5.2.1.3. Sprint Backlog 1**
 En el primer sprint, el equipo enfocó su trabajo en crear una landing page que fuera tanto funcional como atractiva, asignando las tareas en el tablero de Sprint según las habilidades de cada miembro.
-
-
+| **id**  | **Title**                              | **Id**  | **Title**                                | **Description**                                                                                                      | **Estimations(Hours)** | **Assigned To**          | **Status(To-do/InProcess/ToReview/Done)** |
+|---------|-----------------------------------------|---------|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------|-------------------------|-------------------------|------------------------------------------------------|
+| **US17** | Barra de Navegación en la Landing Page | **TS01** | Barra de navegación con enlaces           | Implementación de la barra de navegación con enlaces a "¿Cómo funciona?", "Casos de éxito", "Planes" y "Contactos".   | 4                       | **Bastidas Bastidas, Diego Martin**            | Done                                                |
+| **US18** | Sección "Why Choose Us?"               | **TS02** | Testimonios de influencers                | Desarrollo de la sección de testimonios de influencers con citas y fotos de los influencers destacados.               | 3                       | **Belahonia Miranda, Fabrisio**    | Hecho                                                 |
+| **US19** | Gestión de Suscripciones               | **TS03** | Planes de suscripción                     | Desarrollo de la sección de planes de suscripción con detalles de precios y características de cada plan.            | 5                       | **Choquehuanca Núñez, Luciana Carolina**          | Done                                                |
+| **US20** | Reseñas de Clientes                    | **TS04** | Revisión de testimonios de clientes       | Desarrollo de la sección de reseñas de clientes con citas de usuarios que han utilizado la plataforma.               | 4                       | **Escobar Palomino, Sebastian Matias**          | Done                                                |
+| **US21** | Formulario de Contacto                 | **TS05** | Envío de mensajes de contacto             | Implementación de un formulario de contacto en la página de aterrizaje para que los usuarios puedan comunicarse.     | 3                       | **Escobar Palomino, Sebastian Matias**            | Done                                                 |
+| **US22** | Videos en la Sección de Características | **TS06** | Visualización de Videos Informativos      | Desarrollo de la sección para visualizar videos que muestren las características y funcionalidades de PetNova.        | 3                       | **Prado Vargas, Mario Benjamín**            | Done                                                 |
+| **US23** | Cambio de Idioma en la App Web         | **TS07** | Funcionalidad de cambio de idioma         | Implementación de la funcionalidad para permitir a los usuarios cambiar el idioma de la página entre español e inglés.| 4                       | **Prado Vargas, Mario Benjamín**          | Done                                                |
 
 
 #### **5.2.1.4. Development Evidence for Sprint Review**

@@ -276,6 +276,28 @@ User Goal: Gestionar Historial medico
 
 ### 4.4.3. Web Applications Mock-ups
 
+Listado de mascotas
+
+![mascota_list.png](assets/Chapter04/mascota_list.png)
+
+Busqueda de mascotas
+
+![mascota_search.png](assets/Chapter04/mascota_search.png)
+
+Registro de mascotas
+
+![mascota_post.png](assets/Chapter04/mascota_post.png)
+
+Edición del perfil de la mascota
+
+![mascota_put.png](assets/Chapter04/mascota_put.png)
+
+Eliminacion de mascota
+
+![mascota_delete.png](assets/Chapter04/mascota_delete.png)
+
+
+
 
 ### 4.4.4. Web Applications User Flow Diagrams
 

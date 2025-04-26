@@ -294,9 +294,38 @@ Edición del perfil de la mascota
 
 Eliminacion de mascota
 
+![cliente_delete.png](assets/Chapter04/cliente_delete.png)
+
+-------
+
+Listado de clientes
+
+![cliente_list.png](assets/Chapter04/cliente_list.png)
+
+Busqueda de clientes
+
+![cliente_search.png](assets/Chapter04/cliente_search.png)
+
+Registro de clientes
+
+![cliente_post.png](assets/Chapter04/cliente_post.png)
+
+Edición del perfil del cliente
+
+![cliente_put.png](assets/Chapter04/cliente_put.png)
+
+Eliminacion de clientes
+
 ![mascota_delete.png](assets/Chapter04/mascota_delete.png)
 
 
+--------------
+
+notificaciones
+
+![noti.png](assets/Chapter04/noti.png)
+
+--------------
 
 
 ### 4.4.4. Web Applications User Flow Diagrams

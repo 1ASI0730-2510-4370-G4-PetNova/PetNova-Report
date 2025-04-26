@@ -368,6 +368,23 @@ Descarga de historial clinico
 
 -------------
 
+dashboard
+
+![dashboard_wire.png](assets/Chapter04/dashboard_wire.png)
+
+Registro de perfil
+
+![perfil_edit_wire.png](assets/Chapter04/perfil_edit_wire.png)
+
+Edición del perfil del perfil
+
+![perfil_edit_wire.png](assets/Chapter04/perfil_edit_wire.png)
+
+Eliminacion de perfil  
+
+![perfil_delete_wire.png](assets/Chapter04/perfil_delete_wire  .png)
+
+
 ## movil:
 
 Listado, búsqueda, registro, edición y eliminación de mascotas
@@ -489,6 +506,26 @@ Descarga de historial clinico
 ![hist_download.png](assets/Chapter04/hist_download.png)
 
 -------------
+
+Muestra de perfil
+
+![perfil_list.png](assets/Chapter04/perfil_list.png)
+
+
+Edición del perfil del perfil
+
+![perfil_edit.png](assets/Chapter04/perfil_edit.png)
+
+Eliminacion de perfil
+
+![perfil_delete.png](assets/Chapter04/perfil_delete.png)
+
+-----
+
+Dashboard
+
+![dashboard.png](assets/Chapter04/dashboard.png)
+
 ## Movil
 
 Registro e inicio de sesion  

@@ -312,7 +312,7 @@ Registro de historial clinico
 
 Confirmacion de registro de historial clinico
   
-![m_hist_confirm.jpeg](assets/Chapter04/m_hist_confirm.jpeg)
+![m_hist_confirm.png](assets/Chapter04/m_hist_confirm.png)
 
 Descarga de historial clinico
 

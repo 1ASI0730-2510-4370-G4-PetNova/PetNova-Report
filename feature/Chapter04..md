@@ -222,14 +222,36 @@ Sección final con datos de contacto, accesos a redes sociales, mapa de navegaci
 
 ### Imágenes:
 
-1. ![](assets/Chapter04/WLPAGE_V1.png)
-2. ![](assets/Chapter04/WLPAGE_V2.png)
-3. ![](assets/Chapter04/WLPAGE_V3.png)
-4. ![](assets/Chapter04/WLPAGE_V4.png)
-5. ![](assets/Chapter04/WLPAGE_V5.png)
-6. ![](assets/Chapter04/WLPAGE_V6.png)
-7. ![](assets/Chapter04/WLPAGE_V7.png)
-8. ![](assets/Chapter04/WLPAGE_V8.png)
+ ![](assets/Chapter04/WLPAGE_V1.png)
+ ![](assets/Chapter04/WLPAGE_V2.png)
+ ![](assets/Chapter04/WLPAGE_V3.png)
+ ![](assets/Chapter04/WLPAGE_V4.png)
+ ![](assets/Chapter04/WLPAGE_V5.png)
+ ![](assets/Chapter04/WLPAGE_V6.png)
+ ![](assets/Chapter04/WLPAGE_V7.png)
+ ![](assets/Chapter04/WLPAGE_V8.png)
+ 
+> **Nota:** También se incluye la versión **mobile** correspondiente para cada sección mostrada, siguiendo el mismo orden y adaptándose a las dimensiones y experiencia de uso en dispositivos móviles.
+
+<p float="left">
+  <img src="assets/Chapter04/WLPAGE_V1M.png" width="45%" />
+  <img src="assets/Chapter04/WLPAGE_V2M.png" width="45%" />
+</p>
+
+<p float="left">
+  <img src="assets/Chapter04/WLPAGE_V3M.png" width="45%" />
+  <img src="assets/Chapter04/WLPAGE_V4M.png" width="45%" />
+</p>
+
+<p float="left">
+  <img src="assets/Chapter04/WLPAGE_V5M.png" width="45%" />
+  <img src="assets/Chapter04/WLPAGE_V6M.png" width="45%" />
+</p>
+
+<p float="left">
+  <img src="assets/Chapter04/WLPAGE_V7M.png" width="45%" />
+  <img src="assets/Chapter04/WLPAGE_V8M.png" width="45%" />
+</p>
 
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design

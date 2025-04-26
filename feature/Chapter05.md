@@ -459,7 +459,7 @@ El footer  ofrece enlaces útiles e información adicional. Incluye el enlace "�
 En esta entrega del proyecto, el enfoque principal fue el desarrollo de la landing page, por lo que no se requirió la implementación de servicios adicionales.
 
 #### **5.2.1.7. Software Deployment Evidence for Sprint Review**
-Se utilizó GitHub Pages para publicar la landing page, permitiendo su despliegue directamente desde el repositorio de código. A continuación, se comparte el enlace al sitio: 
+Se utilizó GitHub Pages para publicar la landing page, permitiendo su despliegue directamente desde el repositorio de código. A continuación, se comparte el enlace al sitio: https://1asi0730-2510-4370-g4-petnova.github.io/Landing-Page-NovaPet/  
 
 <div style="text-align: center;">
   <img src="https://i.imgur.com/Qj2QWWe.png[/img]"  width="100%" />
@@ -467,6 +467,10 @@ Se utilizó GitHub Pages para publicar la landing page, permitiendo su despliegu
 
 #### **5.2.1.8. Team Collaboration Insights during Sprint**
 Para la realización de este proyecto se utilizaron diversas herramientas, destacando entre ellas Visual Studio Code y el sistema de control de versiones Git. La landing page se dividió en varias secciones, que fueron asignadas a los miembros del equipo de forma individual. Finalmente, uno de los miembros se encargó de integrar las aportaciones de cada participante, consolidando el producto final.
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/pyad7mE.png[/img]"  width="100%" />
+</div>
 
 
 

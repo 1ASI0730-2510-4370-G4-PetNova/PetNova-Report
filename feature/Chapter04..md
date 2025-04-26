@@ -237,8 +237,8 @@ Sección final con datos de contacto, accesos a redes sociales, mapa de navegaci
  
 > **Nota:** También se incluye la versión **mobile** correspondiente para cada sección mostrada, siguiendo el mismo orden y adaptándose a las dimensiones y experiencia de uso en dispositivos móviles.  
 
-> Para una mejor visualización de los wireframes (versión desktop y mobile), se adjunta el siguiente enlace de Figma:  
-> `https://www.figma.com/design/JpQjwMjqnXviZtaHq3K50p/FINAL-PRESENTATION?node-id=0-1&p=f&t=IM7cVQdnnCZriTeb-0`
+Para una mejor visualización de los wireframes (versión desktop y mobile), se adjunta el siguiente enlace de Figma:  
+https://www.figma.com/design/JpQjwMjqnXviZtaHq3K50p/FINAL-PRESENTATION?node-id=0-1&p=f&t=IM7cVQdnnCZriTeb-0
 
 ### 4.3.2. Landing Page Mock-up
 
@@ -282,6 +282,11 @@ Presenta preguntas comunes en un formato sencillo y organizado, lo que facilita 
 se integra el formulario de contacto "Get in Touch" junto con el pie de página en una misma sección. El formulario permite que los usuarios envíen su nombre, número de contacto y mensaje de manera rápida, mientras que el pie de página ofrece accesos a redes sociales, enlaces útiles y un recordatorio de la misión de Pet Nova. Esta combinación asegura que la experiencia de cierre del sitio sea funcional, accesible y coherente con el estilo visual general, facilitando tanto la comunicación como la navegación final.
 
 ![](assets/Chapter04/MLPAGE_V8.png)
+
+> **Nota:** También se incluye la versión **mobile** correspondiente para cada sección mostrada, siguiendo el mismo orden y adaptándose a las dimensiones y experiencia de uso en dispositivos móviles.  
+
+Para una mejor visualización de los wireframes (versión desktop y mobile), se adjunta el siguiente enlace de Figma:  
+https://www.figma.com/design/JpQjwMjqnXviZtaHq3K50p/FINAL-PRESENTATION?node-id=0-1&p=f&t=IM7cVQdnnCZriTeb-0
 
 ## 4.4. Web Applications UX/UI Design
 

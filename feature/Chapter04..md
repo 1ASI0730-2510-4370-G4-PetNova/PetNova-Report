@@ -21,7 +21,7 @@ Se utilizará la tipografía **Poppins**, ideal por su estilo limpio, amigable y
 
 La paleta de colores está basada en tonos azules claros, los cuales transmiten confianza, tranquilidad y tecnología amigable. Estos colores permiten una navegación intuitiva, sin causar fatiga visual, y mantienen un entorno accesible tanto para veterinarios como para usuarios frecuentes.
 
-![Paleta_colores.png](Paleta_colores.png)
+![Paleta_colores.png](assets/Chapter04/Paleta_colores.png)
 
 **Principal:**  
 `#6ABFE3` – Celeste claro: Botones principales, títulos destacados y acciones clave.

@@ -368,6 +368,28 @@ Descarga de historial clinico
 
 -------------
 
+## movil:
+
+Listado, búsqueda, registro, edición y eliminación de mascotas
+
+![m_CRUD_clientes_mascotas_mo.png](assets/Chapter04/m_CRUD_clientes_mascotas_mo.png)
+
+Dashboard del usuario
+
+![m_dashboard_mo.png](assets/Chapter04/m_dashboard_mo.png)
+
+Listado, registro, confirmación de registro y descarga de historial clínico
+
+![m_medical_hist_mo.png](assets/Chapter04/m_medical_hist_mo.png)
+
+Listado, búsqueda, registro, edición y eliminación de clientes
+
+![m_CRUD_clientes_mascotas_mo.png](assets/Chapter04/m_CRUD_clientes_mascotas_mo.png)
+
+
+
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 Enlace Figma: https://www.figma.com/design/XjI2alaHmyFV0MPlaPpxzO/Web-design?node-id=435-460&t=FneTAGfdXkLo3c8Q-1 
@@ -467,6 +489,30 @@ Descarga de historial clinico
 ![hist_download.png](assets/Chapter04/hist_download.png)
 
 -------------
+## Movil
+
+Registro e inicio de sesion  
+
+Listado, búsqueda, registro, edición y eliminación de clientes.
+
+![CRUD_clientes_mo.png](assets/Chapter04/CRUD_clientes_mo.png)
+
+Listado, búsqueda, registro, edición y eliminación de historial medico.
+
+![medical_hist_mo.png](assets/Chapter04/medical_hist_mo.png)
+
+notificaciones.
+
+![noti_mo.png](assets/Chapter04/noti_mo.png)
+
+Dashboard del usuario
+
+![dashboard_mo.png](assets/Chapter04/dashboard_mo.png)
+
+Listado, búsqueda, registro, edición y eliminación de mascotas.
+
+![CRUD_mascota.png](assets/Chapter04/CRUD_mascota.png)
+
 
 
 ### 4.4.4. Web Applications User Flow Diagrams

@@ -163,56 +163,58 @@ Entrevista N°3:
 Entrevista N°1:
 
 
-**Entrevistada:**  <br>
-**Sexo:**  <br>
-**Edad:** <br>
-**Domicilio:** <br>
-**Inicio de la Entrevista:** <br>
-**Duración de la Entrevista:** <br>
+**Entrevistado:** Jose Heredia  <br>
+**Sexo:** Masculino  <br>
+**Edad:** 20 años <br>
+**Domicilio:** Santa Anita<br>
+**Inicio de la Entrevista:** 0:00 <br>
+**Duración de la Entrevista:** 2:53  <br>
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/PvHyR2P.png"  width="100%" />
+</div>
 
-<img src="" alt="" style="width: 600px; height: auto;">
 
-**Enlace:** <a href=""> </a>
+**Enlace:** <a href="">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/Ed7THnaJ3gpLnZ2a-7-4xaIBjIUhmL_8FM130QrTVXeAxw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=OK0sfT </a>
 
-**Resumen de la Entrevista**:
+**Resumen de la Entrevista**: José Heredia, un estudiante de 20 años residente en Santa Anita, tiene varias mascotas en casa y más en la empresa de sus padres. Visita al veterinario mensualmente pero no lleva un control formal de la salud de sus animales, lo cual le causa problemas como pérdida de documentos. Cambia frecuentemente de veterinario por temas de ubicación. Considera útil una aplicación que permita centralizar la información clínica de sus mascotas. Al conocer la propuesta de Pennova, una app de gestión veterinaria con expedientes médicos, registros de citas y vacunas, expresó que sí la usaría para tener mayor control sobre sus mascotas.
 
 ---
 
 Entrevista N°2:
 
 
-**Entrevistada:**  <br>
-**Sexo:**  <br>
-**Edad:** <br>
-**Domicilio:** <br>
-**Inicio de la Entrevista:** <br>
-**Duración de la Entrevista:** <br>
+**Entrevistado:** Leonardo Valentin <br>
+**Sexo:** Masculino  <br>
+**Edad:** 21 años <br>
+**Domicilio:** Santa Anita<br>
+**Inicio de la Entrevista:** 0:00 <br>
+**Duración de la Entrevista:** 2:44<br>
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/sng0Ozt.png"  width="100%" />
+</div>
 
-<img src="" alt="" style="width: 600px; height: auto;">
+**Enlace:** <a href="">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EQYEmbcNekdJjpCKl4Qc0bQBGVZ3lqUCEaE4AWvQeMmPTg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cE3g5H </a>
 
-**Enlace:** <a href=""> </a>
-
-**Resumen de la Entrevista**:
-
-
+**Resumen de la Entrevista**: Leonardo, un estudiante de 21 años que vive en Santa Anita, tiene cinco mascotas: tres perros y dos gatos. Suele llevarlos al veterinario una vez al mes para chequeos generales, aunque admite no usar ningún método específico para llevar el control de su salud; simplemente actúa cuando nota comportamientos inusuales. Archiva los documentos en folders y no ha tenido problemas de pérdida. Siempre acude al mismo veterinario, ya que es alguien cercano a su familia. Al conocer la propuesta de la aplicación Pennova, expresó que le parece una idea interesante, especialmente para personas que no tienen un control riguroso. Afirmó que sí la usaría, ya que considera que sería una herramienta eficiente para organizar horarios y el cuidado general de sus mascotas.
 
 ---
 
 Entrevista N°3:
 
 
-**Entrevistada:**  <br>
-**Sexo:**  <br>
-**Edad:** <br>
-**Domicilio:** <br>
-**Inicio de la Entrevista:** <br>
-**Duración de la Entrevista:** <br>
+**Entrevistada:** Camila Sanchez  <br>
+**Sexo:** Femenino  <br>
+**Edad:** 22 años <br>
+**Domicilio:** Santiago de Surco<br>
+**Inicio de la Entrevista:** 0:00 <br>
+**Duración de la Entrevista:** 3:12<br>
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/nxtH6oP.png"  width="100%" />
+</div>
 
-<img src="" alt="" style="width: 600px; height: auto;">
+**Enlace:** <a href="">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/Edzu0G-9DHRBhXxbojogppsBgrn_LZCF9mRgJHQWv2RBUg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=a2nvrd </a>
 
-**Enlace:** <a href=""> </a>
-
-**Resumen de la Entrevista**:
+**Resumen de la Entrevista**: Camila, una estudiante de 22 años que vive en Santiago de Surco, tiene una perrita que recientemente cumplió un año. Durante su etapa de cachorro, la llevaba al veterinario cada tres meses para vacunas y chequeos, y sigue llevándola de inmediato si nota algo inusual. No lleva un control digital, solo utiliza la cartilla proporcionada por el veterinario. Sin embargo, perdió esos documentos una vez, lo que le generó estrés. Además, cambió de veterinario tanto por el trato recibido como por el tema de las vacunas. Considera que una aplicación que registre la historia clínica de su mascota sería muy útil, especialmente porque tiende a extraviar papeles. Le gustaría una app como Petnova, ya que facilitaría el seguimiento de citas, vacunas y todo el historial de su mascota de forma práctica y accesible desde su celular.
 
 ---
 ### 2.2.3. Análisis de entrevistas.
@@ -226,6 +228,14 @@ El principal inconveniente es la presencia de muchos campos obligatorios o innec
 Sistemas anteriores, como las fichas en papel y registros en Excel, también tenían limitaciones, lo que afectaba la atención. Si bien se valoran funciones actuales, como el uso en múltiples dispositivos y campos adaptados por especie, los profesionales coinciden en que es necesario simplificar el flujo de trabajo para mejorar la eficiencia.
 
 ***Segmento 2: Dueños de Mascotas***
+
+En la investigación realizada, se identificaron varios retos comunes entre los dueños de mascotas jóvenes. Aunque muestran preocupación por la salud de sus animales, la mayoría no lleva un control sistemático, apoyándose en cartillas físicas o archivos improvisados que pueden perderse fácilmente.
+
+Además, algunos dueños cambian de veterinario con frecuencia, lo que dificulta la continuidad del seguimiento médico. Esta falta de organización genera estrés y complica el manejo de citas, vacunas y tratamientos.
+
+Ante la propuesta de una aplicación como Petnova, todos mostraron interés en una herramienta que centralice la información, facilite el seguimiento de citas y evite la pérdida de datos. La accesibilidad desde el celular y la posibilidad de mantener un historial clínico actualizado son los beneficios más valorados.
+
+En conclusión, existe una necesidad clara de soluciones digitales simples, eficientes y accesibles para mejorar la gestión veterinaria de las mascotas.
 
 
 

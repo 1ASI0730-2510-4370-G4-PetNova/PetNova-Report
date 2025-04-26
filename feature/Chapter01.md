@@ -76,6 +76,69 @@ Con el fin de garantizar que nuestra solución responda adecuadamente a las nece
 
 #### 1.2.2.4. Lean UX Canvas
 
+<table border="1" cellpadding="10" cellspacing="0">
+    <tr>
+        <td><strong>Lean UX Canvas</strong></td>
+        <td><strong>Fecha:</strong> 31/08/2024</td>
+        <td><strong>Primera Iteración</strong></td>
+    </tr>
+    <tr>
+        <td>
+            <strong>Business Problem</strong><br>
+            Las clínicas veterinarias se enfrentan a importantes retos debido a la utilización de sistemas obsoletos o procedimientos manuales, generando problemas de eficiencia, errores documentales y experiencias negativas para profesionales veterinarios y dueños de animales. La ausencia de un sistema integrado dificulta considerablemente la correcta gestión de agendas, expedientes médicos y comercialización de productos para mascotas.
+        </td>
+        <td>
+            <strong>Solutions</strong><br>
+            - Administración y organización de horarios y consultas<br>
+            - Archivo y acceso a expedientes médicos de pacientes<br>
+            - Sistema de alertas para recordar vacunaciones y seguimiento de terapias<br>
+            - Comercialización de artículos y medicamentos para animales<br>
+            - Informes financieros y supervisión de existencias en almacén<br>
+        </td>
+        <td>
+            <strong>Business Outcomes</strong><br>
+            - Optimización de los procesos operativos en consultorios veterinarios<br>
+            - Mayor satisfacción entre los clientes gracias al acceso inmediato a historiales médicos<br>
+            - Obtención de beneficios adicionales mediante planes premium y comercialización de productos<br>
+            - Disminución de fallos administrativos y tiempos de espera en el manejo de la clínica<br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <strong>Users</strong><br>
+            - <strong>Segmento 1 – Médicos Veterinarios:</strong> Clínicas diversas dimensiones que requieren optimizar la administración de datos clínicos, agendamiento y control de productos.
+          <br>
+            - <strong>Segmento 2 – Dueños de Mascotas:</strong> Personas con mascotas que desean un método eficaz para supervisar la salud de sus animales y consultar sus registros médicos digitalmente.
+        </td>
+        <td>
+            <strong>Hypotheses</strong><br>
+            - Consideramos que el desarrollo de una aplicación de uso sencillo para veterinarios optimizará la administración de sus consultorios.
+            - Confirmaremos nuestro éxito al verificar mejoras en la productividad operativa y disminución del tiempo consumido en labores administrativas.
+            - Estamos convencidos de que una plataforma que ofrezca acceso simplificado a expedientes médicos será valorada positivamente por los propietarios de mascotas.
+            - Validaremos la efectividad de nuestra solución mediante las opiniones favorables sobre la facilidad para consultar información clínica.
+            - Sostenemos que simplificar el proceso de inscripción, eliminando campos superfluos, enriquecerá la experiencia del usuario.
+            - Sabremos que hemos alcanzado nuestra meta cuando los usuarios reporten una navegación fluida y libre de complicaciones.
+        </td>
+        <td>
+            <strong>User Outcomes & Benefits</strong><br>
+            - Disminución del tiempo requerido para administrar citas y mantener expedientes clínicos actualizados.            
+            - Mayor eficiencia en la organización y control de inventarios y mercancía.
+            - Fortalecimiento de la relación con clientes al proporcionarles acceso directo a información médica de sus mascotas.
+            - Administración más sencilla de los establecimientos veterinarios, minimizando errores y reduciendo tiempos de espera.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <strong>What's the most important thing we need to learn first?</strong><br>
+            Verificar si la aplicación efectivamente incrementa la eficiencia en las operaciones de las clínicas veterinarias y mejora la accesibilidad de la información médica para los dueños de las mascotas.
+        </td>
+        <td colspan="2">
+            <strong>What's the least amount of work we need to do to learn the next most important?</strong><br>
+           Crear un prototipo operativo que posibilite a un grupo específico de usuarios, incluyendo veterinarios y dueños de mascotas, experimentar las funciones principales de la aplicación y brindar comentarios sobre su utilidad para aumentar la eficiencia y mejorar la experiencia del usuario.
+        </td>
+    </tr>
+</table>
+
 ## 1.3. Segmentos objetivo.
 
 Para garantizar el éxito de Pet Nova, hemos identificado dos grupos clave que serán el centro de nuestras estrategias de desarrollo y marketing. Estos grupos representan a nuestros usuarios ideales, lo que nos permitirá ajustar nuestras funcionalidades y servicios a sus necesidades particulares, optimizando así el impacto de la plataforma.

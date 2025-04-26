@@ -186,6 +186,10 @@ Para facilitar la creación de cuentas, hemos diseñado un proceso de registro r
 El soporte por correo electrónico estará disponible para los usuarios en todo momento. Además, se ofrecerán tutoriales dentro de la aplicación para guiar a los usuarios nuevos a través de las funciones clave de la plataforma.
 
 ## 4.3. Landing Page UI Design
+La **Landing Page** cumple la función de atraer la atención del usuario y dirigirlo hacia una acción concreta, como completar un registro, adquirir un producto o explorar un servicio. 
+
+En este apartado, se analizará el diseño de su interfaz, haciendo énfasis en los componentes esenciales que optimizan la experiencia del usuario y contribuyen a construir una página atractiva, funcional y fácil de usar.
+
 ### 4.3.1. Landing Page Wireframe
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design

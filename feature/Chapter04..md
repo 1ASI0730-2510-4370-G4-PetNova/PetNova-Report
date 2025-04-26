@@ -247,6 +247,80 @@ Crear una experiencia de usuario efectiva en aplicaciones web requiere planifica
 
 
 ### 4.4.1. Web Applications Wireframes
+
+
+Listado de mascotas
+
+![m_mascota_list.png](assets/Chapter04/m_mascota_list.png)
+
+Busqueda de mascotas
+
+![m_mascota_search.png](assets/Chapter04/m_mascota_search.png)
+
+Registro de mascotas
+
+![m_mascota_post.png](assets/Chapter04/m_mascota_post.png)
+
+Edición del perfil de la mascota
+
+![m_mascota_put.png](assets/Chapter04/m_mascota_put.png)
+
+Eliminacion de mascota
+
+![m_cliente_delete.png](assets/Chapter04/m_cliente_delete.png)
+
+-------
+
+Listado de clientes
+
+![m_cliente_list.png](assets/Chapter04/m_cliente_list.png)
+
+Busqueda de clientes
+
+![m_cliente_search.png](assets/Chapter04/m_cliente_search.png)
+
+Registro de clientes
+
+![m_cliente_post.png](assets/Chapter04/m_cliente_post.png)
+
+Edición del perfil del cliente
+
+![m_cliente_put.png](assets/Chapter04/m_cliente_put.png)
+
+Eliminacion de clientes
+
+![m_mascota_delete.png](assets/Chapter04/m_mascota_delete.png)
+
+
+--------------
+
+notificaciones
+
+![m_noti.png](assets/Chapter04/m_noti.png)
+
+--------------
+
+ **historial clinico**
+
+Listado de historial clinico
+
+![m_hist_list.png](assets/Chapter04/m_hist_list.png)
+
+Registro de historial clinico
+
+![m_hist_post.png](assets/Chapter04/m_hist_post.png)
+
+Confirmacion de registro de historial clinico
+  
+![m_hist_confirm.jpeg](assets/Chapter04/m_hist_confirm.jpeg)
+
+Descarga de historial clinico
+
+![m_hist_download.png](assets/Chapter04/m_hist_download.png)
+
+
+-------------
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 Enlace Figma: https://www.figma.com/design/XjI2alaHmyFV0MPlaPpxzO/Web-design?node-id=435-460&t=FneTAGfdXkLo3c8Q-1 
@@ -339,15 +413,11 @@ Registro de historial clinico
 
 Confirmacion de registro de historial clinico
   
-![hist_confirm.png](assets/Chapter04/hist_confirm.png)
+![hist_confirm.jpeg](assets/Chapter04/hist_confirm.jpeg)
 
 Descarga de historial clinico
 
 ![hist_download.png](assets/Chapter04/hist_download.png)
-
-
-
-
 
 -------------
 

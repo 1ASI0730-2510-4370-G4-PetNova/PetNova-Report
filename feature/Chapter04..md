@@ -294,6 +294,130 @@ Este enfoque resalta la importancia de comprender profundamente el dominio del n
 ![class_diagram.jpeg](assets/Chapter04/class_diagram.jpeg)
 
 ### 4.7.2. Class Dictionary
+
+
+## Pet
+
+Representa a las mascotas registradas por los clientes o veterinarios.
+
+| Atributo     | Tipo          | Descripción                       |
+|--------------|---------------|-----------------------------------|
+| id           | long int      | Identificador de la mascota       |
+| name         | string        | Nombre de la mascota              |
+| lastname     | string        | Apellido de la mascota            |
+| age          | short int     | Edad de la mascota                |
+| client       | Client        | Propietario de la mascota         |
+| medicalHistory | List<MedicalHistory> | Lista de historiales médicos   |
+| currentStatus | PetStatus    | Estado actual de salud de la mascota |
+
+## MedicalHistory
+
+Representa el historial médico de una mascota.
+
+| Atributo     | Tipo          | Descripción                       |
+|--------------|---------------|-----------------------------------|
+| id           | long int      | Identificador del historial médico|
+| id_mascota   | string        | ID de referencia a la mascota    |
+| genero       | string        | Género de la mascota              |
+| raza         | string        | Raza de la mascota                |
+| fecha_nac    | date          | Fecha de nacimiento               |
+| description  | text          | Descripción médica                |
+| veterinarian | Veterinarian  | Veterinario asignado              |
+| tratamiento  | List<Treatment> | Lista de tratamientos            |
+| vacunas      | List<Vaccines>  | Lista de vacunas                  |
+
+## Treatment
+
+Representa el tratamiento brindado de una mascota.
+
+| Atributo     | Tipo          | Descripción                       |
+|--------------|---------------|-----------------------------------|
+| id           | long int      | Identificador del tratamiento     |
+| name         | string        | Nombre del tratamiento            |
+| duration     | string        | Duración del tratamiento          |
+| medicalHistory | MedicalHistory | Historial médico relacionado    |
+| description  | text          | Detalles del tratamiento          |
+
+## Vaccines
+
+Representa las vacunas brindado de una mascota.
+
+| Atributo     | Tipo          | Descripción                       |
+|--------------|---------------|-----------------------------------|
+| id           | long int      | Identificador de la vacuna        |
+| name         | string        | Nombre de la vacuna               |
+| duration     | string        | Duración de la protección         |
+| medicalHistory | MedicalHistory | Historial médico relacionado    |
+| description  | text          | Detalles de la vacuna             |
+
+## Horario
+
+Representa el horario de un veterinario.
+
+| Atributo     | Tipo          | Descripción                       |
+|--------------|---------------|-----------------------------------|
+| id           | long int      | Identificador del horario         |
+| dia_semana   | DiaSemana     | Día de la semana                  |
+| servicio     | string        | Servicio proporcionado            |
+| h_inicio     | time          | Hora de inicio del servicio       |
+| h_fin        | time          | Hora de fin del servicio          |
+
+## Client
+
+Representa a los clientes del sistema que poseen mascotas.
+
+| Atributo     | Tipo          | Descripción                       |
+|--------------|---------------|-----------------------------------|
+| id           | long int      | Identificador del cliente         |
+| firstname    | string        | Nombre del cliente                |
+| lastname     | string        | Apellido del cliente              |
+| email        | string        | Correo electrónico                |
+| password     | string        | Contraseña del cliente            |
+
+## Veterinarian
+
+Representa a los veterinarios en el sistema.
+
+
+| Atributo     | Tipo          | Descripción                       |
+|--------------|---------------|-----------------------------------|
+| speciality   | string        | Especialidad médica               |
+| appointments | List<Appointment> | Lista de citas asignadas         |
+
+## Appointment
+
+Representa las citas entre un veterinario y una mascota.
+
+| Atributo             | Tipo          | Descripción                       |
+|----------------------|---------------|-----------------------------------|
+| id                   | long int      | Identificador de la cita          |
+| DNI                  | string        | DNI del cliente                   |
+| date                 | datetime      | Fecha y hora de la cita           |
+| service              | string        | Servicio solicitado               |
+| recordatorio_enviado | bool          | Estado del recordatorio enviado  |
+| notificacion_enviada | bool          | Estado de la notificación enviada |
+
+## StatusAppointment
+
+Representa el estado en el que se encuentra la citas 
+
+| Atributo     | Tipo          | Descripción                       |
+|--------------|---------------|-----------------------------------|
+| id           | long int      | Identificador del estado de la cita |
+| descripcion  | string        | Descripción del estado            |
+
+## User
+
+Representa a los usuarios del sistema, ya sea veterinarios o clientes.
+
+| Atributo     | Tipo          | Descripción                       |
+|--------------|---------------|-----------------------------------|
+| id           | long int      | Identificador del usuario         |
+| firstname    | string        | Nombre del usuario                |
+| lastname     | string        | Apellido del usuario              |
+| email        | string        | Correo electrónico                |
+| password     | string        | Contraseña del usuario            |
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram 
 

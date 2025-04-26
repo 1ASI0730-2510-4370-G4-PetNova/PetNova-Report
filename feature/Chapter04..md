@@ -278,7 +278,8 @@ Presenta preguntas comunes en un formato sencillo y organizado, lo que facilita 
 ![](assets/Chapter04/MLPAGE_V7.png)
 
 ## PANTALLA 8
-Incluye enlaces útiles, redes sociales y un campo de suscripción al boletín, organizados en bloques bien definidos. Mantiene coherencia visual con el resto del sitio mediante la misma tipografía, paleta de colores y estilo gráfico. Refuerza la navegación al ofrecer accesos rápidos a secciones clave y recursos legales. También actúa como cierre funcional del sitio, generando una sensación de estructura completa y accesible. Su diseño responsivo garantiza que se mantenga legible y funcional en todos los dispositivos.
+
+se integra el formulario de contacto "Get in Touch" junto con el pie de página en una misma sección. El formulario permite que los usuarios envíen su nombre, número de contacto y mensaje de manera rápida, mientras que el pie de página ofrece accesos a redes sociales, enlaces útiles y un recordatorio de la misión de Pet Nova. Esta combinación asegura que la experiencia de cierre del sitio sea funcional, accesible y coherente con el estilo visual general, facilitando tanto la comunicación como la navegación final.
 
 ![](assets/Chapter04/MLPAGE_V8.png)
 

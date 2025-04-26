@@ -254,13 +254,10 @@ En este apartado, se detalla el proceso de despliegue de la Landing Page de Pet 
 
 1. Verificamos que la configuración de GitHub Pages estuviera activa para el repositorio de la Landing Page de Pet Nova, accediendo a las opciones de configuración del repositorio en GitHub. <br><br>
 
-<img src="./assets/Chapter05/deploy1.jpg">
+<img src="./assets/Chapter05/Github Pages 1.PNG">
 
-2. Accdemos a Github Pages:<br><br>
-   <img src="./assets/Chapter05/deploy2.jpg">
-
-3. Una vez completada la configuración, GitHub Pages generó la URL pública de la Landing Page de Pet Nova, permitiendo su acceso y distribución. <br><br>
-   <img src="./assets/Chapter05/rep3.png">
+2. Accedemos a Github Pages y procedemos con la configuración. Una vez completada la configuración, GitHub Pages generó la URL pública de la Landing Page de Pet Nova, permitiendo su acceso y distribución. <br><br>
+   <img src="./assets/Chapter05/Github Pages 2.PNG">
 
 Enlace a la Landing Page de Pet Nova:<br>
 https://1asi0730-2510-4370-g4-petnova.github.io/Landing-Page-NovaPet/
@@ -332,50 +329,47 @@ https://1asi0730-2510-4370-g4-petnova.github.io/Landing-Page-NovaPet/
 
 #### **5.2.1.2. Aspect Leaders and Collaborators.**
 
-| **Team Member (Last Name, First Name)**        | **GitHub Username**    | **Capítulo I: Introducción (L/C)** | **Capítulo II: Requirements Elicitation & Analysis (L/C)** | **Capítulo III: Requirements Specification (L/C)** | **Capítulo IV: Product Design (L/C)** | **Capítulo V: Product Implementation, Validation & Deployment (L/C)** |
-|------------------------------------------------|------------------------|-----------------------------------|-----------------------------------------------------------|-----------------------------------------------------|------------------------------------|---------------------------------------------------------------------|
-| **Belahonia Miranda, fabrisio**                                  | devfab17               | L                                 | C                                                         | C                                                   | C                                  | C                                                                   |
-| **Bastidas Bastidas, Diego Martin**                             | ghostnotfound404       | C                                 | L                                                         | C                                                   | C                                  | C                                                                   |
-| **Choquehuanca Núñez, Luciana Carolina**                                   | lucianxaaa             | C                                 | C                                                         | L                                                   | C                                  | C                                                                   |
-| **Prado Vargas, Mario Benjamín**                | mariopvdev             | C                                 | C                                                         | C                                                   | L                                  | C                                                                   |
-| **Escobar Palomino, Sebastian Matias**                               | sebasepe               | C                                 | C                                                         | C                                                   | C                                  | L                                                                   |
-
+| **Team Member (Last Name, First Name)**  | **GitHub Username** | **Capítulo I: Introducción (L/C)** | **Capítulo II: Requirements Elicitation & Analysis (L/C)** | **Capítulo III: Requirements Specification (L/C)** | **Capítulo IV: Product Design (L/C)** | **Capítulo V: Product Implementation, Validation & Deployment (L/C)** |
+| ---------------------------------------- | ------------------- | ---------------------------------- | ---------------------------------------------------------- | -------------------------------------------------- | ------------------------------------- | --------------------------------------------------------------------- |
+| **Belahonia Miranda, fabrisio**          | devfab17            | L                                  | C                                                          | C                                                  | C                                     | C                                                                     |
+| **Bastidas Bastidas, Diego Martin**      | ghostnotfound404    | C                                  | L                                                          | C                                                  | C                                     | C                                                                     |
+| **Choquehuanca Núñez, Luciana Carolina** | lucianxaaa          | C                                  | C                                                          | L                                                  | C                                     | C                                                                     |
+| **Prado Vargas, Mario Benjamín**         | mariopvdev          | C                                  | C                                                          | C                                                  | L                                     | C                                                                     |
+| **Escobar Palomino, Sebastian Matias**   | sebasepe            | C                                  | C                                                          | C                                                  | C                                     | L                                                                     |
 
 #### **5.2.1.3. Sprint Backlog 1**
-En el primer sprint, el equipo enfocó su trabajo en crear una landing page que fuera tanto funcional como atractiva, asignando las tareas en el tablero de Sprint según las habilidades de cada miembro.
-| **id**  | **Title**                              | **Id**  | **Title**                                | **Description**                                                                                                      | **Estimations(Hours)** | **Assigned To**          | **Status(To-do/InProcess/ToReview/Done)** |
-|---------|-----------------------------------------|---------|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------|-------------------------|-------------------------|------------------------------------------------------|
-| **US17** | Barra de Navegación en la Landing Page | **TS01** | Barra de navegación con enlaces           | Implementación de la barra de navegación con enlaces a "¿Cómo funciona?", "Casos de éxito", "Planes" y "Contactos".   | 4                       | **Bastidas Bastidas, Diego Martin**            | Done                                                |
-| **US18** | Sección "Why Choose Us?"               | **TS02** | Testimonios de influencers                | Desarrollo de la sección de testimonios de influencers con citas y fotos de los influencers destacados.               | 3                       | **Belahonia Miranda, Fabrisio**    | Hecho                                                 |
-| **US19** | Gestión de Suscripciones               | **TS03** | Planes de suscripción                     | Desarrollo de la sección de planes de suscripción con detalles de precios y características de cada plan.            | 5                       | **Choquehuanca Núñez, Luciana Carolina**          | Done                                                |
-| **US20** | Reseñas de Clientes                    | **TS04** | Revisión de testimonios de clientes       | Desarrollo de la sección de reseñas de clientes con citas de usuarios que han utilizado la plataforma.               | 4                       | **Escobar Palomino, Sebastian Matias**          | Done                                                |
-| **US21** | Formulario de Contacto                 | **TS05** | Envío de mensajes de contacto             | Implementación de un formulario de contacto en la página de aterrizaje para que los usuarios puedan comunicarse.     | 3                       | **Escobar Palomino, Sebastian Matias**            | Done                                                 |
-| **US22** | Videos en la Sección de Características | **TS06** | Visualización de Videos Informativos      | Desarrollo de la sección para visualizar videos que muestren las características y funcionalidades de PetNova.        | 3                       | **Prado Vargas, Mario Benjamín**            | Done                                                 |
-| **US23** | Cambio de Idioma en la App Web         | **TS07** | Funcionalidad de cambio de idioma         | Implementación de la funcionalidad para permitir a los usuarios cambiar el idioma de la página entre español e inglés.| 4                       | **Prado Vargas, Mario Benjamín**          | Done                                                |
 
+En el primer sprint, el equipo enfocó su trabajo en crear una landing page que fuera tanto funcional como atractiva, asignando las tareas en el tablero de Sprint según las habilidades de cada miembro.
+| **id** | **Title** | **Id** | **Title** | **Description** | **Estimations(Hours)** | **Assigned To** | **Status(To-do/InProcess/ToReview/Done)** |
+|---------|-----------------------------------------|---------|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------|-------------------------|-------------------------|------------------------------------------------------|
+| **US17** | Barra de Navegación en la Landing Page | **TS01** | Barra de navegación con enlaces | Implementación de la barra de navegación con enlaces a "¿Cómo funciona?", "Casos de éxito", "Planes" y "Contactos". | 4 | **Bastidas Bastidas, Diego Martin** | Done |
+| **US18** | Sección "Why Choose Us?" | **TS02** | Testimonios de influencers | Desarrollo de la sección de testimonios de influencers con citas y fotos de los influencers destacados. | 3 | **Belahonia Miranda, Fabrisio** | Hecho |
+| **US19** | Gestión de Suscripciones | **TS03** | Planes de suscripción | Desarrollo de la sección de planes de suscripción con detalles de precios y características de cada plan. | 5 | **Choquehuanca Núñez, Luciana Carolina** | Done |
+| **US20** | Reseñas de Clientes | **TS04** | Revisión de testimonios de clientes | Desarrollo de la sección de reseñas de clientes con citas de usuarios que han utilizado la plataforma. | 4 | **Escobar Palomino, Sebastian Matias** | Done |
+| **US21** | Formulario de Contacto | **TS05** | Envío de mensajes de contacto | Implementación de un formulario de contacto en la página de aterrizaje para que los usuarios puedan comunicarse. | 3 | **Escobar Palomino, Sebastian Matias** | Done |
+| **US22** | Videos en la Sección de Características | **TS06** | Visualización de Videos Informativos | Desarrollo de la sección para visualizar videos que muestren las características y funcionalidades de PetNova. | 3 | **Prado Vargas, Mario Benjamín** | Done |
+| **US23** | Cambio de Idioma en la App Web | **TS07** | Funcionalidad de cambio de idioma | Implementación de la funcionalidad para permitir a los usuarios cambiar el idioma de la página entre español e inglés.| 4 | **Prado Vargas, Mario Benjamín** | Done |
 
 #### **5.2.1.4. Development Evidence for Sprint Review**
 
-| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Committed By** | **Committed On** |
-|----------------|------------|---------------|--------------------|------------------|------------------|
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | 671b8dc | feat(images): add new images for project assets | ghostnotfound404 | Apr 26, 2025 |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | bfb2010 | Merge branch 'develop' of github.com:1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public into develop | ghostnotfound404 | Apr 26, 2025 |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | fa2c951 | feat(index): add plans | Lucianxaaa | Apr 26, 2025 |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | 00b1ce6 | feat(index): update styles and content for 'Casos de éxito' and 'Planes' sections | Lucianxaaa | Apr 26, 2025 |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | 2d1a453 | fix(landing page styles_css): feat update hero section | Lucianxaaa | Apr 26, 2025 |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | 3fdb9a1 | fix(landing page): feat update hero section | Lucianxaaa | Apr 26, 2025 |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | f3e4b79 | fix(header): style header and navigation for responsiveness | devfab17 | Apr 26, 2025 |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | 5b29013 | fix(header): update structure and navigation links | devfab17 | Apr 26, 2025 |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | 0ac9c10 | fix: upload images and change code of footer section | mariopvdev | Apr 26, 2025 |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | a0fe5c2 | feat: update 'Why Choose Us' section layout and replace image | sebasepe | Apr 26, 2025 |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | 46b5dbb | feat: design veterinarian section with features and call-to-action | sebasepe | Apr 26, 2025 |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | 77bdaaf | feat: update partners and customers sections with new layout | sebasepe | Apr 26, 2025 |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | 9285a1a | feat: redesign subscriptions section with plan cards and images | sebasepe | Apr 26, 2025 |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | 285c2d9 | feat: update 'Why Choose Us' section layout with three images and video icons | sebasepe | Apr 26, 2025 |
+| **Repository**                                                  | **Branch** | **Commit Id** | **Commit Message**                                                                                                | **Committed By** | **Committed On** |
+| --------------------------------------------------------------- | ---------- | ------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 671b8dc       | feat(images): add new images for project assets                                                                   | ghostnotfound404 | Apr 26, 2025     |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | bfb2010       | Merge branch 'develop' of github.com:1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public into develop | ghostnotfound404 | Apr 26, 2025     |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | fa2c951       | feat(index): add plans                                                                                            | Lucianxaaa       | Apr 26, 2025     |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 00b1ce6       | feat(index): update styles and content for 'Casos de éxito' and 'Planes' sections                                 | Lucianxaaa       | Apr 26, 2025     |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 2d1a453       | fix(landing page styles_css): feat update hero section                                                            | Lucianxaaa       | Apr 26, 2025     |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 3fdb9a1       | fix(landing page): feat update hero section                                                                       | Lucianxaaa       | Apr 26, 2025     |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | f3e4b79       | fix(header): style header and navigation for responsiveness                                                       | devfab17         | Apr 26, 2025     |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 5b29013       | fix(header): update structure and navigation links                                                                | devfab17         | Apr 26, 2025     |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 0ac9c10       | fix: upload images and change code of footer section                                                              | mariopvdev       | Apr 26, 2025     |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | a0fe5c2       | feat: update 'Why Choose Us' section layout and replace image                                                     | sebasepe         | Apr 26, 2025     |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 46b5dbb       | feat: design veterinarian section with features and call-to-action                                                | sebasepe         | Apr 26, 2025     |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 77bdaaf       | feat: update partners and customers sections with new layout                                                      | sebasepe         | Apr 26, 2025     |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 9285a1a       | feat: redesign subscriptions section with plan cards and images                                                   | sebasepe         | Apr 26, 2025     |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 285c2d9       | feat: update 'Why Choose Us' section layout with three images and video icons                                     | sebasepe         | Apr 26, 2025     |
 
 ---
-
-
 
 #### **5.2.1.5. Execution Evidence for Sprint Review**
 
@@ -383,7 +377,8 @@ En el Sprint 1 se realizó el desarrollo, diseño e implementación de la landin
 
 **Hero Section (Sección Principal)**
 
- Es la primera sección visible de la página, que presenta un mensaje atractivo para el usuario. En ella se destaca el propósito de la startup, junto con una llamada a la acción como “Get Started” (Comienza ahora). También incluye una imagen relevante que acompaña el mensaje.
+Es la primera sección visible de la página, que presenta un mensaje atractivo para el usuario. En ella se destaca el propósito de la startup, junto con una llamada a la acción como “Get Started” (Comienza ahora). También incluye una imagen relevante que acompaña el mensaje.
+
 <div style="text-align: center;">
   <img src="https://i.imgur.com/IRYz79z.png[/img]"  width="100%" />
 </div>
@@ -396,9 +391,9 @@ En esta sección, se explica por qué la plataforma es valiosa para los usuarios
   <img src="https://i.imgur.com/zwxLecZ.png[/img]"  width="100%" />
 </div>
 
-**Subscriptions** 
+**Subscriptions**
 
- Presenta los diferentes planes de suscripción que ofrece la plataforma, como el plan Starter, Growth y Premium, con sus respectivos precios y características. Cada plan está acompañado de una imagen que refleja el nivel del plan.
+Presenta los diferentes planes de suscripción que ofrece la plataforma, como el plan Starter, Growth y Premium, con sus respectivos precios y características. Cada plan está acompañado de una imagen que refleja el nivel del plan.
 
 <div style="text-align: center;">
   <img src="https://i.imgur.com/ZV9nhgF.png[/img]"  width="100%" />
@@ -406,7 +401,7 @@ En esta sección, se explica por qué la plataforma es valiosa para los usuarios
 
 **Partners (Socios)**
 
- Aquí se muestran los logos de las marcas asociadas o colaboradoras, como proveedores de alimentos y productos para mascotas. Esta sección genera confianza y validación de la plataforma.
+Aquí se muestran los logos de las marcas asociadas o colaboradoras, como proveedores de alimentos y productos para mascotas. Esta sección genera confianza y validación de la plataforma.
 
 <div style="text-align: center;">
   <img src="https://i.imgur.com/uo0xEiV.png[/img]"  width="100%" />
@@ -446,35 +441,34 @@ La sección de contacto permite a los usuarios ponerse en contacto directamente 
 
 **Footer**
 
-El footer  ofrece enlaces útiles e información adicional. Incluye el enlace "¿Necesitas más información?" que redirige a la sección de contacto, así como las funciones clave de la plataforma, como gestionar, programar citas, registrar mascotas y registrar clientes. También presenta enlaces para descargar la aplicación en diferentes plataformas: iOS, Android, Windows y Mac. Además, se ofrece la posibilidad de conectarse con PetNova a través de redes sociales, proporcionando una manera fácil de mantenerse en contacto y actualizado sobre las novedades de la plataforma.
+El footer ofrece enlaces útiles e información adicional. Incluye el enlace "¿Necesitas más información?" que redirige a la sección de contacto, así como las funciones clave de la plataforma, como gestionar, programar citas, registrar mascotas y registrar clientes. También presenta enlaces para descargar la aplicación en diferentes plataformas: iOS, Android, Windows y Mac. Además, se ofrece la posibilidad de conectarse con PetNova a través de redes sociales, proporcionando una manera fácil de mantenerse en contacto y actualizado sobre las novedades de la plataforma.
 
 <div style="text-align: center;">
   <img src="https://i.imgur.com/FjZQiU9.png[/img]"  width="100%" />
 </div>
-
-
 
 #### **5.2.1.6. Services Documentation Evidence for Sprint Review**
 
 En esta entrega del proyecto, el enfoque principal fue el desarrollo de la landing page, por lo que no se requirió la implementación de servicios adicionales.
 
 #### **5.2.1.7. Software Deployment Evidence for Sprint Review**
-Se utilizó GitHub Pages para publicar la landing page, permitiendo su despliegue directamente desde el repositorio de código. A continuación, se comparte el enlace al sitio: https://1asi0730-2510-4370-g4-petnova.github.io/Landing-Page-NovaPet/  
+
+Se utilizó GitHub Pages para publicar la landing page, permitiendo su despliegue directamente desde el repositorio de código. A continuación, se comparte el enlace al sitio: https://1asi0730-2510-4370-g4-petnova.github.io/Landing-Page-NovaPet/
 
 <div style="text-align: center;">
   <img src="https://i.imgur.com/Qj2QWWe.png[/img]"  width="100%" />
 </div>
 
 #### **5.2.1.8. Team Collaboration Insights during Sprint**
+
 Para la realización de este proyecto se utilizaron diversas herramientas, destacando entre ellas Visual Studio Code y el sistema de control de versiones Git. La landing page se dividió en varias secciones, que fueron asignadas a los miembros del equipo de forma individual. Finalmente, uno de los miembros se encargó de integrar las aportaciones de cada participante, consolidando el producto final.
 
 <div style="text-align: center;">
   <img src="https://i.imgur.com/pyad7mE.png[/img]"  width="100%" />
 </div>
 
-
-
 #### **Avance de Conclusiones**
+
 - La colaboración efectiva entre los miembros del equipo fue clave para avanzar de manera organizada y cubrir todas las etapas del proyecto. Cada integrante asumió con claridad su rol y responsabilidades, facilitando una ejecución ordenada.
 
 - La definición de User Stories y del Product Backlog permitió priorizar las funcionalidades esenciales, asegurando que el producto respondiera a las necesidades del mercado.
@@ -486,13 +480,12 @@ Para la realización de este proyecto se utilizaron diversas herramientas, desta
 - Finalmente, el enfoque en UI/UX permitió construir una plataforma intuitiva y atractiva para los usuarios finales.
 
 #### **Bibliografia**
-- Sedano, L. (2024). *Manual para la gestión eficaz de clínicas veterinarias: Estrategias administrativas y organizativas*. Recuperado de [https://punto-medic.cl/blogs/manuales-y-guias/manual-para-la-gestion-eficaz-de-clinicas-veterinarias-estrategias-administrativas-y-organizativas](https://punto-medic.cl/blogs/manuales-y-guias/manual-para-la-gestion-eficaz-de-clinicas-veterinarias-estrategias-administrativas-y-organizativas)
 
-- BioSystems S.A. (s.f.). *Guía de buenas prácticas en veterinaria*. Barcelona, España: ioSystems S.A. Recuperado de [https://covetrija.org/wp-content/uploads/2021/10/VET_GuiaBuenasPracticas_ESP.pdf](https://covetrija.org/wp-content/uploads/2021/10/VET_GuiaBuenasPracticas_ESP.pdf)
+- Sedano, L. (2024). _Manual para la gestión eficaz de clínicas veterinarias: Estrategias administrativas y organizativas_. Recuperado de [https://punto-medic.cl/blogs/manuales-y-guias/manual-para-la-gestion-eficaz-de-clinicas-veterinarias-estrategias-administrativas-y-organizativas](https://punto-medic.cl/blogs/manuales-y-guias/manual-para-la-gestion-eficaz-de-clinicas-veterinarias-estrategias-administrativas-y-organizativas)
 
+- BioSystems S.A. (s.f.). _Guía de buenas prácticas en veterinaria_. Barcelona, España: ioSystems S.A. Recuperado de [https://covetrija.org/wp-content/uploads/2021/10/VET_GuiaBuenasPracticas_ESP.pdf](https://covetrija.org/wp-content/uploads/2021/10/VET_GuiaBuenasPracticas_ESP.pdf)
 
 #### **Anexo**
-1. Despliegue del Landing Page: https://1asi0730-2510-4370-g4-petnova.github.io/Landing-Page-NovaPet/  
-2. Figma con los User Flow Diagrams, wireframes y mockups de la landing page.: https://www.figma.com/design/XjI2alaHmyFV0MPlaPpxzO/luciana-cachuda?node-id=401-8424&t=az7BntwUG01czpON-1
- 
 
+1. Despliegue del Landing Page: https://1asi0730-2510-4370-g4-petnova.github.io/Landing-Page-NovaPet/
+2. Figma con los User Flow Diagrams, wireframes y mockups de la landing page.: https://www.figma.com/design/XjI2alaHmyFV0MPlaPpxzO/luciana-cachuda?node-id=401-8424&t=az7BntwUG01czpON-1

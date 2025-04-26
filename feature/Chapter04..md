@@ -248,6 +248,32 @@ Crear una experiencia de usuario efectiva en aplicaciones web requiere planifica
 
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+Enlace Figma: https://www.figma.com/design/XjI2alaHmyFV0MPlaPpxzO/Web-design?node-id=435-460&t=FneTAGfdXkLo3c8Q-1 
+
+User Goal: Registrar usuario
+
+![User_Goal_1.jpeg](assets/Chapter04/User_Goal_1.jpeg)
+
+User Goal: Gestionar perfil
+
+![User_Goal_2.jpeg](assets/Chapter04/User_Goal_2.jpeg)
+
+User Goal: Gestionar mascota
+
+![User_Goal_3.jpeg](assets/Chapter04/User_Goal_3.jpeg)
+
+User Goal: Gestionar citas
+
+![User_Goal_4.jpeg](assets/Chapter04/User_Goal_4.jpeg)
+
+User Goal: Gestionar Historial medico
+
+![User_Goal_5.jpeg](assets/Chapter04/User_Goal_5.jpeg)
+
+
+
+
 ### 4.4.3. Web Applications Mock-ups
 
 

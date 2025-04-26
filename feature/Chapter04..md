@@ -286,7 +286,8 @@ Para el diseño de los prototipos de la interfaz de usuario para Desktop y Mobil
 
 3. Prioridad a la Información Relevante: El diseño se centró en mostrar la información más importante para los usuarios del segmento objetivo, evitando saturar la interfaz con detalles innecesarios
 
-![Prototype.jpeg](assets/Chapter04/Prototype.jpeg)
+![Prototype_1.jpeg](assets/Chapter04/Prototype_1.jpeg)
+![Prototype_1.jpeg](assets/Chapter04/Prototype_1.jpeg)
 
 
 Video del prototipo):

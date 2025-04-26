@@ -11,7 +11,7 @@ Es una serie de normas que definen la identidad visual y la interacción estéti
 
 La identidad visual de la marca **PETNOVA** representa el compromiso con el cuidado animal moderno e integral. El logotipo presenta la figura de un conejo dentro de un círculo, proyectando cercanía, agilidad y confianza. El nombre **PETNOVA** se muestra en una tipografía clara y moderna, lo que refuerza la imagen tecnológica y accesible de la plataforma.
 
-![PETNOVA_LOGO.png](PETNOVA_LOGO.png)
+![PETNOVA_LOGO.png](assets/Chapter04/PETNOVA_LOGO.png)
 
 ### Typography
 

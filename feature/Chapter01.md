@@ -79,7 +79,6 @@ Con el fin de garantizar que nuestra solución responda adecuadamente a las nece
 <table border="1" cellpadding="10" cellspacing="0">
     <tr>
         <td><strong>Lean UX Canvas</strong></td>
-        <td><strong>Fecha:</strong> 31/08/2024</td>
         <td><strong>Primera Iteración</strong></td>
     </tr>
     <tr>

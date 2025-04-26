@@ -628,6 +628,9 @@ Representa a los usuarios del sistema, ya sea veterinarios o clientes.
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram 
+Para el diseño y gestión de la base de datos de Pet Nova, se optó por utilizar MySQL como sistema gestor, administrado mediante MySQL Workbench. Esta elección responde tanto a la experiencia previa del equipo con el lenguaje SQL, como a la solidez, escalabilidad y eficiencia que ofrece la herramienta para satisfacer los requerimientos funcionales y estructurales del proyecto. Además, su interfaz visual facilita la planificación, modelado y mantenimiento de una base de datos clara y coherente.
+
+![](assets/Chapter04/data_base.png)
 
 ###
 

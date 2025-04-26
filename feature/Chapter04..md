@@ -147,9 +147,7 @@ Contar con un sistema de búsqueda eficiente es clave para que los usuarios pued
 - **Búsqueda por Relevancia:** Ordena los resultados según qué tan útiles o relacionados son con lo buscado, gracias a algoritmos que priorizan la información más pertinente.
 
 
-### 4.2.5. Navigation Systems
-
-# 4.2.5. Navigation Systems
+## 4.2.5. Navigation Systems
 
 En **Pet Nova**, la navegación en el **Landing Page** y las aplicaciones se ha diseñado cuidadosamente para guiar al usuario a través de una experiencia fluida y eficaz, asegurando que puedan cumplir sus metas sin complicaciones. A continuación, se detallan las principales acciones y técnicas que facilitarán el recorrido del contenido:
 

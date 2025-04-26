@@ -200,29 +200,31 @@ Crear una experiencia de usuario efectiva en aplicaciones web requiere planifica
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
+
+
 ### 4.4.4. Web Applications User Flow Diagrams
-![class_diagram.jpeg](assets/Chapter04/class_diagram.jpeg)
 
-Interacción cuando un cliente gestiona su perfil
+## Interacción cuando un cliente gestiona su perfil
 
-![User_Flow_Diagrams1.jpeg](assets/Chapter04/User_Flow_Diagrams1.jpeg)
+![User_Flow_Diagrams1.jpeg](assets/Chapter04/User_Flow_Diagrams2.jpeg)
 
-Interacción cuando un cliente se registra y procede a gestionar una cita
+## Interacción cuando un cliente se registra y procede a gestionar una cita
 
 ![User_Flow_Diagrams2.jpeg](assets/Chapter04/User_Flow_Diagrams2.jpeg)
 
-Interaccion cuando el cliente gestiona un historial de mascotas
+## Interaccion cuando el cliente gestiona un historial de mascotas
 
-!User_Flow_Diagrams3.jpeg](assets/Chapter04/User_Flow_Diagrams3.jpeg)
+![User_Flow_Diagrams3.jpeg](assets/Chapter04/User_Flow_Diagrams2.jpeg)
 
-Interaccion cuando el cliente gestiona una mascota
+## Interaccion cuando el cliente gestiona una mascota
 
 ![User_Flow_Diagrams4.jpeg](assets/Chapter04/User_Flow_Diagrams4.jpeg)
 
-Interaccion cuando el usuario gestiona un cliente
+## Interaccion cuando el usuario gestiona un cliente
 
 ![User_Flow_Diagrams5.jpeg](assets/Chapter04/User_Flow_Diagrams5.jpeg)
-feature/assets/Chapter04/User Flow Diagrams5.jpeg
+
+
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 

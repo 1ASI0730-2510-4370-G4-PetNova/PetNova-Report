@@ -331,6 +331,14 @@ https://1asi0730-2510-4370-g4-petnova.github.io/Landing-Page-NovaPet/
 </table>
 #### **5.2.1.2. Aspect Leaders and Collaborators.**
 
+| **Team Member (Last Name, First Name)**        | **GitHub Username**    | **Capítulo I: Introducción (L/C)** | **Capítulo II: Requirements Elicitation & Analysis (L/C)** | **Capítulo III: Requirements Specification (L/C)** | **Capítulo IV: Product Design (L/C)** | **Capítulo V: Product Implementation, Validation & Deployment (L/C)** |
+|------------------------------------------------|------------------------|-----------------------------------|-----------------------------------------------------------|-----------------------------------------------------|------------------------------------|---------------------------------------------------------------------|
+| **Belahonia Miranda, fabrisio**                                  | devfab17               | L                                 | C                                                         | C                                                   | C                                  | C                                                                   |
+| **Bastidas Bastidas, Diego Martin**                             | ghostnotfound404       | C                                 | L                                                         | C                                                   | C                                  | C                                                                   |
+| **Choquehuanca Núñez, Luciana Carolina**                                   | lucianxaaa             | C                                 | C                                                         | L                                                   | C                                  | C                                                                   |
+| **Prado Vargas, Mario Benjamín**                | mariopvdev             | C                                 | C                                                         | C                                                   | L                                  | C                                                                   |
+| **Escobar Palomino, Sebastian Matias**                               | sebasepe               | C                                 | C                                                         | C                                                   | C                                  | L                                                                   |
+
 
 #### **5.2.1.3. Sprint Backlog 1**
 

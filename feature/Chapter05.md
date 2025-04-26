@@ -356,8 +356,6 @@ En el primer sprint, el equipo enfocó su trabajo en crear una landing page que 
 
 #### **5.2.1.4. Development Evidence for Sprint Review**
 
-### **Commits on Apr 26, 2025**
-
 | **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Committed By** | **Committed On** |
 |----------------|------------|---------------|--------------------|------------------|------------------|
 | 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | 671b8dc | feat(images): add new images for project assets | ghostnotfound404 | Apr 26, 2025 |
@@ -380,6 +378,80 @@ En el primer sprint, el equipo enfocó su trabajo en crear una landing page que 
 
 
 #### **5.2.1.5. Execution Evidence for Sprint Review**
+
+En el Sprint 1 se realizó el desarrollo, diseño e implementación de la landing page. Esta página incluye secciones que permiten a los usuarios obtener más información sobre la startup y el producto que se ofrecerá. A continuación, se muestran las evidencias.
+
+**Hero Section (Sección Principal)**
+
+ Es la primera sección visible de la página, que presenta un mensaje atractivo para el usuario. En ella se destaca el propósito de la startup, junto con una llamada a la acción como “Get Started” (Comienza ahora). También incluye una imagen relevante que acompaña el mensaje.
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/IRYz79z.png[/img]"  width="100%" />
+</div>
+
+**Why Choose Us?**
+
+En esta sección, se explica por qué la plataforma es valiosa para los usuarios, destacando beneficios como la facilidad de acceso a los registros médicos de las mascotas, un diseño intuitivo y la optimización de tareas diarias. Se acompañan con videos e íconos ilustrativos.
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/zwxLecZ.png[/img]"  width="100%" />
+</div>
+
+**Subscriptions** 
+
+ Presenta los diferentes planes de suscripción que ofrece la plataforma, como el plan Starter, Growth y Premium, con sus respectivos precios y características. Cada plan está acompañado de una imagen que refleja el nivel del plan.
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/ZV9nhgF.png[/img]"  width="100%" />
+</div>
+
+**Partners (Socios)**
+
+ Aquí se muestran los logos de las marcas asociadas o colaboradoras, como proveedores de alimentos y productos para mascotas. Esta sección genera confianza y validación de la plataforma.
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/uo0xEiV.png[/img]"  width="100%" />
+</div>
+
+**Customers (Clientes)**
+
+Esta sección resalta testimonios de usuarios satisfechos, mostrando cómo la plataforma facilita su trabajo diario, con frases como "Flujo de trabajo optimizado" y "Gestión sin esfuerzo". Está acompañada de imágenes de personas con sus mascotas.
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/rDngf4T.png[/img]"  width="100%" />
+</div>
+
+**Sección "¿Eres Veterinario?"**
+
+En esta sección, la plataforma se enfoca en los veterinarios, invitándolos a conocer más sobre las herramientas digitales que PetNova ofrece para gestionar su clínica. El encabezado "¿Eres veterinario?" capta su atención y les dirige a un botón de llamada a la acción con el texto "Gestiona tu clínica", lo que los lleva a registrarse en la plataforma y comenzar a gestionar su clínica de manera digital. La sección incluye íconos relevantes que representan funcionalidades claves, como "Cuidado de la clínica", "Registros de pacientes" y "Citas", brindando un acceso visual y directo a las principales características de la plataforma.
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/RxzVkV7.png[/img]"  width="100%" />
+</div>
+
+**Preguntas Frecuentes (FAQ)**
+
+Esta sección responde a las dudas comunes que los posibles usuarios pueden tener sobre PetNova. Con el encabezado "Preguntas frecuentes", se presentan interrogantes clave como si la plataforma está diseñada solo para clínicas grandes, los beneficios para los veterinarios, cómo PetNova ayuda a simplificar las operaciones diarias y si se necesita conocimientos técnicos para usarla. Los usuarios pueden interactuar con las preguntas, ya que cada una se puede expandir para ver la respuesta detallada, lo que hace que la sección sea amigable y fácil de navegar.
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/Ybk9Cdu.png[/img]"  width="100%" />
+</div>
+
+**Sección de Contacto**
+
+La sección de contacto permite a los usuarios ponerse en contacto directamente con el equipo de PetNova para resolver dudas o inquietudes. El encabezado es claro: "Ponte en contacto con PetNova", y debajo se encuentran campos para ingresar el nombre, número de teléfono y mensaje. Al completar el formulario, los usuarios pueden presionar el botón "Enviar mensaje" para contactar al soporte o al equipo de PetNova de manera directa. Esta sección está diseñada para facilitar la comunicación entre los usuarios y el equipo.
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/AFZbka2.png[/img]"  width="100%" />
+</div>
+
+**Footer**
+
+El footer  ofrece enlaces útiles e información adicional. Incluye el enlace "¿Necesitas más información?" que redirige a la sección de contacto, así como las funciones clave de la plataforma, como gestionar, programar citas, registrar mascotas y registrar clientes. También presenta enlaces para descargar la aplicación en diferentes plataformas: iOS, Android, Windows y Mac. Además, se ofrece la posibilidad de conectarse con PetNova a través de redes sociales, proporcionando una manera fácil de mantenerse en contacto y actualizado sobre las novedades de la plataforma.
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/FjZQiU9.png[/img]"  width="100%" />
+</div>
+
 
 
 #### **5.2.1.6. Services Documentation Evidence for Sprint Review**

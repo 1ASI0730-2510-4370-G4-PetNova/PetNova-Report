@@ -5,6 +5,46 @@ El objetivo principal de esta sección es definir el diseño funcional y visual 
 ## 4.1. Style Guidelines.
 Es una serie de normas que definen la identidad visual y la interacción estética de un producto.Funciona como una guía de estilo que asegura la coherencia visual en todos los componentes del diseño, incluyendo colores, tipografías, íconos e imágenes, manteniéndolos en sintonía con la identidad visual y la esencia de la marca. A continuación, se presentan las pautas de estilo definidas para nuestro proyecto.
 
+## 4.1.1 General Style Guidelines
+
+### Branding
+
+La identidad visual de la marca **PETNOVA** representa el compromiso con el cuidado animal moderno e integral. El logotipo presenta la figura de un conejo dentro de un círculo, proyectando cercanía, agilidad y confianza. El nombre **PETNOVA** se muestra en una tipografía clara y moderna, lo que refuerza la imagen tecnológica y accesible de la plataforma.
+
+![PETNOVA_LOGO.png](PETNOVA_LOGO.png)
+
+### Typography
+
+Se utilizará la tipografía **Poppins**, ideal por su estilo limpio, amigable y altamente legible en distintos dispositivos. Se empleará en todos los niveles de texto: títulos, subtítulos, etiquetas e información dentro de formularios, garantizando una jerarquía visual clara y coherente.
+
+### Colors
+
+La paleta de colores está basada en tonos azules claros, los cuales transmiten confianza, tranquilidad y tecnología amigable. Estos colores permiten una navegación intuitiva, sin causar fatiga visual, y mantienen un entorno accesible tanto para veterinarios como para usuarios frecuentes.
+
+![Paleta_colores.png](Paleta_colores.png)
+
+**Principal:**  
+`#6ABFE3` – Celeste claro: Botones principales, títulos destacados y acciones clave.
+
+**Secundario:**  
+`#1E3A5F` – Azul profundo: Encabezados, fondo de navbar, pie de página o énfasis visual.
+
+**Fondo:**  
+- `#EAF7FC` – Celeste muy claro: Fondo de secciones, formularios, y contenedores suaves.  
+- `#FFFFFF` – Blanco puro: Fondo base de pantallas, tarjetas, inputs y elementos limpios.
+
+**Neutro:**  
+`#A0AAB2` – Gris suave: Texto secundario, íconos, bordes, descripciones.
+
+### Tone of Communication
+
+- **Amigable:** Para mensajes generales y explicaciones dentro de la plataforma, buscando cercanía con los usuarios.
+- **Profesional:** Aplicado en las descripciones de servicios, reportes médicos y perfiles de mascotas, manteniendo claridad y precisión.
+- **Empático:** Para comunicar situaciones sensibles como alertas de salud o historial médico.
+- **Informativo:** En mensajes de ayuda, tutoriales o recomendaciones veterinarias.
+- **Motivador:** Para celebrar logros como revisiones completas o mejoras en la salud de las mascotas.
+- **Formal:** En secciones legales como términos, condiciones y políticas de privacidad.
+  
 ### 4.1.2. Web Style Guidelines
 
 **Elementos Visuales:**

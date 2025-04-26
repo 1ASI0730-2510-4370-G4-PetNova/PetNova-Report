@@ -473,6 +473,11 @@ Enlace del prototipo (vista del veterinario) : https://www.figma.com/design/XjI2
 Este enfoque resalta la importancia de comprender profundamente el dominio del negocio para el cual se desarrolla el software. Su objetivo es diseñar soluciones alineadas de manera precisa con las necesidades y particularidades del negocio, garantizando que el sistema aporte verdadero valor y responda eficazmente a sus requerimientos.
 
 ### 4.6.1. Software Architecture Context Diagram 
+
+El esquema de contexto es una herramienta clave de análisis que permite visualizar y entender cómo Pet Nova se relaciona con su entorno. Esta representación facilita la identificación de oportunidades de integración, colaboración y mejora en los distintos procesos que componen la experiencia del usuario. Al mapear los elementos internos y externos que interactúan con la plataforma, se obtienen valiosas perspectivas para optimizar su funcionamiento y adaptarse de manera estratégica a las necesidades del sector veterinario.
+
+![](assets/Chapter04/System.png)
+
 ### 4.6.2. Software Architecture Container Diagrams
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design

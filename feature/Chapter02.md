@@ -297,27 +297,27 @@ En este proyecto, hemos decidido interactuar con posibles usuarios mediante entr
 
 - **Primer segmento: Médicos Veterinarios**
 
-<br><img src="" alt="" style="width: 1000px; height: auto;" ><br>
+<br><img src="./assets/Chapter02/JourneyMap1.png" alt="" style="width: 1000px; height: auto;" ><br>
 
 - **Segundo segmento: Dueños de Mascotas**
 
-<br><img src="" alt="" style="width: 1000px; height: auto;" ><br>
+<br><img src="./assets/Chapter02/JourneyMap2.png" alt="" style="width: 1000px; height: auto;" ><br>
 
 ### 2.3.4. Empathy Mapping.
 
 - **Primer segmento: Médicos Veterinarios**
-<br><img src="" alt="" style="width: 600px; height: auto;" ><br>
+<br><img src="./assets/Chapter02/EmpathyMap1.png" alt="" style="width: 600px; height: auto;" ><br>
 
 - **Segundo segmento: Dueños de Mascotas**
-<br><img src="" alt="" style="width: 600px; height: auto;" ><br>
+<br><img src="./assets/Chapter02/EmpathyMap2.png" alt="" style="width: 600px; height: auto;" ><br>
 
 ### 2.3.5. As-is Scenario Mapping.
 
 - **Primer segmento: Médicos Veterinarios**
-<br><img src="" alt="" style="width: 800px; height: auto;" ><br>
+<br><img src="./assets/Chapter02/Asis1.jpeg" alt="" style="width: 800px; height: auto;" ><br>
 
 - **Segundo segmento: Dueños de Mascotas**
-<br><img src="" alt="" style="width: 800px; height: auto;" ><br>
+<br><img src="./assets/Chapter02/Asis2.jpeg" alt="" style="width: 800px; height: auto;" ><br>
 
 
 ## 2.4. Ubiquitous Language.

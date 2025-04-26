@@ -196,23 +196,36 @@ El **wireframe** de la landing page de **PetNova** representa la estructura base
 **Encabezado Principal:**  
 Incluye el logo de PetNova, un menú de navegación simple, y una imagen principal donde se destaca el propósito de la marca: cuidar la salud y bienestar de las mascotas. Un breve mensaje de bienvenida y un botón de llamada a la acción (CTA) invitan a conocer más.
 
+ ![](assets/Chapter04/WLPAGE_V1.png)
+
 **¿Por qué elegirnos?:**  
 Una sección de fondo sólido donde se resumen las principales razones para confiar en PetNova, apoyadas en imágenes pequeñas y texto breve que destaca nuestros valores y ventajas competitivas.
+
+ ![](assets/Chapter04/WLPAGE_V2.png)
 
 **Planes de Suscripción:**  
 Mostramos tres opciones principales de servicios para mascotas, cada una presentada en una tarjeta visual, con nombre, imagen, descripción breve y un botón para más información o contratación.
 
+ ![](assets/Chapter04/WLPAGE_V3.png)
+
 **Nuestros Aliados:**  
 Un bloque con los logos de marcas reconocidas en el sector veterinario, demostrando el respaldo y la calidad de los productos y servicios que ofrecemos.
 
+ ![](assets/Chapter04/WLPAGE_V4.png)
+ 
 **Testimonios de Clientes:**  
 Sección de tres columnas donde mostramos experiencias reales de nuestros clientes, acompañadas de imágenes y citas cortas, reforzando la confianza de nuevos visitantes.
+
+ ![](assets/Chapter04/WLPAGE_V5.png)
 
 **Invitación para Veterinarios:**  
 Una llamada especial para que veterinarios se unan a PetNova, con imagen destacada, texto motivador y un botón de contacto.
 
+ ![](assets/Chapter04/WLPAGE_V6.png)
+
 **Preguntas Frecuentes (FAQ):**  
 Despejamos las dudas más comunes mediante una sección de preguntas y respuestas rápidas, haciendo que el usuario encuentre información relevante sin dificultad.
+ ![](assets/Chapter04/WLPAGE_V7.png)
 
 **Formulario de Contacto:**  
 Un formulario sencillo y visible para que los usuarios puedan enviar sus consultas, suscribirse o solicitar información adicional de manera rápida y cómoda.
@@ -220,30 +233,12 @@ Un formulario sencillo y visible para que los usuarios puedan enviar sus consult
 **Pie de Página:**  
 Sección final con datos de contacto, accesos a redes sociales, mapa de navegación básico y un pequeño recordatorio de nuestra misión: “Comprometidos con la vida y felicidad de las mascotas”.
 
-### Imágenes:
-
- ![](assets/Chapter04/WLPAGE_V1.png)
- ![](assets/Chapter04/WLPAGE_V2.png)
- ![](assets/Chapter04/WLPAGE_V3.png)
- ![](assets/Chapter04/WLPAGE_V4.png)
- ![](assets/Chapter04/WLPAGE_V5.png)
- ![](assets/Chapter04/WLPAGE_V6.png)
- ![](assets/Chapter04/WLPAGE_V7.png)
  ![](assets/Chapter04/WLPAGE_V8.png)
  
-> **Nota:** También se incluye la versión **mobile** correspondiente para cada sección mostrada, siguiendo el mismo orden y adaptándose a las dimensiones y experiencia de uso en dispositivos móviles.
+> **Nota:** También se incluye la versión **mobile** correspondiente para cada sección mostrada, siguiendo el mismo orden y adaptándose a las dimensiones y experiencia de uso en dispositivos móviles.  
 
-<img src="assets/Chapter04/WLPAGE_V1M.png" height="300px" />
-<img src="assets/Chapter04/WLPAGE_V2M.png" height="300px" />
-<br>
-<img src="assets/Chapter04/WLPAGE_V3M.png" height="300px" />
-<img src="assets/Chapter04/WLPAGE_V4M.png" height="300px" />
-<br>
-<img src="assets/Chapter04/WLPAGE_V5M.png" height="300px" />
-<img src="assets/Chapter04/WLPAGE_V6M.png" height="300px" />
-<br>
-<img src="assets/Chapter04/WLPAGE_V7M.png" height="300px" />
-<img src="assets/Chapter04/WLPAGE_V8M.png" height="300px" />
+> Para una mejor visualización de los wireframes (versión desktop y mobile), se adjunta el siguiente enlace de Figma:  
+> [Ver diseño completo en Figma](https://www.figma.com/design/JpQjwMjqnXviZtaHq3K50p/FINAL-PRESENTATION?node-id=0-1&p=f&t=IM7cVQdnnCZriTeb-0)
 
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design

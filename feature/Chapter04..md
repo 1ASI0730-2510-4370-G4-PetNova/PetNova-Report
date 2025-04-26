@@ -241,6 +241,47 @@ Sección final con datos de contacto, accesos a redes sociales, mapa de navegaci
 > `https://www.figma.com/design/JpQjwMjqnXviZtaHq3K50p/FINAL-PRESENTATION?node-id=0-1&p=f&t=IM7cVQdnnCZriTeb-0`
 
 ### 4.3.2. Landing Page Mock-up
+
+## PANTALLA 1
+La primera pantalla presenta un encabezado claro con logo, menú de navegación y botón de acceso, demostrando una jerarquía visual efectiva y arquitectura de información bien estructurada. Justo debajo, la sección hero combina una imagen emocional de una veterinaria con una mascota y un mensaje directo que comunica el valor principal del servicio. El botón de llamada a la acción está destacado con un buen contraste, guiando al usuario sin fricción. El diseño es inclusivo al utilizar una imagen que representa diversidad y empatía, y se aplican principios como el alineamiento, proximidad y énfasis para dirigir la atención hacia el mensaje principal.
+
+![](assets/Chapter04/MLPAGE_V1.png)
+
+## PANTALLA 2
+Esta sección comunica las ventajas del servicio mediante texto breve y tres tarjetas con íconos representativos. Se aplica proximidad para agrupar contenido relacionado y repetición para crear consistencia visual. Los íconos ayudan a la comprensión visual, especialmente útil para usuarios con dificultades de lectura o cognitivas, lo que evidencia un enfoque inclusivo. La arquitectura de la información es simple y clara, permitiendo captar rápidamente los beneficios sin sobrecargar al usuario.
+
+![](assets/Chapter04/MLPAGE_V2.png)
+
+## PANTALLA 3
+Contiene tarjetas individuales para cada plan, con imágenes de mascotas, precios y características principales. La estructura visual facilita la comparación, usando jerarquía para resaltar precios y beneficios. El diseño es consistente y ordenado, lo que reduce la carga cognitiva. Las imágenes representan variedad de mascotas, promoviendo la inclusión y conexión emocional con diferentes tipos de usuarios.
+
+![](assets/Chapter04/MLPAGE_V3.png)
+
+## PANTALLA 4
+Esta sección muestra los logotipos de empresas aliadas en un formato limpio y bien espaciado. El diseño es minimalista y utiliza espacio negativo de forma efectiva, lo que permite que cada logo se distinga claramente. Esta organización visual genera confianza mediante prueba social, y su presentación accesible permite que los usuarios identifiquen fácilmente a las marcas colaboradoras.
+
+![](assets/Chapter04/MLPAGE_V4.png)
+
+## PANTALLA 5
+Aquí se muestran opiniones de usuarios reales junto con sus fotos, lo que añade autenticidad y credibilidad. La disposición en bloques aplica el principio de proximidad y alinea imágenes con texto para facilitar la lectura. Las imágenes muestran diversidad, aportando un enfoque inclusivo. Además, los textos son breves y fáciles de escanear, siguiendo buenas prácticas de arquitectura de información.
+
+![](assets/Chapter04/MLPAGE_V5.png)
+
+## PANTALLA 6
+Esta sección invita a los profesionales a unirse a la plataforma, con una imagen amable y profesional acompañada de un mensaje claro y un botón de registro. La jerarquía visual destaca el llamado a la acción, y la imagen refuerza la empatía y profesionalismo. Se emplea diseño inclusivo mediante una representación positiva y cercana del personal veterinario.
+
+![](assets/Chapter04/MLPAGE_V6.png)
+
+## PANTALLA 7
+Presenta preguntas comunes en un formato sencillo y organizado, lo que facilita el acceso a la información sin sobrecargar la vista. Se aplican principios de claridad y estructura predecible, usando bloques plegables para mantener la limpieza visual. El lenguaje utilizado es accesible, pensado para todo tipo de usuarios, y la disposición responde a una buena arquitectura de información que mejora la experiencia del usuario.
+
+![](assets/Chapter04/MLPAGE_V7.png)
+
+## PANTALLA 8
+Incluye enlaces útiles, redes sociales y un campo de suscripción al boletín, organizados en bloques bien definidos. Mantiene coherencia visual con el resto del sitio mediante la misma tipografía, paleta de colores y estilo gráfico. Refuerza la navegación al ofrecer accesos rápidos a secciones clave y recursos legales. También actúa como cierre funcional del sitio, generando una sensación de estructura completa y accesible. Su diseño responsivo garantiza que se mantenga legible y funcional en todos los dispositivos.
+
+![](assets/Chapter04/MLPAGE_V8.png)
+
 ## 4.4. Web Applications UX/UI Design
 
 Crear una experiencia de usuario efectiva en aplicaciones web requiere planificar cuidadosamente cada interacción del usuario. En esta sección se muestran los wireframes, flujos de navegación y mockups que aseguran una interfaz clara y fácil de usar.

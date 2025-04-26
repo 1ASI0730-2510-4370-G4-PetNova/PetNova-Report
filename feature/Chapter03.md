@@ -4,11 +4,11 @@
 
 - **Primer segmento: Médicos Veterinarios**
 
-<br><img src="" alt="" style="width: 1000px; height: auto;" ><br>
+<br><img src="./assets/Chapter03/Tobe1.jpeg" alt="" style="width: 1000px; height: auto;" ><br>
 
 - **Segundo segmento: Dueños de Mascotas**
 
-<br><img src="" alt="" style="width: 1000px; height: auto;" ><br>
+<br><img src="./assets/Chapter03/Tobe2.jpeg" alt="" style="width: 1000px; height: auto;" ><br>
 
 
 ## 3.2. User Stories

@@ -238,7 +238,7 @@ Sección final con datos de contacto, accesos a redes sociales, mapa de navegaci
 > **Nota:** También se incluye la versión **mobile** correspondiente para cada sección mostrada, siguiendo el mismo orden y adaptándose a las dimensiones y experiencia de uso en dispositivos móviles.  
 
 Para una mejor visualización de los wireframes (versión desktop y mobile), se adjunta el siguiente enlace de Figma:  
-https://www.figma.com/design/JpQjwMjqnXviZtaHq3K50p/FINAL-PRESENTATION?node-id=0-1&p=f&t=IM7cVQdnnCZriTeb-0
+https://www.figma.com/design/XjI2alaHmyFV0MPlaPpxzO/Web-design?node-id=401-8424&t=kuv2vsPlXaFzVYvk-0
 
 ### 4.3.2. Landing Page Mock-up
 
@@ -286,7 +286,7 @@ se integra el formulario de contacto "Get in Touch" junto con el pie de página 
 > **Nota:** También se incluye la versión **mobile** correspondiente para cada sección mostrada, siguiendo el mismo orden y adaptándose a las dimensiones y experiencia de uso en dispositivos móviles.  
 
 Para una mejor visualización de los mock ups (versión desktop y mobile), se adjunta el siguiente enlace de Figma:  
-https://www.figma.com/design/JpQjwMjqnXviZtaHq3K50p/FINAL-PRESENTATION?node-id=0-1&p=f&t=IM7cVQdnnCZriTeb-0
+https://www.figma.com/design/XjI2alaHmyFV0MPlaPpxzO/Web-design?node-id=401-8424&t=kuv2vsPlXaFzVYvk-0
 
 ## 4.4. Web Applications UX/UI Design
 

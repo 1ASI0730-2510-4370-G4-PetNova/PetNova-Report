@@ -366,6 +366,8 @@ Se utilizó GitHub Pages para publicar la landing page, permitiendo su despliegu
 </div>
 
 #### **5.2.1.8. Team Collaboration Insights during Sprint**
+Para la realización de este proyecto se utilizaron diversas herramientas, destacando entre ellas Visual Studio Code y el sistema de control de versiones Git. La landing page se dividió en varias secciones, que fueron asignadas a los miembros del equipo de forma individual. Finalmente, uno de los miembros se encargó de integrar las aportaciones de cada participante, consolidando el producto final.
+
 
 
 #### **Avance de Conclusiones**
@@ -380,9 +382,13 @@ Se utilizó GitHub Pages para publicar la landing page, permitiendo su despliegu
 - Finalmente, el enfoque en UI/UX permitió construir una plataforma intuitiva y atractiva para los usuarios finales.
 
 #### **Bibliografia**
+- Sedano, L. (2024). *Manual para la gestión eficaz de clínicas veterinarias: Estrategias administrativas y organizativas*. Recuperado de [https://punto-medic.cl/blogs/manuales-y-guias/manual-para-la-gestion-eficaz-de-clinicas-veterinarias-estrategias-administrativas-y-organizativas](https://punto-medic.cl/blogs/manuales-y-guias/manual-para-la-gestion-eficaz-de-clinicas-veterinarias-estrategias-administrativas-y-organizativas)
+
+- BioSystems S.A. (s.f.). *Guía de buenas prácticas en veterinaria*. Barcelona, España: ioSystems S.A. Recuperado de [https://covetrija.org/wp-content/uploads/2021/10/VET_GuiaBuenasPracticas_ESP.pdf](https://covetrija.org/wp-content/uploads/2021/10/VET_GuiaBuenasPracticas_ESP.pdf)
 
 
 #### **Anexo**
-1. Despliegue del Landing Page: 
-2. Figma con los User Flow Diagrams, wireframes y mockups de la landing page.: 
+1. Despliegue del Landing Page: https://1asi0730-2510-4370-g4-petnova.github.io/Landing-Page-NovaPet/  
+2. Figma con los User Flow Diagrams, wireframes y mockups de la landing page.: https://www.figma.com/design/XjI2alaHmyFV0MPlaPpxzO/luciana-cachuda?node-id=401-8424&t=az7BntwUG01czpON-1
+ 
 

@@ -329,6 +329,7 @@ https://1asi0730-2510-4370-g4-petnova.github.io/Landing-Page-NovaPet/
     <td> 8 </td>
   </tr>
 </table>
+
 #### **5.2.1.2. Aspect Leaders and Collaborators.**
 
 | **Team Member (Last Name, First Name)**        | **GitHub Username**    | **Capítulo I: Introducción (L/C)** | **Capítulo II: Requirements Elicitation & Analysis (L/C)** | **Capítulo III: Requirements Specification (L/C)** | **Capítulo IV: Product Design (L/C)** | **Capítulo V: Product Implementation, Validation & Deployment (L/C)** |
@@ -341,6 +342,8 @@ https://1asi0730-2510-4370-g4-petnova.github.io/Landing-Page-NovaPet/
 
 
 #### **5.2.1.3. Sprint Backlog 1**
+En el primer sprint, el equipo enfocó su trabajo en crear una landing page que fuera tanto funcional como atractiva, asignando las tareas en el tablero de Sprint según las habilidades de cada miembro.
+
 
 
 
@@ -353,11 +356,21 @@ https://1asi0730-2510-4370-g4-petnova.github.io/Landing-Page-NovaPet/
 
 #### **5.2.1.6. Services Documentation Evidence for Sprint Review**
 
+En esta entrega del proyecto, el enfoque principal fue el desarrollo de la landing page, por lo que no se requirió la implementación de servicios adicionales.
 
 #### **5.2.1.8. Team Collaboration Insights during Sprint**
 
-#### **Avance de Conclusiones**
 
+#### **Avance de Conclusiones**
+- La colaboración efectiva entre los miembros del equipo fue clave para avanzar de manera organizada y cubrir todas las etapas del proyecto. Cada integrante asumió con claridad su rol y responsabilidades, facilitando una ejecución ordenada.
+
+- La definición de User Stories y del Product Backlog permitió priorizar las funcionalidades esenciales, asegurando que el producto respondiera a las necesidades del mercado.
+
+- Un diseño de arquitectura sólido y orientado a objetos favoreció la escalabilidad y el mantenimiento, minimizando riesgos en el despliegue.
+
+- El uso de metodologías ágiles, como reuniones de sprint y retrospectivas, ayudó a ajustar prioridades y mejorar continuamente el flujo de trabajo.
+
+- Finalmente, el enfoque en UI/UX permitió construir una plataforma intuitiva y atractiva para los usuarios finales.
 
 #### **Bibliografia**
 

@@ -147,7 +147,7 @@ Contar con un sistema de búsqueda eficiente es clave para que los usuarios pued
 - **Búsqueda por Relevancia:** Ordena los resultados según qué tan útiles o relacionados son con lo buscado, gracias a algoritmos que priorizan la información más pertinente.
 
 
-# 4.2.5. Navigation Systems
+### 4.2.5. Navigation Systems
 En Pet Nova, la navegación en el Landing Page y las aplicaciones se ha diseñado cuidadosamente para guiar al usuario a través de una experiencia fluida y eficaz, asegurando que puedan cumplir sus metas sin complicaciones. A continuación, se detallan las principales acciones y técnicas que facilitarán el recorrido del contenido:
 
 ## Navegación Intuitiva:
@@ -197,6 +197,28 @@ Crear una experiencia de usuario efectiva en aplicaciones web requiere planifica
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
 ### 4.4.4. Web Applications User Flow Diagrams
+![class_diagram.jpeg](assets/Chapter04/class_diagram.jpeg)
+
+Interacción cuando un cliente gestiona su perfil
+
+![User_Flow_Diagrams1.jpeg](assets/Chapter04/User_Flow_Diagrams1.jpeg)
+
+Interacción cuando un cliente se registra y procede a gestionar una cita
+
+![User_Flow_Diagrams2.jpeg](assets/Chapter04/User_Flow_Diagrams2.jpeg)
+
+Interaccion cuando el cliente gestiona un historial de mascotas
+
+!User_Flow_Diagrams3.jpeg](assets/Chapter04/User_Flow_Diagrams3.jpeg)
+
+Interaccion cuando el cliente gestiona una mascota
+
+![User_Flow_Diagrams4.jpeg](assets/Chapter04/User_Flow_Diagrams4.jpeg)
+
+Interaccion cuando el usuario gestiona un cliente
+
+![User_Flow_Diagrams5.jpeg](assets/Chapter04/User_Flow_Diagrams5.jpeg)
+feature/assets/Chapter04/User Flow Diagrams5.jpeg
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 
@@ -207,6 +229,10 @@ Este enfoque resalta la importancia de comprender profundamente el dominio del n
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+
+
+![class_diagram.jpeg](assets/Chapter04/class_diagram.jpeg)
+
 ### 4.7.2. Class Dictionary
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram 

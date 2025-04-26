@@ -358,6 +358,13 @@ En el primer sprint, el equipo enfocó su trabajo en crear una landing page que 
 
 En esta entrega del proyecto, el enfoque principal fue el desarrollo de la landing page, por lo que no se requirió la implementación de servicios adicionales.
 
+#### **5.2.1.7. Software Deployment Evidence for Sprint Review**
+Se utilizó GitHub Pages para publicar la landing page, permitiendo su despliegue directamente desde el repositorio de código. A continuación, se comparte el enlace al sitio: 
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/Qj2QWWe.png[/img]"  width="100%" />
+</div>
+
 #### **5.2.1.8. Team Collaboration Insights during Sprint**
 
 

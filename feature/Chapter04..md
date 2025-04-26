@@ -327,6 +327,30 @@ notificaciones
 
 --------------
 
+historial clinico
+
+Listado de historial clinico
+
+![hist_list.png](assets/Chapter04/hist_list.png)
+
+Registro de historial clinico
+
+![hist_post.png](assets/Chapter04/hist_post.png)
+
+Confirmacion de registro de historial clinico
+  
+![hist_confirm.png](assets/Chapter04/hist_confirm.png)
+
+Descarga de historial clinico
+
+![hist_download.png](assets/Chapter04/hist_download.png)
+
+
+
+
+
+-------------
+
 
 ### 4.4.4. Web Applications User Flow Diagrams
 

@@ -285,7 +285,7 @@ se integra el formulario de contacto "Get in Touch" junto con el pie de página 
 
 > **Nota:** También se incluye la versión **mobile** correspondiente para cada sección mostrada, siguiendo el mismo orden y adaptándose a las dimensiones y experiencia de uso en dispositivos móviles.  
 
-Para una mejor visualización de los wireframes (versión desktop y mobile), se adjunta el siguiente enlace de Figma:  
+Para una mejor visualización de los mock ups (versión desktop y mobile), se adjunta el siguiente enlace de Figma:  
 https://www.figma.com/design/JpQjwMjqnXviZtaHq3K50p/FINAL-PRESENTATION?node-id=0-1&p=f&t=IM7cVQdnnCZriTeb-0
 
 ## 4.4. Web Applications UX/UI Design

@@ -63,6 +63,23 @@ La arquitectura de la información es fundamental para organizar y estructurar e
 
 ## 4.2.1. Organization Systems
 
+El objetivo del sistema de organización de la página es definir una estructura visual clara que facilite tanto la presentación del contenido como la navegación del usuario. En el caso de **PetNova**, el diseño del contenido está segmentado en módulos y se centra en los siguientes elementos:
+
+### Página principal (Homepage)
+
+Esta se estructura en varias secciones, entre las que se encuentran:
+- Home
+- Why Choose Us?
+- Contact
+- Service Features
+- Sign In
+- Sign Up
+
+![Home Page](assets/Chapter04/Home_page.png)
+
+Los sistemas de organización desempeñan un papel fundamental en la presentación clara y coherente del contenido, ya que favorecen tanto la navegación como la comprensión. Para lograrlo, se aplican distintos métodos.
+
+
 ### 4.2.2. Labeling Systems
 
 **Sistemas de Etiquetado**

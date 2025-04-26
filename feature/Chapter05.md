@@ -356,6 +356,27 @@ En el primer sprint, el equipo enfocó su trabajo en crear una landing page que 
 
 #### **5.2.1.4. Development Evidence for Sprint Review**
 
+### **Commits on Apr 26, 2025**
+
+| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Committed By** | **Committed On** |
+|----------------|------------|---------------|--------------------|------------------|------------------|
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | 671b8dc | feat(images): add new images for project assets | ghostnotfound404 | Apr 26, 2025 |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | bfb2010 | Merge branch 'develop' of github.com:1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public into develop | ghostnotfound404 | Apr 26, 2025 |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | fa2c951 | feat(index): add plans | Lucianxaaa | Apr 26, 2025 |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | 00b1ce6 | feat(index): update styles and content for 'Casos de éxito' and 'Planes' sections | Lucianxaaa | Apr 26, 2025 |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | 2d1a453 | fix(landing page styles_css): feat update hero section | Lucianxaaa | Apr 26, 2025 |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | 3fdb9a1 | fix(landing page): feat update hero section | Lucianxaaa | Apr 26, 2025 |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | f3e4b79 | fix(header): style header and navigation for responsiveness | devfab17 | Apr 26, 2025 |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | 5b29013 | fix(header): update structure and navigation links | devfab17 | Apr 26, 2025 |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | 0ac9c10 | fix: upload images and change code of footer section | mariopvdev | Apr 26, 2025 |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | a0fe5c2 | feat: update 'Why Choose Us' section layout and replace image | sebasepe | Apr 26, 2025 |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | 46b5dbb | feat: design veterinarian section with features and call-to-action | sebasepe | Apr 26, 2025 |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | 77bdaaf | feat: update partners and customers sections with new layout | sebasepe | Apr 26, 2025 |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | 9285a1a | feat: redesign subscriptions section with plan cards and images | sebasepe | Apr 26, 2025 |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | 285c2d9 | feat: update 'Why Choose Us' section layout with three images and video icons | sebasepe | Apr 26, 2025 |
+
+---
+
 
 
 #### **5.2.1.5. Execution Evidence for Sprint Review**

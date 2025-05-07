@@ -315,7 +315,7 @@ https://1asi0730-2510-4370-g4-petnova.github.io/Landing-Page-NovaPet/
   </tr>
   <tr>
     <td style="font-weight: bold;"> Sprint 1 Goal </td>
-    <td> Diseñar y desarrollar las secciones principales de la Landing Page de Pet Nova para permitir a los usuarios explorar sus funcionalidades y comprender los beneficios que ofrece el servicio. </td>
+    <td> Diseñar y desarrollar las secciones principales de la Landing Page de Pet Nova, incluyendo la barra de navegación, la sección 'Why Choose Us?', las opciones de suscripción, las reseñas de clientes, el formulario de contacto y la sección de videos informativos, para permitir a los usuarios explorar sus funcionalidades de manera intuitiva, comprender los beneficios que ofrece el servicio (como la gestión de citas y el monitoreo de mascotas), integrar elementos visuales atractivos creados con Canva, realizar pruebas iniciales de usabilidad y optimizar la experiencia para dispositivos móviles y desktops, asegurando un diseño responsive y accesible.     </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Sprint 1 Velocity </td>

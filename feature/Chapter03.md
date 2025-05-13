@@ -12,8 +12,6 @@
 
 
 ## 3.2. User Stories
-# Gestión de Usuarios
-**EP01: Como responsable del sistema, quiero administrar los usuarios para garantizar que solo personas autorizadas accedan a la plataforma.**
 
 | User Story ID | Título | Descripción|Criterios de Aceptación|Relacionado con (Epic ID)|
 |---------------|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|---|

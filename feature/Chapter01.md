@@ -52,6 +52,62 @@ La aplicación Pet Nova tiene como objetivo brindar una solución integral para 
 
 El desarrollo de la aplicación Pet Nova se fundamenta en una serie de suposiciones clave que orientan tanto el diseño como la implementación del proyecto. Estas suposiciones surgen de una comprensión preliminar sobre las necesidades y dificultades de nuestros usuarios principales, así como de los objetivos que se esperan alcanzar a nivel empresarial. A lo largo del proceso, dichas suposiciones serán evaluadas y ajustadas mediante pruebas constantes y retroalimentación, con el fin de garantizar que la solución ofrecida cumpla con las expectativas y aborde de manera efectiva los retos identificados.
 
+**Features:**
+
+- Plataforma de administración de citas para optimizar la planificación del tiempo en consultorios veterinarios.
+- Almacenamiento y consulta expedientes clínicos de las mascotas de manera eficiente y protegida.
+- Alertas automáticas para recordar fechas de vacunación, terapias o chequeos médicos.
+- Área dedicada a la comercialización de artículos veterinarios, con un catálogo disponible para los clientes.
+- Módulo de generación de informes financieros, manejo de stock y evaluación de datos para incrementar la productividad administrativa.
+- Diseño amigable y flexible, compatible con smartphones, tablets y equipos de escritorio.
+
+**Business Outcomes:**
+
+- Optimización de los procesos en las clínicas, disminuyendo el tiempo invertido en labores de gestión.
+- Mayor satisfacción de los clientes, al brindarles un acceso sencillo a los registros de salud de sus mascotas y agilizando la comunicación con el centro veterinario.
+- Creación de nuevas fuentes de ingresos mediante planes premium con funcionalidades exclusivas y ganancias por la comercialización de insumos veterinarios.
+- Minimización de equivocaciones y demoras en la operativa clínica, favoreciendo la fidelización de clientes y captando nuevos usuarios.
+
+**Users:**
+- **Segmento 1 – Médicos Veterinarios:** Establecimientos veterinarios de diferentes escalas, desde consultorios individuales hasta hospitales con varios especialistas. Este grupo necesita agilizar la administración cotidiana de sus instalaciones, mejorando el control de datos médicos, existencias y agendas, para incrementar su rendimiento y brindar una atención más calificada.
+
+- **Segmento 2 – Dueños de Mascotas:** Personas que requieren administrar efectivamente el bienestar de sus animales, incluyendo usuarios jóvenes habituados a plataformas digitales y aquellos con menor experiencia tecnológica pero que buscan un método más práctico para gestionar los registros de salud de sus mascotas.
+
+**User Outcomes & Benefits:**
+
+- Ahorro de tiempo en la programación de citas y mantenimiento de expedientes veterinarios.
+- Mayor control en la administración de inventarios y artículos.
+- Fortalecimiento del vínculo con los clientes, proporcionando un acceso inmediato a los datos de salud de sus animales.
+- Agilización de los procesos administrativos en las clínicas, reduciendo fallos y demoras.
+
+**User Assumptions:**
+
+- **¿Quién es el usuario?**
+  Los usuarios principales son las clínicas veterinarias y los dueños de mascotas.<br>
+
+- **¿Dónde encaja la aplicación en su vida?**
+  La solución se incorpora en el día a día de los centros veterinarios y en la gestión del cuidado de las mascotas, simplificando su atención y seguimiento médico.<br>
+
+- **¿Qué problemas tienen nuestros usuarios y como se puede resolver?**
+  Los usuarios carecen de un sistema especializado para la administración completa de consultorios veterinarios y de un espacio centralizado donde consultar fácilmente el historial médico de un animal. Nuestra plataforma soluciona estas necesidades ofreciendo un entorno unificado para gestionar todos los aspectos de la clínica y agilizar el acceso a los registros de salud.<br>
+
+- **¿Dónde y cuándo es usada nuestra aplicación?**
+  La herramienta se emplea principalmente en centros veterinarios. Los momentos críticos de uso son durante las consultas médicas y cuando los propietarios cambian de veterinario y requieren transferir el historial clínico o el registro de vacunas a otra clínica.<br>
+
+- **¿Qué características son importantes?**
+  Los elementos clave incluyen una interfaz intuitiva en móviles, PCs y portátiles. Asimismo, es fundamental evitar campos redundantes u obligatorios que puedan dificultar el proceso de ingreso de datos.<br>
+
+- **¿Cómo debe verse nuestra aplicación y como debe comportarse?**
+ Nuestro sistema debe presentar un diseño práctico y accesible, tanto para profesionales como para dueños de mascotas. Debe posibilitar un registro ágil de pacientes y la actualización de expedientes, eliminando requisitos innecesarios que no contribuyan al proceso de atención.<br>
+
+**Business Assumptions**
+
+- Los veterinarios y su equipo adoptarán soluciones digitales si estas mejoran la productividad en sus instalaciones.
+- Los propietarios de animales apreciarán una plataforma que les permita consultar la información de salud de sus mascotas en cualquier momento.
+- Las clínicas veterinarias estarán abiertas a contratar suscripciones premium o funcionalidades avanzadas si estas mejoran su eficiencia.
+- El sector veterinario aún emplea métodos tradicionales o obsoletos, generando ineficiencias que la plataforma puede solucionar.
+- Existirá una buena recepción de la herramienta tanto por usuarios jóvenes con alta afinidad tecnológica como por aquellos con menor familiaridad con soluciones digitales.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
 Con el fin de garantizar que nuestra solución responda adecuadamente a las necesidades y expectativas de los usuarios, hemos planteado una serie de hipótesis siguiendo el enfoque Lean UX. Esta metodología nos facilita validar nuestras suposiciones mediante ciclos iterativos y adaptaciones continuas basadas en la retroalimentación de los usuarios.

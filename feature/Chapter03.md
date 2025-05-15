@@ -50,6 +50,11 @@
 | US33          | Monitoreo de signos vitales | Como dueño de mascotas o veterinario, quiero integrar dispositivos IoT para monitorear la salud de las mascotas en tiempo real.|**Escenario 1:** Visualización de datos en tiempo real <br>**Dado que** un dispositivo IoT está conectado al sistema,  <br>**Cuando** el dispositivo envía datos de signos vitales (ej: frecuencia cardíaca, temperatura), <br>**Entonces** el sistema debe mostrarlos en un panel actualizado cada 5 segundos.  <br><br>**Escenario 2:** Conexión fallida de dispositivo <br>**Dado que** el dispositivo IoT pierde conexión, <br>**Cuando** el sistema detecta la desconexión por más de 10 segundos,  <br>**Entonces** debe mostrar una alerta al usuario y registrar el evento en el historial.  |EP09|
 | US34          | Acceso remoto a datos de salud | Como veterinario, quiero visualizar los datos históricos de dispositivos IoT (actividad, sueño, ingesta de agua) para diagnosticar patrones anormales en mis pacientes.|**Escenario 1:** Consulta de historial completo <br>**Dado que** el veterinario selecciona una mascota y un rango de fechas, <br>**Cuando** solicita el historial de salud (ej: últimos 7 días), <br>**Entonces** el sistema debe mostrar gráficos y tablas con los datos almacenados. <br><br>**Escenario 2:** Filtrado de datos por métrica <br>**Dado que** el veterinario necesita analizar solo la ingesta de agua, <br>**Cuando** aplica un filtro para esa métrica específica, <br>**Entonces** el sistema debe ocultar los datos no relevantes y resaltar tendencias anormales.|EP09|
 | US35          | Configuración de umbrales de alerta | Como médico veterinario, quiero definir umbrales personalizados (ej: fiebre >39°C) para que el sistema envíe notificaciones automáticas a dueños y veterinarios.|**Escenario 1:** Creación de un umbral personalizado <br>**Dado que** el veterinario accede a la configuración de alertas, <br>**Cuando** define un nuevo umbral (ej: temperatura >39°C para perros), **Entonces** el sistema debe guardar la regla y aplicarla a las mascotas asociadas. <br><br>**Escenario 2:** Notificación por umbral excedido **Dado que** se ha configurado un umbral para "actividad física <30min/día", <br>**Cuando** el dispositivo reporta un valor inferior, <br>**Entonces** el sistema debe enviar una notificación push y por correo al dueño y veterinario.|EP09|
+| US36 | Gestión de Incidencias Técnicas | Como usuario Soporte Técnico, quiero registrar y gestionar incidencias **técnicas** reportadas para resolver problemas de la plataforma. | **Escenario 1:** Registro de **incidencia** <br> **Dado que** un usuario reporta un problema, <br> **Cuando** el soporte técnico crea un **ticket** de incidencia con los detalles, <br> **Entonces** el sistema debe guardar la incidencia y notificar al equipo técnico. <br><br> **Escenario 2:** Actualización del **estado** de incidencia <br> **Dado que** el soporte técnico está trabajando en una incidencia, <br> **Cuando** actualiza el estado (ej: en proceso, resuelto), <br> **Entonces** el sistema debe registrar el cambio y notificar al usuario afectado. | EP09 |
+| US37 | Mantenimiento y Backup de Datos | Como Administrador DevOps, quiero realizar backups y mantenimiento de la base de datos para asegurar la integridad y disponibilidad de la información. | **Escenario 1:** Realización de backup periódico <br> **Dado que** el sistema está en producción, <br> **Cuando** se programa una tarea automática de backup, <br> **Entonces** se debe crear una copia de seguridad sin afectar la disponibilidad. <br><br> **Escenario 2:** Restauración de datos <br> **Dado que** ocurre una pérdida o corrupción de datos, <br> **Cuando** se utiliza un backup para restaurar, <br> **Entonces** el sistema debe recuperar la información al estado previo al incidente.|EP10|
+| US38 | Revisión de Logs y Accesos | Como auditor de seguridad, quiero revisar los registros de accesos y cambios en el sistema para asegurar el cumplimiento de políticas y detectar anomalías. | **Escenario 1:** Acceso a logs de usuario <br> **Dado que** un auditor accede al sistema, <br> **Cuando** solicita los registros de acceso de un usuario, <br> **Entonces** el sistema debe mostrar el historial completo de accesos. <br><br> **Escenario 2:** Detección de actividad sospechosa <br> **Dado que** el sistema analiza patrones de acceso, <br> **Cuando** detecta múltiples intentos fallidos de login, <br> **Entonces** debe generar una alerta para revisión inmediata.|EP11|
+| US39 | Configuración de Fake API | Como integrador, quiero configurar la fake API para simular respuestas y facilitar el desarrollo y pruebas del sistema. | **Escenario 1:** Definición de endpoints falsos <br> **Dado que** se requiere simular la API, <br> **Cuando** se configuran endpoints con respuestas predefinidas, <br> **Entonces** el sistema debe devolver datos simulados para pruebas. <br><br> **Escenario 2:** Actualización de respuestas simuladas <br> **Dado que** cambian los requisitos, <br> **Cuando** se modifican las respuestas de la fake API, <br> **Entonces** las pruebas deben reflejar los nuevos datos simulados.|EP12|
+| US40 | Desarrollo y Despliegue de API Interna | Como desarrollador/integrador, quiero crear y desplegar la API interna para conectar la base de datos con la aplicación. | **Escenario 1:** Implementación de endpoints <br> **Dado que** se tiene una base de datos funcional, <br> **Cuando** se desarrollan endpoints REST para CRUD, <br> **Entonces** la aplicación debe poder consumir y manipular datos correctamente. <br><br> **Escenario 2:** Despliegue en ambiente de prueba <br> **Dado que** la API está lista, <br> **Cuando** se despliega en ambiente de staging, <br> **Entonces** debe estar disponible para pruebas integradas con la app web.|EP12|
 | US23          | Cambio de Idioma en la App Web | Como usuario dueño de mascota o medico veterinario, quiero tener la opción de cambiar el idioma de la aplicación web para poder utilizarla en inglés o español, de acuerdo con mi preferencia.|**Escenario 1:** Cambio exitoso de idioma<br>**Dado que** el usuario accede a la configuración de idioma,<br>**Cuando** selecciona "Español" o "Inglés" y guarda la preferencia,<br>**Entonces** la interfaz debe actualizarse inmediatamente al idioma seleccionado, incluyendo menús, botones y contenido estático.<br><br>**Escenario 2:** Persistencia de preferencia<br>**Dado que** el usuario ha cambiado el idioma anteriormente,<br>**Cuando** cierra sesión y vuelve a ingresar,<br>**Entonces** el sistema debe mantener el último idioma seleccionado.|EP10|
 
 ---
@@ -317,6 +322,42 @@ Asimismo, utilizamos la herramienta “Planning Poker Online” para poder votar
       <td>Como médico veterinario, quiero definir umbrales personalizados (ej: fiebre >39°C) para que el sistema envíe notificaciones automáticas a dueños y veterinarios.</td>
       <td>8</td>
     </tr>
+        <tr>
+      <td>36</td>
+      <td>US36</td>
+      <td>Gestión de Incidencias Técnicas</td>
+      <td>Como usuario Soporte Técnico, quiero registrar y gestionar incidencias técnicas reportadas para resolver problemas de la plataforma.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>US37</td>
+      <td>Mantenimiento y Backup de Datos</td>
+      <td>Como Administrador DevOps, quiero realizar backups y mantenimiento de la base de datos para asegurar la integridad y disponibilidad de la información.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>US38</td>
+      <td>Revisión de Logs y Accesos</td>
+      <td>Como auditor de seguridad, quiero revisar los registros de accesos y cambios en el sistema para asegurar el cumplimiento de políticas y detectar anomalías.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>US39</td>
+      <td>Configuración de Fake API</td>
+      <td>Como integrador, quiero configurar la fake API para simular respuestas y facilitar el desarrollo y pruebas del sistema.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>US40</td>
+      <td>Desarrollo y Despliegue de API Interna</td>
+      <td>Como desarrollador/integrador, quiero crear y desplegar la API interna para conectar la base de datos con la aplicación.</td>
+      <td>5</td>
+    </tr>
+
   </tbody>
 </table>
 

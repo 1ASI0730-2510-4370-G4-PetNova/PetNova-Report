@@ -75,7 +75,7 @@ Esta se estructura en varias secciones, entre las que se encuentran:
 - Sign In
 - Sign Up
 
-![Home Page](assets/Chapter04/FINAL_HOMEPAGE.png)
+![Home Page](assets/Chapter04/FINAL_HOMEPAGE.jfif)
 
 Los sistemas de organización desempeñan un papel fundamental en la presentación clara y coherente del contenido, ya que favorecen tanto la navegación como la comprensión. Para lograrlo, se aplican distintos métodos.
 
@@ -245,7 +245,7 @@ https://www.figma.com/design/XjI2alaHmyFV0MPlaPpxzO/Web-design?node-id=401-8424&
 ## PANTALLA 1
 La primera pantalla presenta un encabezado claro con logo, menú de navegación y botón de acceso, demostrando una jerarquía visual efectiva y arquitectura de información bien estructurada. Justo debajo, la sección hero combina una imagen emocional de una veterinaria con una mascota y un mensaje directo que comunica el valor principal del servicio. El botón de llamada a la acción está destacado con un buen contraste, guiando al usuario sin fricción. El diseño es inclusivo al utilizar una imagen que representa diversidad y empatía, y se aplican principios como el alineamiento, proximidad y énfasis para dirigir la atención hacia el mensaje principal.
 
-![](assets/Chapter04/FINAL_MOCKUP_LANIDNG.png)
+![](assets/Chapter04/FINAL_MOCKUP_LANIDNG.jfif)
 
 ## PANTALLA 2
 Esta sección comunica las ventajas del servicio mediante texto breve y tres tarjetas con íconos representativos. Se aplica proximidad para agrupar contenido relacionado y repetición para crear consistencia visual. Los íconos ayudan a la comprensión visual, especialmente útil para usuarios con dificultades de lectura o cognitivas, lo que evidencia un enfoque inclusivo. La arquitectura de la información es simple y clara, permitiendo captar rápidamente los beneficios sin sobrecargar al usuario.

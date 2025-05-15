@@ -153,10 +153,10 @@ En Pet Nova, la navegación en el Landing Page y las aplicaciones se ha diseñad
 ## Navegación Intuitiva:
 La navegación en el Landing Page y en las aplicaciones está estructurada para ser clara y accesible, permitiendo que los usuarios encuentren lo que buscan sin esfuerzo. Se emplean menús desplegables en la parte superior de la página y enlaces fáciles de identificar en el pie de página. Estos menús están diseñados para dirigir al usuario a las áreas principales:
 
-## Servicios
-## Historial clínico
-## Productos y servicios veterinarios
-## Soporte
+- **Servicios
+- **Historial clínico
+- **Productos y servicios veterinarios
+- **Soporte
 
 ## Llamadas a la Acción (CTA):
 Las llamadas a la acción están estratégicamente ubicadas para motivar a los usuarios a realizar tareas clave, como registrarse para crear una cuenta, consultar servicios veterinarios o agendar una cita. Los botones de CTA son visibles, con colores contrastantes para atraer la atención y facilitar la interacción.
@@ -164,9 +164,9 @@ Las llamadas a la acción están estratégicamente ubicadas para motivar a los u
 ## Navegación con Pestañas:
 En la Web Application, se implementa un sistema de navegación por pestañas que permite a los usuarios moverse entre secciones clave sin necesidad de recargar la página. Esto incluye:
 
-## Historial de Salud de las Mascotas
-## Agenda de Citas
-## Productos
+# Historial de Salud de las Mascotas
+# Agenda de Citas
+# Productos
 
 Esto facilita una experiencia rápida y sin interrupciones, especialmente útil para los veterinarios que necesitan acceder a la información de manera eficiente.
 

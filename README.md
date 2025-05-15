@@ -102,15 +102,15 @@ Se redactaron y diagramaron los contenidos asignados a cada integrante en format
 Además, se han generado los artefactos necesarios utilizando las herramientas recomendadas, y se llevaron a cabo reuniones periódicas para coordinar el avance de los elementos del informe y comunicar los progresos del Sprint 2, centrado en el desarrollo de la aplicación web.
 
 <div style="text-align: center;">
-  <img src="https://imgur.com/jPOPVpQ" alt="Insight6" width="100%" />
+  <img src="feature/assets/Chapter01/Insight6.png" alt="Imagen del Journey Mapp Owner" width="100%" />
 </div>
 
 <div style="text-align: center;">
-  <img src="https://imgur.com/sMZ0ZjU" alt="Insight7" width="100%" />
+  <img src="feature/assets/Chapter01/Insight7.png" alt="Imagen del Journey Mapp Owner" width="100%" />
 </div>
 
 <div style="text-align: center;">
-  <img src="https://imgur.com/SheslxV" alt="Insight8" width="100%" />
+  <img src="feature/assets/Chapter01/Insight8.png" alt="Imagen del Journey Mapp Owner" width="100%" />
 </div>
 
 ![Insight9](  )

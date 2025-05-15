@@ -578,17 +578,132 @@ En el segundo sprint, el equipo se enfocó en iniciar el desarrollo de la Web Ap
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
+| Repositorio                                                                 | Rama     | Commit ID | Mensaje de Commit                        | Cuerpo del Mensaje                        | Fecha de Commit |
+|-----------------------------------------------------------------------------|----------|-----------|------------------------------------------|-------------------------------------------|-----------------|
+| https://github.com/1ASI0730-2510-4370-G4-PetNova/PetNova-Fronted | PetNova-LandingPage/main     | bb84e62   | ci: add RailWay Web Apps workflow file |                                           | 14/05/2025      |
+
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
 En el Sprint 2 se inició el desarrollo de la Web Application de Pet Nova, implementando funcionalidades esenciales como el registro e inicio de sesión de usuarios, la gestión de perfiles, el registro de mascotas y las notificaciones de citas. Estas funcionalidades permiten a los usuarios (veterinarios y dueños de mascotas) interactuar con la plataforma de manera inicial, facilitando la autenticación y la gestión de datos básicos. A continuación, se muestran las evidencias.
+**US02**
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/JROcPpX.png[/img]" width="100%" />
+</div>
+
+**US02**
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/xYaKBXy.png[/img]" width="100%" />
+</div>
+
+**US03**
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/bEdNRPA.png[/img]" width="100%" />
+</div>
+
+**US03**
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/3f8UYmL.png[/img]" width="100%" />
+</div>
+
+**US25**
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/37XcGPQ.png[/img]" width="100%" />
+</div>
+
+**US04**
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/HJzdYzD.png[/img]" width="100%" />
+</div>
+
+**US09**
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/8HhZZ52.png[/img]" width="100%" />
+</div>
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+En la entrega del segundo sprint, se completó la implementación de la landing page funcional, cumpliendo con las user stories correspondientes a este entregable. Además, se lanzó una versión preliminar de la aplicación web. Link del Web Aplication: [WEB APLICATION](https://petnova-fronted-production.up.railway.app)
+
+**Capturas de pantalla landing page:**
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/IRYz79z.png[/img]"  width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/zwxLecZ.png[/img]"  width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/ZV9nhgF.png[/img]"  width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/uo0xEiV.png[/img]"  width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/rDngf4T.png[/img]"  width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/RxzVkV7.png[/img]"  width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/Ybk9Cdu.png[/img]"  width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/AFZbka2.png[/img]"  width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/FjZQiU9.png[/img]"  width="100%" />
+</div>
+
+**Capturas de pantalla Web Application:**
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/JROcPpX.png[/img]" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/xYaKBXy.png[/img]" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/bEdNRPA.png[/img]" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/3f8UYmL.png[/img]" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/37XcGPQ.png[/img]" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/HJzdYzD.png[/img]" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/8HhZZ52.png[/img]" width="100%" />
+</div>
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
 Para el desarrollo de la Web Application en este sprint, se utilizaron herramientas clave como Visual Studio Code para la escritura de código, Git para el control de versiones, y GitHub para la gestión de ramas y pull requests. Las funcionalidades de la Web App, como el registro e inicio de sesión, gestión de perfiles, registro de mascotas y notificaciones, se dividieron en tareas específicas asignadas a cada miembro del equipo según sus habilidades. Un integrante se encargó de integrar las contribuciones individuales, asegurando la cohesión del producto final.
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/jOq2ETh.png[/img]" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/N4wzfhc.png[/img]" width="100%" />
+</div>
 
 #### **Avance de Conclusiones**
 
@@ -601,6 +716,14 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
 - El uso de metodologías ágiles, como reuniones de sprint y retrospectivas, ayudó a ajustar prioridades y mejorar continuamente el flujo de trabajo.
 
 - Finalmente, el enfoque en UI/UX permitió construir una plataforma intuitiva y atractiva para los usuarios finales.
+  
+- Progreso satisfactorio en la construcción de la Web Application: En el Sprint 2, el equipo logró iniciar el desarrollo de la Web Application de Pet Nova, implementando funcionalidades clave como el registro e inicio de sesión de usuarios, gestión de perfiles, registro de mascotas y notificaciones de citas. Esto permitió un avance significativo en la estructura de la aplicación, enfocándose en una interfaz intuitiva y la integración inicial con la base de datos MySQL.
+  
+- Mejoras en la planificación y seguimiento de tareas: Durante este sprint, se mantuvo la misma capacidad de trabajo de 8 Story Points que en el Sprint 1. La planificación y distribución de tareas se realizó de acuerdo con las habilidades de los miembros del equipo, lo que contribuyó a la eficiente asignación de responsabilidades y al progreso constante hacia el objetivo del sprint.
+  
+- Lecciones aprendidas sobre la documentación de commits: A partir de las retrospectivas del Sprint 1, se identificó la necesidad de mejorar la documentación de los commits. Este aspecto fue abordado en Sprint 2, ya que se tomaron medidas para que los mensajes de commit fueran más descriptivos y claros, lo que facilitó el seguimiento del progreso y la colaboración dentro del equipo.
+
+- Desarrollo colaborativo y herramientas utilizadas: El equipo utilizó herramientas como Visual Studio Code, Git y GitHub para asegurar una colaboración fluida y el control adecuado de versiones. Estas herramientas permitieron la integración de tareas individuales de manera efectiva, lo que resultó en una versión preliminar funcional de la Web Application de Pet Nova, demostrando la importancia de las plataformas de colaboración y control de código en proyectos ágiles.
 
 #### **Bibliografia**
 
@@ -610,6 +733,7 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
 
 #### **Anexo**
 
-1. Despliegue del Landing Page: https://1asi0730-2510-4370-g4-petnova.github.io/Landing-Page-NovaPet/
-2. Figma con los User Flow Diagrams, wireframes y mockups de la landing page.: https://www.figma.com/design/XjI2alaHmyFV0MPlaPpxzO/Web-design?node-id=401-8424&t=kuv2vsPlXaFzVYvk-0
-3. Video De Exposición TB1: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a301_upc_edu_pe/Eqi44YEDeiVKgGPNfaTVK6MBWYenSQeOT--MkZtImi2TbQ?e=86Pe27
+1. Despliegue del Landing Page: https://1asi0730-2510-4370-g4-petnova.github.io/PetNova-Landing-Page/
+2. Despliegue de la App Web: https://petnova-fronted-production.up.railway.app
+3. Figma con los User Flow Diagrams, wireframes y mockups de la landing page.: https://www.figma.com/design/XjI2alaHmyFV0MPlaPpxzO/Web-design?node-id=401-8424&t=kuv2vsPlXaFzVYvk-0
+4. Video De Exposición TB1: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a301_upc_edu_pe/Eqi44YEDeiVKgGPNfaTVK6MBWYenSQeOT--MkZtImi2TbQ?e=86Pe27

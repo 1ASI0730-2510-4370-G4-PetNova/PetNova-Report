@@ -75,7 +75,7 @@ Esta se estructura en varias secciones, entre las que se encuentran:
 - Sign In
 - Sign Up
 
-![Home Page](assets/Chapter04/Home_page.png)
+![Home Page](assets/Chapter04/FINAL_HOMEPAGE.jfif)
 
 Los sistemas de organización desempeñan un papel fundamental en la presentación clara y coherente del contenido, ya que favorecen tanto la navegación como la comprensión. Para lograrlo, se aplican distintos métodos.
 
@@ -153,10 +153,10 @@ En Pet Nova, la navegación en el Landing Page y las aplicaciones se ha diseñad
 ## Navegación Intuitiva:
 La navegación en el Landing Page y en las aplicaciones está estructurada para ser clara y accesible, permitiendo que los usuarios encuentren lo que buscan sin esfuerzo. Se emplean menús desplegables en la parte superior de la página y enlaces fáciles de identificar en el pie de página. Estos menús están diseñados para dirigir al usuario a las áreas principales:
 
-## Servicios
-## Historial clínico
-## Productos y servicios veterinarios
-## Soporte
+- **Servicios**
+- **Historial clínico**
+- **Productos y servicios veterinarios**
+- **Soporte**
 
 ## Llamadas a la Acción (CTA):
 Las llamadas a la acción están estratégicamente ubicadas para motivar a los usuarios a realizar tareas clave, como registrarse para crear una cuenta, consultar servicios veterinarios o agendar una cita. Los botones de CTA son visibles, con colores contrastantes para atraer la atención y facilitar la interacción.
@@ -164,9 +164,9 @@ Las llamadas a la acción están estratégicamente ubicadas para motivar a los u
 ## Navegación con Pestañas:
 En la Web Application, se implementa un sistema de navegación por pestañas que permite a los usuarios moverse entre secciones clave sin necesidad de recargar la página. Esto incluye:
 
-## Historial de Salud de las Mascotas
-## Agenda de Citas
-## Productos
+- **Historial de Salud de las Mascotas**
+- **Agenda de Citas**
+- **Productos**
 
 Esto facilita una experiencia rápida y sin interrupciones, especialmente útil para los veterinarios que necesitan acceder a la información de manera eficiente.
 
@@ -245,7 +245,7 @@ https://www.figma.com/design/XjI2alaHmyFV0MPlaPpxzO/Web-design?node-id=401-8424&
 ## PANTALLA 1
 La primera pantalla presenta un encabezado claro con logo, menú de navegación y botón de acceso, demostrando una jerarquía visual efectiva y arquitectura de información bien estructurada. Justo debajo, la sección hero combina una imagen emocional de una veterinaria con una mascota y un mensaje directo que comunica el valor principal del servicio. El botón de llamada a la acción está destacado con un buen contraste, guiando al usuario sin fricción. El diseño es inclusivo al utilizar una imagen que representa diversidad y empatía, y se aplican principios como el alineamiento, proximidad y énfasis para dirigir la atención hacia el mensaje principal.
 
-![](assets/Chapter04/MLPAGE_V1.png)
+![](assets/Chapter04/FINAL_MOCKUP_LANIDNG.jfif)
 
 ## PANTALLA 2
 Esta sección comunica las ventajas del servicio mediante texto breve y tres tarjetas con íconos representativos. Se aplica proximidad para agrupar contenido relacionado y repetición para crear consistencia visual. Los íconos ayudan a la comprensión visual, especialmente útil para usuarios con dificultades de lectura o cognitivas, lo que evidencia un enfoque inclusivo. La arquitectura de la información es simple y clara, permitiendo captar rápidamente los beneficios sin sobrecargar al usuario.
@@ -370,19 +370,15 @@ Descarga de historial clinico
 
 dashboard
 
-![dashboard_wire.png](assets/Chapter04/dashboard_wire.png)
+![dashboard_wire.png](./assets/Chapter04/dashboard_wire.jpeg)
 
 Registro de perfil
 
-![perfil_edit_wire.png](assets/Chapter04/perfil_edit_wire.png)
-
-Edición del perfil del perfil
-
-![perfil_edit_wire.png](assets/Chapter04/perfil_edit_wire.png)
+![perfil_edit_wire.png](./assets/Chapter04/perfil_edit_wire.jpeg)
 
 Eliminacion de perfil  
 
-![perfil_delete_wire.png](assets/Chapter04/perfil_delete_wire  .png)
+![perfil_delete_wire.png](./assets/Chapter04/perfil_delete_wire.png)
 
 
 ## movil:
@@ -509,12 +505,12 @@ Descarga de historial clinico
 
 Muestra de perfil
 
-![perfil_list.png](assets/Chapter04/perfil_list.png)
+![perfil_list.png](./assets/Chapter04/perfil_list.jpeg)
 
 
 Edición del perfil del perfil
 
-![perfil_edit.png](assets/Chapter04/perfil_edit.png)
+![perfil_edit.png](./assets/Chapter04/perfil_edit.jpeg)
 
 Eliminacion de perfil
 
@@ -593,13 +589,13 @@ Para el diseño de los prototipos de la interfaz de usuario para Desktop y Mobil
 
 Video del prototipo:
 
-vista del cliente(web) : https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EfkZIPN2ofNDjrD7A87eLEkBuNByQ2ch0yCCBfZO8ltJbA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rOoOMm
+vista del cliente(web) : https://acortar.link/9yjnPZ
 
-vista del cliente(movil) : https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EeDRJ_qML11Pj1LgtFxWWB4Bq6-FcuSXI5B5pINQFmyHDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=lmtqeh
+vista del cliente(movil) : https://acortar.link/lzmIdN
 
-vista del veterinario(web) : https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/ESvd9FR5FlBIuWgdgzCsYJcBNI_lB7ZKoH6Mys5_BWZNVg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iqlyrA
+vista del veterinario(web) : https://acortar.link/LNoPVQ
 
-vista del veterinario(movil) : https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/ESQ9b9kkwK5LkdbKRjqc9L8BXTVrulFa2-_bTqO49Ndbgw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rQAXj4
+vista del veterinario(movil) : https://acortar.link/aygFRX
 
 Enlace del prototipo (vista del cliente) : https://www.figma.com/design/XjI2alaHmyFV0MPlaPpxzO/Web-design?node-id=300-149&t=aGzgk6GCBuWJqZho-1
 
@@ -620,19 +616,33 @@ El esquema de contexto es una herramienta clave de análisis que permite visuali
 
 El diagrama de contenedores es una herramienta esencial para visualizar la arquitectura de Pet Nova a alto nivel. Permite identificar cómo se organizan los principales componentes del sistema y cómo interactúan entre sí. Esta representación facilita la detección de posibles cuellos de botella, dependencias innecesarias o áreas que podrían optimizarse, proporcionando una base sólida para tomar decisiones técnicas informadas y mejorar el rendimiento general de la plataforma.
 
-![](assets/Chapter04/Container.png)
+![](assets/Chapter04/FINAL_CONTAINER.png)
    
 ### 4.6.3. Software Architecture Components Diagrams
 
 Los diagramas de componentes proporcionan una vista detallada de la arquitectura del software, mostrando cómo se descompone en módulos funcionales y cómo estos se relacionan entre sí para formar un sistema cohesivo y eficiente. Esta representación es fundamental para entender la estructura interna de Pet Nova, facilitando el análisis, mantenimiento y escalabilidad de la plataforma a lo largo del tiempo.
 
-### Veterinarians Bounded Context
+### Medical History Bounded Context
 
-![](assets/Chapter04/Component_1.png)  
+![](assets/Chapter04/BOUNDED_1.png) 
 
-### Pet Owners Bounded Context
+### Client & Pet Management Bounded Context
 
-![](assets/Chapter04/Component_2.png)
+![](assets/Chapter04/BOUNDED_2.png) 
+
+### Stock Management Bounded Context
+
+![](assets/Chapter04/BOUNDED_3.png) 
+
+### Appointments Bounded Context
+
+![](assets/Chapter04/BOUNDED_4.png) 
+
+### Status Bounded Context
+
+![](assets/Chapter04/BOUNDED_5.png) 
+
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
@@ -768,7 +778,7 @@ Representa a los usuarios del sistema, ya sea veterinarios o clientes.
 ### 4.8.1. Database Diagram 
 Para el diseño y gestión de la base de datos de Pet Nova, se optó por utilizar MySQL como sistema gestor, administrado mediante MySQL Workbench. Esta elección responde tanto a la experiencia previa del equipo con el lenguaje SQL, como a la solidez, escalabilidad y eficiencia que ofrece la herramienta para satisfacer los requerimientos funcionales y estructurales del proyecto. Además, su interfaz visual facilita la planificación, modelado y mantenimiento de una base de datos clara y coherente.
 
-![](assets/Chapter04/data_base.png)
+![](assets/Chapter04/DATABASE_FINAL.png)
 
 ###
 

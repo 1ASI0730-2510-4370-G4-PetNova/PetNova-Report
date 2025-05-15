@@ -370,19 +370,15 @@ Descarga de historial clinico
 
 dashboard
 
-![dashboard_wire.png](assets/Chapter04/dashboard_wire.png)
+![dashboard_wire.png](./assets/Chapter04/dashboard_wire.jpeg)
 
 Registro de perfil
 
-![perfil_edit_wire.png](assets/Chapter04/perfil_edit_wire.png)
-
-Edición del perfil del perfil
-
-![perfil_edit_wire.png](assets/Chapter04/perfil_edit_wire.png)
+![perfil_edit_wire.png](./assets/Chapter04/perfil_edit_wire.jpeg)
 
 Eliminacion de perfil  
 
-![perfil_delete_wire.png](assets/Chapter04/perfil_delete_wire  .png)
+![perfil_delete_wire.png](./assets/Chapter04/perfil_delete_wire.png)
 
 
 ## movil:
@@ -509,12 +505,12 @@ Descarga de historial clinico
 
 Muestra de perfil
 
-![perfil_list.png](assets/Chapter04/perfil_list.png)
+![perfil_list.png](./assets/Chapter04/perfil_list.jpeg)
 
 
 Edición del perfil del perfil
 
-![perfil_edit.png](assets/Chapter04/perfil_edit.png)
+![perfil_edit.png](./assets/Chapter04/perfil_edit.jpeg)
 
 Eliminacion de perfil
 
@@ -593,13 +589,13 @@ Para el diseño de los prototipos de la interfaz de usuario para Desktop y Mobil
 
 Video del prototipo:
 
-vista del cliente(web) : https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EfkZIPN2ofNDjrD7A87eLEkBuNByQ2ch0yCCBfZO8ltJbA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rOoOMm
+vista del cliente(web) : https://acortar.link/9yjnPZ
 
-vista del cliente(movil) : https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EeDRJ_qML11Pj1LgtFxWWB4Bq6-FcuSXI5B5pINQFmyHDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=lmtqeh
+vista del cliente(movil) : https://acortar.link/lzmIdN
 
-vista del veterinario(web) : https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/ESvd9FR5FlBIuWgdgzCsYJcBNI_lB7ZKoH6Mys5_BWZNVg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iqlyrA
+vista del veterinario(web) : https://acortar.link/LNoPVQ
 
-vista del veterinario(movil) : https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/ESQ9b9kkwK5LkdbKRjqc9L8BXTVrulFa2-_bTqO49Ndbgw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rQAXj4
+vista del veterinario(movil) : https://acortar.link/aygFRX
 
 Enlace del prototipo (vista del cliente) : https://www.figma.com/design/XjI2alaHmyFV0MPlaPpxzO/Web-design?node-id=300-149&t=aGzgk6GCBuWJqZho-1
 

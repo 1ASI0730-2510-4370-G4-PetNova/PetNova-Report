@@ -616,7 +616,7 @@ El esquema de contexto es una herramienta clave de análisis que permite visuali
 
 El diagrama de contenedores es una herramienta esencial para visualizar la arquitectura de Pet Nova a alto nivel. Permite identificar cómo se organizan los principales componentes del sistema y cómo interactúan entre sí. Esta representación facilita la detección de posibles cuellos de botella, dependencias innecesarias o áreas que podrían optimizarse, proporcionando una base sólida para tomar decisiones técnicas informadas y mejorar el rendimiento general de la plataforma.
 
-![](assets/Chapter04/Container.png)
+![](assets/Chapter04/container_ct.png)
    
 ### 4.6.3. Software Architecture Components Diagrams
 

@@ -248,6 +248,26 @@ Estas prácticas aseguran que el código sea legible, consistente y fácil de ma
 
 ![Gherkin35](./assets/Chapter05/US35.png)
 
+- US36:
+
+![Gherkin36](./assets/Chapter05/tus_36.png)
+
+- US37:
+
+![Gherkin37](./assets/Chapter05/tus_37.png)
+
+- US38:
+
+![Gherkin38](./assets/Chapter05/tus_38.png)
+
+- US39:
+
+![Gherkin39](./assets/Chapter05/tus_39.png)
+
+- US40:
+
+![Gherkin40](./assets/Chapter05/tus_40.png)
+
 ### 5.1.4. Configuración de la implementación del software
 
 En este apartado, se detalla el proceso de despliegue de la Landing Page de Pet Nova a través de GitHub Pages. A continuación, se presentan los pasos realizados para garantizar el acceso público a la página de destino de Pet Nova, acompañados de capturas de pantalla que ilustran cada etapa.

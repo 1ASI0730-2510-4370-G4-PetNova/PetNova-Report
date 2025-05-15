@@ -616,7 +616,7 @@ El esquema de contexto es una herramienta clave de análisis que permite visuali
 
 El diagrama de contenedores es una herramienta esencial para visualizar la arquitectura de Pet Nova a alto nivel. Permite identificar cómo se organizan los principales componentes del sistema y cómo interactúan entre sí. Esta representación facilita la detección de posibles cuellos de botella, dependencias innecesarias o áreas que podrían optimizarse, proporcionando una base sólida para tomar decisiones técnicas informadas y mejorar el rendimiento general de la plataforma.
 
-![](assets/Chapter04/container_ct.png)
+![](assets/Chapter04/FINAL_CONTAINER.png)
    
 ### 4.6.3. Software Architecture Components Diagrams
 
@@ -624,23 +624,23 @@ Los diagramas de componentes proporcionan una vista detallada de la arquitectura
 
 ### Medical History Bounded Context
 
-![](assets/Chapter04/bounded_1.png) 
+![](assets/Chapter04/BOUNDED_1.png) 
 
 ### Client & Pet Management Bounded Context
 
-![](assets/Chapter04/bounded_2.png) 
+![](assets/Chapter04/BOUNDED_2.png) 
 
 ### Stock Management Bounded Context
 
-![](assets/Chapter04/bounded_3.png) 
+![](assets/Chapter04/BOUNDED_3.png) 
 
 ### Appointments Bounded Context
 
-![](assets/Chapter04/bounded_4.png) 
+![](assets/Chapter04/BOUNDED_4.png) 
 
 ### Status Bounded Context
 
-![](assets/Chapter04/bounded_5.png) 
+![](assets/Chapter04/BOUNDED_5.png) 
 
 
 ### Pet Owners Bounded Context

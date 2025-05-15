@@ -164,9 +164,9 @@ Las llamadas a la acción están estratégicamente ubicadas para motivar a los u
 ## Navegación con Pestañas:
 En la Web Application, se implementa un sistema de navegación por pestañas que permite a los usuarios moverse entre secciones clave sin necesidad de recargar la página. Esto incluye:
 
-# Historial de Salud de las Mascotas
-# Agenda de Citas
-# Productos
+- **Historial de Salud de las Mascotas**
+- **Agenda de Citas**
+- **Productos**
 
 Esto facilita una experiencia rápida y sin interrupciones, especialmente útil para los veterinarios que necesitan acceder a la información de manera eficiente.
 

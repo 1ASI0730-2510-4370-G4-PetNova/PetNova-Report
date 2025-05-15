@@ -302,7 +302,7 @@ En este proyecto, hemos decidido interactuar con posibles usuarios mediante entr
 
 - **Segundo segmento: Dueños de Mascotas**
 
-<br><img src="./assets/Chapter02/JourneyMap2.png" alt="" style="width: 1000px; height: auto;" ><br>
+<br><img src="./assets/Chapter02/petnova_journey_map.png" alt="" style="width: 1000px; height: auto;" ><br>
 
 ### 2.3.4. Empathy Mapping.
 

@@ -643,8 +643,6 @@ Los diagramas de componentes proporcionan una vista detallada de la arquitectura
 ![](assets/Chapter04/BOUNDED_5.png) 
 
 
-### Pet Owners Bounded Context
-
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 

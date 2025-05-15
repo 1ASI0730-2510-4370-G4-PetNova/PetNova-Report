@@ -4,11 +4,11 @@
 
 - **Primer segmento: Médicos Veterinarios**
 
-<br><img src="./assets/Chapter03/Tobe1.jpeg" alt="" style="width: 1000px; height: auto;" ><br>
+<br><img src="./assets/Chapter03/To_be_vet.jpeg" alt="" style="width: 1000px; height: auto;" ><br>
 
 - **Segundo segmento: Dueños de Mascotas**
 
-<br><img src="./assets/Chapter03/Tobe2.jpeg" alt="" style="width: 1000px; height: auto;" ><br>
+<br><img src="./assets/Chapter03/TO_BE_cli.jpeg" alt="" style="width: 1000px; height: auto;" ><br>
 
 
 ## 3.2. User Stories
@@ -60,7 +60,7 @@
 Este Impact Map muestra cómo PetNova alinea sus objetivos de negocio con los impactos deseados. Detalla los entregables específicos y las user stories que abordan estos impactos, asegurando que cada aspecto del desarrollo de la plataforma mejore la eficiencia y la experiencia del usuario.
 
 
-<br><img src="./assets/Chapter03/Impactmap.png" alt="Impact Map" style="width: 1000px; height: auto;" ><br>
+<br><img src="./assets/Chapter03/impact.png" alt="impact Map" style="width: 1000px; height: auto;" ><br>
 
 ## 3.4. Product Backlog.
 

@@ -717,7 +717,7 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
 ### **5.3. Validation Interviews**
 #### **5.3.1. Diseño de Entrevistas**
 
-## Diseño de entrevista – Primer segmento objetivo: Veterinario
+## Diseño de entrevista – Primer segmento objetivo: Médicos Veterinarios:
 1. ¿Cuál es tu nombre?
 2. ¿Qué edad tienes?
 3. ¿Cuánta experiencia tienes en el rubro?
@@ -725,7 +725,7 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
 5. ¿Cómo fue tu experiencia al interactuar con PetNova?
 6. ¿Qué aspectos cambiarías o qué funciones agregarías?
 
-## Diseño de entrevista – Segundo segmento objetivo: Clientes
+## Diseño de entrevista – Segundo segmento objetivo: Dueños de Mascotas:
 1. ¿Cuál es tu nombre?
 2. ¿Qué edad tienes?
 3. ¿Cómo calificarías tu experiencia usando PetNova?

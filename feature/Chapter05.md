@@ -705,6 +705,39 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
   <img src="https://i.imgur.com/N4wzfhc.png[/img]" width="100%" />
 </div>
 
+### **5.2.3. Sprint 3**
+#### **5.2.3.1. Sprint Planning 3**
+#### **5.2.3.2. Aspect Leaders and Collaborators**
+#### **5.2.3.3. Sprint Backlog 3**
+#### **5.2.3.4. Development Evidence for Sprint Review**
+#### **5.2.3.5. Execution Evidence for Sprint Review**
+#### **5.2.3.6. Services Documentation Evidence for Sprint Review**
+#### **5.2.3.7. Software Deployment Evidence for Sprint Review**
+#### **5.2.3.8. Team Collaboration Insights during Sprint**
+### **5.3. Validation Interviews**
+#### **5.3.1. Diseño de Entrevistas**
+
+## Diseño de entrevista – Primer segmento objetivo: Veterinario
+1. ¿Cuál es tu nombre?
+2. ¿Qué edad tienes?
+3. ¿Cuánta experiencia tienes en el rubro?
+4. ¿Qué aplicación utilizas actualmente?
+5. ¿Cómo fue tu experiencia al interactuar con PetNova?
+6. ¿Qué aspectos cambiarías o qué funciones agregarías?
+
+## Diseño de entrevista – Segundo segmento objetivo: Clientes
+1. ¿Cuál es tu nombre?
+2. ¿Qué edad tienes?
+3. ¿Cómo calificarías tu experiencia usando PetNova?
+4. ¿Qué mejorarías o añadirías a la plataforma?
+5. ¿Qué tan fácil te resultó utilizar PetNova?
+
+#### **5.3.2. Registro de Entrevistas**
+
+#### **5.3.3. Evaluaciones según heurísticas**
+
+### **5.4. Video About-the-Product**
+
 #### **Avance de Conclusiones**
 
 - La colaboración efectiva entre los miembros del equipo fue clave para avanzar de manera organizada y cubrir todas las etapas del proyecto. Cada integrante asumió con claridad su rol y responsabilidades, facilitando una ejecución ordenada.

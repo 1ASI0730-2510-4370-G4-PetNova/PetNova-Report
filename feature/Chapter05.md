@@ -734,6 +734,121 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
 
 #### **5.3.2. Registro de Entrevistas**
 
+## Entrevista para el Segmento Objetivo 1 - Veterinarios :
+
+**Entrevista N°1:**
+
+**Entrevistado:** Sebastian Silva
+
+**Sexo:** Masculino
+
+**Edad:** 21 años
+
+**Inicio de la Entrevista:** 0:00
+
+**Fin de la Entrevista:** 6:07
+
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/n5rq1Hp.png" width="90%" />
+</div>
+
+**Resumen de la Entrevista:** 
+
+**Entrevista N°2:**
+
+**Entrevistado:** Daniela Basurto
+
+**Sexo:** Femenino
+
+**Edad:** 21 años
+
+**Inicio de la Entrevista:** 6:08
+
+**Fin de la Entrevista:** 12:22
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/3FROBG8.png" width="90%" />
+</div>
+
+**Resumen de la Entrevista:** 
+**Entrevista N°3:**
+
+**Entrevistado:** Jose Heredia
+
+**Sexo:** Masculino
+
+**Edad:** 21 años
+
+**Inicio de la Entrevista:** 12:23
+
+**Fin de la Entrevista:** 17:45
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/6bDbUMn.png" width="90%" />
+</div>
+
+**Resumen de la Entrevista:** 
+
+## Entrevista para el Segmento Objetivo 2 - Dueño de Mascotas:
+
+**Entrevista N°1:**
+
+**Entrevistado:** Camila Sanchez
+
+**Sexo:** Femenino
+
+**Edad:** 20 años
+
+**Inicio de la Entrevista:** 17:47
+
+**Fin de la Entrevista:** 22:36
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/WNfG6Fu.png" width="90%" />
+</div>
+
+**Resumen de la Entrevista:** 
+
+
+**Entrevista N°2:**
+
+**Entrevistado:** Gianella Cardenas
+
+**Sexo:** Masculino
+
+**Edad:** 23 años
+
+**Inicio de la Entrevista:** 22:38
+
+**Fin de la Entrevista:** 28:13
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/fmhyPri.png" width="90%" />
+</div>
+
+**Resumen de la Entrevista:** 
+
+**Entrevista N°3:**
+
+**Entrevistado:** Sayuri Cardenas
+
+**Sexo:** Femenino
+
+**Edad:** 20 años
+
+**Inicio de la Entrevista:** 28:17
+
+**Fin de la Entrevista:** 32:28
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/NcuoIqR.png" width="90%" />
+</div>
+
+**Resumen de la Entrevista:** 
+
+**LINK DE LAS ENTREVISTAS :** [ENTREVISTAS](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EbDTni8x8GBMp1pIS2S-RjYBLvK9p92yPY9jx9LiqxIP0Q?e=C3qczl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 #### **5.3.3. Evaluaciones según heurísticas**
 
 ### **5.4. Video About-the-Product**

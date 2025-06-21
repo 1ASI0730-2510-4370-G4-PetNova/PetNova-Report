@@ -84,7 +84,52 @@ Asimismo, utilizamos la herramienta “Planning Poker Online” para poder votar
     </tr>
   </thead>
   <tbody>
+
+
+ <tr>
+      <td>17</td>
+      <td>US17</td>
+      <td>Barra de Navegación en la Landing Page</td>
+      <td>Como visitante, quiero utilizar la barra de navegación para acceder de manera fácil y rápida a las distintas secciones de la plataforma.</td>
+      <td>5</td>
+    </tr>
     <tr>
+      <td>18</td>
+      <td>US18</td>
+      <td>Visualización de la Sección "Why Choose Us?"</td>
+      <td>Como usuario, quiero ver información de los veterinarios disponibles para elegir el más adecuado para mi mascota.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>US19</td>
+      <td>Gestión de Suscripciones en la Landing Page</td>
+      <td>Como visitante, quiero revisar los planes de suscripción en la página principal para poder elegir el plan que mejor se adapte a mis necesidades.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>US20</td>
+      <td>Revisión de Reseñas de Clientes</td>
+      <td>Como visitante, quiero leer las reseñas de otros clientes para evaluar la experiencia que han tenido con la plataforma.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>US21</td>
+      <td>Envío de Mensajes de Contacto</td>
+      <td>Como visitante, quiero enviar un mensaje de contacto a través de la página de aterrizaje para poder comunicarme con el equipo de PetNova.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>US22</td>
+      <td>Visualización de Videos en la Sección de Características</td>
+      <td>Como visitante, quiero ver los videos informativos sobre los productos y servicios para obtener más información sobre PetNova.</td>
+      <td>3</td>
+    </tr>
+        
+<tr>
       <td>1</td>
       <td>US01</td>
       <td>Registro de Usuario</td>
@@ -197,48 +242,6 @@ Asimismo, utilizamos la herramienta “Planning Poker Online” para poder votar
       <td>3</td>
     </tr>
     <tr>
-      <td>17</td>
-      <td>US17</td>
-      <td>Barra de Navegación en la Landing Page</td>
-      <td>Como visitante, quiero utilizar la barra de navegación para acceder de manera fácil y rápida a las distintas secciones de la plataforma.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>US18</td>
-      <td>Visualización de la Sección "Why Choose Us?"</td>
-      <td>Como usuario, quiero ver información de los veterinarios disponibles para elegir el más adecuado para mi mascota.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>US19</td>
-      <td>Gestión de Suscripciones en la Landing Page</td>
-      <td>Como visitante, quiero revisar los planes de suscripción en la página principal para poder elegir el plan que mejor se adapte a mis necesidades.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>US20</td>
-      <td>Revisión de Reseñas de Clientes</td>
-      <td>Como visitante, quiero leer las reseñas de otros clientes para evaluar la experiencia que han tenido con la plataforma.</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>US21</td>
-      <td>Envío de Mensajes de Contacto</td>
-      <td>Como visitante, quiero enviar un mensaje de contacto a través de la página de aterrizaje para poder comunicarme con el equipo de PetNova.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>22</td>
-      <td>US22</td>
-      <td>Visualización de Videos en la Sección de Características</td>
-      <td>Como visitante, quiero ver los videos informativos sobre los productos y servicios para obtener más información sobre PetNova.</td>
-      <td>3</td>
-    </tr>
-    <tr>
       <td>23</td>
       <td>US23</td>
       <td>Cambio de Idioma en la App Web</td>
@@ -301,28 +304,29 @@ Asimismo, utilizamos la herramienta “Planning Poker Online” para poder votar
       <td>Como administrador o veterinario, quiero poder modificar y actualizar el historial médico de las mascotas para asegurar que los dueños cuenten con información actualizada sobre sus tratamientos y estado de salud.</td>
       <td>8</td>
     </tr>
-      <tr>
+    <tr>
       <td>33</td>
       <td>US33</td>
       <td>Monitoreo de signos vitales</td>
       <td>Como dueño de mascotas o veterinario, quiero integrar dispositivos IoT para monitorear la salud de las mascotas en tiempo real.</td>
       <td>5</td>
     </tr>
-      <tr>
+    <tr>
       <td>34</td>
       <td>US34</td>
       <td>Acceso remoto a datos de salud</td>
       <td>Como veterinario, quiero visualizar los datos históricos de dispositivos IoT (actividad, sueño, ingesta de agua) para diagnosticar patrones anormales en mis pacientes.</td>
       <td>3</td>
     </tr>
-      <tr>
+    <tr>
       <td>35</td>
       <td>US35</td>
       <td>Configuración de umbrales de alerta</td>
       <td>Como médico veterinario, quiero definir umbrales personalizados (ej: fiebre >39°C) para que el sistema envíe notificaciones automáticas a dueños y veterinarios.</td>
       <td>8</td>
     </tr>
-        <tr>
+    
+<tr>
       <td>36</td>
       <td>US36</td>
       <td>Gestión de Incidencias Técnicas</td>
@@ -357,10 +361,7 @@ Asimismo, utilizamos la herramienta “Planning Poker Online” para poder votar
       <td>Como desarrollador/integrador, quiero crear y desplegar la API interna para conectar la base de datos con la aplicación.</td>
       <td>5</td>
     </tr>
-
   </tbody>
 </table>
-
-
 
 ---

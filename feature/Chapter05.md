@@ -758,7 +758,7 @@ Enlace del deployment de la Landing Page: [https://1asi0730-2510-4370-g4-petnova
 
 **Seccion video about the product en landing page**
 
-[![About the product video](./assets/Chapter05/about_the_product.JPG)](https://www.youtube.com/watch?v=21mBKrna1iw)
+[![About the product video](./assets/Chapter05/about_the_product.jpg)](https://www.youtube.com/watch?v=21mBKrna1iw)
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 

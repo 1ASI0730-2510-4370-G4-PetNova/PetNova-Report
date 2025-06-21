@@ -377,20 +377,19 @@ En el primer sprint, el equipo enfocó su trabajo en crear una landing page que 
 | 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 671b8dc       | feat(images): add new images for project assets                                                                   | ghostnotfound404 | Apr 26, 2025     |
 | 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | bfb2010       | Merge branch 'develop' of github.com:1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public into develop | ghostnotfound404 | Apr 26, 2025     |
 | 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | fa2c951       | feat(index): add plans                                                                                            | Lucianxaaa       | Apr 26, 2025     |
-| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report | develop    | 00b1ce6       | feat(index): update styles and content for 'Casos de éxito' and 'Planes' sections                                 | Lucianxaaa       | Apr 26, 2025     |
-| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report | develop    | 2d1a453       | fix(landing page styles_css): feat update hero section                                                            | Lucianxaaa       | Apr 26, 2025     |
-| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report | develop    | 3fdb9a1       | fix(landing page): feat update hero section                                                                       | Lucianxaaa       | Apr 26, 2025     |
-| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report | develop    | f3e4b79       | fix(header): style header and navigation for responsiveness                                                       | devfab17         | Apr 26, 2025     |
-| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report | develop    | 5b29013       | fix(header): update structure and navigation links                                                                | devfab17         | Apr 26, 2025     |
-| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report | develop    | 0ac9c10       | fix: upload images and change code of footer section                                                              | mariopvdev       | Apr 26, 2025     |
-| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report | develop    | a0fe5c2       | feat: update 'Why Choose Us' section layout and replace image                                                     | sebasepe         | Apr 26, 2025     |
-| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report | develop    | 46b5dbb       | feat: design veterinarian section with features and call-to-action                                                | sebasepe         | Apr 26, 2025     |
-| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report | develop    | 77bdaaf       | feat: update partners and customers sections with new layout                                                      | sebasepe         | Apr 26, 2025     |
-| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report | develop    | 9285a1a       | feat: redesign subscriptions section with plan cards and images                                                   | sebasepe         | Apr 26, 2025     |
-| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report | develop    | 285c2d9       | feat: update 'Why Choose Us' section layout with three images and video icons                                     | sebasepe         | Apr 26, 2025     |
+| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report                    | develop    | 00b1ce6       | feat(index): update styles and content for 'Casos de éxito' and 'Planes' sections                                 | Lucianxaaa       | Apr 26, 2025     |
+| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report                    | develop    | 2d1a453       | fix(landing page styles_css): feat update hero section                                                            | Lucianxaaa       | Apr 26, 2025     |
+| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report                    | develop    | 3fdb9a1       | fix(landing page): feat update hero section                                                                       | Lucianxaaa       | Apr 26, 2025     |
+| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report                    | develop    | f3e4b79       | fix(header): style header and navigation for responsiveness                                                       | devfab17         | Apr 26, 2025     |
+| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report                    | develop    | 5b29013       | fix(header): update structure and navigation links                                                                | devfab17         | Apr 26, 2025     |
+| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report                    | develop    | 0ac9c10       | fix: upload images and change code of footer section                                                              | mariopvdev       | Apr 26, 2025     |
+| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report                    | develop    | a0fe5c2       | feat: update 'Why Choose Us' section layout and replace image                                                     | sebasepe         | Apr 26, 2025     |
+| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report                    | develop    | 46b5dbb       | feat: design veterinarian section with features and call-to-action                                                | sebasepe         | Apr 26, 2025     |
+| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report                    | develop    | 77bdaaf       | feat: update partners and customers sections with new layout                                                      | sebasepe         | Apr 26, 2025     |
+| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report                    | develop    | 9285a1a       | feat: redesign subscriptions section with plan cards and images                                                   | sebasepe         | Apr 26, 2025     |
+| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report                    | develop    | 285c2d9       | feat: update 'Why Choose Us' section layout with three images and video icons                                     | sebasepe         | Apr 26, 2025     |
 
 ---
-
 
 #### **5.2.1.5. Execution Evidence for Sprint Review**
 
@@ -578,44 +577,51 @@ En el segundo sprint, el equipo se enfocó en iniciar el desarrollo de la Web Ap
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
-| Repositorio                                                                 | Rama     | Commit ID | Mensaje de Commit                        | Cuerpo del Mensaje                        | Fecha de Commit |
-|-----------------------------------------------------------------------------|----------|-----------|------------------------------------------|-------------------------------------------|-----------------|
-| https://github.com/1ASI0730-2510-4370-G4-PetNova/PetNova-Fronted | PetNova-LandingPage/main     | bb84e62   | ci: add RailWay Web Apps workflow file |                                           | 14/05/2025      |
+| Repositorio                                                      | Rama                     | Commit ID | Mensaje de Commit                      | Cuerpo del Mensaje | Fecha de Commit |
+| ---------------------------------------------------------------- | ------------------------ | --------- | -------------------------------------- | ------------------ | --------------- |
+| https://github.com/1ASI0730-2510-4370-G4-PetNova/PetNova-Fronted | PetNova-LandingPage/main | bb84e62   | ci: add RailWay Web Apps workflow file |                    | 14/05/2025      |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
 En el Sprint 2 se inició el desarrollo de la Web Application de Pet Nova, implementando funcionalidades esenciales como el registro e inicio de sesión de usuarios, la gestión de perfiles, el registro de mascotas y las notificaciones de citas. Estas funcionalidades permiten a los usuarios (veterinarios y dueños de mascotas) interactuar con la plataforma de manera inicial, facilitando la autenticación y la gestión de datos básicos. A continuación, se muestran las evidencias.
 **US02**
+
 <div style="text-align: center;">
   <img src="https://i.imgur.com/JROcPpX.png[/img]" width="100%" />
 </div>
 
 **US02**
+
 <div style="text-align: center;">
   <img src="https://i.imgur.com/xYaKBXy.png[/img]" width="100%" />
 </div>
 
 **US03**
+
 <div style="text-align: center;">
   <img src="https://i.imgur.com/bEdNRPA.png[/img]" width="100%" />
 </div>
 
 **US03**
+
 <div style="text-align: center;">
   <img src="https://i.imgur.com/3f8UYmL.png[/img]" width="100%" />
 </div>
 
 **US25**
+
 <div style="text-align: center;">
   <img src="https://i.imgur.com/37XcGPQ.png[/img]" width="100%" />
 </div>
 
 **US04**
+
 <div style="text-align: center;">
   <img src="https://i.imgur.com/HJzdYzD.png[/img]" width="100%" />
 </div>
 
 **US09**
+
 <div style="text-align: center;">
   <img src="https://i.imgur.com/8HhZZ52.png[/img]" width="100%" />
 </div>
@@ -627,6 +633,7 @@ En el Sprint 2 se inició el desarrollo de la Web Application de Pet Nova, imple
 En la entrega del segundo sprint, se completó la implementación de la landing page funcional, cumpliendo con las user stories correspondientes a este entregable. Además, se lanzó una versión preliminar de la aplicación web. Link del Web Aplication: [WEB APLICATION](https://petnova-fronted-production.up.railway.app)
 
 **Capturas de pantalla landing page:**
+
 <div style="text-align: center;">
   <img src="https://i.imgur.com/IRYz79z.png[/img]"  width="100%" />
 </div>
@@ -706,7 +713,9 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
 </div>
 
 ### **5.2.3. Sprint 3**
+
 #### **5.2.3.1. Sprint Planning 3**
+
 <table>
   <tr>
     <th> Sprint # </th>
@@ -767,6 +776,7 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
 </table>
 
 #### **5.2.3.2. Aspect Leaders and Collaborators**
+
 | **Team Member (Last Name, First Name)**  | **GitHub Username** | **Capítulo I: Introducción (L/C)** | **Capítulo II: Requirements Elicitation & Analysis (L/C)** | **Capítulo III: Requirements Specification (L/C)** | **Capítulo IV: Product Design (L/C)** | **Capítulo V: Product Implementation, Validation & Deployment (L/C)** |
 | ---------------------------------------- | ------------------- | ---------------------------------- | ---------------------------------------------------------- | -------------------------------------------------- | ------------------------------------- | --------------------------------------------------------------------- |
 | **Belahonia Miranda, Fabrisio**          | devfab17            | L                                  | C                                                          | C                                                  | C                                     | C                                                                     |
@@ -774,7 +784,9 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
 | **Choquehuanca Núñez, Luciana Carolina** | lucianxaaa          | C                                  | C                                                          | L                                                  | C                                     | C                                                                     |
 | **Prado Vargas, Mario Benjamín**         | mariopvdev          | C                                  | C                                                          | C                                                  | L                                     | C                                                                     |
 | **Escobar Palomino, Sebastian Matias**   | sebasepe            | C                                  | C                                                          | C                                                  | C                                     | L                                                                     |
+
 #### **5.2.3.3. Sprint Backlog 3**
+
 | ID   | Description                     | Tarea | Title                                        | Description                                                                                             | Estimations(Hours) | Assigned To                          | Status |
 | ---- | ------------------------------- | ----- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------ | ------ |
 | US01 | Registro de Usuario             | Tk01  | Agregar lógica de validación                 | Implementación de validaciones en los formularios para asegurar campos requeridos y formatos correctos. | 4                  | Bastidas Bastidas, Diego Martin      | DONE   |
@@ -807,15 +819,127 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
 | US25 | Edición de Perfiles de Clientes | Tk02  | Agregar nuevas mascotas                      | Incorporación de opción para añadir nuevas mascotas al perfil del cliente.                              | 4                  | Bastidas Bastidas, Diego Martin      | DONE   |
 | US26 | Búsqueda de Clientes por ID     | Tk01  | Buscar cliente por ID exacto                 | Búsqueda precisa de clientes mediante coincidencia exacta del ID.                                       | 4                  | Prado Vargas, Mario Benjamín         | DONE   |
 | US26 | Búsqueda de Clientes por ID     | Tk02  | Mostrar sugerencias por coincidencia parcial | Sugerencia automática de clientes basadas en coincidencias parciales del nombre o ID.                   | 3                  | Choquehuanca Núñez, Luciana Carolina | TO-DO  |
+
 #### **5.2.3.4. Development Evidence for Sprint Review**
+
+|                                 Repository                                  |     Branch     | Commit Id |                     Commit <br>Message                     | Commit <br>Message Body | Commited <br>on (Date) |
+| :-------------------------------------------------------------------------: | :------------: | :-------: | :--------------------------------------------------------: | :---------------------: | :--------------------: |
+| [Backend](https://github.com/1ASI0730-2510-4370-G4-PetNova/PetNova-BackEnd) |   feat/diego   |  25de917  |                feat: code backend pet nova                 |                         |       21/06/2025       |
+|                               PetNova-Backend                               |   feat/diego   |  3f8f027  |           feat: add codebase backend of Pet Nova           |                         |       21/06/2025       |
+|                               PetNova-Backend                               |  feat/luciana  |  6f5a58c  |          feat(shared): implement JwtTokenService           |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/fabrisio  |  de2e786  |              feat(shared): implement SeedDara              |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/sebastian |  e795eb8  |         feat(shared): implement generic UnitofWork         |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/fabrisio  |  7086d6c  |        feat(shared): implement generic EfRepository        |                         |       21/06/2025       |
+|                               PetNova-Backend                               |   feat/mario   |  10d0d85  |            feat(shared): add Swagger Extension             |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/sebastian |  920f290  |               feat(shared): add AppDbContext               |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/fabrisio  |  5592eff  |               feat(shared): add ToKebabCase                |                         |       21/06/2025       |
+|                               PetNova-Backend                               |  feat/luciana  |  fbd932d  |                feat(shared): add kebab-case                |                         |       21/06/2025       |
+|                               PetNova-Backend                               |   feat/mario   |  973f244  |          feat(shared): add IUnitOfWork interface           |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/sebastian |  1c8d128  |      feat(shared): add generic IRepository interface       |                         |       21/06/2025       |
+|                               PetNova-Backend                               |  feat/luciana  |  270155c  |         feat(shared): add ITokenService interface          |                         |       21/06/2025       |
+|                               PetNova-Backend                               |   feat/mario   |  25de917  |                feat: code backend pet nova                 |                         |       21/06/2025       |
+|                              PetNova-Frontend                               |   feat/mario   |  efb8856  |                feature: Add search function                |                         |       21/06/2025       |
+|                              PetNova-Frontend                               |   feat/diego   |  f18f89b  |                 Update: form to create pet                 |                         |       21/06/2025       |
+|                              PetNova-Frontend                               | feat/sebastian |  85501a6  | feat(home): add initial implementation of home and profile |                         |       21/06/2025       |
+
 #### **5.2.3.5. Execution Evidence for Sprint Review**
+
+Para esta entrega nuestro equipo logró completar con éxito la creación y el deployment del FrontEnd de la Aplicación Web.
+
+También se lanzó una nueva versión de la página de inicio y del frontend de la aplicación, optimizando la experiencia del usuario y habilitando acceso a funciones esenciales desarrolladas en este sprint, como la creación y administración de perfiles de usuario y mascota. Esta actualización incorpora videos informativos sobre el producto y el equipo, ofreciendo un resumen de los servicios de Pet Nova.
+
+La API del backend se documenta mediante Swagger, facilitando el acceso a todos los endpoints para el equipo de desarrollo y futuros colaboradores.
+
+Enlace del deployment del Backend: FALTA
+
+Enlace del deployment del FrontEnd: [https://petnovaapp.netlify.app/](https://petnovaapp.netlify.app/)
+
+Enlace del deployment de la Landing Page: [https://1asi0730-2510-4370-g4-petnova.github.io/PetNova-Landing-Page/](https://1asi0730-2510-4370-g4-petnova.github.io/PetNova-Landing-Page/)
+
+**Swagger UI**
+
+<img src="./assets/Chapter05/Swagger UI.jpg">
+
+**Seccion video about the team en landing page**
+
+[![About the product video](IMAGEN FALTA)](FALTA LINK DEL VIDEO)
+
+**Seccion video about the product en landing page**
+
+[![About the product video](./assets/Chapter05/about_the_product.jpg)](https://www.youtube.com/watch?v=21mBKrna1iw)
+
 #### **5.2.3.6. Services Documentation Evidence for Sprint Review**
+
+El alcance del Sprint 3, el equipo se centro principalmente en la integración, implementación y despliegue de los bounded contexts de clientes y mascotas en el backend, también se realizaron las correciones del fronted y añadimos algunas otras vistas y funcionalidad, como el filtro de mascotas por nombre. Durante este sprint, se actualizó y extendió la documentación de servicios web mediante Swagger, proporcionando una guía clara y completa para el uso de la API por parte del frontend y futuros desarrolladores.
+
+La documentación incluye:
+Descripción detallada de los endpoints relacionados con clientes y mascotas. Operaciones permitidas como la creación, edición y eliminación de datos en estos módulos. Ejemplos actualizados de solicitudes y respuestas para garantizar una integración efectiva con el frontend. Información sobre las capas de seguridad y autenticación implementadas en el backend. Este nivel de documentación asegura que todos los miembros del equipo tengan una comprensión compartida y uniforme sobre el comportamiento y las capacidades de la API, lo que facilita el desarrollo continuo y la integración de nuevas funcionalidades.
+
 #### **5.2.3.7. Software Deployment Evidence for Sprint Review**
+
+En este trabajo se hizo uso de las siguientes herramientas para el desarrollo del backend de la aplicación web, como también para la actualización del frontend.
+
+- Git: Sistema de control de versiones.
+
+- GitFlow: Flujo de trabajo colaborativo.
+
+- GitHub Desktop: Herramienta de interfaz gráfica que utilizamos para interactuar con nuestro repositorio de GitHub.
+
+- GitHub: Plataforma de desarrollo colaborativo que nos proporcionó el repositorio donde almacenamos y gestionamos el código fuente de nuestro proyecto.
+
+- Azure Web Services: Servicio en la nube utilizado para desplegar el backend de nuestra aplicación.
+
+- MySQL for Azure: Servicio de base de datos en la nube que utilizamos para almacenar y gestionar los datos de la aplicación.
+
+Enlace del deployment de la Landing Page: [https://1asi0730-2510-4370-g4-petnova.github.io/PetNova-Landing-Page/](https://1asi0730-2510-4370-g4-petnova.github.io/PetNova-Landing-Page/)
+
+Enlace del deployment del FrontEnd: [https://petnovaapp.netlify.app/](https://petnovaapp.netlify.app/)
+
+Enlace del deployment del Backend: FALTA
+
 #### **5.2.3.8. Team Collaboration Insights during Sprint**
+
+En el Sprint 3, el equipo organizó el desarrollo del backend y correción del frontend de la aplicación web utilizando ramas específicas para cada funcionalidad, siguiendo las convenciones de GitFlow. Este enfoque permitió a los desarrolladores trabajar de manera independiente en diferentes aspectos del proyecto, facilitando la colaboración y el mantenimiento del código.
+
+A continuación, se detallan las tareas asignadas a cada miembro del equipo, junto con las contribuciones realizadas a través de la plataforma GitHub:
+
+| Alumno                                   | Actividad                                                                                                                                                      |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Choquehuanca Núñez, Luciana Carolina** | Desarrollo y despliegue del backend como también en el frontend en la nube, garantizando la operatividad de la API y su integración con el frontend.           |
+| **Bastidas Bastidas, Diego Martin**      | Desarrollo del backend y soporte en la integración de datos, contribuyendo al diseño y funcionalidad de los módulos clave, también desarrolló el frontend.     |
+| **Prado Vargas, Mario Benjamín**         | Implementación de características tanto en el backend como en el frontend, mejorando la experiencia de usuario y asegurando la funcionalidad de la plataforma. |
+| **Escobar Palomino, Sebastian Matias**   | Desarrollo del frontend junto con el backend y diseño de la landing page, enfocándose en la usabilidad y estética para ofrecer una experiencia intuitiva.      |
+| **Belahonia Miranda, Fabrisio**          | Desarrollo del frontend junto con el backend y diseño de la landing page, enfocándose en la usabilidad y estética para ofrecer una experiencia intuitiva.      |
+
+A continuación, se mostrará la tabla de colaboradores en el repositorio de GitHub, con el objetivo de identificar a cada miembro del equipo.
+
+Tabla de integrantes:
+
+| Username (GitHub) | Nombre                               |
+| ----------------- | ------------------------------------ |
+| ghostnotfound404  | Bastidas Bastidas, Diego Martin      |
+| lucianxaaa        | Choquehuanca Núñez, Luciana Carolina |
+| mariopvdev        | Prado Vargas, Mario Benjamín         |
+| sebasepe          | Escobar Palomino, Sebastian Matias   |
+| devfab17          | Belahonia Miranda, Fabrisio          |
+
+A continuación se mostrarán los gráficos de insights durante el sprint:
+
+Anexo: Flujo de trabajo entre las ramas.
+
+<img src="./assets/Chapter05/graph.JPG">
+
+Anexo: Tablas de commits en el periodo de 1 mes.
+
+<img src="./assets/Chapter05/Commits over time.png">
+<img src="./assets/Chapter05/commits insights.JPG">
+
 ### **5.3. Validation Interviews**
+
 #### **5.3.1. Diseño de Entrevistas**
 
 ## Diseño de entrevista – Primer segmento objetivo: Médicos Veterinarios:
+
 1. ¿Cuál es tu nombre?
 2. ¿Qué edad tienes?
 3. ¿Cuánta experiencia tienes en el rubro?
@@ -824,6 +948,7 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
 6. ¿Qué aspectos cambiarías o qué funciones agregarías?
 
 ## Diseño de entrevista – Segundo segmento objetivo: Dueños de Mascotas:
+
 1. ¿Cuál es tu nombre?
 2. ¿Qué edad tienes?
 3. ¿Cómo calificarías tu experiencia usando PetNova?
@@ -845,7 +970,6 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
 **Inicio de la Entrevista:** 0:00
 
 **Fin de la Entrevista:** 6:07
-
 
 <div style="text-align: center;">
   <img src="https://i.imgur.com/n5rq1Hp.png" width="90%" />
@@ -949,90 +1073,90 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
 
 #### **5.3.3. Evaluaciones según heurísticas**
 
-| **Sitio o App Evaluada** | Pet Nova |  
-| :- | :- |  
-| **Tareas evaluadas** | Esta evaluación abarca la revisión de usabilidad de las siguientes tareas: |  
-| **Landing Page (Desktop)** | - Información y descripción de la app y sus funciones  <br> - Breve descripción del equipo de trabajo  <br> - Visualización de testimonios  <br> - Header y footer funcionales |  
-| **Aplicación Web (Desktop)** | - Visualización de datos registrados en el sistema <br> - Header y footer funcionales <br> - Pestañas de navegación internas <br> - Botones intuitivos e interactivos <br> - Visualización de elementos relacionados |  
-| **Excluidas en esta evaluación** | - Landing Page (Desktop) <br> - Formularios de registro o cambio de contraseña <br> - Políticas de privacidad y términos de uso <br> - Aplicación Web (Desktop) <br> - Perfil de usuario <br> - Detalles ampliados de productos al seleccionarlos <br> - Políticas de privacidad y términos de uso |  
+| **Sitio o App Evaluada**         | Pet Nova                                                                                                                                                                                                                                                                                           |
+| :------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tareas evaluadas**             | Esta evaluación abarca la revisión de usabilidad de las siguientes tareas:                                                                                                                                                                                                                         |
+| **Landing Page (Desktop)**       | - Información y descripción de la app y sus funciones <br> - Breve descripción del equipo de trabajo <br> - Visualización de testimonios <br> - Header y footer funcionales                                                                                                                        |
+| **Aplicación Web (Desktop)**     | - Visualización de datos registrados en el sistema <br> - Header y footer funcionales <br> - Pestañas de navegación internas <br> - Botones intuitivos e interactivos <br> - Visualización de elementos relacionados                                                                               |
+| **Excluidas en esta evaluación** | - Landing Page (Desktop) <br> - Formularios de registro o cambio de contraseña <br> - Políticas de privacidad y términos de uso <br> - Aplicación Web (Desktop) <br> - Perfil de usuario <br> - Detalles ampliados de productos al seleccionarlos <br> - Políticas de privacidad y términos de uso |
 
-**ESCALA DE GRAVEDAD:**  
+**ESCALA DE GRAVEDAD:**
 
-Los errores se clasificarán según la siguiente escala:  
+Los errores se clasificarán según la siguiente escala:
 
-|Nivel|Descripción|  
-| :- | :- |  
-|1|Error menor: el usuario puede solucionarlo fácilmente o ocurre raramente. No es urgente corregirlo, salvo que haya tiempo disponible.|  
-|2|Error moderado: aparece con más frecuencia o representa una dificultad media para el usuario. Debe resolverse en futuras actualizaciones con prioridad baja.|  
-|3|Error grave: frecuente o difícil de resolver para los usuarios. Requiere corrección prioritaria.|  
-|4|Error crítico: impide el uso normal de la herramienta. Debe solucionarse antes del lanzamiento.|  
+| Nivel | Descripción                                                                                                                                                  |
+| :---- | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Error menor: el usuario puede solucionarlo fácilmente o ocurre raramente. No es urgente corregirlo, salvo que haya tiempo disponible.                        |
+| 2     | Error moderado: aparece con más frecuencia o representa una dificultad media para el usuario. Debe resolverse en futuras actualizaciones con prioridad baja. |
+| 3     | Error grave: frecuente o difícil de resolver para los usuarios. Requiere corrección prioritaria.                                                             |
+| 4     | Error crítico: impide el uso normal de la herramienta. Debe solucionarse antes del lanzamiento.                                                              |
 
-**TABLA RESUMEN (AMBOS SEGMENTOS):**  
+**TABLA RESUMEN (AMBOS SEGMENTOS):**
 
-**Aplicación Web**  
+**Aplicación Web**
 
-|#|Problema|Gravedad|Heurística/Principio afectado|  
-| :- | :- | :- | :- |  
-|1||1|IA - ¿Es claro?|  
-|2||2|IA - ¿Es fácil de encontrar?|  
-|3||1|Usabilidad - Consistencia y estándares|  
+| #   | Problema | Gravedad | Heurística/Principio afectado          |
+| :-- | :------- | :------- | :------------------------------------- |
+| 1   |          | 1        | IA - ¿Es claro?                        |
+| 2   |          | 2        | IA - ¿Es fácil de encontrar?           |
+| 3   |          | 1        | Usabilidad - Consistencia y estándares |
 
-**Landing Page**  
+**Landing Page**
 
-|#|Problema|Gravedad|Heurística/Principio afectado|  
-| :- | :- | :- | :- |  
-|1||1|IA - ¿Es claro?|  
-|2||1|IA - ¿Es usable?|  
-|3||1|IA - ¿Es usable?|  
+| #   | Problema | Gravedad | Heurística/Principio afectado |
+| :-- | :------- | :------- | :---------------------------- |
+| 1   |          | 1        | IA - ¿Es claro?               |
+| 2   |          | 1        | IA - ¿Es usable?              |
+| 3   |          | 1        | IA - ¿Es usable?              |
 
-**DETALLE DE PROBLEMAS:**  
+**DETALLE DE PROBLEMAS:**
 
-**1. Aplicación Web**  
+**1. Aplicación Web**
 
-**PROBLEMA #1:**  
+**PROBLEMA #1:**
 
-| Gravedad: 1 | Heurística: IA - ¿Es claro? |  
-| :- | :- |  
-| **Inconveniente:** | La navegación dentro de la app podría no ser intuitiva, dificultando la ubicación de secciones clave. |  
-| **Solución propuesta:** | Mejorar la estructura de navegación y usar etiquetas más descriptivas en las pestañas. |  
+| Gravedad: 1             | Heurística: IA - ¿Es claro?                                                                           |
+| :---------------------- | :---------------------------------------------------------------------------------------------------- |
+| **Inconveniente:**      | La navegación dentro de la app podría no ser intuitiva, dificultando la ubicación de secciones clave. |
+| **Solución propuesta:** | Mejorar la estructura de navegación y usar etiquetas más descriptivas en las pestañas.                |
 
-**PROBLEMA #2:**  
+**PROBLEMA #2:**
 
-| Gravedad: 2 | Heurística: IA - ¿Es fácil de encontrar? |  
-| :- | :- |  
-| **Inconveniente:** | La información importante no es visible o requiere demasiados pasos para acceder a ella. |  
-| **Solución propuesta:** | Reestructurar la disposición de la información para facilitar su acceso desde la pantalla principal. |  
+| Gravedad: 2             | Heurística: IA - ¿Es fácil de encontrar?                                                             |
+| :---------------------- | :--------------------------------------------------------------------------------------------------- |
+| **Inconveniente:**      | La información importante no es visible o requiere demasiados pasos para acceder a ella.             |
+| **Solución propuesta:** | Reestructurar la disposición de la información para facilitar su acceso desde la pantalla principal. |
 
----  
+---
 
-**2. Landing Page**  
+**2. Landing Page**
 
-**PROBLEMA #1:**  
+**PROBLEMA #1:**
 
-| Gravedad: 1 | Heurística: Usabilidad - Consistencia y estándares |  
-| :- | :- |  
-| **Inconveniente:** | Falta uniformidad en el diseño entre distintas secciones. |  
-| **Solución propuesta:** | Definir y aplicar guías de diseño coherentes en toda la plataforma. |  
+| Gravedad: 1             | Heurística: Usabilidad - Consistencia y estándares                  |
+| :---------------------- | :------------------------------------------------------------------ |
+| **Inconveniente:**      | Falta uniformidad en el diseño entre distintas secciones.           |
+| **Solución propuesta:** | Definir y aplicar guías de diseño coherentes en toda la plataforma. |
 
-**PROBLEMA #2:**  
+**PROBLEMA #2:**
 
-| Gravedad: 1 | Heurística: IA - ¿Es claro? |  
-| :- | :- |  
-| **Inconveniente:** | La descripción de la app y sus funciones no es suficientemente clara. |  
-| **Solución propuesta:** | Redactar textos más simples y directos que expliquen mejor el propósito de la app. |  
+| Gravedad: 1             | Heurística: IA - ¿Es claro?                                                        |
+| :---------------------- | :--------------------------------------------------------------------------------- |
+| **Inconveniente:**      | La descripción de la app y sus funciones no es suficientemente clara.              |
+| **Solución propuesta:** | Redactar textos más simples y directos que expliquen mejor el propósito de la app. |
 
-**PROBLEMA #3:**  
+**PROBLEMA #3:**
 
-| Gravedad: 1 | Heurística: IA - ¿Es usable? |  
-| :- | :- |  
-| **Inconveniente:** | Los testimonios no destacan y podrían no ser notados por los usuarios. |  
-| **Solución propuesta:** | Rediseñar la sección de testimonios para mejorar su visibilidad y funcionalidad. |  
+| Gravedad: 1             | Heurística: IA - ¿Es usable?                                                     |
+| :---------------------- | :------------------------------------------------------------------------------- |
+| **Inconveniente:**      | Los testimonios no destacan y podrían no ser notados por los usuarios.           |
+| **Solución propuesta:** | Rediseñar la sección de testimonios para mejorar su visibilidad y funcionalidad. |
 
----  
+---
 
 ### **5.4. Video About-the-Product**
 
-En este video presentamos **Pet Nova**, una innovadora aplicación diseñada para mejorar la gestión de la salud y bienestar de las mascotas. 
+En este video presentamos **Pet Nova**, una innovadora aplicación diseñada para mejorar la gestión de la salud y bienestar de las mascotas.
 
 **Características principales:**
 
@@ -1042,12 +1166,13 @@ En este video presentamos **Pet Nova**, una innovadora aplicación diseñada par
 
 **Funcionalidades destacadas:**
 
-| Función | Beneficio |
-|---------|-----------|
+| Función              | Beneficio                                                   |
+| -------------------- | ----------------------------------------------------------- |
 | Perfiles de mascotas | Creación y edición de perfiles detallados para cada mascota |
-| Historial médico | Acceso rápido al registro completo de salud de la mascota |
+| Historial médico     | Acceso rápido al registro completo de salud de la mascota   |
 
 **Ventajas clave:**
+
 1. **Organización centralizada** de toda la información médica
 2. **Recordatorios automáticos** para no olvidar citas importantes
 3. **Acceso inmediato** al historial clínico cuando se necesita
@@ -1065,11 +1190,8 @@ La aplicación está diseñada para brindar **paz mental** a los dueños de masc
 - El uso de metodologías ágiles, como reuniones de sprint y retrospectivas, ayudó a ajustar prioridades y mejorar continuamente el flujo de trabajo.
 
 - Finalmente, el enfoque en UI/UX permitió construir una plataforma intuitiva y atractiva para los usuarios finales.
-  
 - Progreso satisfactorio en la construcción de la Web Application: En el Sprint 2, el equipo logró iniciar el desarrollo de la Web Application de Pet Nova, implementando funcionalidades clave como el registro e inicio de sesión de usuarios, gestión de perfiles, registro de mascotas y notificaciones de citas. Esto permitió un avance significativo en la estructura de la aplicación, enfocándose en una interfaz intuitiva y la integración inicial con la base de datos MySQL.
-  
 - Mejoras en la planificación y seguimiento de tareas: Durante este sprint, se mantuvo la misma capacidad de trabajo de 8 Story Points que en el Sprint 1. La planificación y distribución de tareas se realizó de acuerdo con las habilidades de los miembros del equipo, lo que contribuyó a la eficiente asignación de responsabilidades y al progreso constante hacia el objetivo del sprint.
-  
 - Lecciones aprendidas sobre la documentación de commits: A partir de las retrospectivas del Sprint 1, se identificó la necesidad de mejorar la documentación de los commits. Este aspecto fue abordado en Sprint 2, ya que se tomaron medidas para que los mensajes de commit fueran más descriptivos y claros, lo que facilitó el seguimiento del progreso y la colaboración dentro del equipo.
 
 - Desarrollo colaborativo y herramientas utilizadas: El equipo utilizó herramientas como Visual Studio Code, Git y GitHub para asegurar una colaboración fluida y el control adecuado de versiones. Estas herramientas permitieron la integración de tareas individuales de manera efectiva, lo que resultó en una versión preliminar funcional de la Web Application de Pet Nova, demostrando la importancia de las plataformas de colaboración y control de código en proyectos ágiles.

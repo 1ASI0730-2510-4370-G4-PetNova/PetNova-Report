@@ -570,6 +570,115 @@ En el Sprint 2 se inició el desarrollo de la Web Application de Pet Nova, imple
 
 Para el desarrollo de la Web Application en este sprint, se utilizaron herramientas clave como Visual Studio Code para la escritura de código, Git para el control de versiones, y GitHub para la gestión de ramas y pull requests. Las funcionalidades de la Web App, como el registro e inicio de sesión, gestión de perfiles, registro de mascotas y notificaciones, se dividieron en tareas específicas asignadas a cada miembro del equipo según sus habilidades. Un integrante se encargó de integrar las contribuciones individuales, asegurando la cohesión del producto final.
 
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+<table>
+  <tr>
+    <th> Sprint # </th>
+    <th> Sprint 3 </th>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Planning Background </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Date </td>
+    <td> 5/06/2025 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Time </td>
+    <td> 21:00 horas (GMT-5) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Location </td>
+    <td> Virtual (Discord) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Prepared By </td>
+    <td> Escobar Palomino, Sebastian Matias </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+    <td>
+      Bastidas Bastidas, Diego Martin<br>
+      Belahonia Miranda, Fabrisio<br>
+      Choquehuanca Núñez, Luciana Carolina<br>
+      Escobar Palomino, Sebastian Matias<br>
+      Prado Vargas, Mario Benjamín
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+    <td> En el Sprint 2, se completó con éxito la Web App de Pet Nova, incorporando funcionalidades como la gestión de usuarios, perfiles de mascotas, citas veterinarias, notificaciones y visualización del historial médico. También se implementaron herramientas administrativas para el manejo de clientes, medicamentos y reportes. Todas las User Stories (US01 a US06, US09, US10, US14, US15, US23 y US31) fueron implementadas y desplegadas en GitHub Pages. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
+    <td> Durante la retrospectiva, el equipo valoró positivamente la organización del trabajo y el avance sostenido. Se identificó como área de mejora la gestión del tiempo en tareas técnicas específicas. Para próximos sprints, se acordó fomentar revisiones tempranas en equipo para reducir retrabajos. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Goal </td>
+    <td> Finalizar la implementación completa del backend de Pet Nova, abarcando todos los contextos funcionales definidos, para permitir su integración total con la interfaz frontend. El objetivo incluye asegurar una experiencia coherente y fluida para todos los roles del sistema, consolidar la lógica de negocio, y reforzar aspectos clave como validaciones y consistencia de datos. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Velocity </td>
+    <td> <strong>8</strong><br> El equipo mantiene una capacidad de 8 Story Points para este Sprint, consistente con Sprint 2, considerando la experiencia adquirida y la carga de trabajo estimada. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sum of Story Points </td>
+    <td> 8 </td>
+  </tr>
+</table>
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+| **Team Member (Last Name, First Name)**  | **GitHub Username** | **Capítulo I: Introducción (L/C)** | **Capítulo II: Requirements Elicitation & Analysis (L/C)** | **Capítulo III: Requirements Specification (L/C)** | **Capítulo IV: Product Design (L/C)** | **Capítulo V: Product Implementation, Validation & Deployment (L/C)** |
+| ---------------------------------------- | ------------------- | ---------------------------------- | ---------------------------------------------------------- | -------------------------------------------------- | ------------------------------------- | --------------------------------------------------------------------- |
+| **Belahonia Miranda, Fabrisio**          | devfab17            | L                                  | C                                                          | C                                                  | C                                     | C                                                                     |
+| **Bastidas Bastidas, Diego Martin**      | ghostnotfound404    | C                                  | L                                                          | C                                                  | C                                     | C                                                                     |
+| **Choquehuanca Núñez, Luciana Carolina** | lucianxaaa          | C                                  | C                                                          | L                                                  | C                                     | C                                                                     |
+| **Prado Vargas, Mario Benjamín**         | mariopvdev          | C                                  | C                                                          | C                                                  | L                                     | C                                                                     |
+| **Escobar Palomino, Sebastian Matias**   | sebasepe            | C                                  | C                                                          | C                                                  | C                                     | L                                                                     |
+
+#### 5.2.3.3. Sprint Backlog 3
+
+
+| ID   | Description                     | Tarea | Title                                        | Description                                                                                             | Estimations(Hours) | Assigned To                          | Status |
+| ---- | ------------------------------- | ----- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------ | ------ |
+| US01 | Registro de Usuario             | Tk01  | Agregar lógica de validación                 | Implementación de validaciones en los formularios para asegurar campos requeridos y formatos correctos. | 4                  | Bastidas Bastidas, Diego Martin      | DONE   |
+| US01 | Registro de Usuario             | Tk02  | Definir estructura del modelo                | Definición y codificación del modelo de datos con los campos clave para usuarios.                       | 3                  | Belahonia Miranda, Fabrisio          | DONE   |
+| US01 | Registro de Usuario             | Tk03  | Desarrollar API REST                         | Desarrollo del endpoint de registro con recepción, validación y almacenamiento de datos.                | 2                  | Prado Vargas, Mario Benjamín         | DONE   |
+| US03 | Gestión de Perfiles de Usuarios | Tk01  | Listar y filtrar usuarios                    | Implementación del listado de usuarios con opciones de búsqueda y filtros por criterios definidos.      | 4                  | Bastidas Bastidas, Diego Martin      | DONE   |
+| US03 | Gestión de Perfiles de Usuarios | Tk02  | Editar datos de perfil                       | Desarrollo de la funcionalidad para modificar los datos del perfil del usuario desde la interfaz.       | 4                  | Escobar Palomino, Sebastian Matias   | DONE   |
+| US03 | Gestión de Perfiles de Usuarios | Tk03  | Inhabilitar o eliminar cuentas               | Incorporación de opciones para desactivar o eliminar cuentas desde el panel de administración.          | 3                  | Bastidas Bastidas, Diego Martin      | DONE   |
+| US04 | Creación de Perfil de Mascota   | Tk01  | Validar y guardar datos de mascota           | Validación de datos ingresados para mascotas y almacenamiento en la base de datos.                      | 2                  | Choquehuanca Núñez, Luciana Carolina | DONE   |
+| US04 | Creación de Perfil de Mascota   | Tk02  | Controlar duplicidad de nombres              | Verificación para evitar nombres duplicados al registrar una nueva mascota.                             | 4                  | Belahonia Miranda, Fabrisio          | DONE   |
+| US05 | Edición de Perfil de Mascota    | Tk01  | Editar datos del perfil de mascota           | Desarrollo de la funcionalidad para editar la información del perfil de mascota.                        | 4                  | Escobar Palomino, Sebastian Matias   | DONE   |
+| US05 | Edición de Perfil de Mascota    | Tk02  | Validar campos obligatorios                  | Aplicación de validaciones para asegurar el ingreso de todos los campos obligatorios.                   | 3                  | Belahonia Miranda, Fabrisio          | DONE   |
+| US07 | Búsqueda de Mascotas por ID     | Tk01  | Desarrollar búsqueda por ID                  | Implementación de búsqueda de registros por ID con respuesta estructurada.                              | 2                  | Choquehuanca Núñez, Luciana Carolina | DONE   |
+| US07 | Búsqueda de Mascotas por ID     | Tk02  | Manejar ID inexistente                       | Manejo de errores y mensajes adecuados cuando el ID buscado no existe.                                  | 4                  | Prado Vargas, Mario Benjamín         | DONE   |
+| US08 | Gestión de Perfiles de Mascotas | Tk01  | Eliminar perfiles de mascotas                | Implementación de la opción para eliminar perfiles de mascotas desde el sistema.                        | 4                  | Belahonia Miranda, Fabrisio          | DONE   |
+| US08 | Gestión de Perfiles de Mascotas | Tk02  | Actualizar información de mascotas           | Desarrollo de la funcionalidad para actualizar datos de mascotas registrados.                           | 3                  | Prado Vargas, Mario Benjamín         | DONE   |
+| US09 | Agendamiento de Citas           | Tk01  | Crear lógica de agendamiento                 | Creación de la lógica que permite agendar citas con validación de disponibilidad.                       | 2                  | Escobar Palomino, Sebastian Matias   | TO-DO  |
+| US09 | Agendamiento de Citas           | Tk02  | Sugerir citas alternativas                   | Incorporación de sugerencias automáticas en caso de horarios no disponibles.                            | 4                  | Escobar Palomino, Sebastian Matias   | DONE   |
+| US10 | Cancelación de Citas            | Tk01  | Cancelar cita                                | Desarrollo de la función para cancelar citas y liberar el horario correspondiente.                      | 4                  | Belahonia Miranda, Fabrisio          | DONE   |
+| US10 | Cancelación de Citas            | Tk02  | Advertencia por cancelación tardía           | Implementación de advertencias cuando se intenta cancelar con poca anticipación.                        | 3                  | Escobar Palomino, Sebastian Matias   | TO-DO  |
+| US11 | Gestión de Citas Veterinarias   | Tk01  | Filtrar por fecha y estado                   | Aplicación de filtros por fecha y estado para visualizar citas según criterios.                         | 2                  | Bastidas Bastidas, Diego Martin      | TO-DO  |
+| US11 | Gestión de Citas Veterinarias   | Tk02  | Listar todas las citas                       | Generación de listado completo con todas las citas registradas en el sistema.                           | 4                  | Choquehuanca Núñez, Luciana Carolina | DONE   |
+| US12 | Búsqueda de Citas por ID        | Tk01  | Buscar cita por ID                           | Desarrollo de la búsqueda de citas específicas mediante su ID.                                          | 4                  | Escobar Palomino, Sebastian Matias   | DONE   |
+| US12 | Búsqueda de Citas por ID        | Tk02  | Controlar error por ID inválido              | Manejo de errores y mensajes adecuados ante IDs inválidos en la búsqueda.                               | 3                  | Belahonia Miranda, Fabrisio          | DONE   |
+| US13 | Edición de Citas Veterinarias   | Tk01  | Actualizar fecha y hora                      | Implementación de la función para actualizar la fecha y hora de una cita existente.                     | 2                  | Choquehuanca Núñez, Luciana Carolina | DONE   |
+| US13 | Edición de Citas Veterinarias   | Tk02  | Modificar estado y notificar                 | Modificación del estado de la cita y envío de notificación al cliente.                                  | 4                  | Bastidas Bastidas, Diego Martin      | TO-DO  |
+| US24 | Edición de Perfiles de Clientes | Tk01  | Registrar cliente con datos obligatorios     | Registro de un nuevo cliente con validación de todos los campos obligatorios.                           | 4                  | Prado Vargas, Mario Benjamín         | DONE   |
+| US24 | Edición de Perfiles de Clientes | Tk02  | Generar ID único de cliente                  | Generación automática de un ID único para cada cliente registrado.                                      | 3                  | Choquehuanca Núñez, Luciana Carolina | DONE   |
+| US25 | Edición de Perfiles de Clientes | Tk01  | Editar datos del cliente                     | Desarrollo de la funcionalidad para editar la información del cliente.                                  | 2                  | Escobar Palomino, Sebastian Matias   | DONE   |
+| US25 | Edición de Perfiles de Clientes | Tk02  | Agregar nuevas mascotas                      | Incorporación de opción para añadir nuevas mascotas al perfil del cliente.                              | 4                  | Bastidas Bastidas, Diego Martin      | DONE   |
+| US26 | Búsqueda de Clientes por ID     | Tk01  | Buscar cliente por ID exacto                 | Búsqueda precisa de clientes mediante coincidencia exacta del ID.                                       | 4                  | Prado Vargas, Mario Benjamín         | DONE   |
+| US26 | Búsqueda de Clientes por ID     | Tk02  | Mostrar sugerencias por coincidencia parcial | Sugerencia automática de clientes basadas en coincidencias parciales del nombre o ID.                   | 3                  | Choquehuanca Núñez, Luciana Carolina | TO-DO  |
+
 #### 5.3.3. Evaluación Basada en Heurísticas  
 
 | **Sitio o App Evaluada** | Pet Nova |  

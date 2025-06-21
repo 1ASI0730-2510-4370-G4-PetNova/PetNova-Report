@@ -358,7 +358,7 @@ En el primer sprint, el equipo enfocó su trabajo en crear una landing page que 
 | US23 | Cambio de Idioma en la App Web          | TS01  | Implementación del botón para cambio de idioma.                                          | 2                  | Prado Vargas, Mario Benjamín         | DONE   |                |
 |      |                                         | TS02  | Configuración de contenido multilenguaje (español e inglés).                             | 2                  | Prado Vargas, Mario Benjamín         | DONE   | **4**          |
 
-![sprint_1](sprint_1.png)
+![sprint_1](./assets/Chapter05/sprint_1.png)
 
 Enlace trello para mejor visualización del segumiento de cada sprint: [https://trello.com/invite/b/6855a0ea9b157a8bfdf3e112/ATTI54f8f98c5dd16e1134729fb6719c46634153B678/project-management](https://trello.com/invite/b/6855a0ea9b157a8bfdf3e112/ATTI54f8f98c5dd16e1134729fb6719c46634153B678/project-management)
 
@@ -577,7 +577,7 @@ En el segundo sprint, el equipo centró su desarrollo en funcionalidades esencia
 |      |                         | TS20  | Configuración de recordatorios | Permitir al usuario elegir cuándo recibir notificaciones.                | 2                  | Prado Vargas, Mario Benjamín         | To-do  |                |
 |      |                         | TS21  | Diseño de UI para alertas      | Crear interfaz para visualizar y gestionar notificaciones.               | 2                  | Prado Vargas, Mario Benjamín         | To-do  | **7**          |
 
-![sprint_2](sprint_2.png)
+![sprint_2](./assets/Chapter05/sprint_2.png)
 
 Enlace trello para mejor visualización del segumiento de cada sprint: [https://trello.com/invite/b/6855a0ea9b157a8bfdf3e112/ATTI54f8f98c5dd16e1134729fb6719c46634153B678/project-management](https://trello.com/invite/b/6855a0ea9b157a8bfdf3e112/ATTI54f8f98c5dd16e1134729fb6719c46634153B678/project-management)
 
@@ -708,7 +708,7 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
 | US26 | Búsqueda de Clientes por ID     | Tk01  | Buscar cliente por ID exacto                   | 4                  | Prado Vargas, Mario Benjamín         | DONE       |                |
 |      |                                 | Tk02  | Mostrar sugerencias por coincidencia parcial   | 3                  | Choquehuanca Núñez, Luciana Carolina | IN PROCESS | **7**          |
 
-![sprint_3](sprint_3.png)
+![sprint_3](./assets/Chapter05/sprint_3.png)
 
 Enlace trello para mejor visualización del segumiento de cada sprint: [https://trello.com/invite/b/6855a0ea9b157a8bfdf3e112/ATTI54f8f98c5dd16e1134729fb6719c46634153B678/project-management](https://trello.com/invite/b/6855a0ea9b157a8bfdf3e112/ATTI54f8f98c5dd16e1134729fb6719c46634153B678/project-management)
 

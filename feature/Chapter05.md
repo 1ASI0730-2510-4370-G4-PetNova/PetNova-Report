@@ -679,15 +679,22 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
 
 #### 5.2.3.4. Development Evidence for Sprint Review
 
-|                                         Repository                                         |          Branch           | Commit Id |             Commit <br>Message              | Commit <br>Message Body | Commited <br>on (Date) |
-| :----------------------------------------------------------------------------------------: | :-----------------------: | :-------: | :-----------------------------------------: | :---------------------: | :--------------------: |
-| [ <br>Landing Page](https://1asi0730-2510-4370-g4-petnova.github.io/PetNova-Landing-Page/) |           main            |  b342095  |              Create index.html              |                         |       09/07/2024       |
-|                                          Landing                                           |     feat/section-home     |  e352819  |          feat: added/section-home           |                         |       09/07/2024       |
-|                                          Landing                                           | feat/section-subscription |  5e84a90  |      feat: added Section subscription       |                         |       09/07/2024       |
-|                                          Landing                                           | feat/section-subscription |  faf615f  |     feat: complete Section subscription     |                         |       09/07/2024       |
-|                                          Landing                                           |    feat/section-review    |  2b26403  | Add: feat: added contact, review and footer |                         |       09/07/2024       |
-|                                          Landing                                           |  feat/section-typography  |  a1fe77e  |          feat: typography changed           |                         |       09/07/2024       |
-|                                          Landing                                           |           main            |  2f9452b  |        feat: landing page deployment        |                         |       09/07/2024       |
+|                                 Repository                                  |    Branch     | Commit Id |               Commit <br>Message                | Commit <br>Message Body | Commited <br>on (Date) |
+| :-------------------------------------------------------------------------: | :-----------: | :-------: | :---------------------------------------------: | :---------------------: | :--------------------: |
+| [Backend](https://github.com/1ASI0730-2510-4370-G4-PetNova/PetNova-BackEnd) |  feat/diego   |  25de917  |           feat: code backend pet nova           |                         |       21/06/2025       |
+|                               PetNova-Backend                               |  feat/diego   |  3f8f027  |     feat: add codebase backend of Pet Nova      |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/fabrisio |  6f5a58c  |     feat(shared): implement JwtTokenService     |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/fabrisio |  de2e786  |        feat(shared): implement SeedDara         |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/fabrisio |  e795eb8  |   feat(shared): implement generic UnitofWork    |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/fabrisio |  7086d6c  |  feat(shared): implement generic EfRepository   |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/fabrisio |  10d0d85  |       feat(shared): add Swagger Extension       |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/fabrisio |  920f290  |         feat(shared): add AppDbContext          |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/fabrisio |  5592eff  |          feat(shared): add ToKebabCase          |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/fabrisio |  fbd932d  |          feat(shared): add kebab-case           |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/fabrisio |  973f244  |     feat(shared): add IUnitOfWork interface     |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/fabrisio |  1c8d128  | feat(shared): add generic IRepository interface |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/fabrisio |  270155c  |    feat(shared): add ITokenService interface    |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/fabrisio |  25de917  |           feat: code backend pet nova           |                         |       21/06/2025       |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
@@ -709,7 +716,7 @@ Enlace del deployment de la Landing Page: [https://1asi0730-2510-4370-g4-petnova
 
 **Seccion video about the team en landing page**
 
-[![About the team video](IMAGEN FALTA)](FALTA LINK DEL VIDEO)
+[![About the product video](IMAGEN FALTA)](FALTA LINK DEL VIDEO)
 
 **Seccion video about the product en landing page**
 

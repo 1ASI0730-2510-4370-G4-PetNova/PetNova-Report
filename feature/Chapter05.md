@@ -826,11 +826,140 @@ Anexo: Tablas de commits en el periodo de 1 mes.
 <img src="./assets/Chapter05/Commits over time.png">
 <img src="./assets/Chapter05/commits insights.JPG">
 
-#### 5.3. Validation Interviews
+### **5.3. Validation Interviews**
+#### **5.3.1. Diseño de Entrevistas**
 
-#### 5.3.1. Diseño de Entrevistas
+## Diseño de entrevista – Primer segmento objetivo: Médicos Veterinarios:
+1. ¿Cuál es tu nombre?
+2. ¿Qué edad tienes?
+3. ¿Cuánta experiencia tienes en el rubro?
+4. ¿Qué aplicación utilizas actualmente?
+5. ¿Cómo fue tu experiencia al interactuar con PetNova?
+6. ¿Qué aspectos cambiarías o qué funciones agregarías?
 
-#### 5.3.2. Registro de Entrevistas
+## Diseño de entrevista – Segundo segmento objetivo: Dueños de Mascotas:
+1. ¿Cuál es tu nombre?
+2. ¿Qué edad tienes?
+3. ¿Cómo calificarías tu experiencia usando PetNova?
+4. ¿Qué mejorarías o añadirías a la plataforma?
+5. ¿Qué tan fácil te resultó utilizar PetNova?
+
+#### **5.3.2. Registro de Entrevistas**
+
+## Entrevista para el Segmento Objetivo 1 - Veterinarios :
+
+**Entrevista N°1:**
+
+**Entrevistado:** Sebastian Silva
+
+**Sexo:** Masculino
+
+**Edad:** 21 años
+
+**Inicio de la Entrevista:** 0:00
+
+**Fin de la Entrevista:** 6:07
+
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/n5rq1Hp.png" width="90%" />
+</div>
+
+**Resumen de la Entrevista:** Sebastián Silva, actualmente en prácticas como veterinario,desea utilizar el aplicativo Petnova para gestionar clientes y mascotas. Destaca su interfaz intuitiva, aunque sugiere mejoras como formatos automáticos para fechas y opciones predefinidas para género y razas de mascotas. A pesar de algunos detalles por ajustar, valora la aplicación como una mejora en su trabajo diario.
+
+**Entrevista N°2:**
+
+**Entrevistado:** Daniela Basurto
+
+**Sexo:** Femenino
+
+**Edad:** 21 años
+
+**Inicio de la Entrevista:** 6:08
+
+**Fin de la Entrevista:** 12:22
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/3FROBG8.png" width="90%" />
+</div>
+
+**Resumen de la Entrevista:** Daniela Basurto Díaz, de 21 años, es veterinaria y tiene un año de experiencia con su clínica Happy House. Durante la demostración de Petnova, destacó la facilidad para gestionar clientes y mascotas, así como para agendar citas. Sugerió mejorar la plataforma con un calendario para historiales clínicos y un apartado de reseñas para veterinarios, lo que ayudaría a mejorar la interacción con los clientes. También propuso un diseño más formal y profesional. En general, encontró la aplicación útil y fácil de usar, pero sugirió agregar más funciones.
+
+**Entrevista N°3:**
+
+**Entrevistado:** Jose Heredia
+
+**Sexo:** Masculino
+
+**Edad:** 21 años
+
+**Inicio de la Entrevista:** 12:23
+
+**Fin de la Entrevista:** 17:45
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/6bDbUMn.png" width="90%" />
+</div>
+
+**Resumen de la Entrevista:** José Heredia Montes, estudiante de veterinaria especializado en oftalmología, está realizando prácticas y valora positivamente el aplicativo Petnova. Destaca su funcionalidad para gestionar clientes, mascotas y citas, aunque sugiere que los colores sean más llamativos para hacerlo más atractivo. Aprecia la organización que ofrece, especialmente para un uso futuro profesional, y no considera necesarias muchas modificaciones en el sistema. También considera útil la opción de tener un control más centralizado de las citas y la información.
+
+## Entrevista para el Segmento Objetivo 2 - Dueño de Mascotas:
+
+**Entrevista N°1:**
+
+**Entrevistado:** Camila Sanchez
+
+**Sexo:** Femenino
+
+**Edad:** 20 años
+
+**Inicio de la Entrevista:** 17:47
+
+**Fin de la Entrevista:** 22:36
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/WNfG6Fu.png" width="90%" />
+</div>
+
+**Resumen de la Entrevista:** Camila Sánchez, de 20 años, considera que el aplicativo Petnova es fácil de usar para registrar mascotas y agendar citas. Valora la opción de agregar un segundo número de teléfono para emergencias y la facilidad para crear perfiles. Aunque encuentra el diseño algo opaco, destaca que la estructura es clara y fácil de navegar. Aprecia la simplicidad del sistema, aunque sugiere que se puedan mejorar los colores y añadir un segundo número de contacto por si el principal no responde.
+
+**Entrevista N°2:**
+
+**Entrevistado:** Gianella Cardenas
+
+**Sexo:** Masculino
+
+**Edad:** 23 años
+
+**Inicio de la Entrevista:** 22:38
+
+**Fin de la Entrevista:** 28:13
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/fmhyPri.png" width="90%" />
+</div>
+
+**Resumen de la Entrevista:** Gianella Cárdenas, de 23 años, encontró Petnova fácil de usar para registrar mascotas y agendar citas médicas. Sugirió añadir información sobre dónde comprar medicamentos recetados. En general, calificó la plataforma como práctica, intuitiva y útil para coordinar con veterinarios.
+
+**Entrevista N°3:**
+
+**Entrevistado:** Sayuri Cardenas
+
+**Sexo:** Femenino
+
+**Edad:** 20 años
+
+**Inicio de la Entrevista:** 28:17
+
+**Fin de la Entrevista:** 32:28
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/NcuoIqR.png" width="90%" />
+</div>
+
+**Resumen de la Entrevista:** Sayuri Cárdenas, de 20 años, considera que el aplicativo Petnova es útil y práctico para dueños de mascotas. Aprecia su facilidad para registrar mascotas y agendar citas. Sugiere agregar una sección de opiniones y calificaciones de otros usuarios para mejorar la plataforma. Además, destaca que la interfaz es fácil de usar y muy intuitiva, sin complicaciones para registrar o buscar información.
+
+**LINK DE LAS ENTREVISTAS :** [ENTREVISTAS](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EbDTni8x8GBMp1pIS2S-RjYBLvK9p92yPY9jx9LiqxIP0Q?e=C3qczl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 #### 5.3.3. Evaluación Basada en Heurísticas
 

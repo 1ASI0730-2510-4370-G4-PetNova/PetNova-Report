@@ -669,7 +669,7 @@ En este video presentamos **Pet Nova**, una innovadora aplicación diseñada par
 | Función | Beneficio |
 |---------|-----------|
 | Perfiles de mascotas | Creación y edición de perfiles detallados para cada mascota |
-| 📋 Historial médico | Acceso rápido al registro completo de salud de la mascota |
+| Historial médico | Acceso rápido al registro completo de salud de la mascota |
 
 **Ventajas clave:**
 1. **Organización centralizada** de toda la información médica

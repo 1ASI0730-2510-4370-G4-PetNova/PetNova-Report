@@ -341,22 +341,22 @@ https://1asi0730-2510-4370-g4-petnova.github.io/PetNova-Landing-Page/
 
 En el primer sprint, el equipo enfocó su trabajo en crear una landing page que fuera tanto funcional como atractiva, asignando las tareas en el tablero de Sprint según las habilidades de cada miembro.
 
-| ID   | Title                                   | Tarea  | Description                                                                                                          | Estimations(Hours) | Assigned To                          | Status     | Total US Hours |
-|------|-----------------------------------------|--------|----------------------------------------------------------------------------------------------------------------------|--------------------|--------------------------------------|------------|----------------|
-| US17 | Barra de Navegación en la Landing Page  | TS01   | Diseño visual de la barra de navegación.                                                                            | 2                  | Bastidas Bastidas, Diego Martin      | DONE       |                |
-|      |                                         | TS02   | Implementación de enlaces a "¿Cómo funciona?", "Casos de éxito", "Planes" y "Contactos".                            | 2                  | Bastidas Bastidas, Diego Martin      | DONE       | **4**          |
-| US18 | Sección "Why Choose Us?"                | TS01   | Redacción de testimonios y selección de influencers.                                                                | 1.5                | Belahonia Miranda, Fabrisio          | DONE       |                |
-|      |                                         | TS02   | Maquetación e inserción de imágenes y citas en la sección.                                                          | 1.5                | Belahonia Miranda, Fabrisio          | DONE       | **3**          |
-| US19 | Gestión de Suscripciones                | TS01   | Diseño de tarjetas de planes de suscripción.                                                                        | 2                  | Choquehuanca Núñez, Luciana Carolina | DONE       |                |
-|      |                                         | TS02   | Implementación de precios y características en cada tarjeta.                                                        | 3                  | Choquehuanca Núñez, Luciana Carolina | DONE       | **5**          |
-| US20 | Reseñas de Clientes                     | TS01   | Recolección de citas y reseñas reales de usuarios.                                                                  | 2                  | Escobar Palomino, Sebastian Matias   | DONE       |                |
-|      |                                         | TS02   | Implementación de carrusel o layout de reseñas.                                                                     | 2                  | Escobar Palomino, Sebastian Matias   | DONE       | **4**          |
-| US21 | Formulario de Contacto                  | TS01   | Maquetación del formulario de contacto (nombre, correo, mensaje).                                                   | 1.5                | Escobar Palomino, Sebastian Matias   | DONE       |                |
-|      |                                         | TS02   | Implementación de validación básica y botón de envío.                                                               | 1.5                | Escobar Palomino, Sebastian Matias   | DONE       | **3**          |
-| US22 | Videos en la Sección de Características | TS01   | Recolección y organización de videos explicativos.                                                                  | 1.5                | Prado Vargas, Mario Benjamín         | DONE       |                |
-|      |                                         | TS02   | Integración de reproductor de video en la sección de características.                                               | 1.5                | Prado Vargas, Mario Benjamín         | DONE       | **3**          |
-| US23 | Cambio de Idioma en la App Web          | TS01   | Implementación del botón para cambio de idioma.                                                                     | 2                  | Prado Vargas, Mario Benjamín         | DONE       |                |
-|      |                                         | TS02   | Configuración de contenido multilenguaje (español e inglés).                                                        | 2                  | Prado Vargas, Mario Benjamín         | DONE       | **4**          |
+| ID   | Title                                   | Tarea | Description                                                                              | Estimations(Hours) | Assigned To                          | Status | Total US Hours |
+| ---- | --------------------------------------- | ----- | ---------------------------------------------------------------------------------------- | ------------------ | ------------------------------------ | ------ | -------------- |
+| US17 | Barra de Navegación en la Landing Page  | TS01  | Diseño visual de la barra de navegación.                                                 | 2                  | Bastidas Bastidas, Diego Martin      | DONE   |                |
+|      |                                         | TS02  | Implementación de enlaces a "¿Cómo funciona?", "Casos de éxito", "Planes" y "Contactos". | 2                  | Bastidas Bastidas, Diego Martin      | DONE   | **4**          |
+| US18 | Sección "Why Choose Us?"                | TS01  | Redacción de testimonios y selección de influencers.                                     | 1.5                | Belahonia Miranda, Fabrisio          | DONE   |                |
+|      |                                         | TS02  | Maquetación e inserción de imágenes y citas en la sección.                               | 1.5                | Belahonia Miranda, Fabrisio          | DONE   | **3**          |
+| US19 | Gestión de Suscripciones                | TS01  | Diseño de tarjetas de planes de suscripción.                                             | 2                  | Choquehuanca Núñez, Luciana Carolina | DONE   |                |
+|      |                                         | TS02  | Implementación de precios y características en cada tarjeta.                             | 3                  | Choquehuanca Núñez, Luciana Carolina | DONE   | **5**          |
+| US20 | Reseñas de Clientes                     | TS01  | Recolección de citas y reseñas reales de usuarios.                                       | 2                  | Escobar Palomino, Sebastian Matias   | DONE   |                |
+|      |                                         | TS02  | Implementación de carrusel o layout de reseñas.                                          | 2                  | Escobar Palomino, Sebastian Matias   | DONE   | **4**          |
+| US21 | Formulario de Contacto                  | TS01  | Maquetación del formulario de contacto (nombre, correo, mensaje).                        | 1.5                | Escobar Palomino, Sebastian Matias   | DONE   |                |
+|      |                                         | TS02  | Implementación de validación básica y botón de envío.                                    | 1.5                | Escobar Palomino, Sebastian Matias   | DONE   | **3**          |
+| US22 | Videos en la Sección de Características | TS01  | Recolección y organización de videos explicativos.                                       | 1.5                | Prado Vargas, Mario Benjamín         | DONE   |                |
+|      |                                         | TS02  | Integración de reproductor de video en la sección de características.                    | 1.5                | Prado Vargas, Mario Benjamín         | DONE   | **3**          |
+| US23 | Cambio de Idioma en la App Web          | TS01  | Implementación del botón para cambio de idioma.                                          | 2                  | Prado Vargas, Mario Benjamín         | DONE   |                |
+|      |                                         | TS02  | Configuración de contenido multilenguaje (español e inglés).                             | 2                  | Prado Vargas, Mario Benjamín         | DONE   | **4**          |
 
 #### **5.2.1.4. Development Evidence for Sprint Review**
 
@@ -556,22 +556,22 @@ En el segundo sprint, el equipo se enfocó en iniciar el desarrollo de la Web Ap
 
 En el segundo sprint, el equipo centró su desarrollo en funcionalidades esenciales como el registro e inicio de sesión, gestión de perfil y mascotas, así como el sistema de notificaciones. Cada historia de usuario fue dividida en tareas específicas para mejorar la organización y seguimiento del trabajo.
 
-| ID    | Title                        | Tarea  | Title de la Tarea             | Description                                                                 | Estimations(Hours) | Assigned To                          | Status     | Total US Hours |
-|-------|------------------------------|--------|-------------------------------|-----------------------------------------------------------------------------|--------------------|--------------------------------------|------------|----------------|
-| US01  | Registro de usuario          | TS08   | Formulario de registro        | Crear formulario HTML/CSS con validación para nombre, email, contraseña.   | 2                  | Bastidas Bastidas, Diego Martin      | To-do      |                |
-|       |                              | TS09   | Backend de registro           | Implementar endpoint en backend para guardar usuarios en MySQL.            | 2                  | Bastidas Bastidas, Diego Martin      | To-do      |                |
-|       |                              | TS16   | Validación y feedback UI      | Agregar mensajes de error y confirmación en tiempo real.                   | 2                  | Bastidas Bastidas, Diego Martin      | To-do      | **6**          |
-| US02  | Inicio de sesión             | TS10   | Formulario de login           | Crear formulario de inicio de sesión con email y contraseña.               | 2                  | Belahonia Miranda, Fabrisio          | To-do      |                |
-|       |                              | TS11   | Autenticación backend         | Implementar endpoint para autenticar usuarios con JWT.                      | 2                  | Belahonia Miranda, Fabrisio          | To-do      |                |
-|       |                              | TS17   | Control de sesión             | Implementar manejo de sesiones activas con cookies o tokens.               | 2                  | Belahonia Miranda, Fabrisio          | To-do      | **6**          |
-| US03  | Gestión de perfil            | TS12   | Pantalla de perfil            | Desarrollar pantalla para mostrar/editar datos del usuario.                | 3                  | Choquehuanca Núñez, Luciana Carolina | To-do      |                |
-|       |                              | TS18   | Edición y guardado de datos   | Habilitar edición y validación de campos en el perfil.                     | 2                  | Choquehuanca Núñez, Luciana Carolina | To-do      | **5**          |
-| US09  | Registro de mascotas         | TS13   | Formulario de mascota         | Crear formulario para registrar nombre, edad, raza de la mascota.          | 3                  | Escobar Palomino, Sebastian Matias   | To-do      |                |
-|       |                              | TS14   | Backend de mascotas           | Implementar endpoint para guardar datos de mascotas en MySQL.              | 2                  | Escobar Palomino, Sebastian Matias   | To-do      |                |
-|       |                              | TS19   | Validación de campos mascota  | Validar campos obligatorios y formato adecuado.                            | 1                  | Escobar Palomino, Sebastian Matias   | To-do      | **6**          |
-| US15  | Notificaciones de citas      | TS15   | Sistema de notificaciones     | Implementar envío de notificaciones por email o en la app para citas.      | 3                  | Prado Vargas, Mario Benjamín         | To-do      |                |
-|       |                              | TS20   | Configuración de recordatorios| Permitir al usuario elegir cuándo recibir notificaciones.                  | 2                  | Prado Vargas, Mario Benjamín         | To-do      |                |
-|       |                              | TS21   | Diseño de UI para alertas     | Crear interfaz para visualizar y gestionar notificaciones.                 | 2                  | Prado Vargas, Mario Benjamín         | To-do      | **7**          |
+| ID   | Title                   | Tarea | Title de la Tarea              | Description                                                              | Estimations(Hours) | Assigned To                          | Status | Total US Hours |
+| ---- | ----------------------- | ----- | ------------------------------ | ------------------------------------------------------------------------ | ------------------ | ------------------------------------ | ------ | -------------- |
+| US01 | Registro de usuario     | TS08  | Formulario de registro         | Crear formulario HTML/CSS con validación para nombre, email, contraseña. | 2                  | Bastidas Bastidas, Diego Martin      | To-do  |                |
+|      |                         | TS09  | Backend de registro            | Implementar endpoint en backend para guardar usuarios en MySQL.          | 2                  | Bastidas Bastidas, Diego Martin      | To-do  |                |
+|      |                         | TS16  | Validación y feedback UI       | Agregar mensajes de error y confirmación en tiempo real.                 | 2                  | Bastidas Bastidas, Diego Martin      | To-do  | **6**          |
+| US02 | Inicio de sesión        | TS10  | Formulario de login            | Crear formulario de inicio de sesión con email y contraseña.             | 2                  | Belahonia Miranda, Fabrisio          | To-do  |                |
+|      |                         | TS11  | Autenticación backend          | Implementar endpoint para autenticar usuarios con JWT.                   | 2                  | Belahonia Miranda, Fabrisio          | To-do  |                |
+|      |                         | TS17  | Control de sesión              | Implementar manejo de sesiones activas con cookies o tokens.             | 2                  | Belahonia Miranda, Fabrisio          | To-do  | **6**          |
+| US03 | Gestión de perfil       | TS12  | Pantalla de perfil             | Desarrollar pantalla para mostrar/editar datos del usuario.              | 3                  | Choquehuanca Núñez, Luciana Carolina | To-do  |                |
+|      |                         | TS18  | Edición y guardado de datos    | Habilitar edición y validación de campos en el perfil.                   | 2                  | Choquehuanca Núñez, Luciana Carolina | To-do  | **5**          |
+| US09 | Registro de mascotas    | TS13  | Formulario de mascota          | Crear formulario para registrar nombre, edad, raza de la mascota.        | 3                  | Escobar Palomino, Sebastian Matias   | To-do  |                |
+|      |                         | TS14  | Backend de mascotas            | Implementar endpoint para guardar datos de mascotas en MySQL.            | 2                  | Escobar Palomino, Sebastian Matias   | To-do  |                |
+|      |                         | TS19  | Validación de campos mascota   | Validar campos obligatorios y formato adecuado.                          | 1                  | Escobar Palomino, Sebastian Matias   | To-do  | **6**          |
+| US15 | Notificaciones de citas | TS15  | Sistema de notificaciones      | Implementar envío de notificaciones por email o en la app para citas.    | 3                  | Prado Vargas, Mario Benjamín         | To-do  |                |
+|      |                         | TS20  | Configuración de recordatorios | Permitir al usuario elegir cuándo recibir notificaciones.                | 2                  | Prado Vargas, Mario Benjamín         | To-do  |                |
+|      |                         | TS21  | Diseño de UI para alertas      | Crear interfaz para visualizar y gestionar notificaciones.               | 2                  | Prado Vargas, Mario Benjamín         | To-do  | **7**          |
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
@@ -753,6 +753,26 @@ La documentación incluye:
 Descripción detallada de los endpoints relacionados con clientes y mascotas. Operaciones permitidas como la creación, edición y eliminación de datos en estos módulos. Ejemplos actualizados de solicitudes y respuestas para garantizar una integración efectiva con el frontend. Información sobre las capas de seguridad y autenticación implementadas en el backend. Este nivel de documentación asegura que todos los miembros del equipo tengan una comprensión compartida y uniforme sobre el comportamiento y las capacidades de la API, lo que facilita el desarrollo continuo y la integración de nuevas funcionalidades.
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+En este trabajo se hizo uso de las siguientes herramientas para el desarrollo del backend de la aplicación web, como también para la actualización del frontend.
+
+- Git: Sistema de control de versiones.
+
+- GitFlow: Flujo de trabajo colaborativo.
+
+- GitHub Desktop: Herramienta de interfaz gráfica que utilizamos para interactuar con nuestro repositorio de GitHub.
+
+- GitHub: Plataforma de desarrollo colaborativo que nos proporcionó el repositorio donde almacenamos y gestionamos el código fuente de nuestro proyecto.
+
+- Azure Web Services: Servicio en la nube utilizado para desplegar el backend de nuestra aplicación.
+
+- MySQL for Azure: Servicio de base de datos en la nube que utilizamos para almacenar y gestionar los datos de la aplicación.
+
+Enlace del deployment de la Landing Page: [https://1asi0730-2510-4370-g4-petnova.github.io/PetNova-Landing-Page/](https://1asi0730-2510-4370-g4-petnova.github.io/PetNova-Landing-Page/)
+
+Enlace del deployment del FrontEnd: [https://petnovaapp.netlify.app/](https://petnovaapp.netlify.app/)
+
+Enlace del deployment del Backend: FALTA
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 

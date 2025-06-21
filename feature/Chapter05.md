@@ -340,15 +340,23 @@ https://1asi0730-2510-4370-g4-petnova.github.io/PetNova-Landing-Page/
 #### **5.2.1.3. Sprint Backlog 1**
 
 En el primer sprint, el equipo enfocó su trabajo en crear una landing page que fuera tanto funcional como atractiva, asignando las tareas en el tablero de Sprint según las habilidades de cada miembro.
-| **id** | **Title** | **Id** | **Title** | **Description** | **Estimations(Hours)** | **Assigned To** | **Status(To-do/InProcess/ToReview/Done)** |
-|---------|-----------------------------------------|---------|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------|-------------------------|-------------------------|------------------------------------------------------|
-| **US17** | Barra de Navegación en la Landing Page | **TS01** | Barra de navegación con enlaces | Implementación de la barra de navegación con enlaces a "¿Cómo funciona?", "Casos de éxito", "Planes" y "Contactos". | 4 | **Bastidas Bastidas, Diego Martin** | Done |
-| **US18** | Sección "Why Choose Us?" | **TS02** | Testimonios de influencers | Desarrollo de la sección de testimonios de influencers con citas y fotos de los influencers destacados. | 3 | **Belahonia Miranda, Fabrisio** | Hecho |
-| **US19** | Gestión de Suscripciones | **TS03** | Planes de suscripción | Desarrollo de la sección de planes de suscripción con detalles de precios y características de cada plan. | 5 | **Choquehuanca Núñez, Luciana Carolina** | Done |
-| **US20** | Reseñas de Clientes | **TS04** | Revisión de testimonios de clientes | Desarrollo de la sección de reseñas de clientes con citas de usuarios que han utilizado la plataforma. | 4 | **Escobar Palomino, Sebastian Matias** | Done |
-| **US21** | Formulario de Contacto | **TS05** | Envío de mensajes de contacto | Implementación de un formulario de contacto en la página de aterrizaje para que los usuarios puedan comunicarse. | 3 | **Escobar Palomino, Sebastian Matias** | Done |
-| **US22** | Videos en la Sección de Características | **TS06** | Visualización de Videos Informativos | Desarrollo de la sección para visualizar videos que muestren las características y funcionalidades de PetNova. | 3 | **Prado Vargas, Mario Benjamín** | Done |
-| **US23** | Cambio de Idioma en la App Web | **TS07** | Funcionalidad de cambio de idioma | Implementación de la funcionalidad para permitir a los usuarios cambiar el idioma de la página entre español e inglés.| 4 | **Prado Vargas, Mario Benjamín** | Done |
+
+| ID   | Title                                   | Tarea  | Description                                                                                                          | Estimations(Hours) | Assigned To                          | Status     | Total US Hours |
+|------|-----------------------------------------|--------|----------------------------------------------------------------------------------------------------------------------|--------------------|--------------------------------------|------------|----------------|
+| US17 | Barra de Navegación en la Landing Page  | TS01   | Diseño visual de la barra de navegación.                                                                            | 2                  | Bastidas Bastidas, Diego Martin      | DONE       |                |
+|      |                                         | TS02   | Implementación de enlaces a "¿Cómo funciona?", "Casos de éxito", "Planes" y "Contactos".                            | 2                  | Bastidas Bastidas, Diego Martin      | DONE       | **4**          |
+| US18 | Sección "Why Choose Us?"                | TS01   | Redacción de testimonios y selección de influencers.                                                                | 1.5                | Belahonia Miranda, Fabrisio          | DONE       |                |
+|      |                                         | TS02   | Maquetación e inserción de imágenes y citas en la sección.                                                          | 1.5                | Belahonia Miranda, Fabrisio          | DONE       | **3**          |
+| US19 | Gestión de Suscripciones                | TS01   | Diseño de tarjetas de planes de suscripción.                                                                        | 2                  | Choquehuanca Núñez, Luciana Carolina | DONE       |                |
+|      |                                         | TS02   | Implementación de precios y características en cada tarjeta.                                                        | 3                  | Choquehuanca Núñez, Luciana Carolina | DONE       | **5**          |
+| US20 | Reseñas de Clientes                     | TS01   | Recolección de citas y reseñas reales de usuarios.                                                                  | 2                  | Escobar Palomino, Sebastian Matias   | DONE       |                |
+|      |                                         | TS02   | Implementación de carrusel o layout de reseñas.                                                                     | 2                  | Escobar Palomino, Sebastian Matias   | DONE       | **4**          |
+| US21 | Formulario de Contacto                  | TS01   | Maquetación del formulario de contacto (nombre, correo, mensaje).                                                   | 1.5                | Escobar Palomino, Sebastian Matias   | DONE       |                |
+|      |                                         | TS02   | Implementación de validación básica y botón de envío.                                                               | 1.5                | Escobar Palomino, Sebastian Matias   | DONE       | **3**          |
+| US22 | Videos en la Sección de Características | TS01   | Recolección y organización de videos explicativos.                                                                  | 1.5                | Prado Vargas, Mario Benjamín         | DONE       |                |
+|      |                                         | TS02   | Integración de reproductor de video en la sección de características.                                               | 1.5                | Prado Vargas, Mario Benjamín         | DONE       | **3**          |
+| US23 | Cambio de Idioma en la App Web          | TS01   | Implementación del botón para cambio de idioma.                                                                     | 2                  | Prado Vargas, Mario Benjamín         | DONE       |                |
+|      |                                         | TS02   | Configuración de contenido multilenguaje (español e inglés).                                                        | 2                  | Prado Vargas, Mario Benjamín         | DONE       | **4**          |
 
 #### **5.2.1.4. Development Evidence for Sprint Review**
 
@@ -544,16 +552,26 @@ Para la realización de este proyecto se utilizaron diversas herramientas, desta
 
 En el segundo sprint, el equipo se enfocó en iniciar el desarrollo de la Web Application de Pet Nova, implementando funcionalidades esenciales para la autenticación de usuarios, gestión de perfiles, registro de mascotas y notificaciones. Las tareas se asignaron según las habilidades de cada miembro.
 
-| **ID**   | **Title**               | **ID**   | **Title**                 | **Description**                                                          | **Estimations(Hours)** | **Assigned To**                          | **Status(To-do/InProcess/ToReview/Done)** |
-| -------- | ----------------------- | -------- | ------------------------- | ------------------------------------------------------------------------ | ---------------------- | ---------------------------------------- | ----------------------------------------- |
-| **US01** | Registro de usuario     | **TS08** | Formulario de registro    | Crear formulario HTML/CSS con validación para nombre, email, contraseña. | 2                      | **Bastidas Bastidas, Diego Martin**      | To-do                                     |
-| **US01** | Registro de usuario     | **TS09** | Backend de registro       | Implementar endpoint en backend para guardar usuarios en MySQL.          | 2                      | **Bastidas Bastidas, Diego Martin**      | To-do                                     |
-| **US02** | Inicio de sesión        | **TS10** | Formulario de login       | Crear formulario de inicio de sesión con email y contraseña.             | 2                      | **Belahonia Miranda, Fabrisio**          | To-do                                     |
-| **US02** | Inicio de sesión        | **TS11** | Autenticación backend     | Implementar endpoint para autenticar usuarios con JWT.                   | 2                      | **Belahonia Miranda, Fabrisio**          | To-do                                     |
-| **US03** | Gestión de perfil       | **TS12** | Pantalla de perfil        | Desarrollar pantalla para mostrar/editar datos del usuario.              | 3                      | **Choquehuanca Núñez, Luciana Carolina** | To-do                                     |
-| **US09** | Registro de mascotas    | **TS13** | Formulario de mascota     | Crear formulario para registrar nombre, edad, raza de la mascota.        | 3                      | **Escobar Palomino, Sebastian Matias**   | To-do                                     |
-| **US09** | Registro de mascotas    | **TS14** | Backend de mascotas       | Implementar endpoint para guardar datos de mascotas en MySQL.            | 2                      | **Escobar Palomino, Sebastian Matias**   | To-do                                     |
-| **US15** | Notificaciones de citas | **TS15** | Sistema de notificaciones | Implementar envío de notificaciones por email o en la app para citas.    | 3                      | **Prado Vargas, Mario Benjamín**         | To-do                                     |
+#### **5.2.1.4. Sprint Backlog 2**
+
+En el segundo sprint, el equipo centró su desarrollo en funcionalidades esenciales como el registro e inicio de sesión, gestión de perfil y mascotas, así como el sistema de notificaciones. Cada historia de usuario fue dividida en tareas específicas para mejorar la organización y seguimiento del trabajo.
+
+| ID    | Title                        | Tarea  | Title de la Tarea             | Description                                                                 | Estimations(Hours) | Assigned To                          | Status     | Total US Hours |
+|-------|------------------------------|--------|-------------------------------|-----------------------------------------------------------------------------|--------------------|--------------------------------------|------------|----------------|
+| US01  | Registro de usuario          | TS08   | Formulario de registro        | Crear formulario HTML/CSS con validación para nombre, email, contraseña.   | 2                  | Bastidas Bastidas, Diego Martin      | To-do      |                |
+|       |                              | TS09   | Backend de registro           | Implementar endpoint en backend para guardar usuarios en MySQL.            | 2                  | Bastidas Bastidas, Diego Martin      | To-do      |                |
+|       |                              | TS16   | Validación y feedback UI      | Agregar mensajes de error y confirmación en tiempo real.                   | 2                  | Bastidas Bastidas, Diego Martin      | To-do      | **6**          |
+| US02  | Inicio de sesión             | TS10   | Formulario de login           | Crear formulario de inicio de sesión con email y contraseña.               | 2                  | Belahonia Miranda, Fabrisio          | To-do      |                |
+|       |                              | TS11   | Autenticación backend         | Implementar endpoint para autenticar usuarios con JWT.                      | 2                  | Belahonia Miranda, Fabrisio          | To-do      |                |
+|       |                              | TS17   | Control de sesión             | Implementar manejo de sesiones activas con cookies o tokens.               | 2                  | Belahonia Miranda, Fabrisio          | To-do      | **6**          |
+| US03  | Gestión de perfil            | TS12   | Pantalla de perfil            | Desarrollar pantalla para mostrar/editar datos del usuario.                | 3                  | Choquehuanca Núñez, Luciana Carolina | To-do      |                |
+|       |                              | TS18   | Edición y guardado de datos   | Habilitar edición y validación de campos en el perfil.                     | 2                  | Choquehuanca Núñez, Luciana Carolina | To-do      | **5**          |
+| US09  | Registro de mascotas         | TS13   | Formulario de mascota         | Crear formulario para registrar nombre, edad, raza de la mascota.          | 3                  | Escobar Palomino, Sebastian Matias   | To-do      |                |
+|       |                              | TS14   | Backend de mascotas           | Implementar endpoint para guardar datos de mascotas en MySQL.              | 2                  | Escobar Palomino, Sebastian Matias   | To-do      |                |
+|       |                              | TS19   | Validación de campos mascota  | Validar campos obligatorios y formato adecuado.                            | 1                  | Escobar Palomino, Sebastian Matias   | To-do      | **6**          |
+| US15  | Notificaciones de citas      | TS15   | Sistema de notificaciones     | Implementar envío de notificaciones por email o en la app para citas.      | 3                  | Prado Vargas, Mario Benjamín         | To-do      |                |
+|       |                              | TS20   | Configuración de recordatorios| Permitir al usuario elegir cuándo recibir notificaciones.                  | 2                  | Prado Vargas, Mario Benjamín         | To-do      |                |
+|       |                              | TS21   | Diseño de UI para alertas     | Crear interfaz para visualizar y gestionar notificaciones.                 | 2                  | Prado Vargas, Mario Benjamín         | To-do      | **7**          |
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
@@ -654,10 +672,10 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
 |      |                                 | Tk03  | Inhabilitar o eliminar cuentas                 | 2                  | Bastidas Bastidas, Diego Martin      | DONE       | **8**          |
 | US04 | Creación de Perfil de Mascota   | Tk01  | Validar y guardar datos de mascota             | 2                  | Choquehuanca Núñez, Luciana Carolina | DONE       |                |
 |      |                                 | Tk02  | Controlar duplicidad de nombres                | 3                  | Belahonia Miranda, Fabrisio          | DONE       |                |
-|      |                                 | Tk03  | Generar código único por mascota               | 1                  | Choquehuanca Núñez, Luciana Carolina | NUEVA      | **6**          |
+|      |                                 | Tk03  | Generar código único por mascota               | 1                  | Choquehuanca Núñez, Luciana Carolina | DONE       | **6**          |
 | US05 | Edición de Perfil de Mascota    | Tk01  | Editar datos del perfil de mascota             | 3                  | Escobar Palomino, Sebastian Matias   | DONE       |                |
 |      |                                 | Tk02  | Validar campos obligatorios                    | 3                  | Belahonia Miranda, Fabrisio          | DONE       |                |
-|      |                                 | Tk03  | Confirmar cambios con retroalimentación visual | 1                  | Escobar Palomino, Sebastian Matias   | NUEVA      | **7**          |
+|      |                                 | Tk03  | Confirmar cambios con retroalimentación visual | 1                  | Escobar Palomino, Sebastian Matias   | IN PROCESS | **7**          |
 | US07 | Búsqueda de Mascotas por ID     | Tk01  | Desarrollar búsqueda por ID                    | 2                  | Choquehuanca Núñez, Luciana Carolina | DONE       |                |
 |      |                                 | Tk02  | Manejar ID inexistente                         | 2                  | Prado Vargas, Mario Benjamín         | DONE       | **4**          |
 | US08 | Gestión de Perfiles de Mascotas | Tk01  | Eliminar perfiles de mascotas                  | 4                  | Belahonia Miranda, Fabrisio          | DONE       |                |
@@ -668,17 +686,17 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
 |      |                                 | Tk02  | Advertencia por cancelación tardía             | 3                  | Escobar Palomino, Sebastian Matias   | TO REVIEW  | **7**          |
 | US11 | Gestión de Citas Veterinarias   | Tk01  | Filtrar por fecha y estado                     | 2                  | Bastidas Bastidas, Diego Martin      | TO-DO      |                |
 |      |                                 | Tk02  | Listar todas las citas                         | 4                  | Choquehuanca Núñez, Luciana Carolina | DONE       |                |
-|      |                                 | Tk03  | Exportar listado como PDF o Excel              | 2                  | Bastidas Bastidas, Diego Martin      | NUEVA      | **8**          |
+|      |                                 | Tk03  | Exportar listado como PDF o Excel              | 2                  | Bastidas Bastidas, Diego Martin      | DONE       | **8**          |
 | US12 | Búsqueda de Citas por ID        | Tk01  | Buscar cita por ID                             | 3                  | Escobar Palomino, Sebastian Matias   | DONE       |                |
 |      |                                 | Tk02  | Controlar error por ID inválido                | 2                  | Belahonia Miranda, Fabrisio          | DONE       |                |
-|      |                                 | Tk03  | Mostrar mensaje sugerido para redirección      | 1                  | Escobar Palomino, Sebastian Matias   | NUEVA      | **6**          |
+|      |                                 | Tk03  | Mostrar mensaje sugerido para redirección      | 1                  | Escobar Palomino, Sebastian Matias   | DONE       | **6**          |
 | US13 | Edición de Citas Veterinarias   | Tk01  | Actualizar fecha y hora                        | 3                  | Choquehuanca Núñez, Luciana Carolina | DONE       |                |
 |      |                                 | Tk02  | Modificar estado y notificar                   | 4                  | Bastidas Bastidas, Diego Martin      | TO REVIEW  | **7**          |
 | US24 | Edición de Perfiles de Clientes | Tk01  | Registrar cliente con datos obligatorios       | 4                  | Prado Vargas, Mario Benjamín         | DONE       |                |
 |      |                                 | Tk02  | Generar ID único de cliente                    | 3                  | Choquehuanca Núñez, Luciana Carolina | DONE       | **7**          |
 | US25 | Edición de Perfiles de Clientes | Tk01  | Editar datos del cliente                       | 3                  | Escobar Palomino, Sebastian Matias   | DONE       |                |
 |      |                                 | Tk02  | Agregar nuevas mascotas                        | 3                  | Bastidas Bastidas, Diego Martin      | DONE       |                |
-|      |                                 | Tk03  | Validar relaciones mascota-cliente             | 1                  | Escobar Palomino, Sebastian Matias   | NUEVA      | **7**          |
+|      |                                 | Tk03  | Validar relaciones mascota-cliente             | 1                  | Escobar Palomino, Sebastian Matias   | IN PROCESS | **7**          |
 | US26 | Búsqueda de Clientes por ID     | Tk01  | Buscar cliente por ID exacto                   | 4                  | Prado Vargas, Mario Benjamín         | DONE       |                |
 |      |                                 | Tk02  | Mostrar sugerencias por coincidencia parcial   | 3                  | Choquehuanca Núñez, Luciana Carolina | IN PROCESS | **7**          |
 

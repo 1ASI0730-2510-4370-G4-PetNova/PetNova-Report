@@ -682,25 +682,24 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
 | US26 | Búsqueda de Clientes por ID     | Tk01  | Buscar cliente por ID exacto                   | 4                  | Prado Vargas, Mario Benjamín         | DONE       |                |
 |      |                                 | Tk02  | Mostrar sugerencias por coincidencia parcial   | 3                  | Choquehuanca Núñez, Luciana Carolina | IN PROCESS | **7**          |
 
-
 #### 5.2.3.4. Development Evidence for Sprint Review
 
-|                                 Repository                                  |    Branch     | Commit Id |               Commit <br>Message                | Commit <br>Message Body | Commited <br>on (Date) |
-| :-------------------------------------------------------------------------: | :-----------: | :-------: | :---------------------------------------------: | :---------------------: | :--------------------: |
-| [Backend](https://github.com/1ASI0730-2510-4370-G4-PetNova/PetNova-BackEnd) |  feat/diego   |  25de917  |           feat: code backend pet nova           |                         |       21/06/2025       |
-|                               PetNova-Backend                               |  feat/diego   |  3f8f027  |     feat: add codebase backend of Pet Nova      |                         |       21/06/2025       |
-|                               PetNova-Backend                               | feat/fabrisio |  6f5a58c  |     feat(shared): implement JwtTokenService     |                         |       21/06/2025       |
-|                               PetNova-Backend                               | feat/fabrisio |  de2e786  |        feat(shared): implement SeedDara         |                         |       21/06/2025       |
-|                               PetNova-Backend                               | feat/fabrisio |  e795eb8  |   feat(shared): implement generic UnitofWork    |                         |       21/06/2025       |
-|                               PetNova-Backend                               | feat/fabrisio |  7086d6c  |  feat(shared): implement generic EfRepository   |                         |       21/06/2025       |
-|                               PetNova-Backend                               | feat/fabrisio |  10d0d85  |       feat(shared): add Swagger Extension       |                         |       21/06/2025       |
-|                               PetNova-Backend                               | feat/fabrisio |  920f290  |         feat(shared): add AppDbContext          |                         |       21/06/2025       |
-|                               PetNova-Backend                               | feat/fabrisio |  5592eff  |          feat(shared): add ToKebabCase          |                         |       21/06/2025       |
-|                               PetNova-Backend                               | feat/fabrisio |  fbd932d  |          feat(shared): add kebab-case           |                         |       21/06/2025       |
-|                               PetNova-Backend                               | feat/fabrisio |  973f244  |     feat(shared): add IUnitOfWork interface     |                         |       21/06/2025       |
-|                               PetNova-Backend                               | feat/fabrisio |  1c8d128  | feat(shared): add generic IRepository interface |                         |       21/06/2025       |
-|                               PetNova-Backend                               | feat/fabrisio |  270155c  |    feat(shared): add ITokenService interface    |                         |       21/06/2025       |
-|                               PetNova-Backend                               | feat/fabrisio |  25de917  |           feat: code backend pet nova           |                         |       21/06/2025       |
+|                                 Repository                                  |     Branch     | Commit Id |               Commit <br>Message                | Commit <br>Message Body | Commited <br>on (Date) |
+| :-------------------------------------------------------------------------: | :------------: | :-------: | :---------------------------------------------: | :---------------------: | :--------------------: |
+| [Backend](https://github.com/1ASI0730-2510-4370-G4-PetNova/PetNova-BackEnd) |   feat/diego   |  25de917  |           feat: code backend pet nova           |                         |       21/06/2025       |
+|                               PetNova-Backend                               |   feat/diego   |  3f8f027  |     feat: add codebase backend of Pet Nova      |                         |       21/06/2025       |
+|                               PetNova-Backend                               |  feat/luciana  |  6f5a58c  |     feat(shared): implement JwtTokenService     |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/fabrisio  |  de2e786  |        feat(shared): implement SeedDara         |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/sebastian |  e795eb8  |   feat(shared): implement generic UnitofWork    |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/fabrisio  |  7086d6c  |  feat(shared): implement generic EfRepository   |                         |       21/06/2025       |
+|                               PetNova-Backend                               |   feat/mario   |  10d0d85  |       feat(shared): add Swagger Extension       |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/sebastian |  920f290  |         feat(shared): add AppDbContext          |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/fabrisio  |  5592eff  |          feat(shared): add ToKebabCase          |                         |       21/06/2025       |
+|                               PetNova-Backend                               |  feat/luciana  |  fbd932d  |          feat(shared): add kebab-case           |                         |       21/06/2025       |
+|                               PetNova-Backend                               |   feat/mario   |  973f244  |     feat(shared): add IUnitOfWork interface     |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/sebastian |  1c8d128  | feat(shared): add generic IRepository interface |                         |       21/06/2025       |
+|                               PetNova-Backend                               |  feat/luciana  |  270155c  |    feat(shared): add ITokenService interface    |                         |       21/06/2025       |
+|                               PetNova-Backend                               |   feat/mario   |  25de917  |           feat: code backend pet nova           |                         |       21/06/2025       |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
@@ -727,6 +726,23 @@ Enlace del deployment de la Landing Page: [https://1asi0730-2510-4370-g4-petnova
 **Seccion video about the product en landing page**
 
 [![About the product video](./assets/Chapter05/about_the_product.JPG)](https://www.youtube.com/watch?v=21mBKrna1iw)
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+El alcance del Sprint 3, el equipo se centro principalmente en la integración, implementación y despliegue de los bounded contexts de clientes y mascotas en el backend, también se realizaron las correciones del fronted y añadimos algunas otras vistas y funcionalidad, como el filtro de mascotas por nombre. Durante este sprint, se actualizó y extendió la documentación de servicios web mediante Swagger, proporcionando una guía clara y completa para el uso de la API por parte del frontend y futuros desarrolladores.
+
+La documentación incluye:
+Descripción detallada de los endpoints relacionados con clientes y mascotas. Operaciones permitidas como la creación, edición y eliminación de datos en estos módulos. Ejemplos actualizados de solicitudes y respuestas para garantizar una integración efectiva con el frontend. Información sobre las capas de seguridad y autenticación implementadas en el backend. Este nivel de documentación asegura que todos los miembros del equipo tengan una comprensión compartida y uniforme sobre el comportamiento y las capacidades de la API, lo que facilita el desarrollo continuo y la integración de nuevas funcionalidades.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+#### 5.3. Validation Interviews
+
+#### 5.3.1. Diseño de Entrevistas
+
+#### 5.3.2. Registro de Entrevistas
 
 #### 5.3.3. Evaluación Basada en Heurísticas
 

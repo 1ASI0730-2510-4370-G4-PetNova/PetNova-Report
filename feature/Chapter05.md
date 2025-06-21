@@ -570,6 +570,114 @@ En el Sprint 2 se inició el desarrollo de la Web Application de Pet Nova, imple
 
 Para el desarrollo de la Web Application en este sprint, se utilizaron herramientas clave como Visual Studio Code para la escritura de código, Git para el control de versiones, y GitHub para la gestión de ramas y pull requests. Las funcionalidades de la Web App, como el registro e inicio de sesión, gestión de perfiles, registro de mascotas y notificaciones, se dividieron en tareas específicas asignadas a cada miembro del equipo según sus habilidades. Un integrante se encargó de integrar las contribuciones individuales, asegurando la cohesión del producto final.
 
+#### 5.3.3. Evaluación Basada en Heurísticas  
+
+| **Sitio o App Evaluada** | Pet Nova |  
+| :- | :- |  
+| **Tareas evaluadas** | Esta evaluación abarca la revisión de usabilidad de las siguientes tareas: |  
+| **Landing Page (Desktop)** | - Información y descripción de la app y sus funciones  <br> - Breve descripción del equipo de trabajo  <br> - Visualización de testimonios  <br> - Header y footer funcionales |  
+| **Aplicación Web (Desktop)** | - Visualización de datos registrados en el sistema <br> - Header y footer funcionales <br> - Pestañas de navegación internas <br> - Botones intuitivos e interactivos <br> - Visualización de elementos relacionados |  
+| **Excluidas en esta evaluación** | - Landing Page (Desktop) <br> - Formularios de registro o cambio de contraseña <br> - Políticas de privacidad y términos de uso <br> - Aplicación Web (Desktop) <br> - Perfil de usuario <br> - Detalles ampliados de productos al seleccionarlos <br> - Políticas de privacidad y términos de uso |  
+
+**ESCALA DE GRAVEDAD:**  
+
+Los errores se clasificarán según la siguiente escala:  
+
+|Nivel|Descripción|  
+| :- | :- |  
+|1|Error menor: el usuario puede solucionarlo fácilmente o ocurre raramente. No es urgente corregirlo, salvo que haya tiempo disponible.|  
+|2|Error moderado: aparece con más frecuencia o representa una dificultad media para el usuario. Debe resolverse en futuras actualizaciones con prioridad baja.|  
+|3|Error grave: frecuente o difícil de resolver para los usuarios. Requiere corrección prioritaria.|  
+|4|Error crítico: impide el uso normal de la herramienta. Debe solucionarse antes del lanzamiento.|  
+
+**TABLA RESUMEN (AMBOS SEGMENTOS):**  
+
+**Aplicación Web**  
+
+|#|Problema|Gravedad|Heurística/Principio afectado|  
+| :- | :- | :- | :- |  
+|1||1|IA - ¿Es claro?|  
+|2||2|IA - ¿Es fácil de encontrar?|  
+|3||1|Usabilidad - Consistencia y estándares|  
+
+**Landing Page**  
+
+|#|Problema|Gravedad|Heurística/Principio afectado|  
+| :- | :- | :- | :- |  
+|1||1|IA - ¿Es claro?|  
+|2||1|IA - ¿Es usable?|  
+|3||1|IA - ¿Es usable?|  
+
+**DETALLE DE PROBLEMAS:**  
+
+**1. Aplicación Web**  
+
+**PROBLEMA #1:**  
+
+| Gravedad: 1 | Heurística: IA - ¿Es claro? |  
+| :- | :- |  
+| **Inconveniente:** | La navegación dentro de la app podría no ser intuitiva, dificultando la ubicación de secciones clave. |  
+| **Solución propuesta:** | Mejorar la estructura de navegación y usar etiquetas más descriptivas en las pestañas. |  
+
+**PROBLEMA #2:**  
+
+| Gravedad: 2 | Heurística: IA - ¿Es fácil de encontrar? |  
+| :- | :- |  
+| **Inconveniente:** | La información importante no es visible o requiere demasiados pasos para acceder a ella. |  
+| **Solución propuesta:** | Reestructurar la disposición de la información para facilitar su acceso desde la pantalla principal. |  
+
+---  
+
+**2. Landing Page**  
+
+**PROBLEMA #1:**  
+
+| Gravedad: 1 | Heurística: Usabilidad - Consistencia y estándares |  
+| :- | :- |  
+| **Inconveniente:** | Falta uniformidad en el diseño entre distintas secciones. |  
+| **Solución propuesta:** | Definir y aplicar guías de diseño coherentes en toda la plataforma. |  
+
+**PROBLEMA #2:**  
+
+| Gravedad: 1 | Heurística: IA - ¿Es claro? |  
+| :- | :- |  
+| **Inconveniente:** | La descripción de la app y sus funciones no es suficientemente clara. |  
+| **Solución propuesta:** | Redactar textos más simples y directos que expliquen mejor el propósito de la app. |  
+
+**PROBLEMA #3:**  
+
+| Gravedad: 1 | Heurística: IA - ¿Es usable? |  
+| :- | :- |  
+| **Inconveniente:** | Los testimonios no destacan y podrían no ser notados por los usuarios. |  
+| **Solución propuesta:** | Rediseñar la sección de testimonios para mejorar su visibilidad y funcionalidad. |  
+
+---  
+
+
+### 5.4. Video About the Product
+
+En este video presentamos **Pet Nova**, una innovadora aplicación diseñada para mejorar la gestión de la salud y bienestar de las mascotas. 
+
+**Características principales:**
+
+- **Interfaz intuitiva** que facilita el acceso a información relevante
+- **Gestión integral** de la salud de las mascotas
+- **Historial médico** siempre actualizado
+
+**Funcionalidades destacadas:**
+
+| Función | Beneficio |
+|---------|-----------|
+| Perfiles de mascotas | Creación y edición de perfiles detallados para cada mascota |
+| 📋 Historial médico | Acceso rápido al registro completo de salud de la mascota |
+
+**Ventajas clave:**
+1. **Organización centralizada** de toda la información médica
+2. **Recordatorios automáticos** para no olvidar citas importantes
+3. **Acceso inmediato** al historial clínico cuando se necesita
+
+La aplicación está diseñada para brindar **paz mental** a los dueños de mascotas, asegurando que sus compañeros animales reciban siempre los mejores cuidados.
+
 #### **Avance de Conclusiones**
 
 - La colaboración efectiva entre los miembros del equipo fue clave para avanzar de manera organizada y cubrir todas las etapas del proyecto. Cada integrante asumió con claridad su rol y responsabilidades, facilitando una ejecución ordenada.

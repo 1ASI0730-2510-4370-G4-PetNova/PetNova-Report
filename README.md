@@ -62,6 +62,8 @@
 | ------- | ---------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | TB1     | 26/04/2025 | WebWarriors | Redacción de los Capítulos I: Introduction, II: Requirements Elicitation & Analysis, III: Requirements Specification, IV: Product Design, V: Product Implementation, Validation & Deployment. |
 | TP      | 15/05/2025 | WebWarriors | Correción de los Capítulos I, II, III, IV y V. Capítulo V: 5.2.2., 5.2.2.1., 5.2.2.2., 5.2.2.3., 5.2.2.4., 5.2.2.5., 5.2.2.6., 5.2.2.7., 5.2.2.8.                                             |
+| TB2     | 20/06/2025 | WebWarriors | Correccion de los Capítulos V:Sprint Planning,Sprint Backlog,Development Evidence for Sprint Review. |
+
 
 # Project Report Collaboration Insights
 

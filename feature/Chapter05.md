@@ -713,7 +713,7 @@ Enlace del deployment de la Landing Page: [https://1asi0730-2510-4370-g4-petnova
 
 **Seccion video about the product en landing page**
 
-<img src="./assets/Chapter05/landingvideo2.png">
+<img src="./assets/Chapter05/about_the_product.jpg">
 
 #### 5.3.3. Evaluación Basada en Heurísticas
 

@@ -702,22 +702,25 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
 
 #### 5.2.3.4. Development Evidence for Sprint Review
 
-|                                 Repository                                  |     Branch     | Commit Id |               Commit <br>Message                | Commit <br>Message Body | Commited <br>on (Date) |
-| :-------------------------------------------------------------------------: | :------------: | :-------: | :---------------------------------------------: | :---------------------: | :--------------------: |
-| [Backend](https://github.com/1ASI0730-2510-4370-G4-PetNova/PetNova-BackEnd) |   feat/diego   |  25de917  |           feat: code backend pet nova           |                         |       21/06/2025       |
-|                               PetNova-Backend                               |   feat/diego   |  3f8f027  |     feat: add codebase backend of Pet Nova      |                         |       21/06/2025       |
-|                               PetNova-Backend                               |  feat/luciana  |  6f5a58c  |     feat(shared): implement JwtTokenService     |                         |       21/06/2025       |
-|                               PetNova-Backend                               | feat/fabrisio  |  de2e786  |        feat(shared): implement SeedDara         |                         |       21/06/2025       |
-|                               PetNova-Backend                               | feat/sebastian |  e795eb8  |   feat(shared): implement generic UnitofWork    |                         |       21/06/2025       |
-|                               PetNova-Backend                               | feat/fabrisio  |  7086d6c  |  feat(shared): implement generic EfRepository   |                         |       21/06/2025       |
-|                               PetNova-Backend                               |   feat/mario   |  10d0d85  |       feat(shared): add Swagger Extension       |                         |       21/06/2025       |
-|                               PetNova-Backend                               | feat/sebastian |  920f290  |         feat(shared): add AppDbContext          |                         |       21/06/2025       |
-|                               PetNova-Backend                               | feat/fabrisio  |  5592eff  |          feat(shared): add ToKebabCase          |                         |       21/06/2025       |
-|                               PetNova-Backend                               |  feat/luciana  |  fbd932d  |          feat(shared): add kebab-case           |                         |       21/06/2025       |
-|                               PetNova-Backend                               |   feat/mario   |  973f244  |     feat(shared): add IUnitOfWork interface     |                         |       21/06/2025       |
-|                               PetNova-Backend                               | feat/sebastian |  1c8d128  | feat(shared): add generic IRepository interface |                         |       21/06/2025       |
-|                               PetNova-Backend                               |  feat/luciana  |  270155c  |    feat(shared): add ITokenService interface    |                         |       21/06/2025       |
-|                               PetNova-Backend                               |   feat/mario   |  25de917  |           feat: code backend pet nova           |                         |       21/06/2025       |
+|                                 Repository                                  |     Branch     | Commit Id |                     Commit <br>Message                     | Commit <br>Message Body | Commited <br>on (Date) |
+| :-------------------------------------------------------------------------: | :------------: | :-------: | :--------------------------------------------------------: | :---------------------: | :--------------------: |
+| [Backend](https://github.com/1ASI0730-2510-4370-G4-PetNova/PetNova-BackEnd) |   feat/diego   |  25de917  |                feat: code backend pet nova                 |                         |       21/06/2025       |
+|                               PetNova-Backend                               |   feat/diego   |  3f8f027  |           feat: add codebase backend of Pet Nova           |                         |       21/06/2025       |
+|                               PetNova-Backend                               |  feat/luciana  |  6f5a58c  |          feat(shared): implement JwtTokenService           |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/fabrisio  |  de2e786  |              feat(shared): implement SeedDara              |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/sebastian |  e795eb8  |         feat(shared): implement generic UnitofWork         |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/fabrisio  |  7086d6c  |        feat(shared): implement generic EfRepository        |                         |       21/06/2025       |
+|                               PetNova-Backend                               |   feat/mario   |  10d0d85  |            feat(shared): add Swagger Extension             |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/sebastian |  920f290  |               feat(shared): add AppDbContext               |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/fabrisio  |  5592eff  |               feat(shared): add ToKebabCase                |                         |       21/06/2025       |
+|                               PetNova-Backend                               |  feat/luciana  |  fbd932d  |                feat(shared): add kebab-case                |                         |       21/06/2025       |
+|                               PetNova-Backend                               |   feat/mario   |  973f244  |          feat(shared): add IUnitOfWork interface           |                         |       21/06/2025       |
+|                               PetNova-Backend                               | feat/sebastian |  1c8d128  |      feat(shared): add generic IRepository interface       |                         |       21/06/2025       |
+|                               PetNova-Backend                               |  feat/luciana  |  270155c  |         feat(shared): add ITokenService interface          |                         |       21/06/2025       |
+|                               PetNova-Backend                               |   feat/mario   |  25de917  |                feat: code backend pet nova                 |                         |       21/06/2025       |
+|                              PetNova-Frontend                               |   feat/mario   |  efb8856  |                feature: Add search function                |                         |       21/06/2025       |
+|                              PetNova-Frontend                               |   feat/diego   |  f18f89b  |                 Update: form to create pet                 |                         |       21/06/2025       |
+|                              PetNova-Frontend                               | feat/sebastian |  85501a6  | feat(home): add initial implementation of home and profile |                         |       21/06/2025       |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 

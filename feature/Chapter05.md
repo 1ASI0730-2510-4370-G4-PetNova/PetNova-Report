@@ -654,10 +654,10 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
 |      |                                 | Tk03  | Inhabilitar o eliminar cuentas                 | 2                  | Bastidas Bastidas, Diego Martin      | DONE       | **8**          |
 | US04 | Creación de Perfil de Mascota   | Tk01  | Validar y guardar datos de mascota             | 2                  | Choquehuanca Núñez, Luciana Carolina | DONE       |                |
 |      |                                 | Tk02  | Controlar duplicidad de nombres                | 3                  | Belahonia Miranda, Fabrisio          | DONE       |                |
-|      |                                 | Tk03  | Generar código único por mascota               | 1                  | Choquehuanca Núñez, Luciana Carolina | NUEVA      | **6**          |
+|      |                                 | Tk03  | Generar código único por mascota               | 1                  | Choquehuanca Núñez, Luciana Carolina | DONE       | **6**          |
 | US05 | Edición de Perfil de Mascota    | Tk01  | Editar datos del perfil de mascota             | 3                  | Escobar Palomino, Sebastian Matias   | DONE       |                |
 |      |                                 | Tk02  | Validar campos obligatorios                    | 3                  | Belahonia Miranda, Fabrisio          | DONE       |                |
-|      |                                 | Tk03  | Confirmar cambios con retroalimentación visual | 1                  | Escobar Palomino, Sebastian Matias   | NUEVA      | **7**          |
+|      |                                 | Tk03  | Confirmar cambios con retroalimentación visual | 1                  | Escobar Palomino, Sebastian Matias   | IN PROCESS | **7**          |
 | US07 | Búsqueda de Mascotas por ID     | Tk01  | Desarrollar búsqueda por ID                    | 2                  | Choquehuanca Núñez, Luciana Carolina | DONE       |                |
 |      |                                 | Tk02  | Manejar ID inexistente                         | 2                  | Prado Vargas, Mario Benjamín         | DONE       | **4**          |
 | US08 | Gestión de Perfiles de Mascotas | Tk01  | Eliminar perfiles de mascotas                  | 4                  | Belahonia Miranda, Fabrisio          | DONE       |                |
@@ -668,17 +668,17 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
 |      |                                 | Tk02  | Advertencia por cancelación tardía             | 3                  | Escobar Palomino, Sebastian Matias   | TO REVIEW  | **7**          |
 | US11 | Gestión de Citas Veterinarias   | Tk01  | Filtrar por fecha y estado                     | 2                  | Bastidas Bastidas, Diego Martin      | TO-DO      |                |
 |      |                                 | Tk02  | Listar todas las citas                         | 4                  | Choquehuanca Núñez, Luciana Carolina | DONE       |                |
-|      |                                 | Tk03  | Exportar listado como PDF o Excel              | 2                  | Bastidas Bastidas, Diego Martin      | NUEVA      | **8**          |
+|      |                                 | Tk03  | Exportar listado como PDF o Excel              | 2                  | Bastidas Bastidas, Diego Martin      | DONE       | **8**          |
 | US12 | Búsqueda de Citas por ID        | Tk01  | Buscar cita por ID                             | 3                  | Escobar Palomino, Sebastian Matias   | DONE       |                |
 |      |                                 | Tk02  | Controlar error por ID inválido                | 2                  | Belahonia Miranda, Fabrisio          | DONE       |                |
-|      |                                 | Tk03  | Mostrar mensaje sugerido para redirección      | 1                  | Escobar Palomino, Sebastian Matias   | NUEVA      | **6**          |
+|      |                                 | Tk03  | Mostrar mensaje sugerido para redirección      | 1                  | Escobar Palomino, Sebastian Matias   | DONE       | **6**          |
 | US13 | Edición de Citas Veterinarias   | Tk01  | Actualizar fecha y hora                        | 3                  | Choquehuanca Núñez, Luciana Carolina | DONE       |                |
 |      |                                 | Tk02  | Modificar estado y notificar                   | 4                  | Bastidas Bastidas, Diego Martin      | TO REVIEW  | **7**          |
 | US24 | Edición de Perfiles de Clientes | Tk01  | Registrar cliente con datos obligatorios       | 4                  | Prado Vargas, Mario Benjamín         | DONE       |                |
 |      |                                 | Tk02  | Generar ID único de cliente                    | 3                  | Choquehuanca Núñez, Luciana Carolina | DONE       | **7**          |
 | US25 | Edición de Perfiles de Clientes | Tk01  | Editar datos del cliente                       | 3                  | Escobar Palomino, Sebastian Matias   | DONE       |                |
 |      |                                 | Tk02  | Agregar nuevas mascotas                        | 3                  | Bastidas Bastidas, Diego Martin      | DONE       |                |
-|      |                                 | Tk03  | Validar relaciones mascota-cliente             | 1                  | Escobar Palomino, Sebastian Matias   | NUEVA      | **7**          |
+|      |                                 | Tk03  | Validar relaciones mascota-cliente             | 1                  | Escobar Palomino, Sebastian Matias   | IN PROCESS | **7**          |
 | US26 | Búsqueda de Clientes por ID     | Tk01  | Buscar cliente por ID exacto                   | 4                  | Prado Vargas, Mario Benjamín         | DONE       |                |
 |      |                                 | Tk02  | Mostrar sugerencias por coincidencia parcial   | 3                  | Choquehuanca Núñez, Luciana Carolina | IN PROCESS | **7**          |
 

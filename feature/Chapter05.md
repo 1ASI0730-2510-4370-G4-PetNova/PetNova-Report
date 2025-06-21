@@ -260,7 +260,7 @@ En este apartado, se detalla el proceso de despliegue de la Landing Page de Pet 
    <img src="./assets/Chapter05/Github Pages 2.PNG">
 
 Enlace a la Landing Page de Pet Nova:<br>
-https://1asi0730-2510-4370-g4-petnova.github.io/Landing-Page-NovaPet/
+https://1asi0730-2510-4370-g4-petnova.github.io/PetNova-Landing-Page/
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -371,7 +371,6 @@ En el primer sprint, el equipo enfocó su trabajo en crear una landing page que 
 
 ---
 
-
 #### **5.2.1.5. Execution Evidence for Sprint Review**
 
 En el Sprint 1 se realizó el desarrollo, diseño e implementación de la landing page. Esta página incluye secciones que permiten a los usuarios obtener más información sobre la startup y el producto que se ofrecerá. A continuación, se muestran las evidencias.
@@ -454,7 +453,7 @@ En esta entrega del proyecto, el enfoque principal fue el desarrollo de la landi
 
 #### **5.2.1.7. Software Deployment Evidence for Sprint Review**
 
-Se utilizó GitHub Pages para publicar la landing page, permitiendo su despliegue directamente desde el repositorio de código. A continuación, se comparte el enlace al sitio: https://1asi0730-2510-4370-g4-petnova.github.io/Landing-Page-NovaPet/
+Se utilizó GitHub Pages para publicar la landing page, permitiendo su despliegue directamente desde el repositorio de código. A continuación, se comparte el enlace al sitio: https://1asi0730-2510-4370-g4-petnova.github.io/PetNova-Landing-Page/
 
 <div style="text-align: center;">
   <img src="https://i.imgur.com/Qj2QWWe.png[/img]"  width="100%" />
@@ -645,7 +644,6 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
 
 #### 5.2.3.3. Sprint Backlog 3
 
-
 | ID   | Description                     | Tarea | Title                                        | Description                                                                                             | Estimations(Hours) | Assigned To                          | Status |
 | ---- | ------------------------------- | ----- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------ | ------ |
 | US01 | Registro de Usuario             | Tk01  | Agregar lógica de validación                 | Implementación de validaciones en los formularios para asegurar campos requeridos y formatos correctos. | 4                  | Bastidas Bastidas, Diego Martin      | DONE   |
@@ -679,93 +677,130 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
 | US26 | Búsqueda de Clientes por ID     | Tk01  | Buscar cliente por ID exacto                 | Búsqueda precisa de clientes mediante coincidencia exacta del ID.                                       | 4                  | Prado Vargas, Mario Benjamín         | DONE   |
 | US26 | Búsqueda de Clientes por ID     | Tk02  | Mostrar sugerencias por coincidencia parcial | Sugerencia automática de clientes basadas en coincidencias parciales del nombre o ID.                   | 3                  | Choquehuanca Núñez, Luciana Carolina | TO-DO  |
 
-#### 5.3.3. Evaluación Basada en Heurísticas  
+#### 5.2.3.4. Development Evidence for Sprint Review
 
-| **Sitio o App Evaluada** | Pet Nova |  
-| :- | :- |  
-| **Tareas evaluadas** | Esta evaluación abarca la revisión de usabilidad de las siguientes tareas: |  
-| **Landing Page (Desktop)** | - Información y descripción de la app y sus funciones  <br> - Breve descripción del equipo de trabajo  <br> - Visualización de testimonios  <br> - Header y footer funcionales |  
-| **Aplicación Web (Desktop)** | - Visualización de datos registrados en el sistema <br> - Header y footer funcionales <br> - Pestañas de navegación internas <br> - Botones intuitivos e interactivos <br> - Visualización de elementos relacionados |  
-| **Excluidas en esta evaluación** | - Landing Page (Desktop) <br> - Formularios de registro o cambio de contraseña <br> - Políticas de privacidad y términos de uso <br> - Aplicación Web (Desktop) <br> - Perfil de usuario <br> - Detalles ampliados de productos al seleccionarlos <br> - Políticas de privacidad y términos de uso |  
+|                                         Repository                                         |          Branch           | Commit Id |             Commit <br>Message              | Commit <br>Message Body | Commited <br>on (Date) |
+| :----------------------------------------------------------------------------------------: | :-----------------------: | :-------: | :-----------------------------------------: | :---------------------: | :--------------------: |
+| [ <br>Landing Page](https://1asi0730-2510-4370-g4-petnova.github.io/PetNova-Landing-Page/) |           main            |  b342095  |              Create index.html              |                         |       09/07/2024       |
+|                                          Landing                                           |     feat/section-home     |  e352819  |          feat: added/section-home           |                         |       09/07/2024       |
+|                                          Landing                                           | feat/section-subscription |  5e84a90  |      feat: added Section subscription       |                         |       09/07/2024       |
+|                                          Landing                                           | feat/section-subscription |  faf615f  |     feat: complete Section subscription     |                         |       09/07/2024       |
+|                                          Landing                                           |    feat/section-review    |  2b26403  | Add: feat: added contact, review and footer |                         |       09/07/2024       |
+|                                          Landing                                           |  feat/section-typography  |  a1fe77e  |          feat: typography changed           |                         |       09/07/2024       |
+|                                          Landing                                           |           main            |  2f9452b  |        feat: landing page deployment        |                         |       09/07/2024       |
 
-**ESCALA DE GRAVEDAD:**  
+#### 5.2.3.5. Execution Evidence for Sprint Review
 
-Los errores se clasificarán según la siguiente escala:  
+Para esta entrega nuestro equipo logró completar con éxito la creación y el deployment del FrontEnd de la Aplicación Web.
 
-|Nivel|Descripción|  
-| :- | :- |  
-|1|Error menor: el usuario puede solucionarlo fácilmente o ocurre raramente. No es urgente corregirlo, salvo que haya tiempo disponible.|  
-|2|Error moderado: aparece con más frecuencia o representa una dificultad media para el usuario. Debe resolverse en futuras actualizaciones con prioridad baja.|  
-|3|Error grave: frecuente o difícil de resolver para los usuarios. Requiere corrección prioritaria.|  
-|4|Error crítico: impide el uso normal de la herramienta. Debe solucionarse antes del lanzamiento.|  
+También se lanzó una nueva versión de la página de inicio y del frontend de la aplicación, optimizando la experiencia del usuario y habilitando acceso a funciones esenciales desarrolladas en este sprint, como la creación y administración de perfiles de usuario y mascota. Esta actualización incorpora videos informativos sobre el producto y el equipo, ofreciendo un resumen de los servicios de Pet Nova.
 
-**TABLA RESUMEN (AMBOS SEGMENTOS):**  
+La API del backend se documenta mediante Swagger, facilitando el acceso a todos los endpoints para el equipo de desarrollo y futuros colaboradores.
 
-**Aplicación Web**  
+Enlace del deployment del Backend: FALTA
 
-|#|Problema|Gravedad|Heurística/Principio afectado|  
-| :- | :- | :- | :- |  
-|1||1|IA - ¿Es claro?|  
-|2||2|IA - ¿Es fácil de encontrar?|  
-|3||1|Usabilidad - Consistencia y estándares|  
+Enlace del deployment del FrontEnd: [https://petnovaapp.netlify.app/](https://petnovaapp.netlify.app/)
 
-**Landing Page**  
+Enlace del deployment de la Landing Page: [https://1asi0730-2510-4370-g4-petnova.github.io/PetNova-Landing-Page/](https://1asi0730-2510-4370-g4-petnova.github.io/PetNova-Landing-Page/)
 
-|#|Problema|Gravedad|Heurística/Principio afectado|  
-| :- | :- | :- | :- |  
-|1||1|IA - ¿Es claro?|  
-|2||1|IA - ¿Es usable?|  
-|3||1|IA - ¿Es usable?|  
+**Swagger UI**
 
-**DETALLE DE PROBLEMAS:**  
+<img src="./assets/Chapter05/Swagger UI.jpg">
 
-**1. Aplicación Web**  
+**Seccion video about the team en landing page**
 
-**PROBLEMA #1:**  
+<img src="./assets/Chapter05/landingvideo1.png">
 
-| Gravedad: 1 | Heurística: IA - ¿Es claro? |  
-| :- | :- |  
-| **Inconveniente:** | La navegación dentro de la app podría no ser intuitiva, dificultando la ubicación de secciones clave. |  
-| **Solución propuesta:** | Mejorar la estructura de navegación y usar etiquetas más descriptivas en las pestañas. |  
+**Seccion video about the product en landing page**
 
-**PROBLEMA #2:**  
+<img src="./assets/Chapter05/landingvideo2.png">
 
-| Gravedad: 2 | Heurística: IA - ¿Es fácil de encontrar? |  
-| :- | :- |  
-| **Inconveniente:** | La información importante no es visible o requiere demasiados pasos para acceder a ella. |  
-| **Solución propuesta:** | Reestructurar la disposición de la información para facilitar su acceso desde la pantalla principal. |  
+#### 5.3.3. Evaluación Basada en Heurísticas
 
----  
+| **Sitio o App Evaluada**         | Pet Nova                                                                                                                                                                                                                                                                                           |
+| :------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tareas evaluadas**             | Esta evaluación abarca la revisión de usabilidad de las siguientes tareas:                                                                                                                                                                                                                         |
+| **Landing Page (Desktop)**       | - Información y descripción de la app y sus funciones <br> - Breve descripción del equipo de trabajo <br> - Visualización de testimonios <br> - Header y footer funcionales                                                                                                                        |
+| **Aplicación Web (Desktop)**     | - Visualización de datos registrados en el sistema <br> - Header y footer funcionales <br> - Pestañas de navegación internas <br> - Botones intuitivos e interactivos <br> - Visualización de elementos relacionados                                                                               |
+| **Excluidas en esta evaluación** | - Landing Page (Desktop) <br> - Formularios de registro o cambio de contraseña <br> - Políticas de privacidad y términos de uso <br> - Aplicación Web (Desktop) <br> - Perfil de usuario <br> - Detalles ampliados de productos al seleccionarlos <br> - Políticas de privacidad y términos de uso |
 
-**2. Landing Page**  
+**ESCALA DE GRAVEDAD:**
 
-**PROBLEMA #1:**  
+Los errores se clasificarán según la siguiente escala:
 
-| Gravedad: 1 | Heurística: Usabilidad - Consistencia y estándares |  
-| :- | :- |  
-| **Inconveniente:** | Falta uniformidad en el diseño entre distintas secciones. |  
-| **Solución propuesta:** | Definir y aplicar guías de diseño coherentes en toda la plataforma. |  
+| Nivel | Descripción                                                                                                                                                  |
+| :---- | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Error menor: el usuario puede solucionarlo fácilmente o ocurre raramente. No es urgente corregirlo, salvo que haya tiempo disponible.                        |
+| 2     | Error moderado: aparece con más frecuencia o representa una dificultad media para el usuario. Debe resolverse en futuras actualizaciones con prioridad baja. |
+| 3     | Error grave: frecuente o difícil de resolver para los usuarios. Requiere corrección prioritaria.                                                             |
+| 4     | Error crítico: impide el uso normal de la herramienta. Debe solucionarse antes del lanzamiento.                                                              |
 
-**PROBLEMA #2:**  
+**TABLA RESUMEN (AMBOS SEGMENTOS):**
 
-| Gravedad: 1 | Heurística: IA - ¿Es claro? |  
-| :- | :- |  
-| **Inconveniente:** | La descripción de la app y sus funciones no es suficientemente clara. |  
-| **Solución propuesta:** | Redactar textos más simples y directos que expliquen mejor el propósito de la app. |  
+**Aplicación Web**
 
-**PROBLEMA #3:**  
+| #   | Problema | Gravedad | Heurística/Principio afectado          |
+| :-- | :------- | :------- | :------------------------------------- |
+| 1   |          | 1        | IA - ¿Es claro?                        |
+| 2   |          | 2        | IA - ¿Es fácil de encontrar?           |
+| 3   |          | 1        | Usabilidad - Consistencia y estándares |
 
-| Gravedad: 1 | Heurística: IA - ¿Es usable? |  
-| :- | :- |  
-| **Inconveniente:** | Los testimonios no destacan y podrían no ser notados por los usuarios. |  
-| **Solución propuesta:** | Rediseñar la sección de testimonios para mejorar su visibilidad y funcionalidad. |  
+**Landing Page**
 
----  
+| #   | Problema | Gravedad | Heurística/Principio afectado |
+| :-- | :------- | :------- | :---------------------------- |
+| 1   |          | 1        | IA - ¿Es claro?               |
+| 2   |          | 1        | IA - ¿Es usable?              |
+| 3   |          | 1        | IA - ¿Es usable?              |
 
+**DETALLE DE PROBLEMAS:**
+
+**1. Aplicación Web**
+
+**PROBLEMA #1:**
+
+| Gravedad: 1             | Heurística: IA - ¿Es claro?                                                                           |
+| :---------------------- | :---------------------------------------------------------------------------------------------------- |
+| **Inconveniente:**      | La navegación dentro de la app podría no ser intuitiva, dificultando la ubicación de secciones clave. |
+| **Solución propuesta:** | Mejorar la estructura de navegación y usar etiquetas más descriptivas en las pestañas.                |
+
+**PROBLEMA #2:**
+
+| Gravedad: 2             | Heurística: IA - ¿Es fácil de encontrar?                                                             |
+| :---------------------- | :--------------------------------------------------------------------------------------------------- |
+| **Inconveniente:**      | La información importante no es visible o requiere demasiados pasos para acceder a ella.             |
+| **Solución propuesta:** | Reestructurar la disposición de la información para facilitar su acceso desde la pantalla principal. |
+
+---
+
+**2. Landing Page**
+
+**PROBLEMA #1:**
+
+| Gravedad: 1             | Heurística: Usabilidad - Consistencia y estándares                  |
+| :---------------------- | :------------------------------------------------------------------ |
+| **Inconveniente:**      | Falta uniformidad en el diseño entre distintas secciones.           |
+| **Solución propuesta:** | Definir y aplicar guías de diseño coherentes en toda la plataforma. |
+
+**PROBLEMA #2:**
+
+| Gravedad: 1             | Heurística: IA - ¿Es claro?                                                        |
+| :---------------------- | :--------------------------------------------------------------------------------- |
+| **Inconveniente:**      | La descripción de la app y sus funciones no es suficientemente clara.              |
+| **Solución propuesta:** | Redactar textos más simples y directos que expliquen mejor el propósito de la app. |
+
+**PROBLEMA #3:**
+
+| Gravedad: 1             | Heurística: IA - ¿Es usable?                                                     |
+| :---------------------- | :------------------------------------------------------------------------------- |
+| **Inconveniente:**      | Los testimonios no destacan y podrían no ser notados por los usuarios.           |
+| **Solución propuesta:** | Rediseñar la sección de testimonios para mejorar su visibilidad y funcionalidad. |
+
+---
 
 ### 5.4. Video About the Product
 
-En este video presentamos **Pet Nova**, una innovadora aplicación diseñada para mejorar la gestión de la salud y bienestar de las mascotas. 
+En este video presentamos **Pet Nova**, una innovadora aplicación diseñada para mejorar la gestión de la salud y bienestar de las mascotas.
 
 **Características principales:**
 
@@ -775,12 +810,13 @@ En este video presentamos **Pet Nova**, una innovadora aplicación diseñada par
 
 **Funcionalidades destacadas:**
 
-| Función | Beneficio |
-|---------|-----------|
+| Función              | Beneficio                                                   |
+| -------------------- | ----------------------------------------------------------- |
 | Perfiles de mascotas | Creación y edición de perfiles detallados para cada mascota |
-| Historial médico | Acceso rápido al registro completo de salud de la mascota |
+| Historial médico     | Acceso rápido al registro completo de salud de la mascota   |
 
 **Ventajas clave:**
+
 1. **Organización centralizada** de toda la información médica
 2. **Recordatorios automáticos** para no olvidar citas importantes
 3. **Acceso inmediato** al historial clínico cuando se necesita
@@ -807,6 +843,6 @@ La aplicación está diseñada para brindar **paz mental** a los dueños de masc
 
 #### **Anexo**
 
-1. Despliegue del Landing Page: https://1asi0730-2510-4370-g4-petnova.github.io/Landing-Page-NovaPet/
+1. Despliegue del Landing Page: https://1asi0730-2510-4370-g4-petnova.github.io/PetNova-Landing-Page/
 2. Figma con los User Flow Diagrams, wireframes y mockups de la landing page.: https://www.figma.com/design/XjI2alaHmyFV0MPlaPpxzO/Web-design?node-id=401-8424&t=kuv2vsPlXaFzVYvk-0
 3. Video De Exposición TB1: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a301_upc_edu_pe/Eqi44YEDeiVKgGPNfaTVK6MBWYenSQeOT--MkZtImi2TbQ?e=86Pe27

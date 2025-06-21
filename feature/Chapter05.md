@@ -779,6 +779,41 @@ Enlace del deployment del Backend: FALTA
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
+En el Sprint 3, el equipo organizó el desarrollo del backend y correción del frontend de la aplicación web utilizando ramas específicas para cada funcionalidad, siguiendo las convenciones de GitFlow. Este enfoque permitió a los desarrolladores trabajar de manera independiente en diferentes aspectos del proyecto, facilitando la colaboración y el mantenimiento del código.
+
+A continuación, se detallan las tareas asignadas a cada miembro del equipo, junto con las contribuciones realizadas a través de la plataforma GitHub:
+
+| Alumno                                   | Actividad                                                                                                                                                      |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Choquehuanca Núñez, Luciana Carolina** | Desarrollo y despliegue del backend como también en el frontend en la nube, garantizando la operatividad de la API y su integración con el frontend.           |
+| **Bastidas Bastidas, Diego Martin**      | Desarrollo del backend y soporte en la integración de datos, contribuyendo al diseño y funcionalidad de los módulos clave, también desarrolló el frontend.     |
+| **Prado Vargas, Mario Benjamín**         | Implementación de características tanto en el backend como en el frontend, mejorando la experiencia de usuario y asegurando la funcionalidad de la plataforma. |
+| **Escobar Palomino, Sebastian Matias**   | Desarrollo del frontend junto con el backend y diseño de la landing page, enfocándose en la usabilidad y estética para ofrecer una experiencia intuitiva.      |
+| **Belahonia Miranda, Fabrisio**          | Desarrollo del frontend junto con el backend y diseño de la landing page, enfocándose en la usabilidad y estética para ofrecer una experiencia intuitiva.      |
+
+A continuación, se mostrará la tabla de colaboradores en el repositorio de GitHub, con el objetivo de identificar a cada miembro del equipo.
+
+Tabla de integrantes:
+
+| Username (GitHub) | Nombre                               |
+| ----------------- | ------------------------------------ |
+| ghostnotfound404  | Bastidas Bastidas, Diego Martin      |
+| lucianxaaa        | Choquehuanca Núñez, Luciana Carolina |
+| mariopvdev        | Prado Vargas, Mario Benjamín         |
+| sebasepe          | Escobar Palomino, Sebastian Matias   |
+| devfab17          | Belahonia Miranda, Fabrisio          |
+
+A continuación se mostrarán los gráficos de insights durante el sprint:
+
+Anexo: Flujo de trabajo entre las ramas.
+
+<img src="./assets/Chapter05/graph.JPG">
+
+Anexo: Tablas de commits en el periodo de 1 mes.
+
+<img src="./assets/Chapter05/Commits over time.png">
+<img src="./assets/Chapter05/commits insights.JPG">
+
 #### 5.3. Validation Interviews
 
 #### 5.3.1. Diseño de Entrevistas

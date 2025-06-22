@@ -895,7 +895,7 @@ Enlace del deployment de la Landing Page: [https://1asi0730-2510-4370-g4-petnova
 
 Enlace del deployment del FrontEnd: [https://petnovaapp.netlify.app/](https://petnovaapp.netlify.app/)
 
-Enlace del deployment del Backend: FALTA
+Enlace del deployment del Backend: [https://petnova-api.azurewebsites.net/swagger/index.html](https://petnova-api.azurewebsites.net/swagger/index.html)
 
 #### **5.2.3.8. Team Collaboration Insights during Sprint**
 

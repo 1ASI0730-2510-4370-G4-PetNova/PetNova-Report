@@ -850,7 +850,7 @@ También se lanzó una nueva versión de la página de inicio y del frontend de 
 
 La API del backend se documenta mediante Swagger, facilitando el acceso a todos los endpoints para el equipo de desarrollo y futuros colaboradores.
 
-Enlace del deployment del Backend: FALTA
+Enlace del deployment del Backend: [https://petnova-api.azurewebsites.net/swagger/index.html](https://petnova-api.azurewebsites.net/swagger/index.html)
 
 Enlace del deployment del FrontEnd: [https://petnovaapp.netlify.app/](https://petnovaapp.netlify.app/)
 

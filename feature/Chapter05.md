@@ -742,7 +742,7 @@ También se lanzó una nueva versión de la página de inicio y del frontend de 
 
 La API del backend se documenta mediante Swagger, facilitando el acceso a todos los endpoints para el equipo de desarrollo y futuros colaboradores.
 
-Enlace del deployment del Backend: FALTA
+Enlace del deployment del Backend: [https://app-250701232523.azurewebsites.net/swagger/index.html#](https://app-250701232523.azurewebsites.net/swagger/index.html#)
 
 Enlace del deployment del FrontEnd: [https://petnovaapp.netlify.app/](https://petnovaapp.netlify.app/)
 
@@ -787,7 +787,7 @@ Enlace del deployment de la Landing Page: [https://1asi0730-2510-4370-g4-petnova
 
 Enlace del deployment del FrontEnd: [https://petnovaapp.netlify.app/](https://petnovaapp.netlify.app/)
 
-Enlace del deployment del Backend: FALTA
+Enlace del deployment del Backend: [https://app-250701232523.azurewebsites.net/swagger/index.html#](https://app-250701232523.azurewebsites.net/swagger/index.html#)
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -827,9 +827,11 @@ Anexo: Tablas de commits en el periodo de 1 mes.
 <img src="./assets/Chapter05/commits insights.JPG">
 
 ### **5.3. Validation Interviews**
+
 #### **5.3.1. Diseño de Entrevistas**
 
 ## Diseño de entrevista – Primer segmento objetivo: Médicos Veterinarios:
+
 1. ¿Cuál es tu nombre?
 2. ¿Qué edad tienes?
 3. ¿Cuánta experiencia tienes en el rubro?
@@ -838,6 +840,7 @@ Anexo: Tablas de commits en el periodo de 1 mes.
 6. ¿Qué aspectos cambiarías o qué funciones agregarías?
 
 ## Diseño de entrevista – Segundo segmento objetivo: Dueños de Mascotas:
+
 1. ¿Cuál es tu nombre?
 2. ¿Qué edad tienes?
 3. ¿Cómo calificarías tu experiencia usando PetNova?
@@ -859,7 +862,6 @@ Anexo: Tablas de commits en el periodo de 1 mes.
 **Inicio de la Entrevista:** 0:00
 
 **Fin de la Entrevista:** 6:07
-
 
 <div style="text-align: center;">
   <img src="https://i.imgur.com/n5rq1Hp.png" width="90%" />

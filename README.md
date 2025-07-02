@@ -46,6 +46,10 @@
             <td>Prado Vargas, Mario Benjamín</td>
             <td>U202115357</td>
         </tr>
+        <tr>
+            <td>Nanfuñay Liza, Pedro Jesús</td>
+            <td>U202215462</td>
+        </tr>
     </table>
     </div>
 </body>

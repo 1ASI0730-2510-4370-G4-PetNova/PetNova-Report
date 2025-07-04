@@ -12,8 +12,6 @@
 
 
 ## 3.2. User Stories
-# Gestión de Usuarios
-**EP01: Como responsable del sistema, quiero administrar los usuarios para garantizar que solo personas autorizadas accedan a la plataforma.**
 
 | User Story ID | Título | Descripción|Criterios de Aceptación|Relacionado con (Epic ID)|
 |---------------|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
@@ -33,31 +31,53 @@
 | US14          | Notificación de Citas Veterinarias | Como usuario dueño de mascotas, quiero recibir notificaciones sobre mis citas veterinarias para recordar cuándo debo llevar a mi mascota al veterinario.|**Escenario 1:** El usuario recibe un recordatorio de su cita veterinaria <br>**Dado que** el usuario ha agendado una cita con el veterinario,  <br>**Cuando** faltan 24 horas para la cita, <br>**Entonces** el sistema debe enviar una notificación al usuario recordándole la cita, incluyendo los detalles como la fecha, hora y veterinario asignado.<br><br>**Escenario 2:** El usuario recibe un recordatorio el día de la cita <br>**Dado que** el usuario tiene una cita con el veterinario programada, <br>**Cuando** es el mismo día de la cita, una hora antes de la hora establecida, <br>**Entonces** el sistema debe enviar una notificación final de recordatorio.|EP04
 | US15          | Notificación de Historial Médico | Como usuario dueño de mascotas, quiero recibir notificaciones sobre actualizaciones en el historial médico de mi mascota para estar informado sobre su salud.|**Escenario 1:** El usuario recibe una notificación de cambios en el historial médico <br>**Dado que** el veterinario ha realizado actualizaciones en el historial médico de la mascota, <br>**Cuando** se añaden nuevos registros como vacunas, diagnósticos o tratamientos, <br>**Entonces** el sistema debe enviar una notificación al usuario informándole que se han realizado actualizaciones en el historial médico de su mascota.<br><br>**Escenario 2:** El usuario recibe una notificación sobre los resultados de exámenes médicos  <br>**Dado que** el usuario está esperando los resultados de un examen médico para su mascota, <br>**Cuando** el veterinario sube los resultados al sistema, <br>**Entonces** el sistema debe notificar al usuario que los resultados están disponibles para su revisión.|EP04
 | US16          | Gestión de Notificaciones   | Como administrador del sistema o medico veterinario, quiero gestionar el envío de notificaciones para asegurarme de que los usuarios reciban la información importante de manera oportuna.|**Escenario 1:** El administrador configura el envío de notificaciones <br>**Dado que** el administrador se encuentra en la sección de gestión de notificaciones, <br>**Cuando** define los criterios para el envío de notificaciones (por ejemplo, recordatorios de citas 24 horas antes), <br>**Entonces** el sistema debe programar el envío de las notificaciones de acuerdo con los criterios establecidos.<br><br>**Escenario 2:** El administrador cancela una notificación programada  <br>**Dado que** el administrador ha programado una notificación para una cita, <br>**Cuando** la cita es cancelada o reprogramada, <br>**Entonces** el sistema debe cancelar la notificación previamente programada o ajustarla a la nueva fecha y hora de la cita.|EP04|
-| US17          | Barra de Navegación en la Landing Page     | Como visitante, quiero utilizar la barra de navegación para acceder de manera fácil y rápida a las distintas secciones de la plataforma.|**Escenario 1:** Navegación a secciones principales<br>**Dado que** el visitante está en la landing page,<br>**Cuando** hace clic en un elemento de la barra de navegación (ej: "Servicios", "Contacto"),<br>**Entonces** el sistema debe redirigir suavemente a la sección correspondiente.<br><br>**Escenario 2:** Funcionamiento en dispositivos móviles<br>**Dado que** el visitante accede desde un móvil,<br>**Cuando** despliega el menú hamburguesa,<br>**Entonces** debe mostrar todas las opciones de navegación de forma legible.|EP05|
-| US18          | Visualización de la Sección "Why Choose Us?" | Como visitante, quiero revisar la sección 'Why Choose Us?' para comprender los beneficios y servicios que ofrece la plataforma.|**Escenario 1:** Visualización de beneficios<br>**Dado que** el visitante navega a "Why Choose Us?",<br>**Cuando** la página carga,<br>**Entonces** debe mostrar al menos 3 beneficios principales con iconos descriptivos.<br><br>**Escenario 2:** Interacción con elementos<br>**Dado que** el visitante pasa el cursor sobre un beneficio,<br>**Cuando** interactúa con él,<br>**Entonces** debe mostrar un efecto visual (ej: cambio de color).|EP05|
-| US19          | Gestión de Suscripciones en la Landing Page | Como visitante, quiero revisar los planes de suscripción en la página principal para poder elegir el plan que mejor se adapte a mis necesidades.|**Escenario 1:** Comparación de planes<br>**Dado que** el visitante ve la sección de suscripciones,<br>**Cuando** explora los planes,<br>**Entonces** debe mostrar tabla comparativa con precios y características clave.<br><br>**Escenario 2:** Selección de plan<br>**Dado que** el visitante hace clic en "Seleccionar" en un plan,<br>**Cuando** confirma,<br>**Entonces** debe redirigir al formulario de registro/pago.|EP05|
-| US20          | Revisión de Reseñas de Clientes           | Como visitante, quiero leer las reseñas de otros clientes para evaluar la experiencia que han tenido con la plataforma.|**Escenario 1:** Navegación entre reseñas<br>**Dado que** el visitante accede a las reseñas,<br>**Cuando** usa los controles de carrusel,<br>**Entonces** debe mostrar 3 reseñas por vista con estrellas de valoración.<br><br>**Escenario 2:** Verificación de autenticidad<br>**Dado que** el visitante lee una reseña,<br>**Cuando** busca detalles,<br>**Entonces** debe mostrar nombre y fecha de la reseña.|EP05|
-| US21          | Envío de Mensajes de Contacto             | Como visitante, quiero enviar un mensaje de contacto a través de la página de aterrizaje para poder comunicarme con el equipo de PetNova.|**Escenario 1:** Envío exitoso<br>**Dado que** el visitante completa el formulario,<br>**Cuando** hace clic en "Enviar" con datos válidos,<br>**Entonces** debe mostrar confirmación y vaciar los campos.<br><br>**Escenario 2:** Validación de campos<br>**Dado que** el visitante omite campos requeridos,<br>**Cuando** intenta enviar,<br>**Entonces** debe marcar errores sin enviar el formulario.|EP05|
-| US22          | Visualización de Videos en la Sección de Características | Como visitante, quiero ver los videos informativos sobre los productos y servicios para obtener más información sobre PetNova.|**Escenario 1:** Reproducción básica<br>**Dado que** el visitante hace clic en un video,<br>**Cuando** se inicia la reproducción,<br>**Entonces** debe mostrar controles estándar (play/pause, volumen).<br><br>**Escenario 2:** Optimización de carga<br>**Dado que** el visitante tiene conexión lenta,<br>**Cuando** carga la página,<br>**Entonces** debe mostrar miniaturas estáticas antes de reproducir.|EP05|
+| US17          | Barra de Navegación en la Landing Page     | Como visitante, quiero utilizar la barra de navegación para acceder de manera fácil y rápida a las distintas secciones de la plataforma.|**Escenario 1:** Navegación a secciones principales<br>**Dado que** el visitante está en la landing page,<br>**Cuando** selecciona una opción de navegación,<br>**Entonces** el sistema debe permitir el acceso a la sección correspondiente de la plataforma.<br><br>**Escenario 2:** Funcionamiento en dispositivos móviles<br>**Dado que** el visitante accede desde un móvil,<br>**Cuando** utiliza el menú de navegación,<br>**Entonces** el sistema debe mostrar todas las opciones de navegación de forma legible y accesible.|EP05|
+| US18          | Visualización de la Sección "Why Choose Us?" | Como visitante, quiero revisar la sección 'Why Choose Us?' para comprender los beneficios y servicios que ofrece la plataforma.|**Escenario 1:** Visualización de beneficios<br>**Dado que** el visitante accede a la sección "Why Choose Us?",<br>**Cuando** consulta la información de la sección,<br>**Entonces** el sistema debe mostrar al menos 3 beneficios principales de la plataforma.<br><br>**Escenario 2:** Interacción con elementos<br>**Dado que** el visitante revisa los beneficios,<br>**Cuando** interactúa con la información de un beneficio,<br>**Entonces** el sistema debe resaltar o mostrar información adicional sobre ese beneficio.|EP05|
+| US19          | Gestión de Suscripciones en la Landing Page | Como visitante, quiero revisar los planes de suscripción en la página principal para poder elegir el plan que mejor se adapte a mis necesidades.|**Escenario 1:** Comparación de planes<br>**Dado que** el visitante accede a la sección de suscripciones,<br>**Cuando** revisa los diferentes planes disponibles,<br>**Entonces** el sistema debe mostrar una tabla comparativa con precios y características clave.<br><br>**Escenario 2:** Selección de plan<br>**Dado que** el visitante selecciona un plan de suscripción,<br>**Cuando** confirma su elección,<br>**Entonces** el sistema debe permitir el acceso al formulario de registro o pago correspondiente.|EP05|
+| US20          | Revisión de Reseñas de Clientes           | Como visitante, quiero leer las reseñas de otros clientes para evaluar la experiencia que han tenido con la plataforma.|**Escenario 1:** Navegación entre reseñas<br>**Dado que** el visitante accede a la sección de reseñas,<br>**Cuando** revisa las diferentes opiniones de clientes,<br>**Entonces** el sistema debe mostrar varias reseñas con su respectiva valoración.<br><br>**Escenario 2:** Verificación de autenticidad<br>**Dado que** el visitante consulta una reseña,<br>**Cuando** solicita información adicional sobre la reseña,<br>**Entonces** el sistema debe mostrar el nombre y la fecha de la reseña.|EP05|
+| US21          | Envío de Mensajes de Contacto             | Como visitante, quiero enviar un mensaje de contacto a través de la página de aterrizaje para poder comunicarme con el equipo de PetNova.|**Escenario 1:** Envío exitoso<br>**Dado que** el visitante completa el formulario de contacto,<br>**Cuando** envía la información con datos válidos,<br>**Entonces** el sistema debe registrar el mensaje y mostrar una confirmación, además de limpiar los campos del formulario.<br><br>**Escenario 2:** Validación de campos<br>**Dado que** el visitante omite campos requeridos,<br>**Cuando** intenta enviar el formulario con información incompleta,<br>**Entonces** el sistema debe indicar los errores y no registrar el mensaje hasta que se completen los campos obligatorios.|EP05|
+| US22          | Visualización de Videos en la Sección de Características | Como visitante, quiero ver los videos informativos sobre los productos y servicios para obtener más información sobre PetNova.|**Escenario 1:** Reproducción básica<br>**Dado que** el visitante accede a la sección de videos informativos,<br>**Cuando** selecciona un video para reproducir,<br>**Entonces** el sistema debe permitir la visualización del video con controles estándar (reproducir/pausar, volumen).<br><br>**Escenario 2:** Optimización de carga<br>**Dado que** el visitante tiene una conexión lenta,<br>**Cuando** accede a la sección de videos,<br>**Entonces** el sistema debe mostrar miniaturas estáticas antes de reproducir el video.|EP05|
 | US24          |Crear historia clínica |Como administrador del sistema o medico veterinario, quiero crear perfiles de clientes para registrar su información de contacto y los detalles de sus mascotas.|**Escenario 1:** Registro exitoso de nuevo cliente<br>**Dado que** el administrador accede al formulario de creación,<br>**Cuando** completa todos los campos obligatorios (nombre, teléfono, email) y guarda,<br>**Entonces** el sistema debe generar un ID único y mostrar mensaje de confirmación.<br><br>**Escenario 2:** Registro con datos incompletos<br>**Dado que** el administrador omite campos requeridos,<br>**Cuando** intenta guardar,<br>**Entonces** el sistema debe marcar los campos faltantes sin crear el perfil.|EP06|
 | US25 | Edición de Perfiles de Clientes | Como usuario (veterinario o dueño de mascotas), quiero editar perfiles de clientes para registrar o actualizar su información de contacto y los detalles de sus mascotas. | **Escenario 1:** Actualización de información básica<br>**Dado que** el usuario (veterinario o dueño de mascota) selecciona un cliente existente,<br>**Cuando** modifica datos (ej: dirección o teléfono) y guarda,<br>**Entonces** el sistema debe registrar la fecha/hora de modificación y mostrar confirmación.<br><br>**Escenario 2:** Adición de nueva mascota<br>**Dado que** el usuario (veterinario o dueño de mascota) edita un perfil,<br>**Cuando** agrega una nueva mascota con datos completos,<br>**Entonces** debe vincularla automáticamente al cliente sin borrar mascotas existentes. | EP06 |
 | US26          | Búsqueda de Clientes por ID | Como administrador del sistema o medico veterinario, quiero buscar clientes por su ID para acceder rápidamente a su información y gestionar los datos de sus mascotas.|**Escenario 1:** Búsqueda exacta por ID<br>**Dado que** el administrador ingresa un ID completo (ej: "CLI-0123"),<br>**Cuando** ejecuta la búsqueda,<br>**Entonces** debe mostrar solo el perfil coincidente con botones de acción (editar/eliminar).<br><br>**Escenario 2:** Búsqueda parcial con sugerencias<br>**Dado que** el administrador escribe "CLI-01",<br>**Cuando** el sistema está procesando,<br>**Entonces** debe mostrar lista desplegable con máx. 5 clientes que coincidan parcialmente.|EP06|
 | US27          | Creación de Nuevos Medicamentos | Como administrador del sistema o medico veterinario, necesito poder ingresar información detallada de cada medicamento (nombre, dosis, fecha de caducidad, proveedor, etc.).|- **Escenario 1:** Registro exitoso de medicamento <br>**Dado que** el administrador ingresa al módulo de registro de medicamentos, <br>**Cuando** completa todos los campos obligatorios (nombre, dosis, fecha caducidad, proveedor) y guarda, <br>**Entonces** el sistema debe almacenar el medicamento en la base de datos.<br><br>**Escenario 2:** Intento de registro con campos incompletos  <br>**Dado que** el administrador deja vacío el campo "medicamento"<br>**Cuando** intenta guardar el formulario, <br>**Entonces** el sistema debe mostrar una alerta: "Complete todos los campos obligatorios"|EP07|
 | US28          | Control de Vacunas | Como médico veterinario, para llevar un control de las vacunas administradas, necesito registrar el tipo de vacuna, fecha de aplicación, dosis, y el animal tratado.|- **Escenario 1:** Registro completo de vacunación <br>**Dado que** el veterinario selecciona un animal en el sistema, <br>**Cuando** ingresa tipo de vacuna, dosis, fecha y firma el registro, <br>**Entonces** el sistema debe vincular la vacuna al historial médico del animal y actualizar el stock automáticamente.<br><br>**Escenario 2:** Intento de registro con dosis inválida <br>**Dado que** el veterinario ingresa "0.01" en dosis (mínimo requerido: 0.1), <br>**Cuando** intenta guardar, <br>**Entonces** el sistema debe mostrar un mensaje indicando que la fecha no es válida y debe ser corregida recordando la dosis mínima.<br><br>**Escenario 3:** Vacuna ya aplicada recientemente<br>**Dado que** el animal recibió la misma vacuna hace menso de 21 días, <br>**Cuando** el veterinario intenta registrar otra dosis,  <br>**Entonces** el sistema debe mostrar un mensaje indicando la fecha de vacunación y un mensaje de confirmación.|EP07|
-| US30          | Historial de Medicamnetos | Como médico veterinario, necesito acceder al historial completo de tratamientos y vacunas de un animal en específico. |- **Escenario 1:** Consulta exitosa del historial <br>**Dado que** sel veterinario busca el animal por nombre de la mascota o del dueño, <br>**Cuando** accede a la pestaña "Historial de medicamentos",  <br>**Entonces** el sistema debe Mostrar lista cronológica (vacunas, tratamientos, fechas, dosis).<br><br>**Escenario 2:**  Mascota sin historial registrado <br>**Dado que** la mascota no tiene medicamentos registrados, <br>**Cuando** el veterinario accede al historial,  <br>**Entonces** el sistema debe mostrar un mensaje: "No hay registros médicos".|EP07|
-| US31          | Visualización del Historial Médico | Como administrador del sistema o medico veterinario, quiero acceder al historial médico de mi mascota para poder consultar su estado de salud y los tratamientos que ha recibido anteriormente.|**Escenario 1:** Consulta exitosa del historial médico de una mascota <br>**Dado que** soy un usuario autenticado dentro de la plataforma,<br>**Cuando** ingreso al perfil de mi mascota y selecciono la opción para ver su historial médico,  <br>**Entonces** el sistema debe mostrar todos los registros disponibles, incluyendo diagnósticos, tratamientos y citas anteriores.<br><br>**Escenario 2:** Historial médico sin registros disponibles  <br>**Dado que** soy un usuario autenticado revisando el perfil de mi mascota, <br>**Cuando** intento acceder a su historial médico y no hay datos registrados, <br>**Entonces** el sistema debe mostrar un mensaje informando que aún no existe información médica registrada para la mascota.|EP08|
-| US32          | Actualización del Historial Médico | Como administrador o veterinario, quiero poder modificar y actualizar el historial médico de las mascotas para asegurar que los dueños cuenten con información actualizada sobre sus tratamientos y estado de salud.|**Escenario 1:** Modificación exitosa del historial médico de una mascota <br>**Dado que** soy un administrador o un veterinario, <br>**Cuando** realizo una modificación en el historial médico de una mascota, como agregar un nuevo diagnóstico o tratamiento, <br>**Entonces** el sistema debe guardar los cambios y mostrar la información actualizada en el perfil de la mascota para que los usuarios puedan consultarla.<br><br>**Escenario 2:** Intento fallido de actualización por campos incompletos <br>**Dado que** soy un administrador o veterinario intentando modificar el historial médico, <br>**Cuando** omito completar uno o más campos obligatorios (como la fecha del diagnóstico o tratamiento), <br>**Entonces** el sistema debe mostrar un mensaje de error indicando que es necesario completar todos los campos requeridos antes de guardar.<br><br>**Escenario 3:** Revisión del historial de actualizaciones médicas <br>**Dado que** soy un administrador o veterinario, <br>**Cuando** ingreso al historial médico de una mascota que ha sido editado anteriormente, <br>**Entonces** el sistema debe permitir visualizar un registro detallado de todas las modificaciones, incluyendo las fechas y quién realizó cada cambio.|EP08|
-| US33          | Monitoreo de signos vitales | Como dueño de mascotas o veterinario, quiero integrar dispositivos IoT para monitorear la salud de las mascotas en tiempo real.|**Escenario 1:** Visualización de datos en tiempo real <br>**Dado que** un dispositivo IoT está conectado al sistema,  <br>**Cuando** el dispositivo envía datos de signos vitales (ej: frecuencia cardíaca, temperatura), <br>**Entonces** el sistema debe mostrarlos en un panel actualizado cada 5 segundos.  <br><br>**Escenario 2:** Conexión fallida de dispositivo <br>**Dado que** el dispositivo IoT pierde conexión, <br>**Cuando** el sistema detecta la desconexión por más de 10 segundos,  <br>**Entonces** debe mostrar una alerta al usuario y registrar el evento en el historial.  |EP09|
-| US34          | Acceso remoto a datos de salud | Como veterinario, quiero visualizar los datos históricos de dispositivos IoT (actividad, sueño, ingesta de agua) para diagnosticar patrones anormales en mis pacientes.|**Escenario 1:** Consulta de historial completo <br>**Dado que** el veterinario selecciona una mascota y un rango de fechas, <br>**Cuando** solicita el historial de salud (ej: últimos 7 días), <br>**Entonces** el sistema debe mostrar gráficos y tablas con los datos almacenados. <br><br>**Escenario 2:** Filtrado de datos por métrica <br>**Dado que** el veterinario necesita analizar solo la ingesta de agua, <br>**Cuando** aplica un filtro para esa métrica específica, <br>**Entonces** el sistema debe ocultar los datos no relevantes y resaltar tendencias anormales.|EP09|
-| US35          | Configuración de umbrales de alerta | Como médico veterinario, quiero definir umbrales personalizados (ej: fiebre >39°C) para que el sistema envíe notificaciones automáticas a dueños y veterinarios.|**Escenario 1:** Creación de un umbral personalizado <br>**Dado que** el veterinario accede a la configuración de alertas, <br>**Cuando** define un nuevo umbral (ej: temperatura >39°C para perros), **Entonces** el sistema debe guardar la regla y aplicarla a las mascotas asociadas. <br><br>**Escenario 2:** Notificación por umbral excedido **Dado que** se ha configurado un umbral para "actividad física <30min/día", <br>**Cuando** el dispositivo reporta un valor inferior, <br>**Entonces** el sistema debe enviar una notificación push y por correo al dueño y veterinario.|EP09|
-| US36 | Gestión de Incidencias Técnicas | Como usuario Soporte Técnico, quiero registrar y gestionar incidencias **técnicas** reportadas para resolver problemas de la plataforma. | **Escenario 1:** Registro de **incidencia** <br> **Dado que** un usuario reporta un problema, <br> **Cuando** el soporte técnico crea un **ticket** de incidencia con los detalles, <br> **Entonces** el sistema debe guardar la incidencia y notificar al equipo técnico. <br><br> **Escenario 2:** Actualización del **estado** de incidencia <br> **Dado que** el soporte técnico está trabajando en una incidencia, <br> **Cuando** actualiza el estado (ej: en proceso, resuelto), <br> **Entonces** el sistema debe registrar el cambio y notificar al usuario afectado. | EP09 |
-| US37 | Mantenimiento y Backup de Datos | Como Administrador DevOps, quiero realizar backups y mantenimiento de la base de datos para asegurar la integridad y disponibilidad de la información. | **Escenario 1:** Realización de backup periódico <br> **Dado que** el sistema está en producción, <br> **Cuando** se programa una tarea automática de backup, <br> **Entonces** se debe crear una copia de seguridad sin afectar la disponibilidad. <br><br> **Escenario 2:** Restauración de datos <br> **Dado que** ocurre una pérdida o corrupción de datos, <br> **Cuando** se utiliza un backup para restaurar, <br> **Entonces** el sistema debe recuperar la información al estado previo al incidente.|EP10|
-| US38 | Revisión de Logs y Accesos | Como auditor de seguridad, quiero revisar los registros de accesos y cambios en el sistema para asegurar el cumplimiento de políticas y detectar anomalías. | **Escenario 1:** Acceso a logs de usuario <br> **Dado que** un auditor accede al sistema, <br> **Cuando** solicita los registros de acceso de un usuario, <br> **Entonces** el sistema debe mostrar el historial completo de accesos. <br><br> **Escenario 2:** Detección de actividad sospechosa <br> **Dado que** el sistema analiza patrones de acceso, <br> **Cuando** detecta múltiples intentos fallidos de login, <br> **Entonces** debe generar una alerta para revisión inmediata.|EP11|
-| US39 | Configuración de Fake API | Como integrador, quiero configurar la fake API para simular respuestas y facilitar el desarrollo y pruebas del sistema. | **Escenario 1:** Definición de endpoints falsos <br> **Dado que** se requiere simular la API, <br> **Cuando** se configuran endpoints con respuestas predefinidas, <br> **Entonces** el sistema debe devolver datos simulados para pruebas. <br><br> **Escenario 2:** Actualización de respuestas simuladas <br> **Dado que** cambian los requisitos, <br> **Cuando** se modifican las respuestas de la fake API, <br> **Entonces** las pruebas deben reflejar los nuevos datos simulados.|EP12|
-| US40 | Desarrollo y Despliegue de API Interna | Como desarrollador/integrador, quiero crear y desplegar la API interna para conectar la base de datos con la aplicación. | **Escenario 1:** Implementación de endpoints <br> **Dado que** se tiene una base de datos funcional, <br> **Cuando** se desarrollan endpoints REST para CRUD, <br> **Entonces** la aplicación debe poder consumir y manipular datos correctamente. <br><br> **Escenario 2:** Despliegue en ambiente de prueba <br> **Dado que** la API está lista, <br> **Cuando** se despliega en ambiente de staging, <br> **Entonces** debe estar disponible para pruebas integradas con la app web.|EP12|
+| US29          | Historial de Medicamnetos | Como médico veterinario, necesito acceder al historial completo de tratamientos y vacunas de un animal en específico. |- **Escenario 1:** Consulta exitosa del historial <br>**Dado que** sel veterinario busca el animal por nombre de la mascota o del dueño, <br>**Cuando** accede a la pestaña "Historial de medicamentos",  <br>**Entonces** el sistema debe Mostrar lista cronológica (vacunas, tratamientos, fechas, dosis).<br><br>**Escenario 2:**  Mascota sin historial registrado <br>**Dado que** la mascota no tiene medicamentos registrados, <br>**Cuando** el veterinario accede al historial,  <br>**Entonces** el sistema debe mostrar un mensaje: "No hay registros médicos".|EP07|
+| US30          | Visualización del Historial Médico | Como administrador del sistema o medico veterinario, quiero acceder al historial médico de mi mascota para poder consultar su estado de salud y los tratamientos que ha recibido anteriormente.|**Escenario 1:** Consulta exitosa del historial médico de una mascota <br>**Dado que** soy un usuario autenticado dentro de la plataforma,<br>**Cuando** ingreso al perfil de mi mascota y selecciono la opción para ver su historial médico,  <br>**Entonces** el sistema debe mostrar todos los registros disponibles, incluyendo diagnósticos, tratamientos y citas anteriores.<br><br>**Escenario 2:** Historial médico sin registros disponibles  <br>**Dado que** soy un usuario autenticado revisando el perfil de mi mascota, <br>**Cuando** intento acceder a su historial médico y no hay datos registrados, <br>**Entonces** el sistema debe mostrar un mensaje informando que aún no existe información médica registrada para la mascota.|EP08|
+| US31          | Actualización del Historial Médico | Como administrador o veterinario, quiero poder modificar y actualizar el historial médico de las mascotas para asegurar que los dueños cuenten con información actualizada sobre sus tratamientos y estado de salud.|**Escenario 1:** Modificación exitosa del historial médico de una mascota <br>**Dado que** soy un administrador o un veterinario, <br>**Cuando** realizo una modificación en el historial médico de una mascota, como agregar un nuevo diagnóstico o tratamiento, <br>**Entonces** el sistema debe guardar los cambios y mostrar la información actualizada en el perfil de la mascota para que los usuarios puedan consultarla.<br><br>**Escenario 2:** Intento fallido de actualización por campos incompletos <br>**Dado que** soy un administrador o veterinario intentando modificar el historial médico, <br>**Cuando** omito completar uno o más campos obligatorios (como la fecha del diagnóstico o tratamiento), <br>**Entonces** el sistema debe mostrar un mensaje de error indicando que es necesario completar todos los campos requeridos antes de guardar.<br><br>**Escenario 3:** Revisión del historial de actualizaciones médicas <br>**Dado que** soy un administrador o veterinario, <br>**Cuando** ingreso al historial médico de una mascota que ha sido editado anteriormente, <br>**Entonces** el sistema debe permitir visualizar un registro detallado de todas las modificaciones, incluyendo las fechas y quién realizó cada cambio.|EP08|
+| US32          | Monitoreo de signos vitales | Como dueño de mascotas o veterinario, quiero integrar dispositivos IoT para monitorear la salud de las mascotas en tiempo real.|**Escenario 1:** Visualización de datos en tiempo real <br>**Dado que** un dispositivo IoT está conectado al sistema,  <br>**Cuando** el dispositivo envía datos de signos vitales (ej: frecuencia cardíaca, temperatura), <br>**Entonces** el sistema debe mostrarlos en un panel actualizado cada 5 segundos.  <br><br>**Escenario 2:** Conexión fallida de dispositivo <br>**Dado que** el dispositivo IoT pierde conexión, <br>**Cuando** el sistema detecta la desconexión por más de 10 segundos,  <br>**Entonces** debe mostrar una alerta al usuario y registrar el evento en el historial.  |EP09|
+| US33          | Acceso remoto a datos de salud | Como veterinario, quiero visualizar los datos históricos de dispositivos IoT (actividad, sueño, ingesta de agua) para diagnosticar patrones anormales en mis pacientes.|**Escenario 1:** Consulta de historial completo <br>**Dado que** el veterinario selecciona una mascota y un rango de fechas, <br>**Cuando** solicita el historial de salud (ej: últimos 7 días), <br>**Entonces** el sistema debe mostrar gráficos y tablas con los datos almacenados. <br><br>**Escenario 2:** Filtrado de datos por métrica <br>**Dado que** el veterinario necesita analizar solo la ingesta de agua, <br>**Cuando** aplica un filtro para esa métrica específica, <br>**Entonces** el sistema debe ocultar los datos no relevantes y resaltar tendencias anormales.|EP09|
+| US34          | Configuración de umbrales de alerta | Como médico veterinario, quiero definir umbrales personalizados (ej: fiebre >39°C) para que el sistema envíe notificaciones automáticas a dueños y veterinarios.|**Escenario 1:** Creación de un umbral personalizado <br>**Dado que** el veterinario accede a la configuración de alertas, <br>**Cuando** define un nuevo umbral (ej: temperatura >39°C para perros), **Entonces** el sistema debe guardar la regla y aplicarla a las mascotas asociadas. <br><br>**Escenario 2:** Notificación por umbral excedido **Dado que** se ha configurado un umbral para "actividad física <30min/día", <br>**Cuando** el dispositivo reporta un valor inferior, <br>**Entonces** el sistema debe enviar una notificación push y por correo al dueño y veterinario.|EP09|
+| US35 | Gestión de Incidencias Técnicas | Como usuario Soporte Técnico, quiero registrar y gestionar incidencias **técnicas** reportadas para resolver problemas de la plataforma. | **Escenario 1:** Registro de **incidencia** <br> **Dado que** un usuario reporta un problema, <br> **Cuando** el soporte técnico crea un **ticket** de incidencia con los detalles, <br> **Entonces** el sistema debe guardar la incidencia y notificar al equipo técnico. <br><br> **Escenario 2:** Actualización del **estado** de incidencia <br> **Dado que** el soporte técnico está trabajando en una incidencia, <br> **Cuando** actualiza el estado (ej: en proceso, resuelto), <br> **Entonces** el sistema debe registrar el cambio y notificar al usuario afectado. | EP09 |
+| US36 | Mantenimiento y Backup de Datos | Como Administrador DevOps, quiero realizar backups y mantenimiento de la base de datos para asegurar la integridad y disponibilidad de la información. | **Escenario 1:** Realización de backup periódico <br> **Dado que** el sistema está en producción, <br> **Cuando** se programa una tarea automática de backup, <br> **Entonces** se debe crear una copia de seguridad sin afectar la disponibilidad. <br><br> **Escenario 2:** Restauración de datos <br> **Dado que** ocurre una pérdida o corrupción de datos, <br> **Cuando** se utiliza un backup para restaurar, <br> **Entonces** el sistema debe recuperar la información al estado previo al incidente.|EP10|
+| US37 | Revisión de Logs y Accesos | Como auditor de seguridad, quiero revisar los registros de accesos y cambios en el sistema para asegurar el cumplimiento de políticas y detectar anomalías. | **Escenario 1:** Acceso a logs de usuario <br> **Dado que** un auditor accede al sistema, <br> **Cuando** solicita los registros de acceso de un usuario, <br> **Entonces** el sistema debe mostrar el historial completo de accesos. <br><br> **Escenario 2:** Detección de actividad sospechosa <br> **Dado que** el sistema analiza patrones de acceso, <br> **Cuando** detecta múltiples intentos fallidos de login, <br> **Entonces** debe generar una alerta para revisión inmediata.|EP11|
+| US38 | Configuración de Fake API | Como integrador, quiero configurar la fake API para simular respuestas y facilitar el desarrollo y pruebas del sistema. | **Escenario 1:** Definición de endpoints falsos <br> **Dado que** se requiere simular la API, <br> **Cuando** se configuran endpoints con respuestas predefinidas, <br> **Entonces** el sistema debe devolver datos simulados para pruebas. <br><br> **Escenario 2:** Actualización de respuestas simuladas <br> **Dado que** cambian los requisitos, <br> **Cuando** se modifican las respuestas de la fake API, <br> **Entonces** las pruebas deben reflejar los nuevos datos simulados.|EP12|
+| US39 | Desarrollo y Despliegue de API Interna | Como desarrollador/integrador, quiero crear y desplegar la API interna para conectar la base de datos con la aplicación. | **Escenario 1:** Implementación de endpoints <br> **Dado que** se tiene una base de datos funcional, <br> **Cuando** se desarrollan endpoints REST para CRUD, <br> **Entonces** la aplicación debe poder consumir y manipular datos correctamente. <br><br> **Escenario 2:** Despliegue en ambiente de prueba <br> **Dado que** la API está lista, <br> **Cuando** se despliega en ambiente de staging, <br> **Entonces** debe estar disponible para pruebas integradas con la app web.|EP12|
 | US23          | Cambio de Idioma en la App Web | Como usuario dueño de mascota o medico veterinario, quiero tener la opción de cambiar el idioma de la aplicación web para poder utilizarla en inglés o español, de acuerdo con mi preferencia.|**Escenario 1:** Cambio exitoso de idioma<br>**Dado que** el usuario accede a la configuración de idioma,<br>**Cuando** selecciona "Español" o "Inglés" y guarda la preferencia,<br>**Entonces** la interfaz debe actualizarse inmediatamente al idioma seleccionado, incluyendo menús, botones y contenido estático.<br><br>**Escenario 2:** Persistencia de preferencia<br>**Dado que** el usuario ha cambiado el idioma anteriormente,<br>**Cuando** cierra sesión y vuelve a ingresar,<br>**Entonces** el sistema debe mantener el último idioma seleccionado.|EP10|
 
 ---
+
+
+
+
+## Historias de Usuario para Artefactos de Análisis
+
+Para facilitar la integración y trazabilidad, a continuación se presentan historias de usuario para artefactos de análisis y modelado, en el mismo formato y estructura del cuadro de User Stories funcionales de arriba. Así, puedes copiar y pegar estas filas directamente en el cuadro principal si deseas integrarlas, o mantenerlas como referencia vinculada.
+
+| User Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Artefacto) | Relacionado con (User Story ID) |
+|---------------|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|-----------------------|
+| UA01 | Realización de entrevistas a usuarios | Como equipo de producto, quiero realizar entrevistas a usuarios potenciales y actuales para identificar necesidades, problemas y oportunidades de mejora. | **Dado que** se busca comprender a los usuarios,<br>**Cuando** se realizan al menos 5 entrevistas grabadas o documentadas,<br>**Entonces** los hallazgos deben ser sintetizados y compartidos con el equipo. | Entrevistas | US01, US04, US09 |
+| UA02 | Documentación de Artefactos de Needfinding | Como analista de UX, quiero documentar los artefactos de Needfinding (User Personas, User Task Matrix, User Journey Maps, Empathy Mapping, As-Is Scenario Mapping) para asegurar que el diseño del sistema esté centrado en el usuario. | **Dado que** se recopilan datos reales de usuarios,<br>**Cuando** se documentan y presentan los artefactos en sesiones de equipo,<br>**Entonces** estos deben servir como insumo para la definición de requerimientos y diseño de soluciones. | Needfinding | US04, US06, US09, US14 |
+| UA03 | Creación de User Personas | Como analista de UX, quiero crear User Personas basadas en datos reales para representar los diferentes tipos de usuarios y sus necesidades principales. | **Dado que** se han realizado entrevistas y recopilado datos,<br>**Cuando** se crean User Personas que incluyan objetivos, frustraciones y contexto de uso,<br>**Entonces** deben ser validadas por el equipo de producto. | User Personas | US01, US04, US06 |
+| UA04 | Elaboración de User Journey Maps | Como analista de UX, quiero crear User Journey Maps para visualizar la experiencia de los usuarios a lo largo de los principales flujos del sistema. | **Dado que** se han realizado entrevistas y definido User Personas,<br>**Cuando** se elaboran los Journey Maps incluyendo etapas, emociones, puntos de dolor y oportunidades,<br>**Entonces** deben ser revisados por el equipo de diseño. | User Journey Maps | US06, US09, US14 |
+| UA05 | Mapeo de Empatía (Empathy Map) | Como equipo de UX, quiero crear mapas de empatía para profundizar en lo que los usuarios piensan, sienten, ven y escuchan respecto al producto. | **Dado que** se cuenta con datos de entrevistas,<br>**Cuando** se identifican insights clave para el diseño,<br>**Entonces** los mapas deben ser presentados en talleres de equipo. | Empathy Map | US04, US06 |
+| UA06 | Mapeo de Escenario AS-IS | Como analista de procesos, quiero documentar el escenario actual (AS-IS) para entender cómo los usuarios resuelven sus necesidades antes de usar la plataforma. | **Dado que** se analiza el flujo actual de los usuarios,<br>**Cuando** se incluyen diagramas, descripciones, puntos de dolor y oportunidades,<br>**Entonces** el escenario debe ser validado con usuarios reales. | AS-IS Scenario Mapping | US01, US04 |
+| UA07 | Elaboración de Diagrama de Clases | Como arquitecto de software, quiero crear un diagrama de clases para visualizar la estructura y relaciones entre los objetos principales del sistema, facilitando el diseño y la comunicación técnica. | **Dado que** se requiere documentar la estructura del sistema,<br>**Cuando** se elabora un diagrama que incluya las clases principales, atributos y relaciones,<br>**Entonces** el diagrama debe estar alineado con los requerimientos funcionales y ser revisado por el equipo de desarrollo. | Diagrama de Clases | US03, US04, US05, US06, US08 |
+| UA08 | Creación de Diagrama C4 | Como arquitecto de soluciones, quiero desarrollar diagramas C4 (Contexto, Contenedores, Componentes, Código) para representar los diferentes niveles de abstracción del sistema y su interacción con actores externos. | **Dado que** se requiere visualizar la arquitectura a diferentes niveles,<br>**Cuando** se crean al menos los diagramas de Contexto y Contenedores mostrando límites y dependencias externas,<br>**Entonces** los diagramas deben ser validados con stakeholders técnicos. | Diagrama C4 | US01, US09, US11, US40 |
+| UA9 | Sección "About the Team" | Como usuario, quiero conocer al equipo detrás del producto para generar confianza y transparencia. | **Dado que** el usuario desea conocer al equipo,<br>**Cuando** accede a la sección con fotos, roles y biografías desde la landing page,<br>**Entonces** la información debe ser actualizada periódicamente. | About Team | US17 |
+| UA10 | Sección "About the Product" | Como usuario, quiero acceder a una sección que explique claramente de qué trata el producto, sus beneficios y casos de uso. | **Dado que** el usuario accede a la landing page,<br>**Cuando** consulta la sección "About the Product" con texto claro, imágenes y ejemplos,<br>**Entonces** la información debe ser revisada por el equipo de marketing. | About Product | US17, US18 |
+| UA11 | Documentación de arquitectura técnica | Como arquitecto, quiero documentar la arquitectura técnica del sistema, incluyendo diagramas de componentes, despliegue y dependencias. | **Dado que** se requiere documentar la arquitectura,<br>**Cuando** se incluyen diagramas actualizados alineados con los requerimientos técnicos y de negocio,<br>**Entonces** la documentación debe ser accesible para el equipo de desarrollo. | Documentación Técnica | US03, US40 |
+| UA12 | Validación y actualización de artefactos | Como responsable de calidad, quiero asegurar que todos los artefactos de análisis y modelado estén actualizados y validados periódicamente. | **Dado que** existen múltiples artefactos de análisis y modelado,<br>**Cuando** se realiza un proceso de revisión y registro de actualizaciones,<br>**Entonces** los artefactos obsoletos deben ser archivados. | Todos los artefactos | Todas |
 
 ## 3.3. Impact Mapping.
 
@@ -73,295 +93,56 @@ Historia de usuario base:
 Tomamos como referencia US06: Como usuario, quiero agendar citas para que mi mascota reciba atención veterinaria a tiempo. (Posee 3 puntos de historia).
 Asimismo, utilizamos la herramienta “Planning Poker Online” para poder votar en grupo y decidir la dificultad de cada historia de usuario, tomando como punto intermedio el User Story 06
 
-<table>
-  <thead>
-    <tr>
-      <th># Orden</th>
-      <th>User Story ID</th>
-      <th>Título</th>
-      <th>Descripción</th>
-      <th>Story Points (1/2/3/5/8)</th>
-    </tr>
-  </thead>
-  <tbody>
-
-
- <tr>
-      <td>17</td>
-      <td>US17</td>
-      <td>Barra de Navegación en la Landing Page</td>
-      <td>Como visitante, quiero utilizar la barra de navegación para acceder de manera fácil y rápida a las distintas secciones de la plataforma.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>US18</td>
-      <td>Visualización de la Sección "Why Choose Us?"</td>
-      <td>Como usuario, quiero ver información de los veterinarios disponibles para elegir el más adecuado para mi mascota.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>US19</td>
-      <td>Gestión de Suscripciones en la Landing Page</td>
-      <td>Como visitante, quiero revisar los planes de suscripción en la página principal para poder elegir el plan que mejor se adapte a mis necesidades.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>US20</td>
-      <td>Revisión de Reseñas de Clientes</td>
-      <td>Como visitante, quiero leer las reseñas de otros clientes para evaluar la experiencia que han tenido con la plataforma.</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>US21</td>
-      <td>Envío de Mensajes de Contacto</td>
-      <td>Como visitante, quiero enviar un mensaje de contacto a través de la página de aterrizaje para poder comunicarme con el equipo de PetNova.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>22</td>
-      <td>US22</td>
-      <td>Visualización de Videos en la Sección de Características</td>
-      <td>Como visitante, quiero ver los videos informativos sobre los productos y servicios para obtener más información sobre PetNova.</td>
-      <td>3</td>
-    </tr>
-        
-<tr>
-      <td>1</td>
-      <td>US01</td>
-      <td>Registro de Usuario</td>
-      <td>Como usuario externo, quiero crear una cuenta en la plataforma para acceder a las funciones que ofrece el sistema.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>US02</td>
-      <td>Recuperación de Contraseña</td>
-      <td>Como usuario del sistema, quiero restablecer mi contraseña si la olvido.</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>US03</td>
-      <td>Gestión de Perfiles de Usuarios</td>
-      <td>Como administrador del sistema, quiero administrar los perfiles de los usuarios para asegurar que su información y permisos estén siempre actualizados.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>US04</td>
-      <td>Creación de Perfil de Mascota</td>
-      <td>Como usuario dueño de mascotas, quiero registrar un perfil para mi mascota con el fin de guardar su información en la plataforma.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>US05</td>
-      <td>Edición de Perfil de Mascota</td>
-      <td>Como usuario dueño de mascota, quiero modificar el perfil de mi mascota para mantener su información actualizada cuando sea necesario.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>US06</td>
-      <td>Visualización de Perfiles de Mascotas</td>
-      <td>Como usuario dueño de mascota, quiero acceder a los perfiles de mis mascotas para consultar la información que he registrado sobre ellas.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>US07</td>
-      <td>Búsqueda de Mascotas por ID</td>
-      <td>Como administrador del sistema o medico veterinario, quiero buscar mascotas utilizando su ID para acceder de forma rápida a su información en el sistema.</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>US08</td>
-      <td>Gestión de Perfiles de Mascotas</td>
-      <td>Como administrador del sistema o medico veterinario, quiero administrar los perfiles de las mascotas para garantizar que su información esté correctamente registrada y actualizada.</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>US09</td>
-      <td>Agendamiento de Citas</td>
-      <td>Como usuario (veterinario o dueño de mascotas), quiero programar citas veterinarias para asegurar que la mascota reciba atención médica cuando lo necesite</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>US10</td>
-      <td>Cancelación de Citas</td>
-      <td>Como usuario (veterinario o dueño de mascotas), quiero cancelar una cita veterinaria si no puedo asistir, para evitar conflictos de horario y poder reprogramarla cuando sea conveniente.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>US11</td>
-      <td>Gestión de Citas Veterinarias</td>
-      <td>Como administrador del sistema o medico veterinario, quiero gestionar las citas veterinarias para coordinar de manera eficiente la atención de las mascotas.</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>US12</td>
-      <td>Búsqueda de Citas por ID</td>
-      <td>Como administrador del sistema o medico veterinario, quiero buscar citas utilizando su ID para acceder rápidamente a los detalles de la cita.</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>US13</td>
-      <td>Edición de Citas Veterinarias</td>
-      <td>Como administrador del sistema o medico veterinario, quiero editar las citas para modificar la fecha o el estado según sea necesario.</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>US14</td>
-      <td>Notificación de Citas Veterinarias</td>
-      <td>Como usuario dueño de mascotas, quiero recibir notificaciones sobre mis citas veterinarias para recordar cuándo debo llevar a mi mascota al veterinario.</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>US15</td>
-      <td>Notificación de Historial Médico</td>
-      <td>Como usuario dueño de mascotas, quiero recibir notificaciones sobre actualizaciones en el historial médico de mi mascota para estar informado sobre su salud.</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>16</td>
-      <td>US16</td>
-      <td>Gestión de Notificaciones</td>
-      <td>Como administrador del sistema o medico veterinario, quiero gestionar el envío de notificaciones para asegurarme de que los usuarios reciban la información importante de manera oportuna.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>23</td>
-      <td>US23</td>
-      <td>Cambio de Idioma en la App Web</td>
-      <td>Como usuario dueño de mascota o medico veterinario, quiero tener la opción de cambiar el idioma de la aplicación web para poder utilizarla en inglés o español, de acuerdo con mi preferencia.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>24</td>
-      <td>US24</td>
-      <td>Crear historia clínica</td>
-      <td>Como administrador del sistema o medico veterinario, quiero crear perfiles de clientes para registrar su información de contacto y los detalles de sus mascotas.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>25</td>
-      <td>US25</td>
-      <td>Edición de Perfiles de Clientes</td>
-      <td>Como usuario (veterinario o dueño de mascotas), quiero editar perfiles de clientes para registrar o actualizar su información de contacto y los detalles de sus mascotas.</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>26</td>
-      <td>US26</td>
-      <td>Búsqueda de Clientes por ID</td>
-      <td>Como administrador del sistema o medico veterinario, quiero buscar clientes por su ID para acceder rápidamente a su información y gestionar los datos de sus mascotas.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>27</td>
-      <td>US27</td>
-      <td>Creación de Nuevos Medicamentos</td>
-      <td>Como administrador del sistema o medico veterinario, necesito poder ingresar información detallada de cada medicamento (nombre, dosis, fecha de caducidad, proveedor, etc.).</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>US28</td>
-      <td>Control de Vacunas</td>
-      <td>Como médico veterinario, para llevar un control de las vacunas administradas, necesito registrar el tipo de vacuna, fecha de aplicación, dosis, y el animal tratado.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>US30</td>
-      <td>Historial de Medicamnetos</td>
-      <td>Como médico veterinario, necesito acceder al historial completo de tratamientos y vacunas de un animal en específico.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>31</td>
-      <td>US31</td>
-      <td>Visualización del Historial Médico</td>
-      <td>Como administrador del sistema o medico veterinario, quiero acceder al historial médico de mi mascota para poder consultar su estado de salud y los tratamientos que ha recibido anteriormente.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>32</td>
-      <td>US32</td>
-      <td>Actualización del Historial Médico</td>
-      <td>Como administrador o veterinario, quiero poder modificar y actualizar el historial médico de las mascotas para asegurar que los dueños cuenten con información actualizada sobre sus tratamientos y estado de salud.</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>33</td>
-      <td>US33</td>
-      <td>Monitoreo de signos vitales</td>
-      <td>Como dueño de mascotas o veterinario, quiero integrar dispositivos IoT para monitorear la salud de las mascotas en tiempo real.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>34</td>
-      <td>US34</td>
-      <td>Acceso remoto a datos de salud</td>
-      <td>Como veterinario, quiero visualizar los datos históricos de dispositivos IoT (actividad, sueño, ingesta de agua) para diagnosticar patrones anormales en mis pacientes.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>US35</td>
-      <td>Configuración de umbrales de alerta</td>
-      <td>Como médico veterinario, quiero definir umbrales personalizados (ej: fiebre >39°C) para que el sistema envíe notificaciones automáticas a dueños y veterinarios.</td>
-      <td>8</td>
-    </tr>
-    
-<tr>
-      <td>36</td>
-      <td>US36</td>
-      <td>Gestión de Incidencias Técnicas</td>
-      <td>Como usuario Soporte Técnico, quiero registrar y gestionar incidencias técnicas reportadas para resolver problemas de la plataforma.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>37</td>
-      <td>US37</td>
-      <td>Mantenimiento y Backup de Datos</td>
-      <td>Como Administrador DevOps, quiero realizar backups y mantenimiento de la base de datos para asegurar la integridad y disponibilidad de la información.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>38</td>
-      <td>US38</td>
-      <td>Revisión de Logs y Accesos</td>
-      <td>Como auditor de seguridad, quiero revisar los registros de accesos y cambios en el sistema para asegurar el cumplimiento de políticas y detectar anomalías.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>39</td>
-      <td>US39</td>
-      <td>Configuración de Fake API</td>
-      <td>Como integrador, quiero configurar la fake API para simular respuestas y facilitar el desarrollo y pruebas del sistema.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>US40</td>
-      <td>Desarrollo y Despliegue de API Interna</td>
-      <td>Como desarrollador/integrador, quiero crear y desplegar la API interna para conectar la base de datos con la aplicación.</td>
-      <td>5</td>
-    </tr>
-  </tbody>
-</table>
-
----
+| # Orden | User Story ID | Título | Descripción | Story Points |
+|---------|--------------|--------|-------------|--------------|
+| 1 | UA01 | Realización de entrevistas a usuarios | Como equipo de producto, quiero realizar entrevistas a usuarios potenciales y actuales para identificar necesidades, problemas y oportunidades de mejora. | - |
+| 2 | UA02 | Documentación de Artefactos de Needfinding | Como analista de UX, quiero documentar los artefactos de Needfinding (User Personas, User Task Matrix, User Journey Maps, Empathy Mapping, As-Is Scenario Mapping) para asegurar que el diseño del sistema esté centrado en el usuario. | - |
+| 3 | UA03 | Creación de User Personas | Como analista de UX, quiero crear User Personas basadas en datos reales para representar los diferentes tipos de usuarios y sus necesidades principales. | - |
+| 4 | UA04 | Elaboración de User Journey Maps | Como analista de UX, quiero crear User Journey Maps para visualizar la experiencia de los usuarios a lo largo de los principales flujos del sistema. | - |
+| 5 | UA05 | Mapeo de Empatía (Empathy Map) | Como equipo de UX, quiero crear mapas de empatía para profundizar en lo que los usuarios piensan, sienten, ven y escuchan respecto al producto. | - |
+| 6 | UA06 | Mapeo de Escenario AS-IS | Como analista de procesos, quiero documentar el escenario actual (AS-IS) para entender cómo los usuarios resuelven sus necesidades antes de usar la plataforma. | - |
+| 7 | UA07 | Elaboración de Diagrama de Clases | Como arquitecto de software, quiero crear un diagrama de clases para visualizar la estructura y relaciones entre los objetos principales del sistema, facilitando el diseño y la comunicación técnica. | - |
+| 8 | UA08 | Creación de Diagrama C4 | Como arquitecto de soluciones, quiero desarrollar diagramas C4 (Contexto, Contenedores, Componentes, Código) para representar los diferentes niveles de abstracción del sistema y su interacción con actores externos. | - |
+| 9 | UA11 | Documentación de arquitectura técnica | Como arquitecto, quiero documentar la arquitectura técnica del sistema, incluyendo diagramas de componentes, despliegue y dependencias. | - |
+| 10 | UA12 | Validación y actualización de artefactos | Como responsable de calidad, quiero asegurar que todos los artefactos de análisis y modelado estén actualizados y validados periódicamente. | - |
+| 11 | US17 | Barra de Navegación en la Landing Page | Como visitante, quiero utilizar la barra de navegación para acceder de manera fácil y rápida a las distintas secciones de la plataforma. | 5 |
+| 12 | US18 | Visualización de la Sección "Why Choose Us?" | Como usuario, quiero ver información de los veterinarios disponibles para elegir el más adecuado para mi mascota. | 3 |
+| 13 | US19 | Gestión de Suscripciones en la Landing Page | Como visitante, quiero revisar los planes de suscripción en la página principal para poder elegir el plan que mejor se adapte a mis necesidades. | 3 |
+| 14 | US20 | Revisión de Reseñas de Clientes | Como visitante, quiero leer las reseñas de otros clientes para evaluar la experiencia que han tenido con la plataforma. | 2 |
+| 15 | US21 | Envío de Mensajes de Contacto | Como visitante, quiero enviar un mensaje de contacto a través de la página de aterrizaje para poder comunicarme con el equipo de PetNova. | 5 |
+| 16 | US22 | Visualización de Videos en la Sección de Características | Como visitante, quiero ver los videos informativos sobre los productos y servicios para obtener más información sobre PetNova. | 3 |
+| 17 | US23 | Cambio de Idioma en la App Web | Como usuario dueño de mascota o medico veterinario, quiero tener la opción de cambiar el idioma de la aplicación web para poder utilizarla en inglés o español, de acuerdo con mi preferencia. | 5 |
+| 38 | US01 | Registro de Usuario | Como usuario externo, quiero crear una cuenta en la plataforma para acceder a las funciones que ofrece el sistema. | 3 |
+| 39 | US02 | Recuperación de Contraseña | Como usuario del sistema, quiero restablecer mi contraseña si la olvido. | 2 |
+| 40 | US03 | Gestión de Perfiles de Usuarios | Como administrador del sistema, quiero administrar los perfiles de los usuarios para asegurar que su información y permisos estén siempre actualizados. | 5 |
+| 18 | US04 | Creación de Perfil de Mascota | Como usuario dueño de mascotas, quiero registrar un perfil para mi mascota con el fin de guardar su información en la plataforma. | 3 |
+| 19 | US05 | Edición de Perfil de Mascota | Como usuario dueño de mascota, quiero modificar el perfil de mi mascota para mantener su información actualizada cuando sea necesario. | 3 |
+| 20 | US06 | Visualización de Perfiles de Mascotas | Como usuario dueño de mascota, quiero acceder a los perfiles de mis mascotas para consultar la información que he registrado sobre ellas. | 3 |
+| 21 | US07 | Búsqueda de Mascotas por ID | Como administrador del sistema o medico veterinario, quiero buscar mascotas utilizando su ID para acceder de forma rápida a su información en el sistema. | 2 |
+| 22 | US08 | Gestión de Perfiles de Mascotas | Como administrador del sistema o medico veterinario, quiero administrar los perfiles de las mascotas para garantizar que su información esté correctamente registrada y actualizada. | 2 |
+| 23 | US09 | Agendamiento de Citas | Como usuario (veterinario o dueño de mascotas), quiero programar citas veterinarias para asegurar que la mascota reciba atención médica cuando lo necesite. | 2 |
+| 24 | US10 | Cancelación de Citas | Como usuario (veterinario o dueño de mascotas), quiero cancelar una cita veterinaria si no puedo asistir, para evitar conflictos de horario y poder reprogramarla cuando sea conveniente. | 5 |
+| 25 | US11 | Gestión de Citas Veterinarias | Como administrador del sistema o medico veterinario, quiero gestionar las citas veterinarias para coordinar de manera eficiente la atención de las mascotas. | 8 |
+| 26 | US12 | Búsqueda de Citas por ID | Como administrador del sistema o medico veterinario, quiero buscar citas utilizando su ID para acceder rápidamente a los detalles de la cita. | 2 |
+| 27 | US13 | Edición de Citas Veterinarias | Como administrador del sistema o medico veterinario, quiero editar las citas para modificar la fecha o el estado según sea necesario. | 2 |
+| 28 | US14 | Notificación de Citas Veterinarias | Como usuario dueño de mascotas, quiero recibir notificaciones sobre mis citas veterinarias para recordar cuándo debo llevar a mi mascota al veterinario. | 2 |
+| 29 | US15 | Notificación de Historial Médico | Como usuario dueño de mascotas, quiero recibir notificaciones sobre actualizaciones en el historial médico de mi mascota para estar informado sobre su salud. | 2 |
+| 30 | US16 | Gestión de Notificaciones | Como administrador del sistema o medico veterinario, quiero gestionar el envío de notificaciones para asegurarme de que los usuarios reciban la información importante de manera oportuna. | 3 |
+| 34 | US24 | Crear historia clínica | Como administrador del sistema o medico veterinario, quiero crear perfiles de clientes para registrar su información de contacto y los detalles de sus mascotas. | 3 |
+| 35 | US25 | Edición de Perfiles de Clientes | Como usuario (veterinario o dueño de mascotas), quiero editar perfiles de clientes para registrar o actualizar su información de contacto y los detalles de sus mascotas. | 8 |
+| 36 | US26 | Búsqueda de Clientes por ID | Como administrador del sistema o medico veterinario, quiero buscar clientes por su ID para acceder rápidamente a su información y gestionar los datos de sus mascotas. | 5 |
+| 37 | US27 | Creación de Nuevos Medicamentos | Como administrador del sistema o medico veterinario, necesito poder ingresar información detallada de cada medicamento (nombre, dosis, fecha de caducidad, proveedor, etc.). | 3 |
+| 38 | US28 | Control de Vacunas | Como médico veterinario, para llevar un control de las vacunas administradas, necesito registrar el tipo de vacuna, fecha de aplicación, dosis, y el animal tratado. | 5 |
+| 39 | US30 | Historial de Medicamentos | Como médico veterinario, necesito acceder al historial completo de tratamientos y vacunas de un animal en específico. | 5 |
+| 40 | US31 | Visualización del Historial Médico | Como administrador del sistema o medico veterinario, quiero acceder al historial médico de mi mascota para poder consultar su estado de salud y los tratamientos que ha recibido anteriormente. | 3 |
+| 41 | US32 | Actualización del Historial Médico | Como administrador o veterinario, quiero poder modificar y actualizar el historial médico de las mascotas para asegurar que los dueños cuenten con información actualizada sobre sus tratamientos y estado de salud. | 8 |
+| 42 | US33 | Monitoreo de signos vitales | Como dueño de mascotas o veterinario, quiero integrar dispositivos IoT para monitorear la salud de las mascotas en tiempo real. | 5 |
+| 43 | US34 | Acceso remoto a datos de salud | Como veterinario, quiero visualizar los datos históricos de dispositivos IoT (actividad, sueño, ingesta de agua) para diagnosticar patrones anormales en mis pacientes. | 3 |
+| 44 | US35 | Configuración de umbrales de alerta | Como médico veterinario, quiero definir umbrales personalizados (ej: fiebre >39°C) para que el sistema envíe notificaciones automáticas a dueños y veterinarios. | 8 |
+| 45 | US36 | Gestión de Incidencias Técnicas | Como usuario Soporte Técnico, quiero registrar y gestionar incidencias técnicas reportadas para resolver problemas de la plataforma. | 5 |
+| 46 | US37 | Mantenimiento y Backup de Datos | Como Administrador DevOps, quiero realizar backups y mantenimiento de la base de datos para asegurar la integridad y disponibilidad de la información. | 5 |
+| 47 | US38 | Revisión de Logs y Accesos | Como auditor de seguridad, quiero revisar los registros de accesos y cambios en el sistema para asegurar el cumplimiento de políticas y detectar anomalías. | 5 |
+| 48 | US39 | Configuración de Fake API | Como integrador, quiero configurar la fake API para simular respuestas y facilitar el desarrollo y pruebas del sistema. | 5 |
+| 49 | US40 | Desarrollo y Despliegue de API Interna | Como desarrollador/integrador, quiero crear y desplegar la API interna para conectar la base de datos con la aplicación. | 5 |
+| 50 | UA09 | About the Product | Como usuario, quiero acceder a una sección que explique claramente de qué trata el producto, sus beneficios y casos de uso. | - |
+| 51 | UA10 | About the Team | Como usuario, quiero conocer al equipo detrás del producto para generar confianza y transparencia. | - |

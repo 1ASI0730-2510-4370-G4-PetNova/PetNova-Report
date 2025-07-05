@@ -1025,6 +1025,8 @@ Los errores se clasificarán según la siguiente escala:
 | **Inconveniente:**      | La navegación dentro de la app podría no ser intuitiva, dificultando la ubicación de secciones clave. |
 | **Solución propuesta:** | Mejorar la estructura de navegación y usar etiquetas más descriptivas en las pestañas.                |
 
+**FALTA IMAGEN DE EVIDENCIA DE QUE SE HAYA CORREGIDO**
+
 **PROBLEMA #2:**
 
 | Gravedad: 2             | Heurística: IA - ¿Es fácil de encontrar?                                                             |
@@ -1032,6 +1034,7 @@ Los errores se clasificarán según la siguiente escala:
 | **Inconveniente:**      | La información importante no es visible o requiere demasiados pasos para acceder a ella.             |
 | **Solución propuesta:** | Reestructurar la disposición de la información para facilitar su acceso desde la pantalla principal. |
 
+**FALTA IMAGEN DE EVIDENCIA DE QUE SE HAYA CORREGIDO**
 ---
 
 **2. Landing Page**
@@ -1043,6 +1046,8 @@ Los errores se clasificarán según la siguiente escala:
 | **Inconveniente:**      | Falta uniformidad en el diseño entre distintas secciones.           |
 | **Solución propuesta:** | Definir y aplicar guías de diseño coherentes en toda la plataforma. |
 
+**FALTA IMAGEN DE EVIDENCIA DE QUE SE HAYA CORREGIDO**
+
 **PROBLEMA #2:**
 
 | Gravedad: 1             | Heurística: IA - ¿Es claro?                                                        |
@@ -1050,12 +1055,16 @@ Los errores se clasificarán según la siguiente escala:
 | **Inconveniente:**      | La descripción de la app y sus funciones no es suficientemente clara.              |
 | **Solución propuesta:** | Redactar textos más simples y directos que expliquen mejor el propósito de la app. |
 
+**FALTA IMAGEN DE EVIDENCIA DE QUE SE HAYA CORREGIDO**
+
 **PROBLEMA #3:**
 
 | Gravedad: 1             | Heurística: IA - ¿Es usable?                                                     |
 | :---------------------- | :------------------------------------------------------------------------------- |
 | **Inconveniente:**      | Los testimonios no destacan y podrían no ser notados por los usuarios.           |
 | **Solución propuesta:** | Rediseñar la sección de testimonios para mejorar su visibilidad y funcionalidad. |
+
+**FALTA IMAGEN DE EVIDENCIA DE QUE SE HAYA CORREGIDO**
 
 ---
 

@@ -47,7 +47,11 @@ Para identificar y analizar de manera más precisa los requerimientos de nuestro
 
 #### 1.2.2.1. Lean UX Problem Statements.
 
-La aplicación Pet Nova tiene como objetivo brindar una solución integral para simplificar la gestión diaria en las clínicas veterinarias. Con una interfaz amigable y de fácil navegación, busca reducir las complicaciones que suelen surgir al manejar diversos aspectos de la práctica veterinaria, centralizando todo en una sola plataforma. De esta manera, tanto los profesionales veterinarios como los dueños de mascotas pueden acceder de forma rápida y sencilla a la información que necesitan.
+Nuestra aplicación "Pet Nova" tiene como objetivo brindar una solución integral para simplificar la gestión diaria en las clínicas veterinarias con el que se busca reducir las complicaciones que suelen surgir al manejar diversos aspectos de la práctica veterinaria, centralizando todo en una sola plataforma. De esta manera, tanto los profesionales veterinarios como los dueños de mascotas pueden acceder de forma rápida y sencilla a la información que necesitan.
+
+Se ha detectado que las clínicas veterinarias presentan dificultades en relación al desempeño y gestión de tareas diarias lo que dificulta en la atención a las mascotas de los clientes o no presentan una forma eficiente de visualizar la información de las mascotas. Como resultado, se observa una baja eficiencia en la aplicación de procesos para la atención de mascotas y desconfianza por la falta de visualización de su información.
+
+¿Cómo podríamos mejorar la eficacia y valor de nuestra plataforma para que nuestros usuarios sientan una mejora significativa en el manejo de tareas en clínicas veterinarias, logrando una mejor calidad del servicio a los clientes y sus mascotas, sin descuidar aspectos y prácticas relacionadas al cuidado de mascotas?
 
 #### 1.2.2.2. Lean UX Assumptions.
 

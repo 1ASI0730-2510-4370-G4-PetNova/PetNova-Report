@@ -579,9 +579,9 @@ En el segundo sprint, el equipo centró su desarrollo en funcionalidades esencia
 | US17 | Barra de Navegación en la Landing Page | TS22  | Navegación a secciones principales | Permitir que al hacer clic en una opción de navegación, se acceda a la sección correspondiente. | 4                   | Escobar Palomino, Sebastian Matias   | Done    |                |
 |      |                                      | TS23  | Menú responsive en móviles    | Asegurar que el menú de navegación sea legible y funcional desde dispositivos móviles.           | 4                   | Escobar Palomino, Sebastian Matias   | To-do   | **8**          |
 | US18 | Visualización de la Sección "Why Choose Us?" | TS24  | Mostrar beneficios principales | Mostrar al menos tres beneficios clave de la plataforma en la sección correspondiente.           | 4                   | Choquehuanca Núñez, Luciana Carolina | To-do   |                |
-|      |                                      | TS25  | Interacción con beneficios    | Permitir que al interactuar con un beneficio, se despliegue o resalte información adicional.     | 4                   | Choquehuanca Núñez, Luciana Carolina | Done    | **6**          |
+|      |                                      | TS25  | Interacción con beneficios    | Permitir que al interactuar con un beneficio, se despliegue o resalte información adicional.     | 4                   | Choquehuanca Núñez, Luciana Carolina | Done    | **8**          |
 | US23 | Cambio de Idioma en la App Web       | TS26  | Cambio de idioma desde configuración | Permitir cambiar entre los idiomas "Español" e "Inglés" desde la configuración.           | 4                   | Belahonia Miranda, Fabrisio          | To-do   |                |
-|      |                                      | TS27  | Persistencia de idioma        | Asegurar que el idioma seleccionado se mantenga luego de cerrar sesión.                          | 3                   | Belahonia Miranda, Fabrisio          | Done    | **7**          |
+|      |                                      | TS27  | Persistencia de idioma        | Asegurar que el idioma seleccionado se mantenga luego de cerrar sesión.                          | 4                   | Belahonia Miranda, Fabrisio          | Done    | **8**          |
 
 
 ![sprint_2](./assets/Chapter05/sprint_2.png)

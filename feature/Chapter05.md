@@ -646,7 +646,7 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
   </tr>
   <tr>
     <td style="font-weight: bold;"> Sprint 3 Goal </td>
-    <td> Finalizar la implementación completa del backend de Pet Nova, abarcando todos los contextos funcionales definidos, para permitir su integración total con la interfaz frontend. El objetivo incluye asegurar una experiencia coherente y fluida para todos los roles del sistema, consolidar la lógica de negocio, y reforzar aspectos clave como validaciones y consistencia de datos. </td>
+    <td> Finalizar la implementación completa del backend del sistema Pet Nova, abarcando todos los contextos funcionales definidos, con el objetivo de permitir su integración total y efectiva con la interfaz frontend. Se consolidará la lógica de negocio, validaciones y consistencia de datos para garantizar una experiencia fluida. También se corregirá el landing page e incluirán los videos About the Team y About the Product. Finalmente, se realizará el despliegue funcional del sistema para pruebas integrales.
   </tr>
   <tr>
     <td style="font-weight: bold;"> Sprint 3 Velocity </td>

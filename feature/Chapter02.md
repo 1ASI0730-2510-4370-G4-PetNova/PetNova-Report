@@ -384,11 +384,11 @@ En este proyecto, hemos decidido interactuar con posibles usuarios mediante entr
 
 - **Primer segmento: Médicos Veterinarios**
 
-<br><img src="./assets/Chapter02/JourneyMap1.png" alt="" style="width: 1000px; height: auto;" ><br>
+<br><img src="./assets/Chapter02/JourneyMappingSegmento1.png" alt=""><br>
 
 - **Segundo segmento: Dueños de Mascotas**
 
-<br><img src="./assets/Chapter02/petnova_journey_map.png" alt="" style="width: 1000px; height: auto;" ><br>
+<br><img src="./assets/Chapter02/JourneyMappingSegmento2.png" alt=""><br>
 
 ### 2.3.4. Empathy Mapping.
 

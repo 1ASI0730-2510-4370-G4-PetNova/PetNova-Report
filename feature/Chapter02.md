@@ -261,60 +261,120 @@ En este proyecto, hemos decidido interactuar con posibles usuarios mediante entr
 
 <table>
   <tr>
+    <th></th>
     <th colspan="2">Segmento 1: Médicos Veterinarios</th>
     <th colspan="2">Segmento 2: Dueños de Mascotas</th>
   </tr>
   <tr>
-    <th>Actividad</th><th>Frecuencia / Importancia</th>
-    <th>Actividad</th><th>Frecuencia / Importancia</th>
+    <th>Actividad</th><th>Frecuencia</th>
+    <th>Importancia</th>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
   </tr>
   <tr>
     <td>Desarrollar y actualizar constantemente los historiales clínicos de pacientes.</td>
-    <td>Alta / Alta</td>
-    <td>Llevar a sus animales de compañía a consultas veterinarias.</td>
-    <td>Alta / Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td> - </td>
+    <td> - </td>
   </tr>
   <tr>
     <td>Completar información requerida en el sistema informático.</td>
-    <td>Alta / Alta</td>
-    <td>Programar y gestionar citas con el veterinario.</td>
-    <td>Alta / Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td> - </td>
+    <td> - </td>
   </tr>
   <tr>
     <td>Consultar y localizar expedientes médicos de las mascotas.</td>
-    <td>Alta / Alta</td>
-    <td>Organizar y mantener al día los registros médicos de sus mascotas.</td>
-    <td>Alta / Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td> - </td>
+    <td> - </td>
   </tr>
   <tr>
     <td>Coordinar y gestionar las visitas veterinarias.</td>
-    <td>Media / Alta</td>
-    <td>Revisar los expedientes veterinarios de sus animales.</td>
-    <td>Media / Alta</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td> - </td>
+    <td> - </td>
   </tr>
   <tr>
     <td>Almacenar y clasificar la documentación médica.</td>
-    <td>Media / Media</td>
-    <td>Cambiar de clínica veterinaria si es necesario.</td>
-    <td>Baja / Media</td>
+    <td>Media</td>
+    <td>Media</td>
+    <td> - </td>
+    <td> - </td>
   </tr>
   <tr>
     <td>Resolver inconvenientes relacionados con la claridad y pérdida de documentos.</td>
-    <td>Media / Alta</td>
-    <td>Actuar con prontitud en situaciones de urgencia médica.</td>
-    <td>Media / Alta</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td> - </td>
+    <td> - </td>
   </tr>
   <tr>
     <td>Mejorar la productividad en los procesos documentales.</td>
-    <td>Media / Alta</td>
-    <td>Almacenar y hacer copias de seguridad de los registros médicos en formato físico y digital.</td>
-    <td>Alta / Alta</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td> - </td>
+    <td> - </td>
   </tr>
   <tr>
     <td>Brindar servicio al cliente de manera expedita y efectiva.</td>
-    <td>Alta / Alta</td>
-    <td></td>
-    <td></td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td> - </td>
+    <td> - </td>
+  <tr>
+    <td>Llevar a sus animales de compañía a consultas veterinarias.</td>
+    <td> - </td>
+    <td> - </td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Programar y gestionar citas con el veterinario.</td>
+    <td> - </td>
+    <td> - </td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Organizar y mantener al día los registros médicos de sus mascotas.</td>
+    <td> - </td>
+    <td> - </td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Revisar los expedientes veterinarios de sus animales.</td>
+    <td> - </td>
+    <td> - </td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Cambiar de clínica veterinaria si es necesario.</td>
+    <td> - </td>
+    <td> - </td>
+    <td>Baja</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Actuar con prontitud en situaciones de urgencia médica.</td>
+    <td> - </td>
+    <td> - </td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Almacenar y hacer copias de seguridad de los registros médicos en formato físico y digital.</td>
+    <td> - </td>
+    <td> - </td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
 </table>
 
 

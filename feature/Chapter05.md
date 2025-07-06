@@ -110,163 +110,143 @@ Estas prácticas aseguran que el código sea legible, consistente y fácil de ma
 
 - US01:
 
-![Gherkin1](./assets/Chapter05/US01.png)
+![Gherkin1](./assets/Chapter05/code1.png)
 
 - US02:
 
-![Gherkin2](./assets/Chapter05/US02.png)
+![Gherkin2](./assets/Chapter05/code2.png)
 
 - US03:
 
-![Gherkin3](./assets/Chapter05/US03.png)
+![Gherkin3](./assets/Chapter05/code3.png)
 
 - US04:
 
-![Gherkin4](./assets/Chapter05/US04.png)
+![Gherkin4](./assets/Chapter05/code4.png)
 
 - US05:
 
-![Gherkin5](./assets/Chapter05/US05.png)
+![Gherkin5](./assets/Chapter05/code5.png)
 
 - US06:
 
-![Gherkin6](./assets/Chapter05/US06.png)
+![Gherkin6](./assets/Chapter05/code6.png)
 
 - US07:
 
-![Gherkin7](./assets/Chapter05/US07.png)
+![Gherkin7](./assets/Chapter05/code7.png)
 
 - US08:
 
-![Gherkin8](./assets/Chapter05/US08.png)
+![Gherkin8](./assets/Chapter05/code8.png)
 
 - US09:
 
-![Gherkin9](./assets/Chapter05/US09.png)
+![Gherkin9](./assets/Chapter05/code9.png)
 
 - US010:
 
-![Gherkin10](./assets/Chapter05/US10.png)
+![Gherkin10](./assets/Chapter05/code10.png)
 
 - US11:
 
-![Gherkin11](./assets/Chapter05/US11.png)
+![Gherkin11](./assets/Chapter05/code11.png)
 
 - US12:
 
-![Gherkin12](./assets/Chapter05/US12.png)
+![Gherkin12](./assets/Chapter05/code12.png)
 
 - US13:
 
-![Gherkin13](./assets/Chapter05/US13.png)
+![Gherkin13](./assets/Chapter05/code13.png)
 
 - US14:
 
-![Gherkin14](./assets/Chapter05/US14.png)
+![Gherkin14](./assets/Chapter05/code14.png)
 
 - US15:
 
-![Gherkin15](./assets/Chapter05/US15.png)
+![Gherkin15](./assets/Chapter05/code15.png)
 
 - US16:
 
-![Gherkin16](./assets/Chapter05/US16.png)
+![Gherkin16](./assets/Chapter05/code16.png)
 
 - US17:
 
-![Gherkin17](./assets/Chapter05/US17.png)
+![Gherkin17](./assets/Chapter05/code17.png)
 
 - US18:
 
-![Gherkin18](./assets/Chapter05/US18.png)
+![Gherkin18](./assets/Chapter05/code18.png)
 
 - US19:
 
-![Gherkin19](./assets/Chapter05/US19.png)
+![Gherkin19](./assets/Chapter05/code19.png)
 
 - US20:
 
-![Gherkin20](./assets/Chapter05/US20.png)
+![Gherkin20](./assets/Chapter05/code20.png)
 
 - US21:
 
-![Gherkin21](./assets/Chapter05/US21.png)
+![Gherkin21](./assets/Chapter05/code21.png)
 
 - US22:
 
-![Gherkin22](./assets/Chapter05/US22.png)
+![Gherkin22](./assets/Chapter05/code22.png)
 
 - US23:
 
-![Gherkin23](./assets/Chapter05/US23.png)
+![Gherkin23](./assets/Chapter05/code23.png)
 
 - US24:
 
-![Gherkin24](./assets/Chapter05/US24.png)
+![Gherkin24](./assets/Chapter05/code24.png)
 
 - US25:
 
-![Gherkin25](./assets/Chapter05/US25.png)
+![Gherkin25](./assets/Chapter05/code25.png)
 
 - US26:
 
-![Gherkin26](./assets/Chapter05/US26.png)
+![Gherkin26](./assets/Chapter05/code26.png)
 
 - US27:
 
-![Gherkin27](./assets/Chapter05/US27.png)
+![Gherkin27](./assets/Chapter05/code27.png)
 
 - US28:
 
-![Gherkin28](./assets/Chapter05/US28.png)
+![Gherkin28](./assets/Chapter05/code28.png)
 
 - US29:
 
-![Gherkin29](./assets/Chapter05/US29.png)
+![Gherkin29](./assets/Chapter05/code29.png)
 
 - US30:
 
-![Gherkin30](./assets/Chapter05/US30.png)
+![Gherkin30](./assets/Chapter05/code30.png)
 
 - US31:
 
-![Gherkin31](./assets/Chapter05/US31.png)
+![Gherkin31](./assets/Chapter05/code31.png)
 
 - US32:
 
-![Gherkin32](./assets/Chapter05/US32.png)
+![Gherkin32](./assets/Chapter05/code32.png)
 
 - US33:
 
-![Gherkin33](./assets/Chapter05/US33.png)
+![Gherkin33](./assets/Chapter05/code33.png)
 
 - US34:
 
-![Gherkin34](./assets/Chapter05/US34.png)
+![Gherkin34](./assets/Chapter05/code34.png)
 
 - US35:
 
 ![Gherkin35](./assets/Chapter05/US35.png)
-
-- US36:
-
-![Gherkin36](./assets/Chapter05/tus_36.png)
-
-- US37:
-
-![Gherkin37](./assets/Chapter05/tus_37.png)
-
-- US38:
-
-![Gherkin38](./assets/Chapter05/tus_38.png)
-
-- US39:
-
-![Gherkin39](./assets/Chapter05/tus_39.png)
-
-- US40:
-
-![Gherkin40](./assets/Chapter05/tus_40.png)
 
 ### 5.1.4. Configuración de la implementación del software
 
@@ -280,7 +260,7 @@ En este apartado, se detalla el proceso de despliegue de la Landing Page de Pet 
    <img src="./assets/Chapter05/Github Pages 2.PNG">
 
 Enlace a la Landing Page de Pet Nova:<br>
-https://1asi0730-2510-4370-g4-petnova.github.io/Landing-Page-NovaPet/
+https://1asi0730-2510-4370-g4-petnova.github.io/PetNova-Landing-Page/
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -360,15 +340,27 @@ https://1asi0730-2510-4370-g4-petnova.github.io/Landing-Page-NovaPet/
 #### **5.2.1.3. Sprint Backlog 1**
 
 En el primer sprint, el equipo enfocó su trabajo en crear una landing page que fuera tanto funcional como atractiva, asignando las tareas en el tablero de Sprint según las habilidades de cada miembro.
-| **id** | **Title** | **Id** | **Title** | **Description** | **Estimations(Hours)** | **Assigned To** | **Status(To-do/InProcess/ToReview/Done)** |
-|---------|-----------------------------------------|---------|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------|-------------------------|-------------------------|------------------------------------------------------|
-| **US17** | Barra de Navegación en la Landing Page | **TS01** | Barra de navegación con enlaces | Implementación de la barra de navegación con enlaces a "¿Cómo funciona?", "Casos de éxito", "Planes" y "Contactos". | 4 | **Bastidas Bastidas, Diego Martin** | Done |
-| **US18** | Sección "Why Choose Us?" | **TS02** | Testimonios de influencers | Desarrollo de la sección de testimonios de influencers con citas y fotos de los influencers destacados. | 3 | **Belahonia Miranda, Fabrisio** | Hecho |
-| **US19** | Gestión de Suscripciones | **TS03** | Planes de suscripción | Desarrollo de la sección de planes de suscripción con detalles de precios y características de cada plan. | 5 | **Choquehuanca Núñez, Luciana Carolina** | Done |
-| **US20** | Reseñas de Clientes | **TS04** | Revisión de testimonios de clientes | Desarrollo de la sección de reseñas de clientes con citas de usuarios que han utilizado la plataforma. | 4 | **Escobar Palomino, Sebastian Matias** | Done |
-| **US21** | Formulario de Contacto | **TS05** | Envío de mensajes de contacto | Implementación de un formulario de contacto en la página de aterrizaje para que los usuarios puedan comunicarse. | 3 | **Escobar Palomino, Sebastian Matias** | Done |
-| **US22** | Videos en la Sección de Características | **TS06** | Visualización de Videos Informativos | Desarrollo de la sección para visualizar videos que muestren las características y funcionalidades de PetNova. | 3 | **Prado Vargas, Mario Benjamín** | Done |
-| **US23** | Cambio de Idioma en la App Web | **TS07** | Funcionalidad de cambio de idioma | Implementación de la funcionalidad para permitir a los usuarios cambiar el idioma de la página entre español e inglés.| 4 | **Prado Vargas, Mario Benjamín** | Done |
+
+| ID   | Title                                   | Tarea | Description                                                                              | Estimations(Hours) | Assigned To                          | Status | Total US Hours |
+| ---- | --------------------------------------- | ----- | ---------------------------------------------------------------------------------------- | ------------------ | ------------------------------------ | ------ | -------------- |
+| US17 | Barra de Navegación en la Landing Page  | TS01  | Diseño visual de la barra de navegación.                                                 | 2                  | Bastidas Bastidas, Diego Martin      | DONE   |                |
+|      |                                         | TS02  | Implementación de enlaces a "¿Cómo funciona?", "Casos de éxito", "Planes" y "Contactos". | 2                  | Bastidas Bastidas, Diego Martin      | DONE   | **4**          |
+| US18 | Sección "Why Choose Us?"                | TS01  | Redacción de testimonios y selección de influencers.                                     | 1.5                | Belahonia Miranda, Fabrisio          | DONE   |                |
+|      |                                         | TS02  | Maquetación e inserción de imágenes y citas en la sección.                               | 1.5                | Belahonia Miranda, Fabrisio          | DONE   | **3**          |
+| US19 | Gestión de Suscripciones                | TS01  | Diseño de tarjetas de planes de suscripción.                                             | 2                  | Choquehuanca Núñez, Luciana Carolina | DONE   |                |
+|      |                                         | TS02  | Implementación de precios y características en cada tarjeta.                             | 3                  | Choquehuanca Núñez, Luciana Carolina | DONE   | **5**          |
+| US20 | Reseñas de Clientes                     | TS01  | Recolección de citas y reseñas reales de usuarios.                                       | 2                  | Escobar Palomino, Sebastian Matias   | DONE   |                |
+|      |                                         | TS02  | Implementación de carrusel o layout de reseñas.                                          | 2                  | Escobar Palomino, Sebastian Matias   | DONE   | **4**          |
+| US21 | Formulario de Contacto                  | TS01  | Maquetación del formulario de contacto (nombre, correo, mensaje).                        | 1.5                | Escobar Palomino, Sebastian Matias   | DONE   |                |
+|      |                                         | TS02  | Implementación de validación básica y botón de envío.                                    | 1.5                | Escobar Palomino, Sebastian Matias   | DONE   | **3**          |
+| US22 | Videos en la Sección de Características | TS01  | Recolección y organización de videos explicativos.                                       | 1.5                | Prado Vargas, Mario Benjamín         | DONE   |                |
+|      |                                         | TS02  | Integración de reproductor de video en la sección de características.                    | 1.5                | Prado Vargas, Mario Benjamín         | DONE   | **3**          |
+| US23 | Cambio de Idioma en la App Web          | TS01  | Implementación del botón para cambio de idioma.                                          | 2                  | Prado Vargas, Mario Benjamín         | DONE   |                |
+|      |                                         | TS02  | Configuración de contenido multilenguaje (español e inglés).                             | 2                  | Prado Vargas, Mario Benjamín         | DONE   | **4**          |
+
+![sprint_1](./assets/Chapter05/sprint_1.png)
+
+Enlace trello para mejor visualización del segumiento de cada sprint: [https://trello.com/invite/b/6855a0ea9b157a8bfdf3e112/ATTI54f8f98c5dd16e1134729fb6719c46634153B678/project-management](https://trello.com/invite/b/6855a0ea9b157a8bfdf3e112/ATTI54f8f98c5dd16e1134729fb6719c46634153B678/project-management)
 
 #### **5.2.1.4. Development Evidence for Sprint Review**
 
@@ -377,17 +369,17 @@ En el primer sprint, el equipo enfocó su trabajo en crear una landing page que 
 | 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 671b8dc       | feat(images): add new images for project assets                                                                   | ghostnotfound404 | Apr 26, 2025     |
 | 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | bfb2010       | Merge branch 'develop' of github.com:1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public into develop | ghostnotfound404 | Apr 26, 2025     |
 | 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | fa2c951       | feat(index): add plans                                                                                            | Lucianxaaa       | Apr 26, 2025     |
-| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report                    | develop    | 00b1ce6       | feat(index): update styles and content for 'Casos de éxito' and 'Planes' sections                                 | Lucianxaaa       | Apr 26, 2025     |
-| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report                    | develop    | 2d1a453       | fix(landing page styles_css): feat update hero section                                                            | Lucianxaaa       | Apr 26, 2025     |
-| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report                    | develop    | 3fdb9a1       | fix(landing page): feat update hero section                                                                       | Lucianxaaa       | Apr 26, 2025     |
-| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report                    | develop    | f3e4b79       | fix(header): style header and navigation for responsiveness                                                       | devfab17         | Apr 26, 2025     |
-| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report                    | develop    | 5b29013       | fix(header): update structure and navigation links                                                                | devfab17         | Apr 26, 2025     |
-| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report                    | develop    | 0ac9c10       | fix: upload images and change code of footer section                                                              | mariopvdev       | Apr 26, 2025     |
-| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report                    | develop    | a0fe5c2       | feat: update 'Why Choose Us' section layout and replace image                                                     | sebasepe         | Apr 26, 2025     |
-| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report                    | develop    | 46b5dbb       | feat: design veterinarian section with features and call-to-action                                                | sebasepe         | Apr 26, 2025     |
-| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report                    | develop    | 77bdaaf       | feat: update partners and customers sections with new layout                                                      | sebasepe         | Apr 26, 2025     |
-| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report                    | develop    | 9285a1a       | feat: redesign subscriptions section with plan cards and images                                                   | sebasepe         | Apr 26, 2025     |
-| 1ASI0730-2510-4370-G4-PetNova/PetNova-Report                    | develop    | 285c2d9       | feat: update 'Why Choose Us' section layout with three images and video icons                                     | sebasepe         | Apr 26, 2025     |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 00b1ce6       | feat(index): update styles and content for 'Casos de éxito' and 'Planes' sections                                 | Lucianxaaa       | Apr 26, 2025     |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 2d1a453       | fix(landing page styles_css): feat update hero section                                                            | Lucianxaaa       | Apr 26, 2025     |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 3fdb9a1       | fix(landing page): feat update hero section                                                                       | Lucianxaaa       | Apr 26, 2025     |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | f3e4b79       | fix(header): style header and navigation for responsiveness                                                       | devfab17         | Apr 26, 2025     |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 5b29013       | fix(header): update structure and navigation links                                                                | devfab17         | Apr 26, 2025     |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 0ac9c10       | fix: upload images and change code of footer section                                                              | mariopvdev       | Apr 26, 2025     |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | a0fe5c2       | feat: update 'Why Choose Us' section layout and replace image                                                     | sebasepe         | Apr 26, 2025     |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 46b5dbb       | feat: design veterinarian section with features and call-to-action                                                | sebasepe         | Apr 26, 2025     |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 77bdaaf       | feat: update partners and customers sections with new layout                                                      | sebasepe         | Apr 26, 2025     |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 9285a1a       | feat: redesign subscriptions section with plan cards and images                                                   | sebasepe         | Apr 26, 2025     |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 285c2d9       | feat: update 'Why Choose Us' section layout with three images and video icons                                     | sebasepe         | Apr 26, 2025     |
 
 ---
 
@@ -473,7 +465,7 @@ En esta entrega del proyecto, el enfoque principal fue el desarrollo de la landi
 
 #### **5.2.1.7. Software Deployment Evidence for Sprint Review**
 
-Se utilizó GitHub Pages para publicar la landing page, permitiendo su despliegue directamente desde el repositorio de código. A continuación, se comparte el enlace al sitio: https://1asi0730-2510-4370-g4-petnova.github.io/Landing-Page-NovaPet/
+Se utilizó GitHub Pages para publicar la landing page, permitiendo su despliegue directamente desde el repositorio de código. A continuación, se comparte el enlace al sitio: https://1asi0730-2510-4370-g4-petnova.github.io/PetNova-Landing-Page/
 
 <div style="text-align: center;">
   <img src="https://i.imgur.com/Qj2QWWe.png[/img]"  width="100%" />
@@ -538,7 +530,7 @@ Para la realización de este proyecto se utilizaron diversas herramientas, desta
   </tr>
   <tr>
     <td style="font-weight: bold;"> Sprint 2 Goal </td>
-    <td> Iniciar el desarrollo de la Web Application de Pet Nova, implementando funcionalidades clave como el registro e inicio de sesión de usuarios, la gestión de perfiles, el registro de mascotas y las notificaciones de citas, con un enfoque en una interfaz intuitiva, integración inicial con la base de datos MySQL, y pruebas de funcionalidad básica para garantizar una experiencia fluida para veterinarios y dueños de mascotas. </td>
+    <td> Iniciar el desarrollo de la Web Application de Pet Nova, implementando funcionalidades clave como el registro e inicio de sesión de usuarios, la gestión de perfiles, el registro de mascotas y las notificaciones de citas. Este trabajo se enfocará en construir una interfaz intuitiva, con integración inicial a la base de datos MySQL y pruebas de funcionalidad básica para garantizar una experiencia fluida tanto para veterinarios como para dueños de mascotas. Además, se aplicaron mejoras al landing page, incluyendo ajustes relacionados con la internacionalización, navegación accesible y elementos de accesibilidad visual como etiquetas y descripciones, fortaleciendo así la presentación inicial del sistema. </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Sprint 2 Velocity </td>
@@ -564,16 +556,37 @@ Para la realización de este proyecto se utilizaron diversas herramientas, desta
 
 En el segundo sprint, el equipo se enfocó en iniciar el desarrollo de la Web Application de Pet Nova, implementando funcionalidades esenciales para la autenticación de usuarios, gestión de perfiles, registro de mascotas y notificaciones. Las tareas se asignaron según las habilidades de cada miembro.
 
-| **ID**   | **Title**               | **ID**   | **Title**                 | **Description**                                                          | **Estimations(Hours)** | **Assigned To**                          | **Status(To-do/InProcess/ToReview/Done)** |
-| -------- | ----------------------- | -------- | ------------------------- | ------------------------------------------------------------------------ | ---------------------- | ---------------------------------------- | ----------------------------------------- |
-| **US01** | Registro de usuario     | **TS08** | Formulario de registro    | Crear formulario HTML/CSS con validación para nombre, email, contraseña. | 2                      | **Bastidas Bastidas, Diego Martin**      | To-do                                     |
-| **US01** | Registro de usuario     | **TS09** | Backend de registro       | Implementar endpoint en backend para guardar usuarios en MySQL.          | 2                      | **Bastidas Bastidas, Diego Martin**      | To-do                                     |
-| **US02** | Inicio de sesión        | **TS10** | Formulario de login       | Crear formulario de inicio de sesión con email y contraseña.             | 2                      | **Belahonia Miranda, Fabrisio**          | To-do                                     |
-| **US02** | Inicio de sesión        | **TS11** | Autenticación backend     | Implementar endpoint para autenticar usuarios con JWT.                   | 2                      | **Belahonia Miranda, Fabrisio**          | To-do                                     |
-| **US03** | Gestión de perfil       | **TS12** | Pantalla de perfil        | Desarrollar pantalla para mostrar/editar datos del usuario.              | 3                      | **Choquehuanca Núñez, Luciana Carolina** | To-do                                     |
-| **US09** | Registro de mascotas    | **TS13** | Formulario de mascota     | Crear formulario para registrar nombre, edad, raza de la mascota.        | 3                      | **Escobar Palomino, Sebastian Matias**   | To-do                                     |
-| **US09** | Registro de mascotas    | **TS14** | Backend de mascotas       | Implementar endpoint para guardar datos de mascotas en MySQL.            | 2                      | **Escobar Palomino, Sebastian Matias**   | To-do                                     |
-| **US15** | Notificaciones de citas | **TS15** | Sistema de notificaciones | Implementar envío de notificaciones por email o en la app para citas.    | 3                      | **Prado Vargas, Mario Benjamín**         | To-do                                     |
+#### **5.2.1.4. Sprint Backlog 2**
+
+En el segundo sprint, el equipo centró su desarrollo en funcionalidades esenciales como el registro e inicio de sesión, gestión de perfil y mascotas, así como el sistema de notificaciones. Cada historia de usuario fue dividida en tareas específicas para mejorar la organización y seguimiento del trabajo.
+
+| ID   | Title                                | Tarea | Title de la Tarea              | Description                                                                                       | Estimations(Hours) | Assigned To                          | Status  | Total US Hours |
+|------|--------------------------------------|-------|-------------------------------|---------------------------------------------------------------------------------------------------|---------------------|--------------------------------------|---------|----------------|
+| US01 | Registro de usuario                  | TS08  | Formulario de registro        | Crear formulario HTML/CSS con validación para nombre, email, contraseña.                         | 5                   | Bastidas Bastidas, Diego Martin      | Done    |                |
+|      |                                      | TS09  | Backend de registro           | Implementar endpoint en backend para guardar usuarios en MySQL.                                  | 7                   | Bastidas Bastidas, Diego Martin      | To-do   |                |
+|      |                                      | TS16  | Validación y feedback UI      | Agregar mensajes de error y confirmación en tiempo real.                                          | 4                   | Bastidas Bastidas, Diego Martin      | Done    | **16**         |
+| US02 | Inicio de sesión                     | TS10  | Formulario de login           | Crear formulario de inicio de sesión con email y contraseña.                                     | 6                   | Belahonia Miranda, Fabrisio          | Done    |                |
+|      |                                      | TS11  | Autenticación backend         | Implementar endpoint para autenticar usuarios con JWT.                                            | 7                   | Belahonia Miranda, Fabrisio          | To-do   |                |
+|      |                                      | TS17  | Control de sesión             | Implementar manejo de sesiones activas con cookies o tokens.                                     | 5                   | Belahonia Miranda, Fabrisio          | Done    | **18**         |
+| US03 | Gestión de perfil                    | TS12  | Pantalla de perfil            | Desarrollar pantalla para mostrar/editar datos del usuario.                                      | 8                   | Choquehuanca Núñez, Luciana Carolina | To-do   |                |
+|      |                                      | TS18  | Edición y guardado de datos   | Habilitar edición y validación de campos en el perfil.                                           | 4                   | Choquehuanca Núñez, Luciana Carolina | Done    | **12**         |
+| US09 | Registro de mascotas                 | TS13  | Formulario de mascota         | Crear formulario para registrar nombre, edad, raza de la mascota.                                | 7                   | Escobar Palomino, Sebastian Matias   | Done    |                |
+|      |                                      | TS14  | Backend de mascotas           | Implementar endpoint para guardar datos de mascotas en MySQL.                                    | 5                   | Escobar Palomino, Sebastian Matias   | To-do   |                |
+|      |                                      | TS19  | Validación de campos mascota  | Validar campos obligatorios y formato adecuado.                                                   | 4                   | Escobar Palomino, Sebastian Matias   | Done    | **16**         |
+| US15 | Notificaciones de citas              | TS15  | Sistema de notificaciones     | Implementar envío de notificaciones por email o en la app para citas.                            | 8                   | Prado Vargas, Mario Benjamín         | Done    |                |
+|      |                                      | TS20  | Configuración de recordatorios| Permitir al usuario elegir cuándo recibir notificaciones.                                        | 5                   | Prado Vargas, Mario Benjamín         | To-do   |                |
+|      |                                      | TS21  | Diseño de UI para alertas     | Crear interfaz para visualizar y gestionar notificaciones.                                       | 6                   | Prado Vargas, Mario Benjamín         | Done    | **19**         |
+| US17 | Barra de Navegación en la Landing Page | TS22  | Navegación a secciones principales | Permitir que al hacer clic en una opción de navegación, se acceda a la sección correspondiente. | 4                   | Escobar Palomino, Sebastian Matias   | Done    |                |
+|      |                                      | TS23  | Menú responsive en móviles    | Asegurar que el menú de navegación sea legible y funcional desde dispositivos móviles.           | 4                   | Escobar Palomino, Sebastian Matias   | To-do   | **8**          |
+| US18 | Visualización de la Sección "Why Choose Us?" | TS24  | Mostrar beneficios principales | Mostrar al menos tres beneficios clave de la plataforma en la sección correspondiente.           | 4                   | Choquehuanca Núñez, Luciana Carolina | To-do   |                |
+|      |                                      | TS25  | Interacción con beneficios    | Permitir que al interactuar con un beneficio, se despliegue o resalte información adicional.     | 4                   | Choquehuanca Núñez, Luciana Carolina | Done    | **8**          |
+| US23 | Cambio de Idioma en la App Web       | TS26  | Cambio de idioma desde configuración | Permitir cambiar entre los idiomas "Español" e "Inglés" desde la configuración.           | 4                   | Belahonia Miranda, Fabrisio          | To-do   |                |
+|      |                                      | TS27  | Persistencia de idioma        | Asegurar que el idioma seleccionado se mantenga luego de cerrar sesión.                          | 4                   | Belahonia Miranda, Fabrisio          | Done    | **8**          |
+
+
+![sprint_2](./assets/Chapter05/sprint_2.png)
+
+Enlace trello para mejor visualización del segumiento de cada sprint: [https://trello.com/invite/b/6855a0ea9b157a8bfdf3e112/ATTI54f8f98c5dd16e1134729fb6719c46634153B678/project-management](https://trello.com/invite/b/6855a0ea9b157a8bfdf3e112/ATTI54f8f98c5dd16e1134729fb6719c46634153B678/project-management)
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
@@ -704,483 +717,6 @@ En la entrega del segundo sprint, se completó la implementación de la landing 
 
 Para el desarrollo de la Web Application en este sprint, se utilizaron herramientas clave como Visual Studio Code para la escritura de código, Git para el control de versiones, y GitHub para la gestión de ramas y pull requests. Las funcionalidades de la Web App, como el registro e inicio de sesión, gestión de perfiles, registro de mascotas y notificaciones, se dividieron en tareas específicas asignadas a cada miembro del equipo según sus habilidades. Un integrante se encargó de integrar las contribuciones individuales, asegurando la cohesión del producto final.
 
-<div style="text-align: center;">
-  <img src="https://i.imgur.com/jOq2ETh.png[/img]" width="100%" />
-</div>
-
-<div style="text-align: center;">
-  <img src="https://i.imgur.com/N4wzfhc.png[/img]" width="100%" />
-</div>
-
-### **5.2.3. Sprint 3**
-
-#### **5.2.3.1. Sprint Planning 3**
-
-<table>
-  <tr>
-    <th> Sprint # </th>
-    <th> Sprint 3 </th>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;" colspan="2"> Sprint Planning Background </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;"> Date </td>
-    <td> 5/06/2025 </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;"> Time </td>
-    <td> 21:00 horas (GMT-5) </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;"> Location </td>
-    <td> Virtual (Discord) </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;"> Prepared By </td>
-    <td> Escobar Palomino, Sebastian Matias </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
-    <td>
-      Bastidas Bastidas, Diego Martin<br>
-      Belahonia Miranda, Fabrisio<br>
-      Choquehuanca Núñez, Luciana Carolina<br>
-      Escobar Palomino, Sebastian Matias<br>
-      Prado Vargas, Mario Benjamín
-    </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
-    <td> En el Sprint 2, se completó con éxito la Web App de Pet Nova, incorporando funcionalidades como la gestión de usuarios, perfiles de mascotas, citas veterinarias, notificaciones y visualización del historial médico. También se implementaron herramientas administrativas para el manejo de clientes, medicamentos y reportes. Todas las User Stories (US01 a US06, US09, US10, US14, US15, US23 y US31) fueron implementadas y desplegadas en GitHub Pages. </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
-    <td> Durante la retrospectiva, el equipo valoró positivamente la organización del trabajo y el avance sostenido. Se identificó como área de mejora la gestión del tiempo en tareas técnicas específicas. Para próximos sprints, se acordó fomentar revisiones tempranas en equipo para reducir retrabajos. </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;"> Sprint 3 Goal </td>
-    <td> Finalizar la implementación completa del backend de Pet Nova, abarcando todos los contextos funcionales definidos, para permitir su integración total con la interfaz frontend. El objetivo incluye asegurar una experiencia coherente y fluida para todos los roles del sistema, consolidar la lógica de negocio, y reforzar aspectos clave como validaciones y consistencia de datos. </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;"> Sprint 3 Velocity </td>
-    <td> <strong>8</strong><br> El equipo mantiene una capacidad de 8 Story Points para este Sprint, consistente con Sprint 2, considerando la experiencia adquirida y la carga de trabajo estimada. </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;"> Sum of Story Points </td>
-    <td> 8 </td>
-  </tr>
-</table>
-
-#### **5.2.3.2. Aspect Leaders and Collaborators**
-
-| **Team Member (Last Name, First Name)**  | **GitHub Username** | **Capítulo I: Introducción (L/C)** | **Capítulo II: Requirements Elicitation & Analysis (L/C)** | **Capítulo III: Requirements Specification (L/C)** | **Capítulo IV: Product Design (L/C)** | **Capítulo V: Product Implementation, Validation & Deployment (L/C)** |
-| ---------------------------------------- | ------------------- | ---------------------------------- | ---------------------------------------------------------- | -------------------------------------------------- | ------------------------------------- | --------------------------------------------------------------------- |
-| **Belahonia Miranda, Fabrisio**          | devfab17            | L                                  | C                                                          | C                                                  | C                                     | C                                                                     |
-| **Bastidas Bastidas, Diego Martin**      | ghostnotfound404    | C                                  | L                                                          | C                                                  | C                                     | C                                                                     |
-| **Choquehuanca Núñez, Luciana Carolina** | lucianxaaa          | C                                  | C                                                          | L                                                  | C                                     | C                                                                     |
-| **Prado Vargas, Mario Benjamín**         | mariopvdev          | C                                  | C                                                          | C                                                  | L                                     | C                                                                     |
-| **Escobar Palomino, Sebastian Matias**   | sebasepe            | C                                  | C                                                          | C                                                  | C                                     | L                                                                     |
-
-#### **5.2.3.3. Sprint Backlog 3**
-
-| ID   | Description                     | Tarea | Title                                        | Description                                                                                             | Estimations(Hours) | Assigned To                          | Status |
-| ---- | ------------------------------- | ----- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------ | ------ |
-| US01 | Registro de Usuario             | Tk01  | Agregar lógica de validación                 | Implementación de validaciones en los formularios para asegurar campos requeridos y formatos correctos. | 4                  | Bastidas Bastidas, Diego Martin      | DONE   |
-| US01 | Registro de Usuario             | Tk02  | Definir estructura del modelo                | Definición y codificación del modelo de datos con los campos clave para usuarios.                       | 3                  | Belahonia Miranda, Fabrisio          | DONE   |
-| US01 | Registro de Usuario             | Tk03  | Desarrollar API REST                         | Desarrollo del endpoint de registro con recepción, validación y almacenamiento de datos.                | 2                  | Prado Vargas, Mario Benjamín         | DONE   |
-| US03 | Gestión de Perfiles de Usuarios | Tk01  | Listar y filtrar usuarios                    | Implementación del listado de usuarios con opciones de búsqueda y filtros por criterios definidos.      | 4                  | Bastidas Bastidas, Diego Martin      | DONE   |
-| US03 | Gestión de Perfiles de Usuarios | Tk02  | Editar datos de perfil                       | Desarrollo de la funcionalidad para modificar los datos del perfil del usuario desde la interfaz.       | 4                  | Escobar Palomino, Sebastian Matias   | DONE   |
-| US03 | Gestión de Perfiles de Usuarios | Tk03  | Inhabilitar o eliminar cuentas               | Incorporación de opciones para desactivar o eliminar cuentas desde el panel de administración.          | 3                  | Bastidas Bastidas, Diego Martin      | DONE   |
-| US04 | Creación de Perfil de Mascota   | Tk01  | Validar y guardar datos de mascota           | Validación de datos ingresados para mascotas y almacenamiento en la base de datos.                      | 2                  | Choquehuanca Núñez, Luciana Carolina | DONE   |
-| US04 | Creación de Perfil de Mascota   | Tk02  | Controlar duplicidad de nombres              | Verificación para evitar nombres duplicados al registrar una nueva mascota.                             | 4                  | Belahonia Miranda, Fabrisio          | DONE   |
-| US05 | Edición de Perfil de Mascota    | Tk01  | Editar datos del perfil de mascota           | Desarrollo de la funcionalidad para editar la información del perfil de mascota.                        | 4                  | Escobar Palomino, Sebastian Matias   | DONE   |
-| US05 | Edición de Perfil de Mascota    | Tk02  | Validar campos obligatorios                  | Aplicación de validaciones para asegurar el ingreso de todos los campos obligatorios.                   | 3                  | Belahonia Miranda, Fabrisio          | DONE   |
-| US07 | Búsqueda de Mascotas por ID     | Tk01  | Desarrollar búsqueda por ID                  | Implementación de búsqueda de registros por ID con respuesta estructurada.                              | 2                  | Choquehuanca Núñez, Luciana Carolina | DONE   |
-| US07 | Búsqueda de Mascotas por ID     | Tk02  | Manejar ID inexistente                       | Manejo de errores y mensajes adecuados cuando el ID buscado no existe.                                  | 4                  | Prado Vargas, Mario Benjamín         | DONE   |
-| US08 | Gestión de Perfiles de Mascotas | Tk01  | Eliminar perfiles de mascotas                | Implementación de la opción para eliminar perfiles de mascotas desde el sistema.                        | 4                  | Belahonia Miranda, Fabrisio          | DONE   |
-| US08 | Gestión de Perfiles de Mascotas | Tk02  | Actualizar información de mascotas           | Desarrollo de la funcionalidad para actualizar datos de mascotas registrados.                           | 3                  | Prado Vargas, Mario Benjamín         | DONE   |
-| US09 | Agendamiento de Citas           | Tk01  | Crear lógica de agendamiento                 | Creación de la lógica que permite agendar citas con validación de disponibilidad.                       | 2                  | Escobar Palomino, Sebastian Matias   | TO-DO  |
-| US09 | Agendamiento de Citas           | Tk02  | Sugerir citas alternativas                   | Incorporación de sugerencias automáticas en caso de horarios no disponibles.                            | 4                  | Escobar Palomino, Sebastian Matias   | DONE   |
-| US10 | Cancelación de Citas            | Tk01  | Cancelar cita                                | Desarrollo de la función para cancelar citas y liberar el horario correspondiente.                      | 4                  | Belahonia Miranda, Fabrisio          | DONE   |
-| US10 | Cancelación de Citas            | Tk02  | Advertencia por cancelación tardía           | Implementación de advertencias cuando se intenta cancelar con poca anticipación.                        | 3                  | Escobar Palomino, Sebastian Matias   | TO-DO  |
-| US11 | Gestión de Citas Veterinarias   | Tk01  | Filtrar por fecha y estado                   | Aplicación de filtros por fecha y estado para visualizar citas según criterios.                         | 2                  | Bastidas Bastidas, Diego Martin      | TO-DO  |
-| US11 | Gestión de Citas Veterinarias   | Tk02  | Listar todas las citas                       | Generación de listado completo con todas las citas registradas en el sistema.                           | 4                  | Choquehuanca Núñez, Luciana Carolina | DONE   |
-| US12 | Búsqueda de Citas por ID        | Tk01  | Buscar cita por ID                           | Desarrollo de la búsqueda de citas específicas mediante su ID.                                          | 4                  | Escobar Palomino, Sebastian Matias   | DONE   |
-| US12 | Búsqueda de Citas por ID        | Tk02  | Controlar error por ID inválido              | Manejo de errores y mensajes adecuados ante IDs inválidos en la búsqueda.                               | 3                  | Belahonia Miranda, Fabrisio          | DONE   |
-| US13 | Edición de Citas Veterinarias   | Tk01  | Actualizar fecha y hora                      | Implementación de la función para actualizar la fecha y hora de una cita existente.                     | 2                  | Choquehuanca Núñez, Luciana Carolina | DONE   |
-| US13 | Edición de Citas Veterinarias   | Tk02  | Modificar estado y notificar                 | Modificación del estado de la cita y envío de notificación al cliente.                                  | 4                  | Bastidas Bastidas, Diego Martin      | TO-DO  |
-| US24 | Edición de Perfiles de Clientes | Tk01  | Registrar cliente con datos obligatorios     | Registro de un nuevo cliente con validación de todos los campos obligatorios.                           | 4                  | Prado Vargas, Mario Benjamín         | DONE   |
-| US24 | Edición de Perfiles de Clientes | Tk02  | Generar ID único de cliente                  | Generación automática de un ID único para cada cliente registrado.                                      | 3                  | Choquehuanca Núñez, Luciana Carolina | DONE   |
-| US25 | Edición de Perfiles de Clientes | Tk01  | Editar datos del cliente                     | Desarrollo de la funcionalidad para editar la información del cliente.                                  | 2                  | Escobar Palomino, Sebastian Matias   | DONE   |
-| US25 | Edición de Perfiles de Clientes | Tk02  | Agregar nuevas mascotas                      | Incorporación de opción para añadir nuevas mascotas al perfil del cliente.                              | 4                  | Bastidas Bastidas, Diego Martin      | DONE   |
-| US26 | Búsqueda de Clientes por ID     | Tk01  | Buscar cliente por ID exacto                 | Búsqueda precisa de clientes mediante coincidencia exacta del ID.                                       | 4                  | Prado Vargas, Mario Benjamín         | DONE   |
-| US26 | Búsqueda de Clientes por ID     | Tk02  | Mostrar sugerencias por coincidencia parcial | Sugerencia automática de clientes basadas en coincidencias parciales del nombre o ID.                   | 3                  | Choquehuanca Núñez, Luciana Carolina | TO-DO  |
-
-#### **5.2.3.4. Development Evidence for Sprint Review**
-
-|                                 Repository                                  |     Branch     | Commit Id |                     Commit <br>Message                     | Commit <br>Message Body | Commited <br>on (Date) |
-| :-------------------------------------------------------------------------: | :------------: | :-------: | :--------------------------------------------------------: | :---------------------: | :--------------------: |
-| [Backend](https://github.com/1ASI0730-2510-4370-G4-PetNova/PetNova-BackEnd) |   feat/diego   |  25de917  |                feat: code backend pet nova                 |                         |       21/06/2025       |
-|                               PetNova-Backend                               |   feat/diego   |  3f8f027  |           feat: add codebase backend of Pet Nova           |                         |       21/06/2025       |
-|                               PetNova-Backend                               |  feat/luciana  |  6f5a58c  |          feat(shared): implement JwtTokenService           |                         |       21/06/2025       |
-|                               PetNova-Backend                               | feat/fabrisio  |  de2e786  |              feat(shared): implement SeedDara              |                         |       21/06/2025       |
-|                               PetNova-Backend                               | feat/sebastian |  e795eb8  |         feat(shared): implement generic UnitofWork         |                         |       21/06/2025       |
-|                               PetNova-Backend                               | feat/fabrisio  |  7086d6c  |        feat(shared): implement generic EfRepository        |                         |       21/06/2025       |
-|                               PetNova-Backend                               |   feat/mario   |  10d0d85  |            feat(shared): add Swagger Extension             |                         |       21/06/2025       |
-|                               PetNova-Backend                               | feat/sebastian |  920f290  |               feat(shared): add AppDbContext               |                         |       21/06/2025       |
-|                               PetNova-Backend                               | feat/fabrisio  |  5592eff  |               feat(shared): add ToKebabCase                |                         |       21/06/2025       |
-|                               PetNova-Backend                               |  feat/luciana  |  fbd932d  |                feat(shared): add kebab-case                |                         |       21/06/2025       |
-|                               PetNova-Backend                               |   feat/mario   |  973f244  |          feat(shared): add IUnitOfWork interface           |                         |       21/06/2025       |
-|                               PetNova-Backend                               | feat/sebastian |  1c8d128  |      feat(shared): add generic IRepository interface       |                         |       21/06/2025       |
-|                               PetNova-Backend                               |  feat/luciana  |  270155c  |         feat(shared): add ITokenService interface          |                         |       21/06/2025       |
-|                               PetNova-Backend                               |   feat/mario   |  25de917  |                feat: code backend pet nova                 |                         |       21/06/2025       |
-|                              PetNova-Frontend                               |   feat/mario   |  efb8856  |                feature: Add search function                |                         |       21/06/2025       |
-|                              PetNova-Frontend                               |   feat/diego   |  f18f89b  |                 Update: form to create pet                 |                         |       21/06/2025       |
-|                              PetNova-Frontend                               | feat/sebastian |  85501a6  | feat(home): add initial implementation of home and profile |                         |       21/06/2025       |
-
-#### **5.2.3.5. Execution Evidence for Sprint Review**
-
-Para esta entrega nuestro equipo logró completar con éxito la creación y el deployment del FrontEnd de la Aplicación Web.
-
-También se lanzó una nueva versión de la página de inicio y del frontend de la aplicación, optimizando la experiencia del usuario y habilitando acceso a funciones esenciales desarrolladas en este sprint, como la creación y administración de perfiles de usuario y mascota. Esta actualización incorpora videos informativos sobre el producto y el equipo, ofreciendo un resumen de los servicios de Pet Nova.
-
-La API del backend se documenta mediante Swagger, facilitando el acceso a todos los endpoints para el equipo de desarrollo y futuros colaboradores.
-
-Enlace del deployment del Backend: [https://petnova-api.azurewebsites.net/swagger/index.html](https://petnova-api.azurewebsites.net/swagger/index.html)
-
-Enlace del deployment del FrontEnd: [https://petnovaapp.netlify.app/](https://petnovaapp.netlify.app/)
-
-Enlace del deployment de la Landing Page: [https://1asi0730-2510-4370-g4-petnova.github.io/PetNova-Landing-Page/](https://1asi0730-2510-4370-g4-petnova.github.io/PetNova-Landing-Page/)
-
-**Swagger UI**
-
-<img src="./assets/Chapter05/Swagger UI.jpg">
-
-**Seccion video about the team en landing page**
-
-[![About the product video](IMAGEN FALTA)](FALTA LINK DEL VIDEO)
-
-**Seccion video about the product en landing page**
-
-[![About the product video](./assets/Chapter05/about_the_product.jpg)](https://www.youtube.com/watch?v=21mBKrna1iw)
-
-#### **5.2.3.6. Services Documentation Evidence for Sprint Review**
-
-El alcance del Sprint 3, el equipo se centro principalmente en la integración, implementación y despliegue de los bounded contexts de clientes y mascotas en el backend, también se realizaron las correciones del fronted y añadimos algunas otras vistas y funcionalidad, como el filtro de mascotas por nombre. Durante este sprint, se actualizó y extendió la documentación de servicios web mediante Swagger, proporcionando una guía clara y completa para el uso de la API por parte del frontend y futuros desarrolladores.
-
-La documentación incluye:
-Descripción detallada de los endpoints relacionados con clientes y mascotas. Operaciones permitidas como la creación, edición y eliminación de datos en estos módulos. Ejemplos actualizados de solicitudes y respuestas para garantizar una integración efectiva con el frontend. Información sobre las capas de seguridad y autenticación implementadas en el backend. Este nivel de documentación asegura que todos los miembros del equipo tengan una comprensión compartida y uniforme sobre el comportamiento y las capacidades de la API, lo que facilita el desarrollo continuo y la integración de nuevas funcionalidades.
-
-#### **5.2.3.7. Software Deployment Evidence for Sprint Review**
-
-En este trabajo se hizo uso de las siguientes herramientas para el desarrollo del backend de la aplicación web, como también para la actualización del frontend.
-
-- Git: Sistema de control de versiones.
-
-- GitFlow: Flujo de trabajo colaborativo.
-
-- GitHub Desktop: Herramienta de interfaz gráfica que utilizamos para interactuar con nuestro repositorio de GitHub.
-
-- GitHub: Plataforma de desarrollo colaborativo que nos proporcionó el repositorio donde almacenamos y gestionamos el código fuente de nuestro proyecto.
-
-- Azure Web Services: Servicio en la nube utilizado para desplegar el backend de nuestra aplicación.
-
-- MySQL for Azure: Servicio de base de datos en la nube que utilizamos para almacenar y gestionar los datos de la aplicación.
-
-Enlace del deployment de la Landing Page: [https://1asi0730-2510-4370-g4-petnova.github.io/PetNova-Landing-Page/](https://1asi0730-2510-4370-g4-petnova.github.io/PetNova-Landing-Page/)
-
-Enlace del deployment del FrontEnd: [https://petnovaapp.netlify.app/](https://petnovaapp.netlify.app/)
-
-Enlace del deployment del Backend: [https://petnova-api.azurewebsites.net/swagger/index.html](https://petnova-api.azurewebsites.net/swagger/index.html)
-
-#### **5.2.3.8. Team Collaboration Insights during Sprint**
-
-En el Sprint 3, el equipo organizó el desarrollo del backend y correción del frontend de la aplicación web utilizando ramas específicas para cada funcionalidad, siguiendo las convenciones de GitFlow. Este enfoque permitió a los desarrolladores trabajar de manera independiente en diferentes aspectos del proyecto, facilitando la colaboración y el mantenimiento del código.
-
-A continuación, se detallan las tareas asignadas a cada miembro del equipo, junto con las contribuciones realizadas a través de la plataforma GitHub:
-
-| Alumno                                   | Actividad                                                                                                                                                      |
-| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Choquehuanca Núñez, Luciana Carolina** | Desarrollo y despliegue del backend como también en el frontend en la nube, garantizando la operatividad de la API y su integración con el frontend.           |
-| **Bastidas Bastidas, Diego Martin**      | Desarrollo del backend y soporte en la integración de datos, contribuyendo al diseño y funcionalidad de los módulos clave, también desarrolló el frontend.     |
-| **Prado Vargas, Mario Benjamín**         | Implementación de características tanto en el backend como en el frontend, mejorando la experiencia de usuario y asegurando la funcionalidad de la plataforma. |
-| **Escobar Palomino, Sebastian Matias**   | Desarrollo del frontend junto con el backend y diseño de la landing page, enfocándose en la usabilidad y estética para ofrecer una experiencia intuitiva.      |
-| **Belahonia Miranda, Fabrisio**          | Desarrollo del frontend junto con el backend y diseño de la landing page, enfocándose en la usabilidad y estética para ofrecer una experiencia intuitiva.      |
-
-A continuación, se mostrará la tabla de colaboradores en el repositorio de GitHub, con el objetivo de identificar a cada miembro del equipo.
-
-Tabla de integrantes:
-
-| Username (GitHub) | Nombre                               |
-| ----------------- | ------------------------------------ |
-| ghostnotfound404  | Bastidas Bastidas, Diego Martin      |
-| lucianxaaa        | Choquehuanca Núñez, Luciana Carolina |
-| mariopvdev        | Prado Vargas, Mario Benjamín         |
-| sebasepe          | Escobar Palomino, Sebastian Matias   |
-| devfab17          | Belahonia Miranda, Fabrisio          |
-
-A continuación se mostrarán los gráficos de insights durante el sprint:
-
-Anexo: Flujo de trabajo entre las ramas.
-
-<img src="./assets/Chapter05/graph.JPG">
-
-Anexo: Tablas de commits en el periodo de 1 mes.
-
-<img src="./assets/Chapter05/Commits over time.png">
-<img src="./assets/Chapter05/commits insights.JPG">
-
-### **5.3. Validation Interviews**
-
-#### **5.3.1. Diseño de Entrevistas**
-
-## Diseño de entrevista – Primer segmento objetivo: Médicos Veterinarios:
-
-1. ¿Cuál es tu nombre?
-2. ¿Qué edad tienes?
-3. ¿Cuánta experiencia tienes en el rubro?
-4. ¿Qué aplicación utilizas actualmente?
-5. ¿Cómo fue tu experiencia al interactuar con PetNova?
-6. ¿Qué aspectos cambiarías o qué funciones agregarías?
-
-## Diseño de entrevista – Segundo segmento objetivo: Dueños de Mascotas:
-
-1. ¿Cuál es tu nombre?
-2. ¿Qué edad tienes?
-3. ¿Cómo calificarías tu experiencia usando PetNova?
-4. ¿Qué mejorarías o añadirías a la plataforma?
-5. ¿Qué tan fácil te resultó utilizar PetNova?
-
-#### **5.3.2. Registro de Entrevistas**
-
-## Entrevista para el Segmento Objetivo 1 - Veterinarios :
-
-**Entrevista N°1:**
-
-**Entrevistado:** Sebastian Silva
-
-**Sexo:** Masculino
-
-**Edad:** 21 años
-
-**Inicio de la Entrevista:** 0:00
-
-**Fin de la Entrevista:** 6:07
-
-<div style="text-align: center;">
-  <img src="https://i.imgur.com/n5rq1Hp.png" width="90%" />
-</div>
-
-**Resumen de la Entrevista:** Sebastián Silva, actualmente en prácticas como veterinario,desea utilizar el aplicativo Petnova para gestionar clientes y mascotas. Destaca su interfaz intuitiva, aunque sugiere mejoras como formatos automáticos para fechas y opciones predefinidas para género y razas de mascotas. A pesar de algunos detalles por ajustar, valora la aplicación como una mejora en su trabajo diario.
-
-**Entrevista N°2:**
-
-**Entrevistado:** Daniela Basurto
-
-**Sexo:** Femenino
-
-**Edad:** 21 años
-
-**Inicio de la Entrevista:** 6:08
-
-**Fin de la Entrevista:** 12:22
-
-<div style="text-align: center;">
-  <img src="https://i.imgur.com/3FROBG8.png" width="90%" />
-</div>
-
-**Resumen de la Entrevista:** Daniela Basurto Díaz, de 21 años, es veterinaria y tiene un año de experiencia con su clínica Happy House. Durante la demostración de Petnova, destacó la facilidad para gestionar clientes y mascotas, así como para agendar citas. Sugerió mejorar la plataforma con un calendario para historiales clínicos y un apartado de reseñas para veterinarios, lo que ayudaría a mejorar la interacción con los clientes. También propuso un diseño más formal y profesional. En general, encontró la aplicación útil y fácil de usar, pero sugirió agregar más funciones.
-
-**Entrevista N°3:**
-
-**Entrevistado:** Jose Heredia
-
-**Sexo:** Masculino
-
-**Edad:** 21 años
-
-**Inicio de la Entrevista:** 12:23
-
-**Fin de la Entrevista:** 17:45
-
-<div style="text-align: center;">
-  <img src="https://i.imgur.com/6bDbUMn.png" width="90%" />
-</div>
-
-**Resumen de la Entrevista:** José Heredia Montes, estudiante de veterinaria especializado en oftalmología, está realizando prácticas y valora positivamente el aplicativo Petnova. Destaca su funcionalidad para gestionar clientes, mascotas y citas, aunque sugiere que los colores sean más llamativos para hacerlo más atractivo. Aprecia la organización que ofrece, especialmente para un uso futuro profesional, y no considera necesarias muchas modificaciones en el sistema. También considera útil la opción de tener un control más centralizado de las citas y la información.
-
-## Entrevista para el Segmento Objetivo 2 - Dueño de Mascotas:
-
-**Entrevista N°1:**
-
-**Entrevistado:** Camila Sanchez
-
-**Sexo:** Femenino
-
-**Edad:** 20 años
-
-**Inicio de la Entrevista:** 17:47
-
-**Fin de la Entrevista:** 22:36
-
-<div style="text-align: center;">
-  <img src="https://i.imgur.com/WNfG6Fu.png" width="90%" />
-</div>
-
-**Resumen de la Entrevista:** Camila Sánchez, de 20 años, considera que el aplicativo Petnova es fácil de usar para registrar mascotas y agendar citas. Valora la opción de agregar un segundo número de teléfono para emergencias y la facilidad para crear perfiles. Aunque encuentra el diseño algo opaco, destaca que la estructura es clara y fácil de navegar. Aprecia la simplicidad del sistema, aunque sugiere que se puedan mejorar los colores y añadir un segundo número de contacto por si el principal no responde.
-
-**Entrevista N°2:**
-
-**Entrevistado:** Gianella Cardenas
-
-**Sexo:** Masculino
-
-**Edad:** 23 años
-
-**Inicio de la Entrevista:** 22:38
-
-**Fin de la Entrevista:** 28:13
-
-<div style="text-align: center;">
-  <img src="https://i.imgur.com/fmhyPri.png" width="90%" />
-</div>
-
-**Resumen de la Entrevista:** Gianella Cárdenas, de 23 años, encontró Petnova fácil de usar para registrar mascotas y agendar citas médicas. Sugirió añadir información sobre dónde comprar medicamentos recetados. En general, calificó la plataforma como práctica, intuitiva y útil para coordinar con veterinarios.
-
-**Entrevista N°3:**
-
-**Entrevistado:** Sayuri Cardenas
-
-**Sexo:** Femenino
-
-**Edad:** 20 años
-
-**Inicio de la Entrevista:** 28:17
-
-**Fin de la Entrevista:** 32:28
-
-<div style="text-align: center;">
-  <img src="https://i.imgur.com/NcuoIqR.png" width="90%" />
-</div>
-
-**Resumen de la Entrevista:** Sayuri Cárdenas, de 20 años, considera que el aplicativo Petnova es útil y práctico para dueños de mascotas. Aprecia su facilidad para registrar mascotas y agendar citas. Sugiere agregar una sección de opiniones y calificaciones de otros usuarios para mejorar la plataforma. Además, destaca que la interfaz es fácil de usar y muy intuitiva, sin complicaciones para registrar o buscar información.
-
-**LINK DE LAS ENTREVISTAS :** [ENTREVISTAS](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EbDTni8x8GBMp1pIS2S-RjYBLvK9p92yPY9jx9LiqxIP0Q?e=C3qczl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
-#### **5.3.3. Evaluaciones según heurísticas**
-
-| **Sitio o App Evaluada**         | Pet Nova                                                                                                                                                                                                                                                                                           |
-| :------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tareas evaluadas**             | Esta evaluación abarca la revisión de usabilidad de las siguientes tareas:                                                                                                                                                                                                                         |
-| **Landing Page (Desktop)**       | - Información y descripción de la app y sus funciones <br> - Breve descripción del equipo de trabajo <br> - Visualización de testimonios <br> - Header y footer funcionales                                                                                                                        |
-| **Aplicación Web (Desktop)**     | - Visualización de datos registrados en el sistema <br> - Header y footer funcionales <br> - Pestañas de navegación internas <br> - Botones intuitivos e interactivos <br> - Visualización de elementos relacionados                                                                               |
-| **Excluidas en esta evaluación** | - Landing Page (Desktop) <br> - Formularios de registro o cambio de contraseña <br> - Políticas de privacidad y términos de uso <br> - Aplicación Web (Desktop) <br> - Perfil de usuario <br> - Detalles ampliados de productos al seleccionarlos <br> - Políticas de privacidad y términos de uso |
-
-**ESCALA DE GRAVEDAD:**
-
-Los errores se clasificarán según la siguiente escala:
-
-| Nivel | Descripción                                                                                                                                                  |
-| :---- | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | Error menor: el usuario puede solucionarlo fácilmente o ocurre raramente. No es urgente corregirlo, salvo que haya tiempo disponible.                        |
-| 2     | Error moderado: aparece con más frecuencia o representa una dificultad media para el usuario. Debe resolverse en futuras actualizaciones con prioridad baja. |
-| 3     | Error grave: frecuente o difícil de resolver para los usuarios. Requiere corrección prioritaria.                                                             |
-| 4     | Error crítico: impide el uso normal de la herramienta. Debe solucionarse antes del lanzamiento.                                                              |
-
-**TABLA RESUMEN (AMBOS SEGMENTOS):**
-
-**Aplicación Web**
-
-| #   | Problema | Gravedad | Heurística/Principio afectado          |
-| :-- | :------- | :------- | :------------------------------------- |
-| 1   |          | 1        | IA - ¿Es claro?                        |
-| 2   |          | 2        | IA - ¿Es fácil de encontrar?           |
-| 3   |          | 1        | Usabilidad - Consistencia y estándares |
-
-**Landing Page**
-
-| #   | Problema | Gravedad | Heurística/Principio afectado |
-| :-- | :------- | :------- | :---------------------------- |
-| 1   |          | 1        | IA - ¿Es claro?               |
-| 2   |          | 1        | IA - ¿Es usable?              |
-| 3   |          | 1        | IA - ¿Es usable?              |
-
-**DETALLE DE PROBLEMAS:**
-
-**1. Aplicación Web**
-
-**PROBLEMA #1:**
-
-| Gravedad: 1             | Heurística: IA - ¿Es claro?                                                                           |
-| :---------------------- | :---------------------------------------------------------------------------------------------------- |
-| **Inconveniente:**      | La navegación dentro de la app podría no ser intuitiva, dificultando la ubicación de secciones clave. |
-| **Solución propuesta:** | Mejorar la estructura de navegación y usar etiquetas más descriptivas en las pestañas.                |
-
-**PROBLEMA #2:**
-
-| Gravedad: 2             | Heurística: IA - ¿Es fácil de encontrar?                                                             |
-| :---------------------- | :--------------------------------------------------------------------------------------------------- |
-| **Inconveniente:**      | La información importante no es visible o requiere demasiados pasos para acceder a ella.             |
-| **Solución propuesta:** | Reestructurar la disposición de la información para facilitar su acceso desde la pantalla principal. |
-
----
-
-**2. Landing Page**
-
-**PROBLEMA #1:**
-
-| Gravedad: 1             | Heurística: Usabilidad - Consistencia y estándares                  |
-| :---------------------- | :------------------------------------------------------------------ |
-| **Inconveniente:**      | Falta uniformidad en el diseño entre distintas secciones.           |
-| **Solución propuesta:** | Definir y aplicar guías de diseño coherentes en toda la plataforma. |
-
-**PROBLEMA #2:**
-
-| Gravedad: 1             | Heurística: IA - ¿Es claro?                                                        |
-| :---------------------- | :--------------------------------------------------------------------------------- |
-| **Inconveniente:**      | La descripción de la app y sus funciones no es suficientemente clara.              |
-| **Solución propuesta:** | Redactar textos más simples y directos que expliquen mejor el propósito de la app. |
-
-**PROBLEMA #3:**
-
-| Gravedad: 1             | Heurística: IA - ¿Es usable?                                                     |
-| :---------------------- | :------------------------------------------------------------------------------- |
-| **Inconveniente:**      | Los testimonios no destacan y podrían no ser notados por los usuarios.           |
-| **Solución propuesta:** | Rediseñar la sección de testimonios para mejorar su visibilidad y funcionalidad. |
-
----
-
-### **5.4. Video About-the-Product**
-
-En este video presentamos **Pet Nova**, una innovadora aplicación diseñada para mejorar la gestión de la salud y bienestar de las mascotas.
-
-**Características principales:**
-
-- **Interfaz intuitiva** que facilita el acceso a información relevante
-- **Gestión integral** de la salud de las mascotas
-- **Historial médico** siempre actualizado
-
-**Funcionalidades destacadas:**
-
-| Función              | Beneficio                                                   |
-| -------------------- | ----------------------------------------------------------- |
-| Perfiles de mascotas | Creación y edición de perfiles detallados para cada mascota |
-| Historial médico     | Acceso rápido al registro completo de salud de la mascota   |
-
-**Ventajas clave:**
-
-1. **Organización centralizada** de toda la información médica
-2. **Recordatorios automáticos** para no olvidar citas importantes
-3. **Acceso inmediato** al historial clínico cuando se necesita
-
-La aplicación está diseñada para brindar **paz mental** a los dueños de mascotas, asegurando que sus compañeros animales reciban siempre los mejores cuidados.
-
-Video del About the Product : https://youtu.be/21mBKrna1iw
-
 #### **Avance de Conclusiones**
 
 - La colaboración efectiva entre los miembros del equipo fue clave para avanzar de manera organizada y cubrir todas las etapas del proyecto. Cada integrante asumió con claridad su rol y responsabilidades, facilitando una ejecución ordenada.
@@ -1206,8 +742,6 @@ Video del About the Product : https://youtu.be/21mBKrna1iw
 
 #### **Anexo**
 
-1. Despliegue del Landing Page: https://1asi0730-2510-4370-g4-petnova.github.io/PetNova-Landing-Page/
-2. Despliegue de la App Web: https://petnovaapp.netlify.app
-3. Despliegue del Backend: https://petnova-api.azurewebsites.net/swagger/index.html
-4. Figma con los User Flow Diagrams, wireframes y mockups de la landing page.: https://www.figma.com/design/XjI2alaHmyFV0MPlaPpxzO/Web-design?node-id=401-8424&t=kuv2vsPlXaFzVYvk-0
-5. Video De Exposición TB1: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a301_upc_edu_pe/Eqi44YEDeiVKgGPNfaTVK6MBWYenSQeOT--MkZtImi2TbQ?e=86Pe27
+1. Despliegue del Landing Page: https://1asi0730-2510-4370-g4-petnova.github.io/Landing-Page-NovaPet/
+2. Figma con los User Flow Diagrams, wireframes y mockups de la landing page.: https://www.figma.com/design/XjI2alaHmyFV0MPlaPpxzO/Web-design?node-id=401-8424&t=kuv2vsPlXaFzVYvk-0
+3. Video De Exposición TB1: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a301_upc_edu_pe/Eqi44YEDeiVKgGPNfaTVK6MBWYenSQeOT--MkZtImi2TbQ?e=86Pe27

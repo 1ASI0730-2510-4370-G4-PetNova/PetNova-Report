@@ -121,6 +121,55 @@ Además, se han generado los artefactos necesarios utilizando las herramientas r
   <img src="feature/assets/Chapter01/Insight9.png" alt="Insight9" width="70%" />
 </div>
 
+
+**TF** Las tareas asignadas para la entrega del TF han sido completadas y documentadas de manera exhaustiva en el repositorio de GitHub de la organización del equipo: [https://github.com/1ASI0730-2510-4370-G4-PetNova/Report-Pet-Nova](https://github.com/1ASI0730-2510-4370-G4-PetNova/Report-Pet-Nova)
+
+**Landing Page:** https://github.com/1ASI0730-2510-4370-G4-PetNova/PetNova-Landing-Page <br>
+**Frontend:** https://github.com/1ASI0730-2510-4370-G4-PetNova/PetNova-Fronted <br>
+**Backend:** https://github.com/1ASI0730-2510-4370-G4-PetNova/PetNova-FinalFinal
+
+Se elaboraron y estructuraron los contenidos asignados a cada miembro del equipo utilizando el formato Markdown, realizando commits frecuentes para asegurar un seguimiento detallado del progreso en el repositorio.
+
+Asimismo, se implementaron los artefactos correspondientes con las herramientas sugeridas y se organizaron reuniones periódicas para coordinar el avance del informe y compartir los logros alcanzados durante el Sprint 4, enfocado en el desarrollo de la aplicación web.
+
+**Landing Page:**
+
+<div style="text-align: center;">
+  <img src="./feature/assets/Chapter01/Insight16.jpg" alt="Insight9" width="70%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="./feature/assets/Chapter01/Insight17.jpg" alt="Insight9" width="70%" />
+</div>
+
+**Frontend:**
+
+<div style="text-align: center;">
+  <img src="./feature/assets/Chapter01/Insight13.jpg" alt="Insight9" width="70%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="./feature/assets/Chapter01/Insight14.jpg" alt="Insight9" width="70%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="./feature/assets/Chapter01/Insight15.jpg" alt="Insight9" width="70%" />
+</div>
+
+**Backend:**
+
+<div style="text-align: center;">
+  <img src="./feature/assets/Chapter01/Insight10.jpg" alt="Insight6" width="70%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="./feature/assets/Chapter01/Insight11.jpg" alt="Insight7" width="70%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="./feature/assets/Chapter01/Insight12.jpg" alt="Insight8" width="70%" />
+</div>
+
 # Contenido
 
 ## Tabla de contenidos

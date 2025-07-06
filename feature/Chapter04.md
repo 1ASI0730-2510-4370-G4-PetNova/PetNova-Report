@@ -593,6 +593,14 @@ Los diagramas de componentes proporcionan una vista detallada de la arquitectura
 
 ![](assets/Chapter04/Appoint.jpeg) 
 
+### Pets Bounded Context
+
+![](./assets/Chapter04/pbc.jpeg) 
+
+### Doctor Bounded Context
+
+![](./assets/Chapter04/dbc.jpeg) 
+
 
 
 ## 4.7. Software Object-Oriented Design

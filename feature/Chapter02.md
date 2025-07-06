@@ -259,37 +259,123 @@ En este proyecto, hemos decidido interactuar con posibles usuarios mediante entr
 
 ### 2.3.2. User Task Matrix.
 
-***Segmento 1: Médicos Veterinarios***
-
-|**Vanesa Lopez**|||
-| :-: | :- | :- |
-| Actividades | Frecuencia | Importancia |
-| Desarrollar y actualizar constantemente los historiales clínicos de pacientes. | Alta | Alta |
-| Completar información requerida en el sistema informático. | Alta | Alta |
-| Consultar y localizar expedientes médicos de las mascotas. | Alta | Alta |
-| Coordinar y gestionar las visitas veterinarias. | Media | Alta |
-| Almacenar y clasificar la documentación médica. | Media | Media |
-| Resolver inconvenientes relacionados con la claridad y pérdida de documentos. | Media | Alta |
-| Mejorar la productividad en los procesos documentales. | Media | Alta |
-| Brindar servicio al cliente de manera expedita y efectiva. | Alta | Alta |
-
----
-<br>
-<br>
-
-***Segmento 2: Dueños de Mascotas***
-
-|**Milagros Mateo**|||
-| :-: | :- | :- |
-|**Actividades**|**Frecuencia**|**Importancia**|
-|Llevar a sus animales de compañía a consultas veterinarias.|Alta|Alta|
-|Programar y gestionar citas con el veterinario.|Alta|Alta|
-|Organizar y mantener al día los registros médicos de sus mascotas.|Alta|Alta|
-|Revisar los expedientes veterinarios de sus animales.|Media|Alta|
-|Cambiar de clínica veterinaria si es necesario.|Baja|Media|
-|Actuar con prontitud en situaciones de urgencia médica.|Media|Alta|
-|Almacenar y hacer copias de seguridad de los registros médicos en formato físico y digital.|Alta|Alta|
----
+<table>
+  <tr>
+    <th></th>
+    <th colspan="2">Segmento 1: Médicos Veterinarios</th>
+    <th colspan="2">Segmento 2: Dueños de Mascotas</th>
+  </tr>
+  <tr>
+    <th>Actividad</th><th>Frecuencia</th>
+    <th>Importancia</th>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+  </tr>
+  <tr>
+    <td>Desarrollar y actualizar constantemente los historiales clínicos de pacientes.</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td> - </td>
+    <td> - </td>
+  </tr>
+  <tr>
+    <td>Completar información requerida en el sistema informático.</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td> - </td>
+    <td> - </td>
+  </tr>
+  <tr>
+    <td>Consultar y localizar expedientes médicos de las mascotas.</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td> - </td>
+    <td> - </td>
+  </tr>
+  <tr>
+    <td>Coordinar y gestionar las visitas veterinarias.</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td> - </td>
+    <td> - </td>
+  </tr>
+  <tr>
+    <td>Almacenar y clasificar la documentación médica.</td>
+    <td>Media</td>
+    <td>Media</td>
+    <td> - </td>
+    <td> - </td>
+  </tr>
+  <tr>
+    <td>Resolver inconvenientes relacionados con la claridad y pérdida de documentos.</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td> - </td>
+    <td> - </td>
+  </tr>
+  <tr>
+    <td>Mejorar la productividad en los procesos documentales.</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td> - </td>
+    <td> - </td>
+  </tr>
+  <tr>
+    <td>Brindar servicio al cliente de manera expedita y efectiva.</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td> - </td>
+    <td> - </td>
+  <tr>
+    <td>Llevar a sus animales de compañía a consultas veterinarias.</td>
+    <td> - </td>
+    <td> - </td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Programar y gestionar citas con el veterinario.</td>
+    <td> - </td>
+    <td> - </td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Organizar y mantener al día los registros médicos de sus mascotas.</td>
+    <td> - </td>
+    <td> - </td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Revisar los expedientes veterinarios de sus animales.</td>
+    <td> - </td>
+    <td> - </td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Cambiar de clínica veterinaria si es necesario.</td>
+    <td> - </td>
+    <td> - </td>
+    <td>Baja</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Actuar con prontitud en situaciones de urgencia médica.</td>
+    <td> - </td>
+    <td> - </td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Almacenar y hacer copias de seguridad de los registros médicos en formato físico y digital.</td>
+    <td> - </td>
+    <td> - </td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+</table>
 
 
 
@@ -298,11 +384,11 @@ En este proyecto, hemos decidido interactuar con posibles usuarios mediante entr
 
 - **Primer segmento: Médicos Veterinarios**
 
-<br><img src="./assets/Chapter02/JourneyMap1.png" alt="" style="width: 1000px; height: auto;" ><br>
+<br><img src="./assets/Chapter02/JourneyMappingSegmento1.png" alt=""><br>
 
 - **Segundo segmento: Dueños de Mascotas**
 
-<br><img src="./assets/Chapter02/petnova_journey_map.png" alt="" style="width: 1000px; height: auto;" ><br>
+<br><img src="./assets/Chapter02/JourneyMappingSegmento2.png" alt=""><br>
 
 ### 2.3.4. Empathy Mapping.
 
@@ -320,6 +406,7 @@ En este proyecto, hemos decidido interactuar con posibles usuarios mediante entr
 - **Segundo segmento: Dueños de Mascotas**
 <br><img src="./assets/Chapter02/owner_AS_IS.png" alt="" style="width: 800px; height: auto;" ><br>
 
+**Link de Lucidchart:** https://acortar.link/ZCUAdX 
 
 ## 2.4. Ubiquitous Language.
 

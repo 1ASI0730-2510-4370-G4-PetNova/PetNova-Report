@@ -368,23 +368,6 @@ Descarga de historial clinico
 
 -------------
 
-dashboard
-
-![dashboard_wire.png](assets/Chapter04/dashboard_wire.png)
-
-Registro de perfil
-
-![perfil_edit_wire.png](assets/Chapter04/perfil_edit_wire.png)
-
-Edición del perfil del perfil
-
-![perfil_edit_wire.png](assets/Chapter04/perfil_edit_wire.png)
-
-Eliminacion de perfil  
-
-![perfil_delete_wire.png](assets/Chapter04/perfil_delete_wire  .png)
-
-
 ## movil:
 
 Listado, búsqueda, registro, edición y eliminación de mascotas
@@ -487,34 +470,6 @@ notificaciones
 
 --------------
 
-historial clinico
-
-Listado de historial clinico
-
-![hist_list.png](assets/Chapter04/hist_list.png)
-
-Registro de historial clinico
-
-![hist_post.png](assets/Chapter04/hist_post.png)
-
-Confirmacion de registro de historial clinico
-  
-![hist_confirm.jpeg](assets/Chapter04/hist_confirm.jpeg)
-
-Descarga de historial clinico
-
-![hist_download.png](assets/Chapter04/hist_download.png)
-
--------------
-
-Muestra de perfil
-
-![perfil_list.png](assets/Chapter04/perfil_list.png)
-
-
-Edición del perfil del perfil
-
-![perfil_edit.png](assets/Chapter04/perfil_edit.png)
 
 Eliminacion de perfil
 
@@ -648,29 +603,12 @@ Representa a las mascotas registradas por los clientes o veterinarios.
 
 | Atributo     | Tipo          | Descripción                       |
 |--------------|---------------|-----------------------------------|
-| id           | long int      | Identificador de la mascota       |
-| name         | string        | Nombre de la mascota              |
-| lastname     | string        | Apellido de la mascota            |
-| age          | short int     | Edad de la mascota                |
-| client       | Client        | Propietario de la mascota         |
-| medicalHistory | List<MedicalHistory> | Lista de historiales médicos   |
-| currentStatus | PetStatus    | Estado actual de salud de la mascota |
-
-## MedicalHistory
-
-Representa el historial médico de una mascota.
-
-| Atributo     | Tipo          | Descripción                       |
-|--------------|---------------|-----------------------------------|
-| id           | long int      | Identificador del historial médico|
-| id_mascota   | string        | ID de referencia a la mascota    |
-| genero       | string        | Género de la mascota              |
-| raza         | string        | Raza de la mascota                |
-| fecha_nac    | date          | Fecha de nacimiento               |
-| description  | text          | Descripción médica                |
-| veterinarian | Veterinarian  | Veterinario asignado              |
-| tratamiento  | List<Treatment> | Lista de tratamientos            |
-| vacunas      | List<Vaccines>  | Lista de vacunas                  |
+| id           | long int      |Pet ID      |
+| name         | string        | Pet name           |
+| lastname     | string        | Pet's last name            |
+| age          | short int     | Pet Age              |
+| client       | Client        | pet owner         |
+| currentStatus | PetStatus    | Pet's current health status |
 
 ## Treatment
 
@@ -678,11 +616,10 @@ Representa el tratamiento brindado de una mascota.
 
 | Atributo     | Tipo          | Descripción                       |
 |--------------|---------------|-----------------------------------|
-| id           | long int      | Identificador del tratamiento     |
-| name         | string        | Nombre del tratamiento            |
-| duration     | string        | Duración del tratamiento          |
-| medicalHistory | MedicalHistory | Historial médico relacionado    |
-| description  | text          | Detalles del tratamiento          |
+| id           | long int      | Treatment identifier     |
+| name         | string        | Treatment name            |
+| duration     | string        | Duration of treatment          |
+| description  | text          | Treatment details         |
 
 ## Vaccines
 
@@ -690,11 +627,10 @@ Representa las vacunas brindado de una mascota.
 
 | Atributo     | Tipo          | Descripción                       |
 |--------------|---------------|-----------------------------------|
-| id           | long int      | Identificador de la vacuna        |
-| name         | string        | Nombre de la vacuna               |
-| duration     | string        | Duración de la protección         |
-| medicalHistory | MedicalHistory | Historial médico relacionado    |
-| description  | text          | Detalles de la vacuna             |
+| id           | long int      | Vaccine identifier        |
+| name         | string        | Vaccine name           |
+| duration     | string        | Duration of protection         |
+| description  | text          | Vaccine details           |
 
 ## Horario
 
@@ -702,11 +638,11 @@ Representa el horario de un veterinario.
 
 | Atributo     | Tipo          | Descripción                       |
 |--------------|---------------|-----------------------------------|
-| id           | long int      | Identificador del horario         |
-| dia_semana   | DiaSemana     | Día de la semana                  |
-| servicio     | string        | Servicio proporcionado            |
-| h_inicio     | time          | Hora de inicio del servicio       |
-| h_fin        | time          | Hora de fin del servicio          |
+| id           | long int      | Schedule identifier        |
+| day_week   | DiaSemana     | Day of the week                  |
+| service    | string        | Service provided            |
+| h_start     | time          | Service start time      |
+| h_end        | time          |End of service time       |
 
 ## Client
 
@@ -714,11 +650,11 @@ Representa a los clientes del sistema que poseen mascotas.
 
 | Atributo     | Tipo          | Descripción                       |
 |--------------|---------------|-----------------------------------|
-| id           | long int      | Identificador del cliente         |
-| firstname    | string        | Nombre del cliente                |
-| lastname     | string        | Apellido del cliente              |
-| email        | string        | Correo electrónico                |
-| password     | string        | Contraseña del cliente            |
+| id           | long int      | Client ID         |
+| firstname    | string        | Customer name         |
+| lastname     | string        | Customer's last name       |
+| email        | string        | Email          |
+| password     | string        | Client password           |
 
 ## Veterinarian
 
@@ -727,8 +663,8 @@ Representa a los veterinarios en el sistema.
 
 | Atributo     | Tipo          | Descripción                       |
 |--------------|---------------|-----------------------------------|
-| speciality   | string        | Especialidad médica               |
-| appointments | List<Appointment> | Lista de citas asignadas         |
+| speciality   | string        | medical specialty           |
+| appointments | List<Appointment> |List of assigned appointments       |
 
 ## Appointment
 
@@ -736,12 +672,12 @@ Representa las citas entre un veterinario y una mascota.
 
 | Atributo             | Tipo          | Descripción                       |
 |----------------------|---------------|-----------------------------------|
-| id                   | long int      | Identificador de la cita          |
-| DNI                  | string        | DNI del cliente                   |
-| date                 | datetime      | Fecha y hora de la cita           |
-| service              | string        | Servicio solicitado               |
-| recordatorio_enviado | bool          | Estado del recordatorio enviado  |
-| notificacion_enviada | bool          | Estado de la notificación enviada |
+| id                   | long int      | Appointment ID        |
+| DNI                  | string        | Client's DNI                |
+| date                 | datetime      | Appointment date and time           |
+| service              | string        | Requested service               |
+| sent_reminder | bool          | Sent reminder status |
+| sent_notification | bool          | Sent notification status |
 
 ## StatusAppointment
 
@@ -749,8 +685,8 @@ Representa el estado en el que se encuentra la citas
 
 | Atributo     | Tipo          | Descripción                       |
 |--------------|---------------|-----------------------------------|
-| id           | long int      | Identificador del estado de la cita |
-| descripcion  | string        | Descripción del estado            |
+| id           | long int      | Appointment status identifier |
+| descripcion  | string        | Status Description           |
 
 ## User
 
@@ -758,11 +694,11 @@ Representa a los usuarios del sistema, ya sea veterinarios o clientes.
 
 | Atributo     | Tipo          | Descripción                       |
 |--------------|---------------|-----------------------------------|
-| id           | long int      | Identificador del usuario         |
-| firstname    | string        | Nombre del usuario                |
-| lastname     | string        | Apellido del usuario              |
-| email        | string        | Correo electrónico                |
-| password     | string        | Contraseña del usuario            |
+| id           | long int      | User ID         |
+| firstname    | string        | User name |
+| lastname     | string        | User's last name             |
+| email        | string        | Email              |
+| password     | string        | User password            |
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram 

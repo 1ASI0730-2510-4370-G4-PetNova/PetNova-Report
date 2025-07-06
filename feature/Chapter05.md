@@ -110,143 +110,179 @@ Estas prácticas aseguran que el código sea legible, consistente y fácil de ma
 
 - US01:
 
-![Gherkin1](./assets/Chapter05/US01.png)
+![Gherkin1](./assets/Chapter05/code1.png)
 
 - US02:
 
-![Gherkin2](./assets/Chapter05/US02.png)
+![Gherkin2](./assets/Chapter05/code2.png)
 
 - US03:
 
-![Gherkin3](./assets/Chapter05/US03.png)
+![Gherkin3](./assets/Chapter05/code3.png)
 
 - US04:
 
-![Gherkin4](./assets/Chapter05/US04.png)
+![Gherkin4](./assets/Chapter05/code4.png)
 
 - US05:
 
-![Gherkin5](./assets/Chapter05/US05.png)
+![Gherkin5](./assets/Chapter05/code5.png)
 
 - US06:
 
-![Gherkin6](./assets/Chapter05/US06.png)
+![Gherkin6](./assets/Chapter05/code6.png)
 
 - US07:
 
-![Gherkin7](./assets/Chapter05/US07.png)
+![Gherkin7](./assets/Chapter05/code7.png)
 
 - US08:
 
-![Gherkin8](./assets/Chapter05/US08.png)
+![Gherkin8](./assets/Chapter05/code8.png)
 
 - US09:
 
-![Gherkin9](./assets/Chapter05/US09.png)
+![Gherkin9](./assets/Chapter05/code9.png)
 
 - US010:
 
-![Gherkin10](./assets/Chapter05/US10.png)
+![Gherkin10](./assets/Chapter05/code10.png)
 
 - US11:
 
-![Gherkin11](./assets/Chapter05/US11.png)
+![Gherkin11](./assets/Chapter05/code11.png)
 
 - US12:
 
-![Gherkin12](./assets/Chapter05/US12.png)
+![Gherkin12](./assets/Chapter05/code12.png)
 
 - US13:
 
-![Gherkin13](./assets/Chapter05/US13.png)
+![Gherkin13](./assets/Chapter05/code13.png)
 
 - US14:
 
-![Gherkin14](./assets/Chapter05/US14.png)
+![Gherkin14](./assets/Chapter05/code14.png)
 
 - US15:
 
-![Gherkin15](./assets/Chapter05/US15.png)
+![Gherkin15](./assets/Chapter05/code15.png)
 
 - US16:
 
-![Gherkin16](./assets/Chapter05/US16.png)
+![Gherkin16](./assets/Chapter05/code16.png)
 
 - US17:
 
-![Gherkin17](./assets/Chapter05/US17.png)
+![Gherkin17](./assets/Chapter05/code17.png)
 
 - US18:
 
-![Gherkin18](./assets/Chapter05/US18.png)
+![Gherkin18](./assets/Chapter05/code18.png)
 
 - US19:
 
-![Gherkin19](./assets/Chapter05/US19.png)
+![Gherkin19](./assets/Chapter05/code19.png)
 
 - US20:
 
-![Gherkin20](./assets/Chapter05/US20.png)
+![Gherkin20](./assets/Chapter05/code20.png)
 
 - US21:
 
-![Gherkin21](./assets/Chapter05/US21.png)
+![Gherkin21](./assets/Chapter05/code21.png)
 
 - US22:
 
-![Gherkin22](./assets/Chapter05/US22.png)
+![Gherkin22](./assets/Chapter05/code22.png)
 
 - US23:
 
-![Gherkin23](./assets/Chapter05/US23.png)
+![Gherkin23](./assets/Chapter05/code23.png)
 
 - US24:
 
-![Gherkin24](./assets/Chapter05/US24.png)
+![Gherkin24](./assets/Chapter05/code24.png)
 
 - US25:
 
-![Gherkin25](./assets/Chapter05/US25.png)
+![Gherkin25](./assets/Chapter05/code25.png)
 
 - US26:
 
-![Gherkin26](./assets/Chapter05/US26.png)
+![Gherkin26](./assets/Chapter05/code26.png)
 
 - US27:
 
-![Gherkin27](./assets/Chapter05/US27.png)
+![Gherkin27](./assets/Chapter05/code27.png)
 
 - US28:
 
-![Gherkin28](./assets/Chapter05/US28.png)
+![Gherkin28](./assets/Chapter05/code28.png)
 
 - US29:
 
-![Gherkin29](./assets/Chapter05/US29.png)
+![Gherkin29](./assets/Chapter05/code29.png)
 
 - US30:
 
-![Gherkin30](./assets/Chapter05/US30.png)
+![Gherkin30](./assets/Chapter05/code30.png)
 
 - US31:
 
-![Gherkin31](./assets/Chapter05/US31.png)
+![Gherkin31](./assets/Chapter05/code31.png)
 
 - US32:
 
-![Gherkin32](./assets/Chapter05/US32.png)
+![Gherkin32](./assets/Chapter05/code32.png)
 
 - US33:
 
-![Gherkin33](./assets/Chapter05/US33.png)
+![Gherkin33](./assets/Chapter05/code33.png)
 
 - US34:
 
-![Gherkin34](./assets/Chapter05/US34.png)
+![Gherkin34](./assets/Chapter05/code34.png)
 
 - US35:
 
-![Gherkin35](./assets/Chapter05/US35.png)
+![Gherkin35](./assets/Chapter05/code35.png)
+
+- US36:
+
+![Gherkin36](./assets/Chapter05/code36.png)
+
+- TS01:
+
+![GherkinTS01](./assets/Chapter05/codeTS01.png)
+
+- TS02:
+
+![GherkinTS02](./assets/Chapter05/codeTS02.png)
+
+- TS03:
+
+![GherkinTS03](./assets/Chapter05/codeTS03.png)
+
+- TS04:
+
+![GherkinTS04](./assets/Chapter05/codeTS04.png)
+
+- TS05:
+
+![GherkinTS05](./assets/Chapter05/codeTS05.png)
+
+- TS06:
+
+![GherkinTS06](./assets/Chapter05/codeTS06.png)
+
+- TS07:
+
+![GherkinTS07](./assets/Chapter05/codeTS07.png)
+
+- TS08:
+
+![GherkinTS08](./assets/Chapter05/codeTS08.png)
 
 ### 5.1.4. Configuración de la implementación del software
 
@@ -366,20 +402,20 @@ Enlace trello para mejor visualización del segumiento de cada sprint: [https://
 
 | **Repository**                                                  | **Branch** | **Commit Id** | **Commit Message**                                                                                                | **Committed By** | **Committed On** |
 | --------------------------------------------------------------- | ---------- | ------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 671b8dc       | feat(images): add new images for project assets                                                                   | ghostnotfound404 | Apr 26, 2025     |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | bfb2010       | Merge branch 'develop' of github.com:1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public into develop | ghostnotfound404 | Apr 26, 2025     |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | fa2c951       | feat(index): add plans                                                                                            | Lucianxaaa       | Apr 26, 2025     |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 00b1ce6       | feat(index): update styles and content for 'Casos de éxito' and 'Planes' sections                                 | Lucianxaaa       | Apr 26, 2025     |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 2d1a453       | fix(landing page styles_css): feat update hero section                                                            | Lucianxaaa       | Apr 26, 2025     |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 3fdb9a1       | fix(landing page): feat update hero section                                                                       | Lucianxaaa       | Apr 26, 2025     |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | f3e4b79       | fix(header): style header and navigation for responsiveness                                                       | devfab17         | Apr 26, 2025     |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 5b29013       | fix(header): update structure and navigation links                                                                | devfab17         | Apr 26, 2025     |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 0ac9c10       | fix: upload images and change code of footer section                                                              | mariopvdev       | Apr 26, 2025     |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | a0fe5c2       | feat: update 'Why Choose Us' section layout and replace image                                                     | sebasepe         | Apr 26, 2025     |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 46b5dbb       | feat: design veterinarian section with features and call-to-action                                                | sebasepe         | Apr 26, 2025     |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 77bdaaf       | feat: update partners and customers sections with new layout                                                      | sebasepe         | Apr 26, 2025     |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 9285a1a       | feat: redesign subscriptions section with plan cards and images                                                   | sebasepe         | Apr 26, 2025     |
-| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop    | 285c2d9       | feat: update 'Why Choose Us' section layout with three images and video icons                                     | sebasepe         | Apr 26, 2025     |
+| 1ASI0730-2510-4370-G4-PetNova/PetNova-Landing-Page | develop    | 671b8dc       | feat(images): add new images for project assets| ghostnotfound404 | Apr 26, 2025     |
+| 1ASI0730-2510-4370-G4-PetNova/PetNova-Landing-Page | develop    | bfb2010       | Merge branch 'develop' of github.com:1ASI0730-2510-4370-G4-PetNova/PetNova-Landing-Page into develop | ghostnotfound404 | Apr 26, 2025     |
+| 1ASI0730-2510-4370-G4-PetNova/PetNova-Landing-Page | develop    | fa2c951       | feat(index): add plans                                                                                            | Lucianxaaa       | Apr 26, 2025     |
+| 1ASI0730-2510-4370-G4-PetNova/PetNova-Landing-Page | develop    | 00b1ce6       | feat(index): update styles and content for 'Casos de éxito' and 'Planes' sections                                 | Lucianxaaa       | Apr 26, 2025     |
+| 1ASI0730-2510-4370-G4-PetNova/PetNova-Landing-Page | develop    | 2d1a453       | fix(landing page styles_css): feat update hero section                                                            | Lucianxaaa       | Apr 26, 2025     |
+| 1ASI0730-2510-4370-G4-PetNova/PetNova-Landing-Page | develop    | 3fdb9a1       | fix(landing page): feat update hero section                                                                       | Lucianxaaa       | Apr 26, 2025     |
+| 1ASI0730-2510-4370-G4-PetNova/PetNova-Landing-Page | develop    | f3e4b79       | fix(header): style header and navigation for responsiveness                                                       | devfab17         | Apr 26, 2025     |
+| 1ASI0730-2510-4370-G4-PetNova/PetNova-Landing-Page | develop    | 5b29013       | fix(header): update structure and navigation links                                                                | devfab17         | Apr 26, 2025     |
+| 1ASI0730-2510-4370-G4-PetNova/PetNova-Landing-Page | develop    | 0ac9c10       | fix: upload images and change code of footer section                                                              | mariopvdev       | Apr 26, 2025     |
+| 1ASI0730-2510-4370-G4-PetNova/PetNova-Landing-Page | develop    | a0fe5c2       | feat: update 'Why Choose Us' section layout and replace image                                                     | sebasepe         | Apr 26, 2025     |
+| 1ASI0730-2510-4370-G4-PetNova/PetNova-Landing-Page | develop    | 46b5dbb       | feat: design veterinarian section with features and call-to-action                                                | sebasepe         | Apr 26, 2025     |
+| 1ASI0730-2510-4370-G4-PetNova/PetNova-Landing-Page | develop    | 77bdaaf       | feat: update partners and customers sections with new layout                                                      | sebasepe         | Apr 26, 2025     |
+| 1ASI0730-2510-4370-G4-PetNova/PetNova-Landing-Page | develop    | 9285a1a       | feat: redesign subscriptions section with plan cards and images                                                   | sebasepe         | Apr 26, 2025     |
+| 1ASI0730-2510-4370-G4-PetNova/PetNova-Landing-Page | develop    | 285c2d9       | feat: update 'Why Choose Us' section layout with three images and video icons                                     | sebasepe         | Apr 26, 2025     |
 
 ---
 
@@ -616,7 +652,7 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
   </tr>
   <tr>
     <td style="font-weight: bold;"> Date </td>
-    <td> 5/06/2025 </td>
+    <td> 6/07/2025 </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Time </td>
@@ -767,7 +803,7 @@ Enlace del deployment de la Landing Page: [https://1asi0730-2510-4370-g4-petnova
 
 **Seccion video about the team en landing page**
 
-[![About the product video](IMAGEN FALTA)](FALTA LINK DEL VIDEO)
+[![About the product video]()](https://www.youtube.com/watch?v=21mBKrna1iw)
 
 **Seccion video about the product en landing page**
 
@@ -838,6 +874,129 @@ Anexo: Tablas de commits en el periodo de 1 mes.
 
 <img src="./assets/Chapter05/Commits over time.png">
 <img src="./assets/Chapter05/commits insights.JPG">
+
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+
+<table>
+  <tr>
+    <th> Sprint # </th>
+    <th> Sprint 4 </th>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Planning Background </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Date </td>
+    <td> 01/07/2025 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Time </td>
+    <td> 13:00 horas (GMT-5) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Location </td>
+    <td> Virtual (Discord) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Prepared By </td>
+    <td> Escobar Palomino, Sebastian Matias </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+    <td>
+      Bastidas Bastidas, Diego Martin<br>
+      Belahonia Miranda, Fabrisio<br>
+      Choquehuanca Núñez, Luciana Carolina<br>
+      Escobar Palomino, Sebastian Matias<br>
+      Prado Vargas, Mario Benjamín
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Review Summary </td>
+    <td> Durante el Sprint 3, se logró adaptar aproximadamente el 65% del backend del sistema, integrando de forma exitosa datos relevantes a la base de datos de Pet Nova para cada bounded context. Se alcanzó una adaptación casi completa en contextos clave como appointments, clients y auth. Además, se realizaron correcciones importantes en el frontend que mejoraron significativamente la fluidez de la experiencia del usuario. También se implementó con éxito la primera versión de los videos para la sección Landing Page, tanto el video "About the Team" como "About the Product". </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Retrospective Summary </td>
+    <td> Durante la retrospectiva, el equipo destacó como aspecto positivo el avance significativo en la adaptación del backend y la mejora en la integración con el frontend. Se valoró el trabajo colaborativo y el cumplimiento parcial de los objetivos propuestos. Como área de mejora, se identificó la necesidad de una planificación más precisa del tiempo para completar la totalidad de los bounded contexts. Para el siguiente sprint, se acordó reforzar la estimación de esfuerzo técnico y mantener reuniones de seguimiento más frecuentes para asegurar una mejor distribución de tareas. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 4 Goal </td>
+    <td> Concluir la implementación de funcionalidades esenciales tanto en el backend como en el frontend del sistema Pet Nova, centrándose en la gestión y edición de perfiles de mascotas y usuarios, con validaciones precisas y una experiencia visual coherente. Se completarán tareas de búsqueda, registros y mejoras de formularios, fortaleciendo la lógica de negocio en el backend y refinando la interfaz visual en el frontend. Asimismo, se ajustarán detalles en la landing page, incluyendo mejoras gráficas y la correcta integración de los videos “About the Team” y “About the Project”. Este sprint permitirá consolidar una versión robusta, funcional y presentable del sistema. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Velocity </td>
+    <td> <strong>8</strong><br> El equipo mantiene una capacidad de 8 Story Points para este Sprint, consistente con Sprint 3, considerando la experiencia adquirida y la carga de trabajo estimada. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sum of Story Points </td>
+    <td> 8 </td>
+  </tr>
+</table>
+
+#### 5.2.2.2. Aspect Leaders and Collaborators
+
+| **Team Member (Last Name, First Name)**  | **GitHub Username** | **Capítulo I: Introducción (L/C)** | **Capítulo II: Requirements Elicitation & Analysis (L/C)** | **Capítulo III: Requirements Specification (L/C)** | **Capítulo IV: Product Design (L/C)** | **Capítulo V: Product Implementation, Validation & Deployment (L/C)** |
+| ---------------------------------------- | ------------------- | ---------------------------------- | ---------------------------------------------------------- | -------------------------------------------------- | ------------------------------------- | --------------------------------------------------------------------- |
+| **Belahonia Miranda, Fabrisio**          | devfab17            | L                                  | C                                                          | C                                                  | C                                     | C                                                                     |
+| **Bastidas Bastidas, Diego Martin**      | ghostnotfound404    | C                                  | L                                                          | C                                                  | C                                     | C                                                                     |
+| **Choquehuanca Núñez, Luciana Carolina** | lucianxaaa          | C                                  | C                                                          | L                                                  | C                                     | C                                                                     |
+| **Prado Vargas, Mario Benjamín**         | mariopvdev          | C                                  | C                                                          | C                                                  | L                                     | C                                                                     |
+| **Escobar Palomino, Sebastian Matias**   | sebasepe            | C                                  | C                                                          | C                                                  | C                                     | L                                                                     |
+
+#### 5.2.2.3. Sprint Backlog 4
+
+En el segundo sprint, el equipo se enfocó en iniciar el desarrollo de la Web Application de Pet Nova, implementando funcionalidades esenciales para la autenticación de usuarios, gestión de perfiles, registro de mascotas y notificaciones. Las tareas se asignaron según las habilidades de cada miembro.
+
+#### **5.2.1.4. Sprint Backlog 4**
+
+En el segundo sprint, el equipo centró su desarrollo en funcionalidades esenciales como el registro e inicio de sesión, gestión de perfil y mascotas, así como el sistema de notificaciones. Cada historia de usuario fue dividida en tareas específicas para mejorar la organización y seguimiento del trabajo.
+
+| ID   | Title                         | Tarea | Description                                    | Estimations(Hours) | Assigned To                          | Status     | Total US Hours |
+|------|-------------------------------|-------|------------------------------------------------|---------------------|--------------------------------------|------------|----------------|
+| US04 | Creación de Perfil de Mascota | Tk28  | Validar y guardar datos de mascota             | 4                   | Choquehuanca Núñez, Luciana Carolina | DONE       |                |
+|      |                               | Tk29  | Controlar duplicidad de nombres                | 5                   | Belahonia Miranda, Fabrisio          | DONE       |                |
+|      |                               | Tk30  | Generar código único por mascota               | 4                   | Choquehuanca Núñez, Luciana Carolina | DONE       | **13**         |
+| US05 | Edición de Perfil de Mascota  | Tk31  | Editar datos del perfil de mascota             | 6                   | Escobar Palomino, Sebastian Matias   | DONE       |                |
+|      |                               | Tk32  | Validar campos obligatorios                    | 5                   | Belahonia Miranda, Fabrisio          | DONE       |                |
+|      |                               | Tk33  | Confirmar cambios con retroalimentación visual | 4                   | Escobar Palomino, Sebastian Matias   | IN PROCESS | **15**         |
+| US07 | Búsqueda de Mascotas por ID   | Tk34  | Desarrollar búsqueda por ID                    | 4                   | Choquehuanca Núñez, Luciana Carolina | DONE       |                |
+|      |                               | Tk35  | Manejar ID inexistente                         | 4                   | Prado Vargas, Mario Benjamín         | DONE       | **8**          |
+| UA09 | Sección "About the Team"      | Tk70  | Añadir carátula inicial con título y nombres del equipo           | 4                   | Prado Vargas, Mario Benjamín         | DONE       |                |
+|      |                               | Tk71  | Insertar subtítulos descriptivos durante la presentación grupal   | 5                   | Choquehuanca Núñez, Luciana Carolina | DONE       | **9**          |
+| UA10 | Sección "About the Project"   | Tk72  | Incluir título del video y tema principal al inicio                | 4                   | Belahonia Miranda, Fabrisio          | DONE       |                |
+|      |                               | Tk73  | Agregar subtítulos con el tema que se explica en cada sección     | 5                   | Escobar Palomino, Sebastián Matias   | DONE       | **9**          |
+| US01 | Registro de usuario           | TS25  | Mejorar validación de campos con mensajes claros y accesibles     | 4                   | Bastidas Bastidas, Diego Martin      | DONE       |                |
+|      |                               | TS26  | Ajustar diseño del formulario para mayor claridad visual           | 4                   | Bastidas Bastidas, Diego Martin      | DONE       | **8**          |
+| US02 | Inicio de sesión              | TS27  | Corregir errores en validación de login con mensajes específicos   | 4                   | Belahonia Miranda, Fabrisio          | DONE       |                |
+|      |                               | TS28  | Añadir iconos y estilos a campos para mejor UX                     | 4                   | Belahonia Miranda, Fabrisio          | DONE       | **8**          |
+| US03 | Gestión de perfil             | TS29  | Incluir validación inmediata en campos editables                   | 4                   | Choquehuanca Núñez, Luciana Carolina | DONE       |                |
+|      |                               | TS30  | Mostrar confirmación visual tras editar y guardar datos            | 4                   | Choquehuanca Núñez, Luciana Carolina | DONE       | **8**          |
+| US09 | Registro de mascotas          | TS31  | Corregir mensajes de error en formulario de mascota                | 5                   | Escobar Palomino, Sebastian Matias   | DONE       |                |
+|      |                               | TS32  | Ajustar alineación y visibilidad de etiquetas y campos             | 4                   | Escobar Palomino, Sebastian Matias   | DONE       | **9**          |
+
+
+![sprint_2](./assets/Chapter05/sprint_2.png)
+
+Enlace trello para mejor visualización del segumiento de cada sprint: [https://trello.com/invite/b/6855a0ea9b157a8bfdf3e112/ATTI54f8f98c5dd16e1134729fb6719c46634153B678/project-management](https://trello.com/invite/b/6855a0ea9b157a8bfdf3e112/ATTI54f8f98c5dd16e1134729fb6719c46634153B678/project-management)
+
+#### 5.2.2.4. Development Evidence for Sprint Review
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+En el Sprint 2 se inició el desarrollo de la Web Application de Pet Nova, implementando funcionalidades esenciales como el registro e inicio de sesión de usuarios, la gestión de perfiles, el registro de mascotas y las notificaciones de citas. Estas funcionalidades permiten a los usuarios (veterinarios y dueños de mascotas) interactuar con la plataforma de manera inicial, facilitando la autenticación y la gestión de datos básicos. A continuación, se muestran las evidencias.
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Para el desarrollo de la Web Application en este sprint, se utilizaron herramientas clave como Visual Studio Code para la escritura de código, Git para el control de versiones, y GitHub para la gestión de ramas y pull requests. Las funcionalidades de la Web App, como el registro e inicio de sesión, gestión de perfiles, registro de mascotas y notificaciones, se dividieron en tareas específicas asignadas a cada miembro del equipo según sus habilidades. Un integrante se encargó de integrar las contribuciones individuales, asegurando la cohesión del producto final.
 
 ### **5.3. Validation Interviews**
 

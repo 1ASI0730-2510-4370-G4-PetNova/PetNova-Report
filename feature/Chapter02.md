@@ -406,6 +406,7 @@ En este proyecto, hemos decidido interactuar con posibles usuarios mediante entr
 - **Segundo segmento: Dueños de Mascotas**
 <br><img src="./assets/Chapter02/owner_AS_IS.png" alt="" style="width: 800px; height: auto;" ><br>
 
+**Link de Lucidchart:** https://acortar.link/ZCUAdX 
 
 ## 2.4. Ubiquitous Language.
 

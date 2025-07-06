@@ -345,26 +345,6 @@ notificaciones
 
 ![m_noti.png](assets/Chapter04/m_noti.png)
 
---------------
-
- **historial clinico**
-
-Listado de historial clinico
-
-![m_hist_list.png](assets/Chapter04/m_hist_list.png)
-
-Registro de historial clinico
-
-![m_hist_post.png](assets/Chapter04/m_hist_post.png)
-
-Confirmacion de registro de historial clinico
-  
-![m_hist_confirm.png](assets/Chapter04/m_hist_confirm.png)
-
-Descarga de historial clinico
-
-![m_hist_download.png](assets/Chapter04/m_hist_download.png)
-
 
 -------------
 
@@ -410,9 +390,6 @@ User Goal: Gestionar citas
 
 ![User_Goal_4.jpeg](assets/Chapter04/User_Goal_4.jpeg)
 
-User Goal: Gestionar Historial medico
-
-![User_Goal_5.jpeg](assets/Chapter04/User_Goal_5.jpeg)
 
 
 
@@ -588,6 +565,11 @@ Los diagramas de componentes proporcionan una vista detallada de la arquitectura
 ### Pet Owners Bounded Context
 
 ![](assets/Chapter04/Component_2.png)
+
+### Pet Bounded Context
+
+![](assets/Chapter04/Component_2.png)
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 

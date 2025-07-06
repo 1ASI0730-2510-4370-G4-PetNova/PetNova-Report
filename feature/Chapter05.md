@@ -980,9 +980,9 @@ En el segundo sprint, el equipo centró su desarrollo en funcionalidades esencia
 |      |                               | TS32  | Ajustar alineación y visibilidad de etiquetas y campos             | 4                   | Escobar Palomino, Sebastian Matias   | DONE       | **9**          |
 
 
-![sprint_2](./assets/Chapter05/sprint_2.png)
+![sprint_4](./assets/Chapter05/sprint_2.png)
 
-Enlace trello para mejor visualización del segumiento de cada sprint: [https://trello.com/invite/b/6855a0ea9b157a8bfdf3e112/ATTI54f8f98c5dd16e1134729fb6719c46634153B678/project-management](https://trello.com/invite/b/6855a0ea9b157a8bfdf3e112/ATTI54f8f98c5dd16e1134729fb6719c46634153B678/project-management)
+Enlace trello para mejor visualización del segumiento de cada sprint: []()
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
@@ -1184,7 +1184,7 @@ Los errores se clasificarán según la siguiente escala:
 | **Inconveniente:**      | La navegación dentro de la app podría no ser intuitiva, dificultando la ubicación de secciones clave. |
 | **Solución propuesta:** | Mejorar la estructura de navegación y usar etiquetas más descriptivas en las pestañas.                |
 
-**FALTA IMAGEN DE EVIDENCIA DE QUE SE HAYA CORREGIDO**
+![](./assets/Chapter05/problema%201%20.png)
 
 **PROBLEMA #2:**
 
@@ -1193,7 +1193,7 @@ Los errores se clasificarán según la siguiente escala:
 | **Inconveniente:**      | La información importante no es visible o requiere demasiados pasos para acceder a ella.             |
 | **Solución propuesta:** | Reestructurar la disposición de la información para facilitar su acceso desde la pantalla principal. |
 
-**FALTA IMAGEN DE EVIDENCIA DE QUE SE HAYA CORREGIDO**
+![](./assets/Chapter05/problema%202.png)
 ---
 
 **2. Landing Page**
@@ -1205,7 +1205,8 @@ Los errores se clasificarán según la siguiente escala:
 | **Inconveniente:**      | Falta uniformidad en el diseño entre distintas secciones.           |
 | **Solución propuesta:** | Definir y aplicar guías de diseño coherentes en toda la plataforma. |
 
-**FALTA IMAGEN DE EVIDENCIA DE QUE SE HAYA CORREGIDO**
+![](./assets/Chapter05/problema%203.png)
+![](./assets/Chapter05/problema%203.1%20.png)
 
 **PROBLEMA #2:**
 
@@ -1214,7 +1215,6 @@ Los errores se clasificarán según la siguiente escala:
 | **Inconveniente:**      | La descripción de la app y sus funciones no es suficientemente clara.              |
 | **Solución propuesta:** | Redactar textos más simples y directos que expliquen mejor el propósito de la app. |
 
-**FALTA IMAGEN DE EVIDENCIA DE QUE SE HAYA CORREGIDO**
 
 **PROBLEMA #3:**
 
@@ -1223,7 +1223,7 @@ Los errores se clasificarán según la siguiente escala:
 | **Inconveniente:**      | Los testimonios no destacan y podrían no ser notados por los usuarios.           |
 | **Solución propuesta:** | Rediseñar la sección de testimonios para mejorar su visibilidad y funcionalidad. |
 
-**FALTA IMAGEN DE EVIDENCIA DE QUE SE HAYA CORREGIDO**
+![](./assets/Chapter05/problema%205.png)
 
 ---
 
@@ -1235,14 +1235,13 @@ En este video presentamos **Pet Nova**, una innovadora aplicación diseñada par
 
 - **Interfaz intuitiva** que facilita el acceso a información relevante
 - **Gestión integral** de la salud de las mascotas
-- **Historial médico** siempre actualizado
 
 **Funcionalidades destacadas:**
 
 | Función              | Beneficio                                                   |
 | -------------------- | ----------------------------------------------------------- |
 | Perfiles de mascotas | Creación y edición de perfiles detallados para cada mascota |
-| Historial médico     | Acceso rápido al registro completo de salud de la mascota   |
+
 
 **Ventajas clave:**
 
@@ -1252,7 +1251,9 @@ En este video presentamos **Pet Nova**, una innovadora aplicación diseñada par
 
 La aplicación está diseñada para brindar **paz mental** a los dueños de mascotas, asegurando que sus compañeros animales reciban siempre los mejores cuidados.
 
-#### **Avance de Conclusiones**
+[Video Abot the Product](https://youtu.be/21mBKrna1iw)
+
+#### **Conclusiones**
 
 - La colaboración efectiva entre los miembros del equipo fue clave para avanzar de manera organizada y cubrir todas las etapas del proyecto. Cada integrante asumió con claridad su rol y responsabilidades, facilitando una ejecución ordenada.
 

@@ -980,7 +980,7 @@ En el segundo sprint, el equipo centró su desarrollo en funcionalidades esencia
 |      |                               | TS32  | Ajustar alineación y visibilidad de etiquetas y campos             | 4                   | Escobar Palomino, Sebastian Matias   | DONE       | **9**          |
 
 
-![sprint_4](./assets/Chapter05/sprint_2.png)
+![sprint_4](./assets/Chapter05/sprint_4.png)
 
 Enlace trello para mejor visualización del segumiento de cada sprint: []()
 
@@ -988,7 +988,7 @@ Enlace trello para mejor visualización del segumiento de cada sprint: []()
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
-En el Sprint 2 se inició el desarrollo de la Web Application de Pet Nova, implementando funcionalidades esenciales como el registro e inicio de sesión de usuarios, la gestión de perfiles, el registro de mascotas y las notificaciones de citas. Estas funcionalidades permiten a los usuarios (veterinarios y dueños de mascotas) interactuar con la plataforma de manera inicial, facilitando la autenticación y la gestión de datos básicos. A continuación, se muestran las evidencias.
+En el Sprint 4 se realizaron mejoras en el desarrollo de la Web Application de Pet Nova, implementando funcionalidades esenciales como el registro e inicio de sesión de usuarios, la gestión de perfiles, el registro de mascotas. Estas funcionalidades permiten a los usuarios (veterinarios y dueños de mascotas) interactuar con la plataforma de manera inicial, facilitando la autenticación y la gestión de datos básicos. A continuación, se muestran las evidencias.
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 

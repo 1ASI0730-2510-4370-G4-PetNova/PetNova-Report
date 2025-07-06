@@ -581,9 +581,9 @@ El diagrama de contenedores es una herramienta esencial para visualizar la arqui
 
 Los diagramas de componentes proporcionan una vista detallada de la arquitectura del software, mostrando cómo se descompone en módulos funcionales y cómo estos se relacionan entre sí para formar un sistema cohesivo y eficiente. Esta representación es fundamental para entender la estructura interna de Pet Nova, facilitando el análisis, mantenimiento y escalabilidad de la plataforma a lo largo del tiempo.
 
-### Client & Pet Management Bounded Context
+### IAM Bounded Context
 
-![](assets/Chapter04/BOUNDED_2.png) 
+![](assets/Chapter04/IAM.jpeg) 
 
 ### Stock Management Bounded Context
 
@@ -591,11 +591,8 @@ Los diagramas de componentes proporcionan una vista detallada de la arquitectura
 
 ### Appointments Bounded Context
 
-![](assets/Chapter04/BOUNDED_4.png) 
+![](assets/Chapter04/Appoint.jpeg) 
 
-### Status Bounded Context
-
-![](assets/Chapter04/BOUNDED_5.png) 
 
 
 ## 4.7. Software Object-Oriented Design

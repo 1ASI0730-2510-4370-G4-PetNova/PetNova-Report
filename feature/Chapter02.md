@@ -113,7 +113,7 @@ Entrevista N°1:
 
 <img src="./assets/Chapter02/entrevista1.png" alt="Entrevista con Jasmin" style="width: 600px; height: auto;">
 
-**Enlace:** <a href=""> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EQ-ZYy2RvYpNgt1Qfy9tHTUByB1wTz3kGVrQscVWHWam9A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=j1mdQ7</a> 
+**Enlace:** <a href="https://n9.cl/entrevista_1_segmento1"> https://n9.cl/entrevista_1_segmento1</a> 
 
 **Resumen de la Entrevista:** La doctora Jasmín menciona que en la clínica veterinaria donde labora, utilizan una cuenta única que puede abrirse en varios dispositivos para llenar las historias clínicas. Destaca como aspecto positivo que la aplicación está pensada específicamente para el entorno veterinario, ya que cuenta con campos adaptados según la especie o raza del animal. Sin embargo, señala como punto negativo que, aunque ciertos campos no son obligatorios, debe pasar por ellos igualmente para completar el registro, lo cual hace que el proceso tome más tiempo del que le gustaría.
 
@@ -131,7 +131,7 @@ Entrevista N°2:
 
 <img src="./assets/Chapter02/entrevista2.png" alt="Entrevista con Erick" style="width: 600px; height: auto;"><br>
 
-**Enlace:** <a href=""> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EbCW9J6OzTFKoDAHzGbfWzEBpDcpUG7M16WiUuDkC7iPMA</a>
+**Enlace:** <a href=""> https://n9.cl/entrevista_2_segmento2</a>
 
 **Resumen de la Entrevista:** El doctor Erick comenta que en su lugar de trabajo emplean VetPraxis, una plataforma bastante conocida y usada en muchas clínicas veterinarias. No obstante, menciona que presenta algunas falencias, sobre todo en cuanto a su eficiencia. Una de sus principales observaciones es la presencia de múltiples campos obligatorios que, a su parecer, no son necesarios. Entre ellos, destaca datos como el número de RUC, teléfono del trabajo, y enlaces a redes sociales como Facebook o Instagram, los cuales considera poco relevantes para brindar una buena atención. Esta carga de información provoca que el proceso para generar una historia clínica tarde entre 7 y 10 minutos, lo cual es especialmente problemático en casos de emergencia, donde el tiempo apremia. Por ello, Erick señala que una de las mejoras urgentes sería eliminar estos campos innecesarios para hacer la aplicación más ágil y funcional.
 
@@ -149,7 +149,7 @@ Entrevista N°3:
 
 <img src="./assets/Chapter02/entrevista3.png" alt="Entrevista con Vanesa" style="width: 600px; height: auto;"><br>
 
-**Enlace:** <a href=""> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EYY7QpIHFxlDh0ksAmySO-kB1yHNDLGTJPHi61WTR0jlWg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JeOE4m</a>
+**Enlace:** <a href=""> https://n9.cl/entrevista_3_segmento1</a>
 
 **Resumen de la Entrevista:** La doctora Vanesa señala que en su trabajo actual utilizan VetPraxis, principalmente porque es la aplicación más popular entre las clínicas veterinarias. No obstante, menciona que en su empleo anterior manejaban fichas en papel, las cuales luego se registraban en un archivo de Excel con el número de historia clínica y el nombre de la mascota para facilitar su localización. Al igual que el doctor Erick, Vanesa considera que VetPraxis tiene demasiados campos innecesarios, lo que le demanda entre 10 y 15 minutos para completar una historia clínica, un tiempo que le parece excesivo. Además, recuerda que el sistema físico anterior también era ineficiente: la escritura a mano a veces no se entendía o los documentos se extraviaban, generando molestias a los dueños de las mascotas. Por ello, ella cambiaría los campos que no aportan valor y que entorpecen el registro de la información en VetPraxis.
 
@@ -174,7 +174,7 @@ Entrevista N°1:
 </div>
 
 
-**Enlace:** <a href="">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/Ed7THnaJ3gpLnZ2a-7-4xaIBjIUhmL_8FM130QrTVXeAxw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=OK0sfT </a>
+**Enlace:** <a href="">https://n9.cl/es/r/entrevista_1_segmento2 </a>
 
 **Resumen de la Entrevista**: José Heredia, un estudiante de 20 años residente en Santa Anita, tiene varias mascotas en casa y más en la empresa de sus padres. Visita al veterinario mensualmente pero no lleva un control formal de la salud de sus animales, lo cual le causa problemas como pérdida de documentos. Cambia frecuentemente de veterinario por temas de ubicación. Considera útil una aplicación que permita centralizar la información clínica de sus mascotas. Al conocer la propuesta de Pennova, una app de gestión veterinaria con expedientes médicos, registros de citas y vacunas, expresó que sí la usaría para tener mayor control sobre sus mascotas.
 
@@ -193,7 +193,7 @@ Entrevista N°2:
   <img src="https://i.imgur.com/sng0Ozt.png"  width="100%" />
 </div>
 
-**Enlace:** <a href="">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EQYEmbcNekdJjpCKl4Qc0bQBGVZ3lqUCEaE4AWvQeMmPTg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cE3g5H </a>
+**Enlace:** <a href="">https://n9.cl/entrevista_segmento2 </a>
 
 **Resumen de la Entrevista**: Leonardo, un estudiante de 21 años que vive en Santa Anita, tiene cinco mascotas: tres perros y dos gatos. Suele llevarlos al veterinario una vez al mes para chequeos generales, aunque admite no usar ningún método específico para llevar el control de su salud; simplemente actúa cuando nota comportamientos inusuales. Archiva los documentos en folders y no ha tenido problemas de pérdida. Siempre acude al mismo veterinario, ya que es alguien cercano a su familia. Al conocer la propuesta de la aplicación Pennova, expresó que le parece una idea interesante, especialmente para personas que no tienen un control riguroso. Afirmó que sí la usaría, ya que considera que sería una herramienta eficiente para organizar horarios y el cuidado general de sus mascotas.
 
@@ -212,7 +212,7 @@ Entrevista N°3:
   <img src="https://i.imgur.com/nxtH6oP.png"  width="100%" />
 </div>
 
-**Enlace:** <a href="">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/Edzu0G-9DHRBhXxbojogppsBgrn_LZCF9mRgJHQWv2RBUg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=a2nvrd </a>
+**Enlace:** <a href="">https://n9.cl/entrevista_3_segmento2 </a>
 
 **Resumen de la Entrevista**: Camila, una estudiante de 22 años que vive en Santiago de Surco, tiene una perrita que recientemente cumplió un año. Durante su etapa de cachorro, la llevaba al veterinario cada tres meses para vacunas y chequeos, y sigue llevándola de inmediato si nota algo inusual. No lleva un control digital, solo utiliza la cartilla proporcionada por el veterinario. Sin embargo, perdió esos documentos una vez, lo que le generó estrés. Además, cambió de veterinario tanto por el trato recibido como por el tema de las vacunas. Considera que una aplicación que registre la historia clínica de su mascota sería muy útil, especialmente porque tiende a extraviar papeles. Le gustaría una app como Petnova, ya que facilitaría el seguimiento de citas, vacunas y todo el historial de su mascota de forma práctica y accesible desde su celular.
 
@@ -259,36 +259,123 @@ En este proyecto, hemos decidido interactuar con posibles usuarios mediante entr
 
 ### 2.3.2. User Task Matrix.
 
-***Segmento 1: Médicos Veterinarios***
-
-|**Vanesa Lopez**|||
-| :-: | :- | :- |
-| Actividades | Frecuencia | Importancia |
-| Desarrollar y actualizar constantemente los historiales clínicos de pacientes. | Alta | Alta |
-| Completar información requerida en el sistema informático. | Alta | Alta |
-| Consultar y localizar expedientes médicos de las mascotas. | Alta | Alta |
-| Coordinar y gestionar las visitas veterinarias. | Media | Alta |
-| Almacenar y clasificar la documentación médica. | Media | Media |
-| Resolver inconvenientes relacionados con la claridad y pérdida de documentos. | Media | Alta |
-| Mejorar la productividad en los procesos documentales. | Media | Alta |
-| Brindar servicio al cliente de manera expedita y efectiva. | Alta | Alta |
-
----
----
-
-***Segmento 2: Dueños de Mascotas***
-
-|**Milagros Mateo**|||
-| :-: | :- | :- |
-|**Actividades**|**Frecuencia**|**Importancia**|
-|Llevar a sus animales de compañía a consultas veterinarias.|Alta|Alta|
-|Programar y gestionar citas con el veterinario.|Alta|Alta|
-|Organizar y mantener al día los registros médicos de sus mascotas.|Alta|Alta|
-|Revisar los expedientes veterinarios de sus animales.|Media|Alta|
-|Cambiar de clínica veterinaria si es necesario.|Baja|Media|
-|Actuar con prontitud en situaciones de urgencia médica.|Media|Alta|
-|Almacenar y hacer copias de seguridad de los registros médicos en formato físico y digital.|Alta|Alta|
----
+<table>
+  <tr>
+    <th></th>
+    <th colspan="2">Segmento 1: Médicos Veterinarios</th>
+    <th colspan="2">Segmento 2: Dueños de Mascotas</th>
+  </tr>
+  <tr>
+    <th>Actividad</th><th>Frecuencia</th>
+    <th>Importancia</th>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+  </tr>
+  <tr>
+    <td>Desarrollar y actualizar constantemente los historiales clínicos de pacientes.</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td> - </td>
+    <td> - </td>
+  </tr>
+  <tr>
+    <td>Completar información requerida en el sistema informático.</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td> - </td>
+    <td> - </td>
+  </tr>
+  <tr>
+    <td>Consultar y localizar expedientes médicos de las mascotas.</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td> - </td>
+    <td> - </td>
+  </tr>
+  <tr>
+    <td>Coordinar y gestionar las visitas veterinarias.</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td> - </td>
+    <td> - </td>
+  </tr>
+  <tr>
+    <td>Almacenar y clasificar la documentación médica.</td>
+    <td>Media</td>
+    <td>Media</td>
+    <td> - </td>
+    <td> - </td>
+  </tr>
+  <tr>
+    <td>Resolver inconvenientes relacionados con la claridad y pérdida de documentos.</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td> - </td>
+    <td> - </td>
+  </tr>
+  <tr>
+    <td>Mejorar la productividad en los procesos documentales.</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td> - </td>
+    <td> - </td>
+  </tr>
+  <tr>
+    <td>Brindar servicio al cliente de manera expedita y efectiva.</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td> - </td>
+    <td> - </td>
+  <tr>
+    <td>Llevar a sus animales de compañía a consultas veterinarias.</td>
+    <td> - </td>
+    <td> - </td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Programar y gestionar citas con el veterinario.</td>
+    <td> - </td>
+    <td> - </td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Organizar y mantener al día los registros médicos de sus mascotas.</td>
+    <td> - </td>
+    <td> - </td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Revisar los expedientes veterinarios de sus animales.</td>
+    <td> - </td>
+    <td> - </td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Cambiar de clínica veterinaria si es necesario.</td>
+    <td> - </td>
+    <td> - </td>
+    <td>Baja</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Actuar con prontitud en situaciones de urgencia médica.</td>
+    <td> - </td>
+    <td> - </td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Almacenar y hacer copias de seguridad de los registros médicos en formato físico y digital.</td>
+    <td> - </td>
+    <td> - </td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+</table>
 
 
 
@@ -297,11 +384,11 @@ En este proyecto, hemos decidido interactuar con posibles usuarios mediante entr
 
 - **Primer segmento: Médicos Veterinarios**
 
-<br><img src="./assets/Chapter02/JourneyMap1.png" alt="" style="width: 1000px; height: auto;" ><br>
+<br><img src="./assets/Chapter02/JourneyMappingSegmento1.png" alt=""><br>
 
 - **Segundo segmento: Dueños de Mascotas**
 
-<br><img src="./assets/Chapter02/JourneyMap2.png" alt="" style="width: 1000px; height: auto;" ><br>
+<br><img src="./assets/Chapter02/JourneyMappingSegmento2.png" alt=""><br>
 
 ### 2.3.4. Empathy Mapping.
 
@@ -314,11 +401,12 @@ En este proyecto, hemos decidido interactuar con posibles usuarios mediante entr
 ### 2.3.5. As-is Scenario Mapping.
 
 - **Primer segmento: Médicos Veterinarios**
-<br><img src="./assets/Chapter02/Asis1.jpeg" alt="" style="width: 800px; height: auto;" ><br>
+<br><img src="./assets/Chapter02/veterinarian_AS_IS.png" alt="" style="width: 800px; height: auto;" ><br>
 
 - **Segundo segmento: Dueños de Mascotas**
-<br><img src="./assets/Chapter02/Asis2.jpeg" alt="" style="width: 800px; height: auto;" ><br>
+<br><img src="./assets/Chapter02/owner_AS_IS.png" alt="" style="width: 800px; height: auto;" ><br>
 
+**Link de Lucidchart:** https://acortar.link/ZCUAdX 
 
 ## 2.4. Ubiquitous Language.
 

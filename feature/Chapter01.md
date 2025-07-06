@@ -18,7 +18,9 @@
 |![Fabrisio](./assets/Chapter01/fafa.jpeg)      |  Mi nombre es Fabrisio Belahonia, estudiante de Ing. de software. Voy cursando el 6to ciclo de mi carrera, y me considero una persona responsable, ordenado, empático. Me interesa el área de Ciberseguridad y tengo experiencia con Linux, Redes, Cloud, etc.          |
 |![Luciana](./assets/Chapter01/Luciana.jpeg)                    |Soy Luciana, tengo 19 años y actualmente curso el quinto ciclo de Ingeniería de Software. Me entusiasman los proyectos innovadores que buscan transformar la experiencia del usuario en diversos entornos. Disfruto participar en propuestas desafiantes, especialmente aquellas que combinan creatividad, diseño centrado en el usuario y un impacto tangible en la vida real.|
 | ![Sebastian](./assets/Chapter01/Sebastianpfp.png) |                     Como estudiante de ingeniería de software, me comprometo a contribuir al máximo en el grupo y a cumplir con las entregas dentro del plazo establecido, manteniendo una comunicación efectiva con mis compañeros y aplicando mis habilidades para desarrollar las tareas asignadas en este proyecto.                      |
+| ![Pedro](./assets/Chapter01/Pedropfp.jpeg) |                   Soy estudiante de Ingeniería de Software, me considero una persona responsable, honesta y dispuesto a trabajar en equipo.                        |
 |    ![Mario](./assets/Chapter01/Mariopfp.jpeg)     |                             Soy estudiante del 9no ciclo de Ingeniería de Software. Me interesa la tecnología como herramienta para generar impacto social. Disfruto crear soluciones que integren hardware y software, y en mi tiempo libre me gusta la música, el deporte y emprender proyectos tecnológicos.                              |
+| ![Pedro](./assets/Chapter01/Pedropfp.jpg)     |  Mi nombre es Pedro Jesús Nanfuñay Liza y soy estudiante de la carrera de Ingeniería de Software. Me considero una persona responsable, perseverante y siempre dispuesto a trabajar en equipo. Tengo conocimientos en lenguajes de programación como C++ y Python; en desarrollo web como HTML, CSS y JavaScript; y en base de datos relacionales y no relacionales como SQL y MongoDB. Espero poder aportar de manera positiva al equipo y cumplir con los objetivos establecidos. |
 
 ## 1.2. Solution Profile
 
@@ -46,11 +48,91 @@ Para identificar y analizar de manera más precisa los requerimientos de nuestro
 
 #### 1.2.2.1. Lean UX Problem Statements.
 
-La aplicación Pet Nova tiene como objetivo brindar una solución integral para simplificar la gestión diaria en las clínicas veterinarias. Con una interfaz amigable y de fácil navegación, busca reducir las complicaciones que suelen surgir al manejar diversos aspectos de la práctica veterinaria, centralizando todo en una sola plataforma. De esta manera, tanto los profesionales veterinarios como los dueños de mascotas pueden acceder de forma rápida y sencilla a la información que necesitan.
+Nuestra aplicación "Pet Nova" tiene como objetivo brindar una solución integral para simplificar la gestión diaria en las clínicas veterinarias con el que se busca reducir las complicaciones que suelen surgir al manejar diversos aspectos de la práctica veterinaria, centralizando todo en una sola plataforma. De esta manera, tanto los profesionales veterinarios como los dueños de mascotas pueden acceder de forma rápida y sencilla a la información que necesitan.
+
+Se ha detectado que las clínicas veterinarias presentan dificultades en relación al desempeño y gestión de tareas diarias lo que dificulta en la atención a las mascotas de los clientes o no presentan una forma eficiente de visualizar la información de las mascotas. Como resultado, se observa una baja eficiencia en la aplicación de procesos para la atención de mascotas y desconfianza por la falta de visualización de su información.
+
+¿Cómo podríamos mejorar la eficacia y valor de nuestra plataforma para que nuestros usuarios sientan una mejora significativa en el manejo de tareas en clínicas veterinarias, logrando una mejor calidad del servicio a los clientes y sus mascotas, sin descuidar aspectos y prácticas relacionadas al cuidado de mascotas?
 
 #### 1.2.2.2. Lean UX Assumptions.
 
-El desarrollo de la aplicación Pet Nova se fundamenta en una serie de suposiciones clave que orientan tanto el diseño como la implementación del proyecto. Estas suposiciones surgen de una comprensión preliminar sobre las necesidades y dificultades de nuestros usuarios principales, así como de los objetivos que se esperan alcanzar a nivel empresarial. A lo largo del proceso, dichas suposiciones serán evaluadas y ajustadas mediante pruebas constantes y retroalimentación, con el fin de garantizar que la solución ofrecida cumpla con las expectativas y aborde de manera efectiva los retos identificados.
+Utilizamos el Business Assumptions Worksheet para facilitar el mapeo colaborativo de suposiciones. El objetivo es recopilar declaraciones que reflejen lo que pensamos sobre nuestros usuarios y el negocio, capturando diferentes perspectivas del equipo.
+
+**Business Assumptions Worksheet**
+
+**Business Assumptions:**
+
+1. Creo que mis clientes tienen una necesidad de **gestionar eficientemente las operaciones de clínicas veterinarias y acceder fácilmente a información médica de mascotas**.
+
+2. Estas necesidades pueden ser solucionadas con **una plataforma digital integral que centralice historiales médicos, programación de citas, control de inventarios y comunicación entre veterinarios y dueños**.
+
+3. Mis clientes iniciales son (o serán) **clínicas veterinarias de pequeña a mediana escala y dueños de mascotas tecnológicamente activos**.
+
+4. El valor #1 que un cliente quiere obtener de mi servicio es **reducir el tiempo dedicado a tareas administrativas y mejorar la calidad de atención veterinaria**.
+
+5. El cliente también puede obtener estos beneficios adicionales **acceso 24/7 a información médica de mascotas, alertas automáticas para vacunas y tratamientos, mejor comunicación veterinario-cliente**.
+
+6. Voy a adquirir la mayoría de mis clientes a través de **marketing digital dirigido a veterinarios, referencias profesionales y partnerships con proveedores de suministros veterinarios**.
+
+7. Haré dinero a través de **suscripciones mensuales/anuales por el uso de la plataforma, planes premium con funcionalidades avanzadas, y comisiones por venta de productos veterinarios**.
+
+8. Mi competencia principal en el mercado será **software veterinario tradicional como VetSuite, sistemas manuales en papel, y aplicaciones fragmentadas especializadas**.
+
+9. Los venceremos debido a **nuestra interfaz intuitiva, integración completa de funciones, acceso móvil optimizado, y enfoque centrado en la experiencia del usuario**.
+
+10. Mi mayor riesgo de producto es **la resistencia al cambio por parte de veterinarios acostumbrados a métodos tradicionales y la curva de aprendizaje para usuarios menos tecnológicos**.
+
+11. Resolveremos esto a través de **programas de capacitación personalizados, implementación gradual, soporte técnico dedicado, y demostración clara del retorno de inversión**.
+
+12. Otras suposiciones que tenemos que podrían resultar falsas **las clínicas veterinarias tienen presupuesto suficiente para invertir en nuevas tecnologías, los dueños de mascotas realmente valoran el acceso digital a historiales médicos, y las regulaciones permiten el almacenamiento digital de información veterinaria**.
+
+**User Assumptions:**
+
+1. **¿Quién es el usuario?**
+   Médicos veterinarios, personal administrativo de clínicas veterinarias, y dueños de mascotas que buscan gestionar activamente la salud de sus animales.
+
+2. **¿Dónde encaja nuestro producto en su trabajo o vida?**
+   Se integra en el flujo de trabajo diario de las clínicas durante consultas, administración y seguimiento, y en la rutina de cuidado de mascotas para los dueños.
+
+3. **¿Qué problemas tiene nuestro producto y cómo los resolvemos?**
+   Problema: Sistemas fragmentados y procesos manuales ineficientes. Solución: Plataforma unificada con automatización y acceso centralizado a toda la información.
+
+4. **¿Cuándo y cómo es usado nuestro producto?**
+   Durante consultas veterinarias, para programar citas, gestionar inventarios, generar reportes, y por dueños para consultar información de sus mascotas 24/7.
+
+5. **¿Qué características son importantes?**
+   Interfaz intuitiva y responsive, sincronización en tiempo real, seguridad de datos médicos, integración con sistemas existentes, y capacidades offline básicas.
+
+6. **¿Cómo debe verse y comportarse nuestro producto?**
+   Diseño limpio y profesional, navegación simple, tiempo de respuesta rápido, accesible desde múltiples dispositivos, y flujos de trabajo optimizados.
+
+**Priorización de Suposiciones:**
+
+Siguiendo la metodología Lean UX de Jeff Gothelf, priorizamos las suposiciones basándose en dos criterios fundamentales:
+- **Nivel de Riesgo:** ¿Qué tan perjudicial sería si estuviéramos equivocados sobre esta suposición?
+- **Nivel de Conocimiento:** ¿Qué tanto entendemos realmente sobre este aspecto?
+
+El objetivo es identificar aquellas suposiciones de alto riesgo y bajo conocimiento para validarlas primero a través de experimentos y pruebas con usuarios.
+
+**Suposiciones de Alta Prioridad (Alto Riesgo + Bajo Conocimiento):**
+1. Las clínicas veterinarias adoptarán una nueva plataforma digital si demuestra mejoras claras en eficiencia
+2. Los dueños de mascotas realmente valoran el acceso digital a historiales médicos de sus animales
+3. Las clínicas veterinarias tienen presupuesto suficiente para invertir en nuevas tecnologías
+4. Los veterinarios estarán dispuestos a cambiar sus procesos actuales por una solución integrada
+
+**Suposiciones de Prioridad Media (Riesgo Medio + Conocimiento Medio):**
+5. El retorno de inversión justifica el costo de implementación de la plataforma
+6. Los usuarios tienen las competencias digitales necesarias para usar la plataforma efectivamente
+7. Las regulaciones veterinarias permiten el almacenamiento digital de información médica
+8. La resistencia al cambio puede ser superada con capacitación adecuada
+
+**Suposiciones de Baja Prioridad (Bajo Riesgo + Alto Conocimiento):**
+9. Los usuarios prefieren interfaces intuitivas y fáciles de usar
+10. La comunicación mejorada entre veterinarios y dueños es valorada
+11. Los dispositivos móviles y tecnología web son accesibles para nuestros usuarios
+12. Los procesos manuales actuales son menos eficientes que las soluciones digitales
+
+*Estas suposiciones de alta prioridad serán las primeras en validarse mediante experimentos, entrevistas con usuarios y pruebas de concepto antes de proceder con el desarrollo completo de la plataforma.*
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 

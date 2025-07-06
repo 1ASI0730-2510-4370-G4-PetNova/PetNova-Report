@@ -910,7 +910,8 @@ Anexo: Tablas de commits en el periodo de 1 mes.
       Belahonia Miranda, Fabrisio<br>
       Choquehuanca Núñez, Luciana Carolina<br>
       Escobar Palomino, Sebastian Matias<br>
-      Prado Vargas, Mario Benjamín
+      Prado Vargas, Mario Benjamín<br>
+      Nanfuñay Liza, Pedro Jesús
     </td>
   </tr>
   <tr>
@@ -947,6 +948,7 @@ Anexo: Tablas de commits en el periodo de 1 mes.
 | **Choquehuanca Núñez, Luciana Carolina** | lucianxaaa          | C                                  | C                                                          | L                                                  | C                                     | C                                                                     |
 | **Prado Vargas, Mario Benjamín**         | mariopvdev          | C                                  | C                                                          | C                                                  | L                                     | C                                                                     |
 | **Escobar Palomino, Sebastian Matias**   | sebasepe            | C                                  | C                                                          | C                                                  | C                                     | L                                                                     |
+| **Nanfuñay Liza, Pedro Jesús**   | PedroJ18           | C                                  | L                                                          | C                                                  | C                                     | C                                                                     |
 
 #### 5.2.2.3. Sprint Backlog 4
 

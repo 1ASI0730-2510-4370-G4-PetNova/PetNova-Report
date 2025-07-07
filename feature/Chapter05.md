@@ -930,7 +930,7 @@ Anexo: Tablas de commits en el periodo de 1 mes.
     <td> Concluir la implementación de funcionalidades esenciales tanto en el backend como en el frontend del sistema Pet Nova, centrándose en la gestión y edición de perfiles de mascotas y usuarios, con validaciones precisas y una experiencia visual coherente. Se completarán tareas de búsqueda, registros y mejoras de formularios, fortaleciendo la lógica de negocio en el backend y refinando la interfaz visual en el frontend. Asimismo, se ajustarán detalles en la landing page, incluyendo mejoras gráficas y la correcta integración de los videos “About the Team” y “About the Project”. Este sprint permitirá consolidar una versión robusta, funcional y presentable del sistema. </td>
   </tr>
   <tr>
-    <td style="font-weight: bold;"> Sprint 3 Velocity </td>
+    <td style="font-weight: bold;"> Sprint 4 Velocity </td>
     <td> <strong>8</strong><br> El equipo mantiene una capacidad de 8 Story Points para este Sprint, consistente con Sprint 3, considerando la experiencia adquirida y la carga de trabajo estimada. </td>
   </tr>
   <tr>
@@ -939,7 +939,7 @@ Anexo: Tablas de commits en el periodo de 1 mes.
   </tr>
 </table>
 
-#### 5.2.2.2. Aspect Leaders and Collaborators
+#### 5.2.4.2. Aspect Leaders and Collaborators
 
 | **Team Member (Last Name, First Name)**  | **GitHub Username** | **Capítulo I: Introducción (L/C)** | **Capítulo II: Requirements Elicitation & Analysis (L/C)** | **Capítulo III: Requirements Specification (L/C)** | **Capítulo IV: Product Design (L/C)** | **Capítulo V: Product Implementation, Validation & Deployment (L/C)** |
 | ---------------------------------------- | ------------------- | ---------------------------------- | ---------------------------------------------------------- | -------------------------------------------------- | ------------------------------------- | --------------------------------------------------------------------- |
@@ -950,13 +950,10 @@ Anexo: Tablas de commits en el periodo de 1 mes.
 | **Escobar Palomino, Sebastian Matias**   | sebasepe            | C                                  | C                                                          | C                                                  | C                                     | L                                                                     |
 | **Nanfuñay Liza, Pedro Jesús**   | PedroJ18           | C                                  | L                                                          | C                                                  | C                                     | C                                                                     |
 
-#### 5.2.2.3. Sprint Backlog 4
+#### 5.2.4.3. Sprint Backlog 4
 
 En el segundo sprint, el equipo se enfocó en iniciar el desarrollo de la Web Application de Pet Nova, implementando funcionalidades esenciales para la autenticación de usuarios, gestión de perfiles, registro de mascotas y notificaciones. Las tareas se asignaron según las habilidades de cada miembro.
 
-#### **5.2.1.4. Sprint Backlog 4**
-
-En el segundo sprint, el equipo centró su desarrollo en funcionalidades esenciales como el registro e inicio de sesión, gestión de perfil y mascotas, así como el sistema de notificaciones. Cada historia de usuario fue dividida en tareas específicas para mejorar la organización y seguimiento del trabajo.
 
 | ID   | Title                         | Tarea | Description                                    | Estimations(Hours) | Assigned To                          | Status     | Total US Hours |
 |------|-------------------------------|-------|------------------------------------------------|---------------------|--------------------------------------|------------|----------------|
@@ -982,11 +979,16 @@ En el segundo sprint, el equipo centró su desarrollo en funcionalidades esencia
 |      |                               | TS32  | Ajustar alineación y visibilidad de etiquetas y campos             | 4                   | Escobar Palomino, Sebastian Matias   | DONE       | **9**          |
 
 
-![sprint_4](./assets/Chapter05/sprint_4.png)
+![sprint_4](./assets/Chapter05/trello.png)
 
-Enlace trello para mejor visualización del segumiento de cada sprint: []()
+Enlace trello para mejor visualización del segumiento de cada sprint: [https://trello.com/b/KBnNSbnC/app](https://trello.com/b/KBnNSbnC/app)
 
 #### 5.2.2.4. Development Evidence for Sprint Review
+
+![](./assets/Chapter05/Development%20Evidence1.jpeg)
+![](./assets/Chapter05/Development%20Evidence2.jpeg)
+
+
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 

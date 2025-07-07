@@ -585,10 +585,6 @@ Los diagramas de componentes proporcionan una vista detallada de la arquitectura
 
 ![](assets/Chapter04/IAM.jpeg) 
 
-### Stock Management Bounded Context
-
-![](assets/Chapter04/BOUNDED_3.png) 
-
 ### Appointments Bounded Context
 
 ![](assets/Chapter04/Appoint.jpeg) 

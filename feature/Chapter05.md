@@ -1000,6 +1000,19 @@ En el Sprint 4 se realizaron mejoras en el desarrollo de la Web Application de P
 
 Para el desarrollo de la Web Application en este sprint, se utilizaron herramientas clave como Visual Studio Code para la escritura de código, Git para el control de versiones, y GitHub para la gestión de ramas y pull requests. Las funcionalidades de la Web App, como el registro e inicio de sesión, gestión de perfiles, registro de mascotas y notificaciones, se dividieron en tareas específicas asignadas a cada miembro del equipo según sus habilidades. Un integrante se encargó de integrar las contribuciones individuales, asegurando la cohesión del producto final.
 
+**Frontend:**
+
+<img src="./assets/Chapter05/Insight13.jpg">
+<img src="./assets/Chapter05/Insight14.jpg">
+<img src="./assets/Chapter05/Insight15.jpg">
+
+**Backend:**
+
+<img src="./assets/Chapter05/Insight10.jpg">
+<img src="./assets/Chapter05/Insight11.jpg">
+<img src="./assets/Chapter05/Insight12.jpg">
+
+
 ### **5.3. Validation Interviews**
 
 #### **5.3.1. Diseño de Entrevistas**

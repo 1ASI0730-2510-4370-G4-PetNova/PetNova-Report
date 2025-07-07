@@ -583,7 +583,7 @@ Los diagramas de componentes proporcionan una vista detallada de la arquitectura
 
 ### IAM Bounded Context
 
-![](assets/Chapter04/IAM.jpeg) 
+![](assets/Chapter04/IMG_IAM.png) 
 
 ### Appointments Bounded Context
 

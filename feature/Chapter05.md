@@ -988,12 +988,12 @@ Enlace trello para mejor visualización del segumiento de cada sprint: [https://
 
 | Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
 |:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
-| [PetNova <br>Backend](https://github.com/UPC-PRE-SI729-2402-WX51-G4-Aceitunitas/Pawfect-Care-Report) | main | b342095| Create index.html |  | 06/07/2025 |
-| Backend | feat/section-home | e352819| feat: added/section-home |  | 06/07/2025 |
-| Backend | feat/section-subscription | 5e84a90 | feat: added Section subscription |  | 06/07/2025 |
-| Backend | feat/section-subscription | faf615f | feat: complete Section subscription |  | 06/07/2025|
-| Backend | feat/section-review | 2b26403 | Add: feat: added contact, review and footer |  | 06/07/2025 |
-| Backend | feat/section-typography | a1fe77e | feat: typography changed |  | 06/07/2025 |
+| [PetNova <br>Backend](https://github.com/1ASI0730-2510-4370-G4-PetNova/PetNova-FinalFinal) | main | b342095| Create index.html |  | 06/07/2025 |
+| Backend | feat/backendpetnova | e352819| feat: added/section-home |  | 06/07/2025 |
+| Backend | feat/backendpetnova | 5e84a90 | feat: added Section subscription |  | 06/07/2025 |
+| Backend | feat/backendpetnova | faf615f | feat: complete Section subscription |  | 06/07/2025|
+| Backend | feat/backendpetnova | 2b26403 | Add: feat: added contact, review and footer |  | 06/07/2025 |
+| Backend | feat/backendpetnova | a1fe77e | feat: typography changed |  | 06/07/2025 |
 | Backend | main| 2f9452b | feat: landing page deployment|  | 06/07/2025 |
 
 

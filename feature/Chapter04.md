@@ -587,7 +587,7 @@ Los diagramas de componentes proporcionan una vista detallada de la arquitectura
 
 ### Appointments Bounded Context
 
-![](assets/Chapter04/Appoint.jpeg) 
+![](assets/Chapter04/FINAL_APPOINTMENT.png) 
 
 ### Pets Bounded Context
 
@@ -597,6 +597,9 @@ Los diagramas de componentes proporcionan una vista detallada de la arquitectura
 
 ![](./assets/Chapter04/dbc.jpeg) 
 
+### Client Bounded Context
+
+![](./assets/Chapter04/client.png) 
 
 
 ## 4.7. Software Object-Oriented Design

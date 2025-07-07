@@ -983,22 +983,44 @@ En el segundo sprint, el equipo se enfocó en iniciar el desarrollo de la Web Ap
 
 Enlace trello para mejor visualización del segumiento de cada sprint: [https://trello.com/b/KBnNSbnC/app](https://trello.com/b/KBnNSbnC/app)
 
-#### 5.2.2.4. Development Evidence for Sprint Review
+#### 5.2.4.4. Development Evidence for Sprint Review
+
+
+| Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
+|:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
+| [PetNova <br>Backend](https://github.com/UPC-PRE-SI729-2402-WX51-G4-Aceitunitas/Pawfect-Care-Report) | main | b342095| Create index.html |  | 06/07/2025 |
+| Backend | feat/section-home | e352819| feat: added/section-home |  | 06/07/2025 |
+| Backend | feat/section-subscription | 5e84a90 | feat: added Section subscription |  | 06/07/2025 |
+| Backend | feat/section-subscription | faf615f | feat: complete Section subscription |  | 06/07/2025|
+| Backend | feat/section-review | 2b26403 | Add: feat: added contact, review and footer |  | 06/07/2025 |
+| Backend | feat/section-typography | a1fe77e | feat: typography changed |  | 06/07/2025 |
+| Backend | main| 2f9452b | feat: landing page deployment|  | 06/07/2025 |
+
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+En el Sprint 4 se realizaron mejoras en el desarrollo de la Web Application de Pet Nova, implementando funcionalidades esenciales como el registro e inicio de sesión de usuarios, la gestión de perfiles, el registro de mascotas. Estas funcionalidades permiten a los usuarios (veterinarios y dueños de mascotas) interactuar con la plataforma de manera inicial, facilitando la autenticación y la gestión de datos básicos. A continuación, se muestran las evidencias.
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante este sprint, el equipo de Pet Nova se enfocó en integrar y desplegar los Bounded Contexts de clientes y mascotas en el backend, asegurando que el frontend interactúe correctamente con la API. Además, se actualizó y amplió la documentación de los servicios web utilizando Swagger, ofreciendo una guía clara y detallada para el uso de la API, tanto para el equipo de frontend como para futuros desarrolladores.
+
+La documentación abarca:
+
+Una explicación detallada de los endpoints asociados a clientes y mascotas.
+
+Las operaciones disponibles, como creación, edición y eliminación de datos en estos módulos.
+
+Ejemplos actualizados de solicitudes y respuestas para garantizar una integración fluida con el frontend.
+
+Detalles sobre las medidas de seguridad y autenticación implementadas en el backend.
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
 ![](./assets/Chapter05/Development%20Evidence1.jpeg)
 ![](./assets/Chapter05/Development%20Evidence2.jpeg)
 
-
-
-#### 5.2.2.5. Execution Evidence for Sprint Review
-
-En el Sprint 4 se realizaron mejoras en el desarrollo de la Web Application de Pet Nova, implementando funcionalidades esenciales como el registro e inicio de sesión de usuarios, la gestión de perfiles, el registro de mascotas. Estas funcionalidades permiten a los usuarios (veterinarios y dueños de mascotas) interactuar con la plataforma de manera inicial, facilitando la autenticación y la gestión de datos básicos. A continuación, se muestran las evidencias.
-
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review
-
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review
-
-#### 5.2.2.8. Team Collaboration Insights during Sprint
+#### 5.2.4.8. Team Collaboration Insights during Sprint
 
 Para el desarrollo de la Web Application en este sprint, se utilizaron herramientas clave como Visual Studio Code para la escritura de código, Git para el control de versiones, y GitHub para la gestión de ramas y pull requests. Las funcionalidades de la Web App, como el registro e inicio de sesión, gestión de perfiles, registro de mascotas y notificaciones, se dividieron en tareas específicas asignadas a cada miembro del equipo según sus habilidades. Un integrante se encargó de integrar las contribuciones individuales, asegurando la cohesión del producto final.
 
